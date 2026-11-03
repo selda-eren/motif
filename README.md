@@ -20,9 +20,9 @@ replay every model run without a Meta API key and without making any API calls.*
 ## Architecture: Process Once, Explore Many Times
 
 ```mermaid
-flowchart TD
-    A["Book text<br/>Provided by developer or publisher"]
-    B["MORe + Meta Muse Spark 1.3<br/>Incremental processing and meaning construction"]
+flowchart LR
+    A["Book text<br/>Provided by developer<br/>or publisher"]
+    B["MORe + Meta Muse Spark 1.3<br/>Incremental processing<br/>and meaning construction"]
     C["Persistent book representation<br/>Relationships · Revisions · Evidence"]
     D["MOTIF Reader<br/>Journey of Ideas · The Weave"]
 
