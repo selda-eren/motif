@@ -2,7 +2,7 @@
 
 **See how the meaning of a book changes as you read it.**
 
-**MOTIF transforms books into explorable landscapes of ideas.** Its underlying engine, MORe (Meaning-Oriented
+MOTIF transforms books into explorable landscapes of ideas. Its underlying engine, MORe (Meaning-Oriented
 Representation), processes texts passage by passage, building a persistent representation of how ideas connect,
 develop, and acquire new meanings. Readers can then explore these relationships through the Journey of Ideas and The
 Weave, with every connection linked to its original textual evidence.
