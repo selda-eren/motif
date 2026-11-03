@@ -2,14 +2,13 @@
 
 **See how the meaning of a book changes as you read it.**
 
-MOTIF (Meaning-Oriented Text Interrelationship Framework) reads a text passage by passage, in order, and builds a
-persistent memory of its ideas: what each passage says, how it connects to what came before, which earlier readings it
-revises, and which larger meanings emerge from several moments together. Every link stays tied to the exact words in the
-text that support it.
+**MOTIF transforms books into explorable landscapes of ideas.** Its underlying engine, MORe (Meaning-Oriented
+Representation), processes texts passage by passage, building a persistent representation of how ideas connect,
+develop, and acquire new meanings. Readers can then explore these relationships through the Journey of Ideas and The
+Weave, with every connection linked to its original textual evidence.
 
-The memory is called **MORe** (Meaning-Oriented Representation), and MORe is also the name of the engine that builds
-it. The language model is Meta's **Muse Spark 1.3**, accessed through the Meta Model API. MOTIF and MORe were built for
-the Meta Global AI Developer Hackathon.
+MOTIF (Meaning-Oriented Text Interrelationship Framework) and MORe were developed for the Meta Global AI Developer
+Hackathon using Meta's **Muse Spark 1.3**, accessed through the Meta Model API.
 
 The repository contains the saved Muse Spark 1.3 results for three texts: Plato's *Allegory of the Cave*, O. Henry's
 *The Gift of the Magi* and H. G. Wells's complete *The Time Machine*. **You can run the app, explore the results and
