@@ -19,11 +19,24 @@ replay every model run without a Meta API key and without making any API calls.*
 
 ## Architecture: Process Once, Explore Many Times
 
-```
-Book text ──▶ MORe + Muse Spark 1.3 ──▶ Stored representation ──▶ MOTIF reader
-              preprocessing, run once        units, relations, revisions,      Journey and The Weave,
-              per book by a developer        constructed meanings, Journey,    explored by readers with
-              or publisher                   evidence (SQLite)                 no LLM calls
+```mermaid
+flowchart TD
+    A["Book text<br/>Provided by developer or publisher"]
+    B["MORe + Meta Muse Spark 1.3<br/>Incremental processing and meaning construction"]
+    C["Persistent book representation<br/>Relationships · Revisions · Evidence"]
+    D["MOTIF Reader<br/>Journey of Ideas · The Weave"]
+
+    A --> B
+    B --> C
+    C --> D
+
+    classDef process fill:#e8e4f2,stroke:#9686b2,color:#292436
+    classDef storage fill:#f5ebda,stroke:#b39a70,color:#292436
+    classDef reader fill:#dcece4,stroke:#6c9881,color:#23352a
+
+    class B process
+    class C storage
+    class D reader
 ```
 
 MOTIF is designed around **processing books ahead of time, on the server side**, not around readers uploading books.
