@@ -1,0 +1,3354 @@
+[
+ {
+  "earlier": "u13_2",
+  "later": "u83_1",
+  "relation": {
+   "id": "r83_1",
+   "source": "u83_1",
+   "target": "u13_2",
+   "type": "CONTRADICTS",
+   "rationale": "Traveller doubting his memory says he fears his journey was only a dream, which denies True Despite Lying which insists the story is true every word.",
+   "confidence": 0.85,
+   "created_at": 83,
+   "layer": "interpretation",
+   "rationale_raw": "Traveller doubting his memory says he fears his journey was only a dream, which denies True Despite Lying which insists the story is true every word."
+  },
+  "source": {
+   "id": "u83_1",
+   "kind": "situation",
+   "label": "Traveller doubting his memory",
+   "content": "The Traveller feels ordinary reality overwhelming his memory and fears his journey was only a dream.",
+   "participants": [
+    "Time Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 83,
+   "last_active_at": 83,
+   "evidence": [
+    {
+     "passage": 83,
+     "quote": "Did I ever make a Time Machine,\nor a model of a Time Machine?",
+     "start": 326,
+     "end": 387
+    }
+   ]
+  },
+  "target": {
+   "id": "u13_2",
+   "kind": "claim",
+   "label": "True Despite Lying",
+   "content": "Most of the Time Traveller's story will sound like lying but is true in every word.",
+   "participants": [
+    "Time Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 0.96,
+   "status": "contested",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 13,
+   "last_active_at": 13,
+   "evidence": [
+    {
+     "passage": 13,
+     "quote": "Most of it will sound like lying. So be it! It’s\ntrue—every word of it, all the same",
+     "start": 422,
+     "end": 506
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 83,
+    "quote": "Did I ever make a Time Machine,\nor a model of a Time Machine?",
+    "before": " eluded him. “They were put into my\npocket by Weena, when I travelled into Time.” He stared round the room.\n“I’m damned if it isn’t all going. This room and you and the atmosphere\nof every day is too much for my memory. ",
+    "after": " Or is it all only a dream? They say life\nis a dream, a precious poor dream at times—but I can’t stand another\nthat won’t fit. It’s madness. And where did the dream come from? … I\nmust look at that machine. If there is o"
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 13,
+    "quote": "Most of it will sound like lying. So be it! It’s\ntrue—every word of it, all the same",
+    "before": " argue tonight. I don’t mind telling you the story, but I can’t\nargue. I will,” he went on, “tell you the story of what has happened to\nme, if you like, but you must refrain from interruptions. I want to\ntell it. Badly. ",
+    "after": ". I was in my laboratory at four\no’clock, and since then … I’ve lived eight days … such days as no human\nbeing ever lived before! I’m nearly worn out, but I shan’t sleep till\nI’ve told this thing over to you. Then I shal"
+   }
+  ],
+  "score": 47.175
+ },
+ {
+  "earlier": "u13_2",
+  "later": "u82_2",
+  "relation": {
+   "id": "r82_3",
+   "source": "u82_2",
+   "target": "u13_2",
+   "type": "CONTRADICTS",
+   "rationale": "Editor dismisses tale treats the account as fiction fit for a story-writer, while True Despite Lying insists the story sounds like lying but is true in every word; dismissal opposes the truth claim.",
+   "confidence": 0.85,
+   "created_at": 82,
+   "layer": "interpretation",
+   "rationale_raw": "Editor dismisses tale treats the account as fiction fit for a story-writer, while True Despite Lying insists the story sounds like lying but is true in every word; dismissal opposes the truth claim."
+  },
+  "source": {
+   "id": "u82_2",
+   "kind": "claim",
+   "label": "Editor dismisses tale",
+   "content": "The Editor treats the account as fiction fit for a story-writer.",
+   "participants": [
+    "Editor",
+    "Time Traveller"
+   ],
+   "layer": "interpretation",
+   "confidence": 0.85,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 82,
+   "last_active_at": 82,
+   "evidence": [
+    {
+     "passage": 82,
+     "quote": "What a pity it is you’re not a writer\nof stories!” he said, putting his hand on the Time Traveller’s\nshoulder",
+     "start": 613,
+     "end": 722
+    }
+   ]
+  },
+  "target": {
+   "id": "u13_2",
+   "kind": "claim",
+   "label": "True Despite Lying",
+   "content": "Most of the Time Traveller's story will sound like lying but is true in every word.",
+   "participants": [
+    "Time Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 0.96,
+   "status": "contested",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 13,
+   "last_active_at": 13,
+   "evidence": [
+    {
+     "passage": 13,
+     "quote": "Most of it will sound like lying. So be it! It’s\ntrue—every word of it, all the same",
+     "start": 422,
+     "end": 506
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 82,
+    "quote": "What a pity it is you’re not a writer\nof stories!” he said, putting his hand on the Time Traveller’s\nshoulder",
+    "before": "n the contemplation of\nour host. The Editor was looking hard at the end of his cigar—the\nsixth. The Journalist fumbled for his watch. The others, as far as I\nremember, were motionless.\n\nThe Editor stood up with a sigh. “",
+    "after": ".\n\n“You don’t believe it?”\n\n“Well——”\n\n“I thought not.”\n\nThe Time Traveller turned to us. “Where are the matches?” he said. He\nlit one and spoke over his pipe, puffing. “To tell you the truth... I\nhardly believe it myself"
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 13,
+    "quote": "Most of it will sound like lying. So be it! It’s\ntrue—every word of it, all the same",
+    "before": " argue tonight. I don’t mind telling you the story, but I can’t\nargue. I will,” he went on, “tell you the story of what has happened to\nme, if you like, but you must refrain from interruptions. I want to\ntell it. Badly. ",
+    "after": ". I was in my laboratory at four\no’clock, and since then … I’ve lived eight days … such days as no human\nbeing ever lived before! I’m nearly worn out, but I shan’t sleep till\nI’ve told this thing over to you. Then I shal"
+   }
+  ],
+  "score": 46.537
+ },
+ {
+  "earlier": "u11_3",
+  "later": "u83_5",
+  "relation": {
+   "id": "r83_8",
+   "source": "u83_5",
+   "target": "u11_3",
+   "type": "CONTRADICTS",
+   "rationale": "Laughing midnight farewell says the party settles on an overwork diagnosis with laughter, which opposes Time Machine Explanation which assures the guests that the Time Machine business explains the Traveller's state.",
+   "confidence": 0.75,
+   "created_at": 83,
+   "layer": "interpretation",
+   "rationale_raw": "Laughing midnight farewell says the party settles on an overwork diagnosis with laughter, which opposes Time Machine Explanation which assures the guests that the Time Machine business explains the Traveller's state."
+  },
+  "source": {
+   "id": "u83_5",
+   "kind": "event",
+   "label": "Laughing midnight farewell",
+   "content": "The party breaks up with an overwork diagnosis, laughter, and the Traveller shouting good-night from the doorway.",
+   "participants": [
+    "Time Traveller",
+    "Medical Man",
+    "Editor",
+    "narrator"
+   ],
+   "layer": "observation",
+   "confidence": 0.97,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 83,
+   "last_active_at": 83,
+   "evidence": [
+    {
+     "passage": 83,
+     "quote": "I\nremember him standing in the open doorway, bawling good-night",
+     "start": 1575,
+     "end": 1638
+    }
+   ]
+  },
+  "target": {
+   "id": "u11_3",
+   "kind": "claim",
+   "label": "Time Machine Explanation",
+   "content": "The narrator assures the guests that the business of the Time Machine explains the Traveller's state.",
+   "participants": [
+    "Narrator"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "contested",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 11,
+   "last_active_at": 11,
+   "evidence": [
+    {
+     "passage": 11,
+     "quote": "I feel assured it’s this business\nof the Time Machine,” I said",
+     "start": 1425,
+     "end": 1487
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 83,
+    "quote": "I\nremember him standing in the open doorway, bawling good-night",
+    "before": "king-room.\n\nHe came into the hall with us and helped the Editor on with his coat.\nThe Medical Man looked into his face and, with a certain hesitation,\ntold him he was suffering from overwork, at which he laughed hugely. ",
+    "after": "."
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 11,
+    "quote": "I feel assured it’s this business\nof the Time Machine,” I said",
+    "before": "s exclamatory for a little while with gaps of\nwonderment; and then the Editor got fervent in his curiosity. “Does our\nfriend eke out his modest income with a crossing? or has he his\nNebuchadnezzar phases?” he inquired. “",
+    "after": ", and took up the Psychologist’s account of\nour previous meeting. The new guests were frankly incredulous. The\nEditor raised objections. “What _was_ this time travelling? A man\ncouldn’t cover himself with dust by rolling"
+   }
+  ],
+  "score": 42.75
+ },
+ {
+  "earlier": "u13_2",
+  "later": "u83_4",
+  "relation": {
+   "id": "r83_5",
+   "source": "u83_4",
+   "target": "u13_2",
+   "type": "REFINES",
+   "rationale": "Story affirmed as true declares after touching the rail that the told story was true, developing True Despite Lying which promised beforehand that the story would sound like lying but was true.",
+   "confidence": 0.9,
+   "created_at": 83,
+   "layer": "interpretation",
+   "rationale_raw": "Story affirmed as true declares after touching the rail that the told story was true, developing True Despite Lying which promised beforehand that the story would sound like lying but was true."
+  },
+  "source": {
+   "id": "u83_4",
+   "kind": "claim",
+   "label": "Story affirmed as true",
+   "content": "After touching the damaged rail the Traveller declares that the story he told was true.",
+   "participants": [
+    "Time Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 0.96,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 83,
+   "last_active_at": 83,
+   "evidence": [
+    {
+     "passage": 83,
+     "quote": "It’s all right now,” he said. “The story I\ntold you was true",
+     "start": 1168,
+     "end": 1228
+    }
+   ]
+  },
+  "target": {
+   "id": "u13_2",
+   "kind": "claim",
+   "label": "True Despite Lying",
+   "content": "Most of the Time Traveller's story will sound like lying but is true in every word.",
+   "participants": [
+    "Time Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 0.96,
+   "status": "contested",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 13,
+   "last_active_at": 13,
+   "evidence": [
+    {
+     "passage": 13,
+     "quote": "Most of it will sound like lying. So be it! It’s\ntrue—every word of it, all the same",
+     "start": 422,
+     "end": 506
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 83,
+    "quote": "It’s all right now,” he said. “The story I\ntold you was true",
+    "before": "f it—and with\nbrown spots and smears upon the ivory, and bits of grass and moss upon\nthe lower parts, and one rail bent awry.\n\nThe Time Traveller put the lamp down on the bench, and ran his hand\nalong the damaged rail. “",
+    "after": ". I’m sorry to have brought you out here in the cold.”\nHe took up the lamp, and, in an absolute silence, we returned to the\nsmoking-room.\n\nHe came into the hall with us and helped the Editor on with his coat.\nThe Medical"
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 13,
+    "quote": "Most of it will sound like lying. So be it! It’s\ntrue—every word of it, all the same",
+    "before": " argue tonight. I don’t mind telling you the story, but I can’t\nargue. I will,” he went on, “tell you the story of what has happened to\nme, if you like, but you must refrain from interruptions. I want to\ntell it. Badly. ",
+    "after": ". I was in my laboratory at four\no’clock, and since then … I’ve lived eight days … such days as no human\nbeing ever lived before! I’m nearly worn out, but I shan’t sleep till\nI’ve told this thing over to you. Then I shal"
+   }
+  ],
+  "score": 33.3
+ },
+ {
+  "earlier": "u14_1",
+  "later": "u83_3",
+  "relation": {
+   "id": "r83_3",
+   "source": "u83_3",
+   "target": "u14_1",
+   "type": "REFINES",
+   "rationale": "Solid travel-stained machine describes brown spots, grass, moss and a bent rail as tangible marks, making more precise Worn Completed Machine which described cracked ivory and bent brass as travel-worn.",
+   "confidence": 0.9,
+   "created_at": 83,
+   "layer": "interpretation",
+   "rationale_raw": "Solid travel-stained machine describes brown spots, grass, moss and a bent rail as tangible marks, making more precise Worn Completed Machine which described cracked ivory and bent brass as travel-worn."
+  },
+  "source": {
+   "id": "u83_3",
+   "kind": "entity",
+   "label": "Solid travel-stained machine",
+   "content": "The machine is physically present, solid and touchable, marked by stains, grass, moss, and a bent rail.",
+   "participants": [],
+   "layer": "observation",
+   "confidence": 0.98,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 83,
+   "last_active_at": 83,
+   "evidence": [
+    {
+     "passage": 83,
+     "quote": "with\nbrown spots and smears upon the ivory, and bits of grass and moss upon\nthe lower parts, and one rail bent awry",
+     "start": 957,
+     "end": 1072
+    }
+   ]
+  },
+  "target": {
+   "id": "u14_1",
+   "kind": "entity",
+   "label": "Worn Completed Machine",
+   "content": "The completed Time Machine stands before them visibly travel-worn with cracked ivory and bent brass.",
+   "participants": [
+    "Time Traveller",
+    "Time Machine"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 14,
+   "last_active_at": 14,
+   "evidence": [
+    {
+     "passage": 14,
+     "quote": "ivory bars is cracked, and a brass rail bent; but the rest of it’s",
+     "start": 202,
+     "end": 268
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 83,
+    "quote": "with\nbrown spots and smears upon the ivory, and bits of grass and moss upon\nthe lower parts, and one rail bent awry",
+    "before": "e flickering light\nof the lamp was the machine sure enough, squat, ugly, and askew, a\nthing of brass, ebony, ivory, and translucent glimmering quartz. Solid\nto the touch—for I put out my hand and felt the rail of it—and ",
+    "after": ".\n\nThe Time Traveller put the lamp down on the bench, and ran his hand\nalong the damaged rail. “It’s all right now,” he said. “The story I\ntold you was true. I’m sorry to have brought you out here in the cold.”\nHe took u"
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 14,
+    "quote": "ivory bars is cracked, and a brass rail bent; but the rest of it’s",
+    "before": "“I told some of you last Thursday of the principles of the Time\nMachine, and showed you the actual thing itself, incomplete in the\nworkshop. There it is now, a little travel-worn, truly; and one of the\n",
+    "after": "\nsound enough. I expected to finish it on Friday; but on Friday, when\nthe putting together was nearly done, I found that one of the nickel\nbars was exactly one inch too short, and this I had to get remade; so\nthat the th"
+   }
+  ],
+  "score": 32.85
+ },
+ {
+  "earlier": "u07_2",
+  "later": "u84_3",
+  "relation": {
+   "id": "r84_4",
+   "source": "u84_3",
+   "target": "u07_2",
+   "type": "REFINES",
+   "rationale": "The new swaying vision describes the mass as squat substantial-looking yet swaying like a wind-shaken bough, while the earlier large machine presents it as a big nearly finished machine for journeying; the new sight qualifies its solidity as mere appearance.",
+   "confidence": 0.8,
+   "created_at": 84,
+   "layer": "interpretation",
+   "rationale_raw": "The new swaying vision describes the mass as squat substantial-looking yet swaying like a wind-shaken bough, while the earlier large machine presents it as a big nearly finished machine for journeying; the new sight qualifies its solidity as mere appearance."
+  },
+  "source": {
+   "id": "u84_3",
+   "kind": "image",
+   "label": "Swaying Machine Vision",
+   "content": "The squat substantial-looking mass sways unsteadily like a wind-shaken bough.",
+   "participants": [
+    "Time Machine"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 84,
+   "last_active_at": 84,
+   "evidence": [
+    {
+     "passage": 84,
+     "quote": "At that the squat\nsubstantial-looking mass swayed like a bough shaken by the wind",
+     "start": 524,
+     "end": 605
+    }
+   ]
+  },
+  "target": {
+   "id": "u07_2",
+   "kind": "entity",
+   "label": "Large unfinished time machine",
+   "content": "The Time Traveller reveals a nearly finished big machine in the laboratory for his own journey.",
+   "participants": [
+    "Time Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 0.98,
+   "status": "active",
+   "reading": null,
+   "state": "The Large unfinished time machine is no longer resting in the laboratory but has vanished with the Time Traveller.",
+   "other_readings": [],
+   "introduced_at": 7,
+   "last_active_at": 85,
+   "evidence": [
+    {
+     "passage": 7,
+     "quote": "a big machine nearly finished in there",
+     "start": 441,
+     "end": 479
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 84,
+    "quote": "At that the squat\nsubstantial-looking mass swayed like a bough shaken by the wind",
+    "before": "gain. I was told he was in the laboratory,\nand being on easy terms in the house, I went up to him. The laboratory,\nhowever, was empty. I stared for a minute at the Time Machine and put\nout my hand and touched the lever. ",
+    "after": ". Its\ninstability startled me extremely, and I had a queer reminiscence of\nthe childish days when I used to be forbidden to meddle. I came back\nthrough the corridor. The Time Traveller met me in the smoking-room. He\nwas "
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 7,
+    "quote": "a big machine nearly finished in there",
+    "before": "pill at the\nfire. Then he turned, lighting his pipe, to look at the Psychologist’s\nface. (The Psychologist, to show that he was not unhinged, helped\nhimself to a cigar and tried to light it uncut.) “What is more, I have\n",
+    "after": "”—he indicated the\nlaboratory—“and when that is put together I mean to have a journey on\nmy own account.”\n\n“You mean to say that that machine has travelled into the future?” said\nFilby.\n\n“Into the future or the past—I do"
+   }
+  ],
+  "score": 32.4
+ },
+ {
+  "earlier": "u12_2",
+  "later": "u84_5",
+  "relation": {
+   "id": "r84_7",
+   "source": "u84_5",
+   "target": "u12_2",
+   "type": "REFINES",
+   "rationale": "The new promise offers to prove time travelling up to the hilt with specimens at lunch, while the earlier confirmation records only the Traveller answering yes when asked if he had travelled; the new offer develops the bare yes into a full evidential pledge.",
+   "confidence": 0.85,
+   "created_at": 84,
+   "layer": "interpretation",
+   "rationale_raw": "The new promise offers to prove time travelling up to the hilt with specimens at lunch, while the earlier confirmation records only the Traveller answering yes when asked if he had travelled; the new offer develops the bare yes into a full evidential pledge."
+  },
+  "source": {
+   "id": "u84_5",
+   "kind": "claim",
+   "label": "Promise of Proof",
+   "content": "The Traveller promises to prove time travelling completely with specimens if the narrator stays to lunch.",
+   "participants": [
+    "Time Traveller",
+    "Narrator"
+   ],
+   "layer": "observation",
+   "confidence": 0.96,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 84,
+   "last_active_at": 84,
+   "evidence": [
+    {
+     "passage": 84,
+     "quote": "If you’ll stop to lunch I’ll prove you this time\ntravelling up to the hilt, specimens and all",
+     "start": 1335,
+     "end": 1428
+    }
+   ]
+  },
+  "target": {
+   "id": "u12_2",
+   "kind": "claim",
+   "label": "Confirmation of time travel",
+   "content": "The Time Traveller answers yes when asked if he has been time travelling.",
+   "participants": [
+    "Time Traveller",
+    "narrator"
+   ],
+   "layer": "observation",
+   "confidence": 0.98,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 12,
+   "last_active_at": 12,
+   "evidence": [
+    {
+     "passage": 12,
+     "quote": "Yes,” said the Time Traveller, with his mouth full, nodding his head",
+     "start": 623,
+     "end": 691
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 84,
+    "quote": "If you’ll stop to lunch I’ll prove you this time\ntravelling up to the hilt, specimens and all",
+    "before": "y and truly I do.” And he looked frankly into my eyes. He\nhesitated. His eye wandered about the room. “I only want half an hour,”\nhe said. “I know why you came, and it’s awfully good of you. There’s\nsome magazines here. ",
+    "after": ". If you’ll forgive my\nleaving you now?”\n\nI consented, hardly comprehending then the full import of his words,\nand he nodded and went on down the corridor. I heard the door of the\nlaboratory slam, seated myself in a chai"
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 12,
+    "quote": "Yes,” said the Time Traveller, with his mouth full, nodding his head",
+    "before": "Editor.\n\n“Story be damned!” said the Time Traveller. “I want something to eat. I\nwon’t say a word until I get some peptone into my arteries. Thanks. And\nthe salt.”\n\n“One word,” said I. “Have you been time travelling?”\n\n“",
+    "after": ".\n\n“I’d give a shilling a line for a verbatim note,” said the Editor. The\nTime Traveller pushed his glass towards the Silent Man and rang it with\nhis fingernail; at which the Silent Man, who had been staring at his\nface,"
+   }
+  ],
+  "score": 32.3
+ },
+ {
+  "earlier": "u14_5",
+  "later": "u80_5",
+  "relation": {
+   "id": "r80_5",
+   "source": "u80_5",
+   "target": "u14_5",
+   "type": "REFINES",
+   "rationale": "The Unseen Housekeeper Crossing describes Mrs. Watchett walking toward the garden door without seeing the Traveller, while the Reversed Mrs Watchett walk describes the same crossing on repassing with every motion exactly inverted as she glides backward, developing the earlier crossing in reverse.",
+   "confidence": 0.92,
+   "created_at": 80,
+   "layer": "interpretation",
+   "rationale_raw": "The Unseen Housekeeper Crossing describes Mrs. Watchett walking toward the garden door without seeing the Traveller, while the Reversed Mrs Watchett walk describes the same crossing on repassing with every motion exactly inverted as she glides backward, developing the earlier crossing in reverse."
+  },
+  "source": {
+   "id": "u80_5",
+   "kind": "event",
+   "label": "Reversed Mrs Watchett walk",
+   "content": "On repassing the departure minute Mrs. Watchett glides backward up the laboratory with every motion exactly inverted.",
+   "participants": [
+    "Mrs. Watchett"
+   ],
+   "layer": "observation",
+   "confidence": 0.97,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 80,
+   "last_active_at": 80,
+   "evidence": [
+    {
+     "passage": 80,
+     "quote": "But now her every motion appeared to be the\nexact inversion of her previous ones",
+     "start": 1910,
+     "end": 1990
+    }
+   ]
+  },
+  "target": {
+   "id": "u14_5",
+   "kind": "event",
+   "label": "Unseen Housekeeper Crossing",
+   "content": "Mrs. Watchett walks toward the garden door apparently without seeing him in the machine.",
+   "participants": [
+    "Mrs. Watchett",
+    "Time Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 0.93,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 14,
+   "last_active_at": 14,
+   "evidence": [
+    {
+     "passage": 14,
+     "quote": "Mrs. Watchett came in and walked, apparently without seeing me, towards",
+     "start": 1454,
+     "end": 1525
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 80,
+    "quote": "But now her every motion appeared to be the\nexact inversion of her previous ones",
+    "before": " set out, before my velocity became very high, Mrs. Watchett\nhad walked across the room, travelling, as it seemed to me, like a\nrocket. As I returned, I passed again across that minute when she\ntraversed the laboratory. ",
+    "after": ". The door at the lower end opened,\nand she glided quietly up the laboratory, back foremost, and\ndisappeared behind the door by which she had previously entered. Just\nbefore that I seemed to see Hillyer for a moment; but"
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 14,
+    "quote": "Mrs. Watchett came in and walked, apparently without seeing me, towards",
+    "before": ", it\nhad stood at a minute or so past ten; now it was nearly half-past\nthree!\n\n“I drew a breath, set my teeth, gripped the starting lever with both\nhands, and went off with a thud. The laboratory got hazy and went dark.\n",
+    "after": "\nthe garden door. I suppose it took her a minute or so to traverse the\nplace, but to me she seemed to shoot across the room like a rocket. I\npressed the lever over to its extreme position. The night came like the\nturning"
+   }
+  ],
+  "score": 32.2
+ },
+ {
+  "earlier": "u12_4",
+  "later": "u82_2",
+  "relation": {
+   "id": "r82_2",
+   "source": "u82_2",
+   "target": "u12_4",
+   "type": "REFINES",
+   "rationale": "Editor dismisses tale says the account is fit for a story-writer with a hand on the shoulder, while Editor's commercial mockery had treated the claimed adventure as sensational copy to buy; dismissal develops the same mocking stance.",
+   "confidence": 0.85,
+   "created_at": 82,
+   "layer": "interpretation",
+   "rationale_raw": "Editor dismisses tale says the account is fit for a story-writer with a hand on the shoulder, while Editor's commercial mockery had treated the claimed adventure as sensational copy to buy; dismissal develops the same mocking stance."
+  },
+  "source": {
+   "id": "u82_2",
+   "kind": "claim",
+   "label": "Editor dismisses tale",
+   "content": "The Editor treats the account as fiction fit for a story-writer.",
+   "participants": [
+    "Editor",
+    "Time Traveller"
+   ],
+   "layer": "interpretation",
+   "confidence": 0.85,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 82,
+   "last_active_at": 82,
+   "evidence": [
+    {
+     "passage": 82,
+     "quote": "What a pity it is you’re not a writer\nof stories!” he said, putting his hand on the Time Traveller’s\nshoulder",
+     "start": 613,
+     "end": 722
+    }
+   ]
+  },
+  "target": {
+   "id": "u12_4",
+   "kind": "concept",
+   "label": "Editor's commercial mockery",
+   "content": "The Editor treats the claimed adventure as sensational copy to be bought.",
+   "participants": [
+    "Editor",
+    "Time Traveller"
+   ],
+   "layer": "interpretation",
+   "confidence": 0.85,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 12,
+   "last_active_at": 12,
+   "evidence": [
+    {
+     "passage": 12,
+     "quote": "I’d give a shilling a line for a verbatim note,” said the Editor",
+     "start": 695,
+     "end": 759
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 82,
+    "quote": "What a pity it is you’re not a writer\nof stories!” he said, putting his hand on the Time Traveller’s\nshoulder",
+    "before": "n the contemplation of\nour host. The Editor was looking hard at the end of his cigar—the\nsixth. The Journalist fumbled for his watch. The others, as far as I\nremember, were motionless.\n\nThe Editor stood up with a sigh. “",
+    "after": ".\n\n“You don’t believe it?”\n\n“Well——”\n\n“I thought not.”\n\nThe Time Traveller turned to us. “Where are the matches?” he said. He\nlit one and spoke over his pipe, puffing. “To tell you the truth... I\nhardly believe it myself"
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 12,
+    "quote": "I’d give a shilling a line for a verbatim note,” said the Editor",
+    "before": "o eat. I\nwon’t say a word until I get some peptone into my arteries. Thanks. And\nthe salt.”\n\n“One word,” said I. “Have you been time travelling?”\n\n“Yes,” said the Time Traveller, with his mouth full, nodding his head.\n\n“",
+    "after": ". The\nTime Traveller pushed his glass towards the Silent Man and rang it with\nhis fingernail; at which the Silent Man, who had been staring at his\nface, started convulsively, and poured him wine. The rest of the dinner\nw"
+   }
+  ],
+  "score": 31.45
+ },
+ {
+  "earlier": "u13_2",
+  "later": "u82_3",
+  "relation": {
+   "id": "r82_4",
+   "source": "u82_3",
+   "target": "u13_2",
+   "type": "REFINES",
+   "rationale": "Traveller doubts himself says he hardly believes his own experience, while True Despite Lying insists the story sounds like lying but is true in every word; self-doubt qualifies the insistence.",
+   "confidence": 0.85,
+   "created_at": 82,
+   "layer": "interpretation",
+   "rationale_raw": "Traveller doubts himself says he hardly believes his own experience, while True Despite Lying insists the story sounds like lying but is true in every word; self-doubt qualifies the insistence."
+  },
+  "source": {
+   "id": "u82_3",
+   "kind": "claim",
+   "label": "Traveller doubts himself",
+   "content": "The Time Traveller admits he hardly believes his own experience himself.",
+   "participants": [
+    "Time Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 82,
+   "last_active_at": 82,
+   "evidence": [
+    {
+     "passage": 82,
+     "quote": "hardly believe it myself..... And yet",
+     "start": 918,
+     "end": 955
+    }
+   ]
+  },
+  "target": {
+   "id": "u13_2",
+   "kind": "claim",
+   "label": "True Despite Lying",
+   "content": "Most of the Time Traveller's story will sound like lying but is true in every word.",
+   "participants": [
+    "Time Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 0.96,
+   "status": "contested",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 13,
+   "last_active_at": 13,
+   "evidence": [
+    {
+     "passage": 13,
+     "quote": "Most of it will sound like lying. So be it! It’s\ntrue—every word of it, all the same",
+     "start": 422,
+     "end": 506
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 82,
+    "quote": "hardly believe it myself..... And yet",
+    "before": "ime Traveller’s\nshoulder.\n\n“You don’t believe it?”\n\n“Well——”\n\n“I thought not.”\n\nThe Time Traveller turned to us. “Where are the matches?” he said. He\nlit one and spoke over his pipe, puffing. “To tell you the truth... I\n",
+    "after": "...”\n\nHis eye fell with a mute inquiry upon the withered white flowers upon\nthe little table. Then he turned over the hand holding his pipe, and I\nsaw he was looking at some half-healed scars on his knuckles.\n\nThe Medica"
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 13,
+    "quote": "Most of it will sound like lying. So be it! It’s\ntrue—every word of it, all the same",
+    "before": " argue tonight. I don’t mind telling you the story, but I can’t\nargue. I will,” he went on, “tell you the story of what has happened to\nme, if you like, but you must refrain from interruptions. I want to\ntell it. Badly. ",
+    "after": ". I was in my laboratory at four\no’clock, and since then … I’ve lived eight days … such days as no human\nbeing ever lived before! I’m nearly worn out, but I shan’t sleep till\nI’ve told this thing over to you. Then I shal"
+   }
+  ],
+  "score": 31.025
+ },
+ {
+  "earlier": "u00_2",
+  "later": "u83_5",
+  "relation": {
+   "id": "r83_7",
+   "source": "u83_5",
+   "target": "u00_2",
+   "type": "CHANGES_STATE",
+   "rationale": "Laughing midnight farewell describes the party breaking up with laughter and good-night shouting, ending the situation of Comfortable after-dinner gathering which was a warm seated gathering now restless after the story.",
+   "confidence": 0.9,
+   "created_at": 83,
+   "layer": "interpretation",
+   "rationale_raw": "Laughing midnight farewell describes the party breaking up with laughter and good-night shouting, ending the situation of Comfortable after-dinner gathering which was a warm seated gathering now restless after the story."
+  },
+  "source": {
+   "id": "u83_5",
+   "kind": "event",
+   "label": "Laughing midnight farewell",
+   "content": "The party breaks up with an overwork diagnosis, laughter, and the Traveller shouting good-night from the doorway.",
+   "participants": [
+    "Time Traveller",
+    "Medical Man",
+    "Editor",
+    "narrator"
+   ],
+   "layer": "observation",
+   "confidence": 0.97,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 83,
+   "last_active_at": 83,
+   "evidence": [
+    {
+     "passage": 83,
+     "quote": "I\nremember him standing in the open doorway, bawling good-night",
+     "start": 1575,
+     "end": 1638
+    }
+   ]
+  },
+  "target": {
+   "id": "u00_2",
+   "kind": "situation",
+   "label": "Comfortable after-dinner gathering",
+   "content": "The listeners sit comfortably in the inventor's patented chairs in a warm relaxed setting.",
+   "participants": [
+    "Time Traveller",
+    "guests"
+   ],
+   "layer": "observation",
+   "confidence": 0.9,
+   "status": "active",
+   "reading": null,
+   "state": "The comfortable gathering has now broken up for the night with laughter, an overwork explanation, and the Traveller left shouting good-night from the doorway.",
+   "other_readings": [],
+   "introduced_at": 0,
+   "last_active_at": 83,
+   "evidence": [
+    {
+     "passage": 0,
+     "quote": "Our chairs, being his patents, embraced and",
+     "start": 350,
+     "end": 393
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 83,
+    "quote": "I\nremember him standing in the open doorway, bawling good-night",
+    "before": "king-room.\n\nHe came into the hall with us and helped the Editor on with his coat.\nThe Medical Man looked into his face and, with a certain hesitation,\ntold him he was suffering from overwork, at which he laughed hugely. ",
+    "after": "."
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 0,
+    "quote": "Our chairs, being his patents, embraced and",
+    "before": "\ntwinkled, and his usually pale face was flushed and animated. The\nfire burnt brightly, and the soft radiance of the incandescent\nlights in the lilies of silver caught the bubbles that flashed and\npassed in our glasses. ",
+    "after": "\ncaressed us rather than submitted to be sat upon, and there was that\nluxurious after-dinner atmosphere, when thought runs gracefully free\nof the trammels of precision. And he put it to us in this way—marking\nthe points "
+   }
+  ],
+  "score": 29.363
+ },
+ {
+  "earlier": "u19_2",
+  "later": "u58_3",
+  "relation": {
+   "id": "r58_3",
+   "source": "u58_3",
+   "target": "u19_2",
+   "type": "REFRAMES",
+   "rationale": "Eloi As Cattle tries to see the Eloi as mere fatted cattle kept by ant-like Morlocks, while Frail Future People describes them as slight beautiful graceful frail beings. The cattle view recasts frail humanity as livestock.",
+   "confidence": 0.9,
+   "created_at": 58,
+   "layer": "interpretation",
+   "rationale_raw": "Eloi As Cattle tries to see the Eloi as mere fatted cattle kept by ant-like Morlocks, while Frail Future People describes them as slight beautiful graceful frail beings. The cattle view recasts frail humanity as livestock."
+  },
+  "source": {
+   "id": "u58_3",
+   "kind": "concept",
+   "label": "Eloi As Cattle",
+   "content": "The Traveller attempts scientific detachment by viewing the Eloi as mere fatted cattle preserved and preyed upon by ant-like Morlocks.",
+   "participants": [
+    "Eloi",
+    "Morlocks"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 58,
+   "last_active_at": 58,
+   "evidence": [
+    {
+     "passage": 58,
+     "quote": "Eloi were mere fatted cattle, which the ant-like Morlocks preserved and",
+     "start": 1107,
+     "end": 1178
+    }
+   ]
+  },
+  "target": {
+   "id": "u19_2",
+   "kind": "entity",
+   "label": "Frail Future People",
+   "content": "The future people are slight, beautiful, graceful, and indescribably frail beings.",
+   "participants": [
+    "future people"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": "Frail Future People are now also to be read as enfeebled by perfect security which rewarded feebleness.",
+   "state": null,
+   "other_readings": [
+    "Frail future people are now also to be read as the end-point after secure energy burned briefly in art and eroticism and then sank into languor, not only as direct enfeeblement by security.",
+    "The Frail Future People are now to be read as only the surface branch of a humanity split into two species, still frail from security but no longer the whole of humanity.",
+    "The slight beautiful frail people are now also to be understood as descendants of the Capitalist upper branch maintained by underground labour, in addition to being enfeebled by security.",
+    "The slight beautiful frail beings should now also be understood as decaying doomed prey whose former servants are creeping on as their nemesis in a reversed class order.",
+    "Frail Future People remain slight and frail and preyed upon, but are also still recognizably human whose form compels sympathy, so they cannot be regarded with detachment as mere cattle.",
+    "Slight beautiful graceful frail beings are also to be understood as living a pleasant heedless cattle-like existence ending as prey."
+   ],
+   "introduced_at": 19,
+   "last_active_at": 73,
+   "evidence": [
+    {
+     "passage": 19,
+     "quote": "He was a slight creature—perhaps four feet",
+     "start": 234,
+     "end": 276
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 58,
+    "quote": "Eloi were mere fatted cattle, which the ant-like Morlocks preserved and",
+    "before": "they were less\nhuman and more remote than our cannibal ancestors of three or four\nthousand years ago. And the intelligence that would have made this\nstate of things a torment had gone. Why should I trouble myself? These\n",
+    "after": "\npreyed upon—probably saw to the breeding of. And there was Weena\ndancing at my side!\n\n“Then I tried to preserve myself from the horror that was coming upon\nme, by regarding it as a rigorous punishment of human selfishne"
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 19,
+    "quote": "He was a slight creature—perhaps four feet",
+    "before": "voices approaching me. Coming through the bushes by the\nWhite Sphinx were the heads and shoulders of men running. One of these\nemerged in a pathway leading straight to the little lawn upon which I\nstood with my machine. ",
+    "after": "\nhigh—clad in a purple tunic, girdled at the waist with a leather belt.\nSandals or buskins—I could not clearly distinguish which—were on his\nfeet; his legs were bare to the knees, and his head was bare. Noticing\nthat, I "
+   }
+  ],
+  "score": 29.025
+ },
+ {
+  "earlier": "u00_2",
+  "later": "u82_1",
+  "relation": {
+   "id": "r82_1",
+   "source": "u82_1",
+   "target": "u00_2",
+   "type": "CHANGES_STATE",
+   "rationale": "Restless sceptical audience says chairs creak and shoes scrape after the story ends, while Comfortable after-dinner gathering described relaxed sitting in patented chairs; restlessness replaces comfort.",
+   "confidence": 0.9,
+   "created_at": 82,
+   "layer": "interpretation",
+   "rationale_raw": "Restless sceptical audience says chairs creak and shoes scrape after the story ends, while Comfortable after-dinner gathering described relaxed sitting in patented chairs; restlessness replaces comfort."
+  },
+  "source": {
+   "id": "u82_1",
+   "kind": "situation",
+   "label": "Restless sceptical audience",
+   "content": "The audience grows restless and silent after the story ends.",
+   "participants": [
+    "audience"
+   ],
+   "layer": "observation",
+   "confidence": 0.92,
+   "status": "active",
+   "reading": null,
+   "state": "The Restless sceptical audience has now broken up and departed with laughter in the Laughing midnight farewell.",
+   "other_readings": [],
+   "introduced_at": 82,
+   "last_active_at": 83,
+   "evidence": [
+    {
+     "passage": 82,
+     "quote": "Then chairs began to creak and shoes to scrape upon the\ncarpet",
+     "start": 148,
+     "end": 210
+    }
+   ]
+  },
+  "target": {
+   "id": "u00_2",
+   "kind": "situation",
+   "label": "Comfortable after-dinner gathering",
+   "content": "The listeners sit comfortably in the inventor's patented chairs in a warm relaxed setting.",
+   "participants": [
+    "Time Traveller",
+    "guests"
+   ],
+   "layer": "observation",
+   "confidence": 0.9,
+   "status": "active",
+   "reading": null,
+   "state": "The comfortable gathering has now broken up for the night with laughter, an overwork explanation, and the Traveller left shouting good-night from the doorway.",
+   "other_readings": [],
+   "introduced_at": 0,
+   "last_active_at": 83,
+   "evidence": [
+    {
+     "passage": 0,
+     "quote": "Our chairs, being his patents, embraced and",
+     "start": 350,
+     "end": 393
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 82,
+    "quote": "Then chairs began to creak and shoes to scrape upon the\ncarpet",
+    "before": "He took up his pipe, and began, in his old accustomed manner, to tap\nwith it nervously upon the bars of the grate. There was a momentary\nstillness. ",
+    "after": ". I took my eyes off the Time Traveller’s face, and looked round\nat his audience. They were in the dark, and little spots of colour swam\nbefore them. The Medical Man seemed absorbed in the contemplation of\nour host. The "
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 0,
+    "quote": "Our chairs, being his patents, embraced and",
+    "before": "\ntwinkled, and his usually pale face was flushed and animated. The\nfire burnt brightly, and the soft radiance of the incandescent\nlights in the lilies of silver caught the bubbles that flashed and\npassed in our glasses. ",
+    "after": "\ncaressed us rather than submitted to be sat upon, and there was that\nluxurious after-dinner atmosphere, when thought runs gracefully free\nof the trammels of precision. And he put it to us in this way—marking\nthe points "
+   }
+  ],
+  "score": 29.025
+ },
+ {
+  "earlier": "u15_6",
+  "later": "u78_5",
+  "relation": {
+   "id": "r78_7",
+   "source": "u78_5",
+   "target": "u15_6",
+   "type": "REFINES",
+   "rationale": "This passage's sun watching describes journeying in thousand-year strides while watching the sun grow larger and duller, while the earlier year-a-minute pace describes travel at over a year per minute; the first shows the pace has become vastly longer-strided.",
+   "confidence": 0.85,
+   "created_at": 78,
+   "layer": "interpretation",
+   "rationale_raw": "This passage's sun watching describes journeying in thousand-year strides while watching the sun grow larger and duller, while the earlier year-a-minute pace describes travel at over a year per minute; the first shows the pace has become vastly longer-strided."
+  },
+  "source": {
+   "id": "u78_5",
+   "kind": "event",
+   "label": "Millennia-Long Sun Watching",
+   "content": "Drawn by the earth's fate, the Traveller journeys in thousand-year strides while watching the sun grow larger and duller.",
+   "participants": [
+    "Traveller",
+    "sun"
+   ],
+   "layer": "observation",
+   "confidence": 0.93,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 78,
+   "last_active_at": 78,
+   "evidence": [
+    {
+     "passage": 78,
+     "quote": "watching with a strange fascination the sun grow larger and duller in\nthe westward sky",
+     "start": 1712,
+     "end": 1798
+    }
+   ]
+  },
+  "target": {
+   "id": "u15_6",
+   "kind": "claim",
+   "label": "Year A Minute Pace",
+   "content": "His pace accelerates to over a year per minute, marked by flashing snow and brief spring green.",
+   "participants": [
+    "Time Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 15,
+   "last_active_at": 15,
+   "evidence": [
+    {
+     "passage": 15,
+     "quote": "consequently my pace was over a year a minute",
+     "start": 2053,
+     "end": 2098
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 78,
+    "quote": "watching with a strange fascination the sun grow larger and duller in\nthe westward sky",
+    "before": "he red rocks. And in the westward sky, I saw a curved pale line like a\nvast new moon.\n\n“So I travelled, stopping ever and again, in great strides of a\nthousand years or more, drawn on by the mystery of the earth’s fate,\n",
+    "after": ", and the life of the old earth ebb away. At last, more\nthan thirty million years hence, the huge red-hot dome of the sun had\ncome to obscure nearly a tenth part of the darkling heavens. Then I\nstopped once more, for the"
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 15,
+    "quote": "consequently my pace was over a year a minute",
+    "before": "ing under my eyes.\nThe little hands upon the dials that registered my speed raced round\nfaster and faster. Presently I noted that the sun belt swayed up and\ndown, from solstice to solstice, in a minute or less, and that\n",
+    "after": "; and minute by minute the\nwhite snow flashed across the world, and vanished, and was followed by\nthe bright, brief green of spring."
+   }
+  ],
+  "score": 28.475
+ },
+ {
+  "earlier": "u08_1",
+  "later": "u85_1",
+  "relation": {
+   "id": "r85_1",
+   "source": "u85_1",
+   "target": "u08_1",
+   "type": "CHANGES_STATE",
+   "rationale": "The Full-size Time Machine says the laboratory contains a larger complete version of the little mechanism, while the Traveller's Abrupt Vanishing says the narrator enters to find the Time Traveller gone from the laboratory, implying the machine has left with him.",
+   "confidence": 0.9,
+   "created_at": 85,
+   "layer": "interpretation",
+   "rationale_raw": "The Full-size Time Machine says the laboratory contains a larger complete version of the little mechanism, while the Traveller's Abrupt Vanishing says the narrator enters to find the Time Traveller gone from the laboratory, implying the machine has left with him."
+  },
+  "source": {
+   "id": "u85_1",
+   "kind": "event",
+   "label": "Traveller's Abrupt Vanishing",
+   "content": "The narrator enters amid noise and gust to find the Time Traveller gone from the laboratory.",
+   "participants": [
+    "narrator",
+    "Time Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 1.0,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 85,
+   "last_active_at": 85,
+   "evidence": [
+    {
+     "passage": 85,
+     "quote": "The Time Traveller was not there",
+     "start": 239,
+     "end": 271
+    }
+   ]
+  },
+  "target": {
+   "id": "u08_1",
+   "kind": "entity",
+   "label": "Full-size Time Machine",
+   "content": "The laboratory contains a larger, generally complete version of the vanished little mechanism made with nickel, ivory, and crystal.",
+   "participants": [
+    "Time Traveller",
+    "Narrator"
+   ],
+   "layer": "observation",
+   "confidence": 0.96,
+   "status": "active",
+   "reading": null,
+   "state": "The Full-size Time Machine is no longer resting in the laboratory; it has vanished with the Time Traveller.",
+   "other_readings": [],
+   "introduced_at": 8,
+   "last_active_at": 85,
+   "evidence": [
+    {
+     "passage": 8,
+     "quote": "there in the laboratory we beheld a larger edition of the little",
+     "start": 597,
+     "end": 661
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 85,
+    "quote": "The Time Traveller was not there",
+    "before": "he handle of the door I heard an exclamation, oddly\ntruncated at the end, and a click and a thud. A gust of air whirled\nround me as I opened the door, and from within came the sound of broken\nglass falling on the floor. ",
+    "after": ". I seemed\nto see a ghostly, indistinct figure sitting in a whirling mass of black\nand brass for a moment—a figure so transparent that the bench behind\nwith its sheets of drawings was absolutely distinct; but this phanta"
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 8,
+    "quote": "there in the laboratory we beheld a larger edition of the little",
+    "before": "e way\ndown the long, draughty corridor to his laboratory. I remember vividly\nthe flickering light, his queer, broad head in silhouette, the dance of\nthe shadows, how we all followed him, puzzled but incredulous, and how\n",
+    "after": "\nmechanism which we had seen vanish from before our eyes. Parts were of\nnickel, parts of ivory, parts had certainly been filed or sawn out of\nrock crystal. The thing was generally complete, but the twisted\ncrystalline ba"
+   }
+  ],
+  "score": 27.338
+ },
+ {
+  "earlier": "u20_4",
+  "later": "u61_4",
+  "relation": {
+   "id": "r61_6",
+   "source": "u61_4",
+   "target": "u20_4",
+   "type": "CONTRADICTS",
+   "rationale": "Huge machines all greatly corroded and many broken down undermines the expectation that the people of 802,000 would be incredibly in front in knowledge and everything.",
+   "confidence": 0.8,
+   "created_at": 61,
+   "layer": "interpretation",
+   "rationale_raw": "Huge machines all greatly corroded and many broken down undermines the expectation that the people of 802,000 would be incredibly in front in knowledge and everything."
+  },
+  "source": {
+   "id": "u61_4",
+   "kind": "situation",
+   "label": "Corroded Machine Hall",
+   "content": "A vast dim gallery holds huge, mostly corroded and broken machines on both sides.",
+   "participants": [
+    "Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 61,
+   "last_active_at": 61,
+   "evidence": [
+    {
+     "passage": 61,
+     "quote": "rising on either side of me were the huge bulks of big\nmachines, all greatly corroded and many broken down",
+     "start": 1958,
+     "end": 2064
+    }
+   ]
+  },
+  "target": {
+   "id": "u20_4",
+   "kind": "claim",
+   "label": "Expected Future Superiority",
+   "content": "The Traveller had always expected the people of 802,000 to be vastly ahead in knowledge, art, and everything.",
+   "participants": [
+    "Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "contested",
+   "reading": "Expected Future Superiority should now be understood as a naive absurd assumption about inevitable progress, not as a reasonable forecast.",
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 20,
+   "last_active_at": 51,
+   "evidence": [
+    {
+     "passage": 20,
+     "quote": "would be incredibly in front of us in knowledge, art,\neverything",
+     "start": 1280,
+     "end": 1344
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 61,
+    "quote": "rising on either side of me were the huge bulks of big\nmachines, all greatly corroded and many broken down",
+    "before": "e\nfrom the end at which I entered. At intervals white globes hung from\nthe ceiling—many of them cracked and smashed—which suggested that\noriginally the place had been artificially lit. Here I was more in my\nelement, for ",
+    "after": ", but some still\nfairly complete. You know I have a certain weakness for mechanism, and\nI was inclined to linger among these; the more so as for the most part\nthey had the interest of puzzles, and I could make only the v"
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 20,
+    "quote": "would be incredibly in front of us in knowledge, art,\neverything",
+    "before": "enough. The question had come into my mind abruptly: were these\ncreatures fools? You may hardly understand how it took me. You see, I\nhad always anticipated that the people of the year Eight Hundred and\nTwo Thousand odd ",
+    "after": ". Then one of them suddenly asked me a question that showed\nhim to be on the intellectual level of one of our five-year-old\nchildren—asked me, in fact, if I had come from the sun in a\nthunderstorm! It let loose the judgm"
+   }
+  ],
+  "score": 27.0
+ },
+ {
+  "earlier": "u09_5",
+  "later": "u81_3",
+  "relation": {
+   "id": "r81_3",
+   "source": "u81_3",
+   "target": "u09_5",
+   "type": "CAUSES",
+   "rationale": "The Dinner Guests Rejoined says the injured traveller heard voices and plates and re-entered through the door, while the Alarmed table reaction says the whole table turned toward the door in alarm at his distressed appearance; the re-entry brings about the alarmed reaction.",
+   "confidence": 0.9,
+   "created_at": 81,
+   "layer": "interpretation",
+   "rationale_raw": "The Dinner Guests Rejoined says the injured traveller heard voices and plates and re-entered through the door, while the Alarmed table reaction says the whole table turned toward the door in alarm at his distressed appearance; the re-entry brings about the alarmed reaction."
+  },
+  "source": {
+   "id": "u81_3",
+   "kind": "event",
+   "label": "Dinner Guests Rejoined",
+   "content": "Injured and begrimed, the Traveller hears his friends dining and re-enters through the door.",
+   "participants": [
+    "Traveller",
+    "dinner guests"
+   ],
+   "layer": "observation",
+   "confidence": 0.93,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 81,
+   "last_active_at": 81,
+   "evidence": [
+    {
+     "passage": 81,
+     "quote": "I heard your voices\nand the clatter of plates",
+     "start": 1017,
+     "end": 1062
+    }
+   ]
+  },
+  "target": {
+   "id": "u09_5",
+   "kind": "situation",
+   "label": "Alarmed table reaction",
+   "content": "The whole table turns toward the door in alarm at the Time Traveller’s distressed appearance.",
+   "participants": [
+    "Medical Man",
+    "Time Traveller",
+    "dinner guests"
+   ],
+   "layer": "interpretation",
+   "confidence": 0.85,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 9,
+   "last_active_at": 9,
+   "evidence": [
+    {
+     "passage": 9,
+     "quote": "heavens! man, what’s the matter?” cried the Medical Man, who saw him",
+     "start": 1665,
+     "end": 1733
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 81,
+    "quote": "I heard your voices\nand the clatter of plates",
+    "before": "use my heel was still painful, and\nfeeling sorely begrimed. I saw the _Pall Mall Gazette_ on the table by\nthe door. I found the date was indeed today, and looking at the\ntimepiece, saw the hour was almost eight o’clock. ",
+    "after": ". I hesitated—I felt so sick and weak. Then I\nsniffed good wholesome meat, and opened the door on you. You know the\nrest. I washed, and dined, and now I am telling you the story.\n\n“I know,” he said, after a pause, “that "
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 9,
+    "quote": "heavens! man, what’s the matter?” cried the Medical Man, who saw him",
+    "before": " from the corridor\nopened slowly and without noise. I was facing the door, and saw it\nfirst. “Hallo!” I said. “At last!” And the door opened wider, and the\nTime Traveller stood before us. I gave a cry of surprise. “Good\n",
+    "after": "\nnext. And the whole tableful turned towards the door."
+   }
+  ],
+  "score": 25.65
+ },
+ {
+  "earlier": "u26_6",
+  "later": "u81_5",
+  "relation": {
+   "id": "r81_5",
+   "source": "u81_5",
+   "target": "u26_6",
+   "type": "REFINES",
+   "rationale": "The Lie Or Prophecy Framing says to take the account as a lie or prophecy, while the Partial Interpretation Warning says the evening interpretation is only a half-truth; the broader permission to disbelieve develops the earlier caution about truth.",
+   "confidence": 0.85,
+   "created_at": 81,
+   "layer": "interpretation",
+   "rationale_raw": "The Lie Or Prophecy Framing says to take the account as a lie or prophecy, while the Partial Interpretation Warning says the evening interpretation is only a half-truth; the broader permission to disbelieve develops the earlier caution about truth."
+  },
+  "source": {
+   "id": "u81_5",
+   "kind": "concept",
+   "label": "Lie Or Prophecy Framing",
+   "content": "The Traveller offers his account to be taken as a lie, dream, or prophecy rather than believed truth.",
+   "participants": [
+    "Traveller",
+    "listeners"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 81,
+   "last_active_at": 81,
+   "evidence": [
+    {
+     "passage": 81,
+     "quote": "Take it as a lie—or a prophecy",
+     "start": 1562,
+     "end": 1592
+    }
+   ]
+  },
+  "target": {
+   "id": "u26_6",
+   "kind": "claim",
+   "label": "Partial Interpretation Warning",
+   "content": "The Traveller warns that the evening interpretation he is about to give is only a half-truth.",
+   "participants": [
+    "Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 0.96,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 26,
+   "last_active_at": 26,
+   "evidence": [
+    {
+     "passage": 26,
+     "quote": "only a glimpse of one facet of the truth",
+     "start": 1683,
+     "end": 1723
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 81,
+    "quote": "Take it as a lie—or a prophecy",
+    "before": " one incredible thing is that I am here\ntonight in this old familiar room looking into your friendly faces and\ntelling you these strange adventures.” He looked at the Medical Man.\n“No. I cannot expect you to believe it. ",
+    "after": ".\nSay I dreamed it in the workshop. Consider I have been speculating upon\nthe destinies of our race, until I have hatched this fiction. Treat my\nassertion of its truth as a mere stroke of art to enhance its interest.\nAnd"
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 26,
+    "quote": "only a glimpse of one facet of the truth",
+    "before": "en.\n\n“So watching, I began to put my interpretation upon the things I had\nseen, and as it shaped itself to me that evening, my interpretation was\nsomething in this way. (Afterwards I found I had got only a half\ntruth—or ",
+    "after": ".)"
+   }
+  ],
+  "score": 25.075
+ },
+ {
+  "earlier": "u11_1",
+  "later": "u84_4",
+  "relation": {
+   "id": "r84_5",
+   "source": "u84_4",
+   "target": "u11_1",
+   "type": "CHANGES_STATE",
+   "rationale": "The new equipped appearance shows the Traveller coming from the house with camera and knapsack, while the earlier blood-stained socks showed him arriving destitute in tattered socks on injured feet; the provisioning transforms his destitute arrival state, which remains true of its own time.",
+   "confidence": 0.85,
+   "created_at": 84,
+   "layer": "interpretation",
+   "rationale_raw": "The new equipped appearance shows the Traveller coming from the house with camera and knapsack, while the earlier blood-stained socks showed him arriving destitute in tattered socks on injured feet; the provisioning transforms his destitute arrival state, which remains true of its own time."
+  },
+  "source": {
+   "id": "u84_4",
+   "kind": "entity",
+   "label": "Equipped Departing Traveller",
+   "content": "The Time Traveller appears from the house carrying a small camera and a knapsack.",
+   "participants": [
+    "Time Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 0.97,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 84,
+   "last_active_at": 84,
+   "evidence": [
+    {
+     "passage": 84,
+     "quote": "He had a small camera under one arm and a\nknapsack under the other",
+     "start": 848,
+     "end": 914
+    }
+   ]
+  },
+  "target": {
+   "id": "u11_1",
+   "kind": "image",
+   "label": "Blood-Stained Socks",
+   "content": "The Time Traveller leaves wearing only tattered, blood-stained socks on his injured feet.",
+   "participants": [
+    "Time Traveller",
+    "Narrator"
+   ],
+   "layer": "observation",
+   "confidence": 0.98,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 11,
+   "last_active_at": 11,
+   "evidence": [
+    {
+     "passage": 11,
+     "quote": "on them but a pair of tattered, blood-stained socks",
+     "start": 211,
+     "end": 262
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 84,
+    "quote": "He had a small camera under one arm and a\nknapsack under the other",
+    "before": "led me extremely, and I had a queer reminiscence of\nthe childish days when I used to be forbidden to meddle. I came back\nthrough the corridor. The Time Traveller met me in the smoking-room. He\nwas coming from the house. ",
+    "after": ". He laughed when he saw me, and gave me an\nelbow to shake. “I’m frightfully busy,” said he, “with that thing in\nthere.”\n\n“But is it not some hoax?” I said. “Do you really travel through time?”\n\n“Really and truly I do.” "
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 11,
+    "quote": "on them but a pair of tattered, blood-stained socks",
+    "before": "He put down his glass, and walked towards the staircase door. Again I\nremarked his lameness and the soft padding sound of his footfall, and\nstanding up in my place, I saw his feet as he went out. He had nothing\n",
+    "after": ". Then the door\nclosed upon him. I had half a mind to follow, till I remembered how he\ndetested any fuss about himself. For a minute, perhaps, my mind was\nwool-gathering. Then, “Remarkable Behaviour of an Eminent Scienti"
+   }
+  ],
+  "score": 24.544
+ },
+ {
+  "earlier": "u13_1",
+  "later": "u81_6",
+  "relation": {
+   "id": "r81_6",
+   "source": "u81_6",
+   "target": "u13_1",
+   "type": "CHANGES_STATE",
+   "rationale": "The Asking for Story Verdict asks the audience what they think of it as a story, while the No Interruptions Rule says he will tell only if listeners refrain from interruptions; inviting judgment ends the no-interruption telling contract.",
+   "confidence": 0.9,
+   "created_at": 81,
+   "layer": "interpretation",
+   "rationale_raw": "The Asking for Story Verdict asks the audience what they think of it as a story, while the No Interruptions Rule says he will tell only if listeners refrain from interruptions; inviting judgment ends the no-interruption telling contract."
+  },
+  "source": {
+   "id": "u81_6",
+   "kind": "event",
+   "label": "Asking for Story Verdict",
+   "content": "The Traveller asks his audience to judge his narrative simply as a story.",
+   "participants": [
+    "Traveller",
+    "listeners"
+   ],
+   "layer": "observation",
+   "confidence": 0.94,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 81,
+   "last_active_at": 81,
+   "evidence": [
+    {
+     "passage": 81,
+     "quote": "And taking it as a story, what do you think of it?",
+     "start": 1809,
+     "end": 1859
+    }
+   ]
+  },
+  "target": {
+   "id": "u13_1",
+   "kind": "claim",
+   "label": "No Interruptions Rule",
+   "content": "The Time Traveller will tell what happened to him only if the listeners agree to refrain from interruptions.",
+   "participants": [
+    "Time Traveller",
+    "Editor",
+    "hearers"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": "The no-interruptions telling bargain is over; the audience is now invited to judge the tale as a story.",
+   "other_readings": [],
+   "introduced_at": 13,
+   "last_active_at": 81,
+   "evidence": [
+    {
+     "passage": 13,
+     "quote": "but you must refrain from interruptions. I want to\ntell it. Badly",
+     "start": 355,
+     "end": 420
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 81,
+    "quote": "And taking it as a story, what do you think of it?",
+    "before": "ecy.\nSay I dreamed it in the workshop. Consider I have been speculating upon\nthe destinies of our race, until I have hatched this fiction. Treat my\nassertion of its truth as a mere stroke of art to enhance its interest.\n",
+    "after": "”"
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 13,
+    "quote": "but you must refrain from interruptions. I want to\ntell it. Badly",
+    "before": "ests.\n\n“But the thing’s a mere paradox,” said the Editor.\n\n“I can’t argue tonight. I don’t mind telling you the story, but I can’t\nargue. I will,” he went on, “tell you the story of what has happened to\nme, if you like, ",
+    "after": ". Most of it will sound like lying. So be it! It’s\ntrue—every word of it, all the same. I was in my laboratory at four\no’clock, and since then … I’ve lived eight days … such days as no human\nbeing ever lived before! I’m "
+   }
+  ],
+  "score": 24.3
+ },
+ {
+  "earlier": "u26_3",
+  "later": "u73_2",
+  "relation": {
+   "id": "r73_3",
+   "source": "u73_2",
+   "target": "u26_3",
+   "type": "REFINES",
+   "rationale": "Return to Overlook Seat describes coming in the morning to the same yellow metal seat of first viewing, while Yellow Metal Seat describes the yellow-metal seat with griffin-head rests on the crest where rest was taken, so the later visit identifies that seat as the first overlook revisited.",
+   "confidence": 0.95,
+   "created_at": 73,
+   "layer": "interpretation",
+   "rationale_raw": "Return to Overlook Seat describes coming in the morning to the same yellow metal seat of first viewing, while Yellow Metal Seat describes the yellow-metal seat with griffin-head rests on the crest where rest was taken, so the later visit identifies that seat as the first overlook revisited."
+  },
+  "source": {
+   "id": "u73_2",
+   "kind": "situation",
+   "label": "Return to Overlook Seat",
+   "content": "The Traveller returns in the morning to the yellow metal seat where he first viewed the future world.",
+   "participants": [
+    "Time Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 0.97,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 73,
+   "last_active_at": 73,
+   "evidence": [
+    {
+     "passage": 73,
+     "quote": "About eight or nine in the morning I came to the same seat of yellow\nmetal",
+     "start": 190,
+     "end": 264
+    }
+   ]
+  },
+  "target": {
+   "id": "u26_3",
+   "kind": "entity",
+   "label": "Yellow Metal Seat",
+   "content": "On the crest sits an unrecognized yellow-metal seat with griffin-head arm-rests where the Traveller rests.",
+   "participants": [
+    "Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 0.97,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 26,
+   "last_active_at": 26,
+   "evidence": [
+    {
+     "passage": 26,
+     "quote": "There I found a seat of some yellow metal that I did not recognise",
+     "start": 477,
+     "end": 543
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 73,
+    "quote": "About eight or nine in the morning I came to the same seat of yellow\nmetal",
+    "before": "“But, as I walked over the smoking ashes under the bright morning sky,\nI made a discovery. In my trouser pocket were still some loose matches.\nThe box must have leaked before it was lost.\n\n“",
+    "after": " from which I had viewed the world upon the evening of my arrival.\nI thought of my hasty conclusions upon that evening and could not\nrefrain from laughing bitterly at my confidence. Here was the same\nbeautiful scene, the"
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 26,
+    "quote": "There I found a seat of some yellow metal that I did not recognise",
+    "before": "arge buildings towards\nthe top of the hill, and as my walking powers were evidently\nmiraculous, I was presently left alone for the first time. With a\nstrange sense of freedom and adventure I pushed on up to the crest.\n\n“",
+    "after": ",\ncorroded in places with a kind of pinkish rust and half smothered in\nsoft moss, the arm-rests cast and filed into the resemblance of\ngriffins’ heads. I sat down on it, and I surveyed the broad view of our\nold world und"
+   }
+  ],
+  "score": 24.225
+ },
+ {
+  "earlier": "u19_2",
+  "later": "u74_2",
+  "relation": {
+   "id": "r74_4",
+   "source": "u74_2",
+   "target": "u19_2",
+   "type": "REFINES",
+   "rationale": "Divided Human Degeneration says the Upperworld drifted toward feeble prettiness, while Frail Future People portrays slight beautiful graceful indescribably frail beings; the drift claim makes the frail portrayal more precise as the outcome for one branch.",
+   "confidence": 0.8,
+   "created_at": 74,
+   "layer": "interpretation",
+   "rationale_raw": "Divided Human Degeneration says the Upperworld drifted toward feeble prettiness, while Frail Future People portrays slight beautiful graceful indescribably frail beings; the drift claim makes the frail portrayal more precise as the outcome for one branch."
+  },
+  "source": {
+   "id": "u74_2",
+   "kind": "claim",
+   "label": "Divided Human Degeneration",
+   "content": "The Upperworld drifted toward feeble prettiness while the Underworld drifted toward mere mechanical industry.",
+   "participants": [
+    "Upperworld man",
+    "Underworld"
+   ],
+   "layer": "observation",
+   "confidence": 0.93,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 74,
+   "last_active_at": 74,
+   "evidence": [
+    {
+     "passage": 74,
+     "quote": "the Upperworld man had drifted towards his feeble",
+     "start": 460,
+     "end": 509
+    }
+   ]
+  },
+  "target": {
+   "id": "u19_2",
+   "kind": "entity",
+   "label": "Frail Future People",
+   "content": "The future people are slight, beautiful, graceful, and indescribably frail beings.",
+   "participants": [
+    "future people"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": "Frail Future People are now also to be read as enfeebled by perfect security which rewarded feebleness.",
+   "state": null,
+   "other_readings": [
+    "Frail future people are now also to be read as the end-point after secure energy burned briefly in art and eroticism and then sank into languor, not only as direct enfeeblement by security.",
+    "The Frail Future People are now to be read as only the surface branch of a humanity split into two species, still frail from security but no longer the whole of humanity.",
+    "The slight beautiful frail people are now also to be understood as descendants of the Capitalist upper branch maintained by underground labour, in addition to being enfeebled by security.",
+    "The slight beautiful frail beings should now also be understood as decaying doomed prey whose former servants are creeping on as their nemesis in a reversed class order.",
+    "Frail Future People remain slight and frail and preyed upon, but are also still recognizably human whose form compels sympathy, so they cannot be regarded with detachment as mere cattle.",
+    "Slight beautiful graceful frail beings are also to be understood as living a pleasant heedless cattle-like existence ending as prey."
+   ],
+   "introduced_at": 19,
+   "last_active_at": 73,
+   "evidence": [
+    {
+     "passage": 19,
+     "quote": "He was a slight creature—perhaps four feet",
+     "start": 234,
+     "end": 276
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 74,
+    "quote": "the Upperworld man had drifted towards his feeble",
+    "before": "bit and instinct are useless. There is\nno intelligence where there is no change and no need of change. Only\nthose animals partake of intelligence that have to meet a huge variety\nof needs and dangers.\n\n“So, as I see it, ",
+    "after": "\nprettiness, and the Underworld to mere mechanical industry. But that\nperfect state had lacked one thing even for mechanical\nperfection—absolute permanency. Apparently as time went on, the feeding\nof an Underworld, howev"
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 19,
+    "quote": "He was a slight creature—perhaps four feet",
+    "before": "voices approaching me. Coming through the bushes by the\nWhite Sphinx were the heads and shoulders of men running. One of these\nemerged in a pathway leading straight to the little lawn upon which I\nstood with my machine. ",
+    "after": "\nhigh—clad in a purple tunic, girdled at the waist with a leather belt.\nSandals or buskins—I could not clearly distinguish which—were on his\nfeet; his legs were bare to the knees, and his head was bare. Noticing\nthat, I "
+   }
+  ],
+  "score": 23.6
+ },
+ {
+  "earlier": "u27_3",
+  "later": "u73_6",
+  "relation": {
+   "id": "r73_8",
+   "source": "u73_6",
+   "target": "u27_3",
+   "type": "REFINES",
+   "rationale": "Comfort-Seeking Intellectual Suicide describes intellect destroying itself through pursuit of comfort, ease and balanced society with security and permanency, while Security Rewards Feebleness states strength comes from need and security rewards feebleness, so the suicide claim develops the general principle into a fate for mind.",
+   "confidence": 0.92,
+   "created_at": 73,
+   "layer": "interpretation",
+   "rationale_raw": "Comfort-Seeking Intellectual Suicide describes intellect destroying itself through pursuit of comfort, ease and balanced society with security and permanency, while Security Rewards Feebleness states strength comes from need and security rewards feebleness, so the suicide claim develops the general principle into a fate for mind."
+  },
+  "source": {
+   "id": "u73_6",
+   "kind": "claim",
+   "label": "Comfort-Seeking Intellectual Suicide",
+   "content": "Human intellect destroyed itself by pursuing comfort, ease, and a balanced society secured by permanency.",
+   "participants": [
+    "humanity"
+   ],
+   "layer": "observation",
+   "confidence": 0.91,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 73,
+   "last_active_at": 73,
+   "evidence": [
+    {
+     "passage": 73,
+     "quote": "It had set itself steadfastly towards\ncomfort and ease, a balanced society with security and permanency as\nits watchword",
+     "start": 1240,
+     "end": 1360
+    }
+   ]
+  },
+  "target": {
+   "id": "u27_3",
+   "kind": "claim",
+   "label": "Security Rewards Feebleness",
+   "content": "Strength comes from need, so perfect security rewards feebleness.",
+   "participants": [],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 27,
+   "last_active_at": 27,
+   "evidence": [
+    {
+     "passage": 27,
+     "quote": "Strength is the outcome of need; security\nsets a premium on feebleness",
+     "start": 299,
+     "end": 369
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 73,
+    "quote": "It had set itself steadfastly towards\ncomfort and ease, a balanced society with security and permanency as\nits watchword",
+    "before": "attle in the field. Like the cattle, they knew of no enemies and\nprovided against no needs. And their end was the same.\n\n“I grieved to think how brief the dream of the human intellect had\nbeen. It had committed suicide. ",
+    "after": ", it had attained its hopes—to come to this at last. Once,\nlife and property must have reached almost absolute safety. The rich\nhad been assured of his wealth and comfort, the toiler assured of his\nlife and work. No doub"
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 27,
+    "quote": "Strength is the outcome of need; security\nsets a premium on feebleness",
+    "before": "set set me thinking of the sunset of mankind. For the first\ntime I began to realise an odd consequence of the social effort in\nwhich we are at present engaged. And yet, come to think, it is a\nlogical consequence enough. ",
+    "after": ". The work of ameliorating the conditions\nof life—the true civilising process that makes life more and more\nsecure—had gone steadily on to a climax. One triumph of a united\nhumanity over Nature had followed another. Thin"
+   }
+  ],
+  "score": 23.0
+ },
+ {
+  "earlier": "u55_1",
+  "later": "u85_5",
+  "relation": {
+   "id": "r85_6",
+   "source": "u85_5",
+   "target": "u55_1",
+   "type": "REFRAMES",
+   "rationale": "The Withered White Flowers describes the Traveller silently placing two withered white flowers on the table, while the Withered White Flowers Witness holds that two shrivelled white flowers remain to witness that gratitude and tenderness survived, giving the same tokens a moral meaning.",
+   "confidence": 0.85,
+   "created_at": 85,
+   "layer": "interpretation",
+   "rationale_raw": "The Withered White Flowers describes the Traveller silently placing two withered white flowers on the table, while the Withered White Flowers Witness holds that two shrivelled white flowers remain to witness that gratitude and tenderness survived, giving the same tokens a moral meaning."
+  },
+  "source": {
+   "id": "u85_5",
+   "kind": "image",
+   "label": "Withered White Flowers Witness",
+   "content": "Two shrivelled white flowers remain as witness that gratitude and tenderness survived in man.",
+   "participants": [
+    "narrator"
+   ],
+   "layer": "interpretation",
+   "confidence": 0.9,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 85,
+   "last_active_at": 85,
+   "evidence": [
+    {
+     "passage": 85,
+     "quote": "two strange white\nflowers—shrivelled now, and brown and flat and brittle—to witness that",
+     "start": 2806,
+     "end": 2894
+    }
+   ]
+  },
+  "target": {
+   "id": "u55_1",
+   "kind": "entity",
+   "label": "Withered White Flowers",
+   "content": "The Traveller silently places two withered white flowers on the table before resuming his story.",
+   "participants": [
+    "Time Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 0.98,
+   "status": "active",
+   "reading": "The Withered White Flowers are now not only silent tokens but contested proof the Traveller appeals to in mute inquiry and refuses to surrender amid the Restless sceptical audience and Editor dismisses tale.",
+   "state": null,
+   "other_readings": [
+    "The Withered White Flowers are also to be read as enduring witness that gratitude and tenderness survived in man, in addition to being silent tokens and contested proof."
+   ],
+   "introduced_at": 55,
+   "last_active_at": 85,
+   "evidence": [
+    {
+     "passage": 55,
+     "quote": "placed two withered flowers, not unlike very large white mallows, upon",
+     "start": 71,
+     "end": 141
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 85,
+    "quote": "two strange white\nflowers—shrivelled now, and brown and flat and brittle—to witness that",
+    "before": "that is so, it remains for us to live as\nthough it were not so. But to me the future is still black and blank—is\na vast ignorance, lit at a few casual places by the memory of his\nstory. And I have by me, for my comfort, ",
+    "after": "\neven when mind and strength had gone, gratitude and a mutual tenderness\nstill lived on in the heart of man."
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 55,
+    "quote": "placed two withered flowers, not unlike very large white mallows, upon",
+    "before": "_The Time Traveller paused, put his hand into his pocket, and silently\n",
+    "after": "\nthe little table. Then he resumed his narrative._\n\n“As the hush of evening crept over the world and we proceeded over the\nhill crest towards Wimbledon, Weena grew tired and wanted to return to\nthe house of grey stone. B"
+   }
+  ],
+  "score": 21.675
+ },
+ {
+  "earlier": "u17_1",
+  "later": "u77_2",
+  "relation": {
+   "id": "r77_3",
+   "source": "u77_2",
+   "target": "u17_1",
+   "type": "CHANGES_STATE",
+   "rationale": "The earlier landing put the machine overturned on soft turf amid hail, while the new account has the machine standing upright on a sloping beach beside a windless sea, showing the machine has been carried onward to a new resting place.",
+   "confidence": 0.9,
+   "created_at": 77,
+   "layer": "interpretation",
+   "rationale_raw": "The earlier landing put the machine overturned on soft turf amid hail, while the new account has the machine standing upright on a sloping beach beside a windless sea, showing the machine has been carried onward to a new resting place."
+  },
+  "source": {
+   "id": "u77_2",
+   "kind": "situation",
+   "label": "Sloping Salt-Edged Beach",
+   "content": "The Time Machine rests on a sloping beach beside a windless sea.",
+   "participants": [
+    "Time Machine"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 77,
+   "last_active_at": 77,
+   "evidence": [
+    {
+     "passage": 77,
+     "quote": "The machine was standing on a sloping beach",
+     "start": 730,
+     "end": 773
+    }
+   ]
+  },
+  "target": {
+   "id": "u17_1",
+   "kind": "event",
+   "label": "Stunned Turf Landing",
+   "content": "The Traveller lands stunned on soft turf beside his overturned machine amid hissing hail.",
+   "participants": [
+    "Traveller",
+    "Time Machine"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": "The machine is no longer overturned on soft turf; it now stands on a sloping beach beside a windless sea in the far future.",
+   "other_readings": [],
+   "introduced_at": 17,
+   "last_active_at": 77,
+   "evidence": [
+    {
+     "passage": 17,
+     "quote": "sitting on soft turf in front of the overset machine",
+     "start": 140,
+     "end": 192
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 77,
+    "quote": "The machine was standing on a sloping beach",
+    "before": "reen vegetation that covered every projecting\npoint on their south-eastern face. It was the same rich green that one\nsees on forest moss or on the lichen in caves: plants which like these\ngrow in a perpetual twilight.\n\n“",
+    "after": ". The sea stretched away to\nthe south-west, to rise into a sharp bright horizon against the wan\nsky. There were no breakers and no waves, for not a breath of wind was\nstirring. Only a slight oily swell rose and fell like"
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 17,
+    "quote": "sitting on soft turf in front of the overset machine",
+    "before": "“There was the sound of a clap of thunder in my ears. I may have been\nstunned for a moment. A pitiless hail was hissing round me, and I was\n",
+    "after": ". Everything still\nseemed grey, but presently I remarked that the confusion in my ears was\ngone. I looked round me. I was on what seemed to be a little lawn in a\ngarden, surrounded by rhododendron bushes, and I noticed t"
+   }
+  ],
+  "score": 21.6
+ },
+ {
+  "earlier": "u15_3",
+  "later": "u77_1",
+  "relation": {
+   "id": "r77_2",
+   "source": "u77_1",
+   "target": "u15_3",
+   "type": "CHANGES_STATE",
+   "rationale": "The earlier daily-leap account has the sun hopping swiftly across the sky every minute marking a day, while the new beach account has the sun sitting huge red and motionless on the horizon, showing the hopping motion has ceased.",
+   "confidence": 0.85,
+   "created_at": 77,
+   "layer": "interpretation",
+   "rationale_raw": "The earlier daily-leap account has the sun hopping swiftly across the sky every minute marking a day, while the new beach account has the sun sitting huge red and motionless on the horizon, showing the hopping motion has ceased."
+  },
+  "source": {
+   "id": "u77_1",
+   "kind": "situation",
+   "label": "Motionless Red Sun Sky",
+   "content": "The sky is split between black starry darkness and red glow where a huge motionless red sun sits on the horizon.",
+   "participants": [],
+   "layer": "observation",
+   "confidence": 0.96,
+   "status": "active",
+   "reading": null,
+   "state": "The sky is no longer split between black starry darkness and red glow with motionless sun; during backward travel the blinking succession of days and nights has resumed with golden sun and blue sky.",
+   "other_readings": [],
+   "introduced_at": 77,
+   "last_active_at": 80,
+   "evidence": [
+    {
+     "passage": 77,
+     "quote": "where, cut by the horizon, lay the\nhuge hull of the sun, red and motionless",
+     "start": 311,
+     "end": 386
+    }
+   ]
+  },
+  "target": {
+   "id": "u15_3",
+   "kind": "event",
+   "label": "Sun Hopping Daily Leap",
+   "content": "The sun hops swiftly across the sky, leaping it every minute with each minute marking a day.",
+   "participants": [
+    "sun",
+    "Time Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 0.96,
+   "status": "active",
+   "reading": null,
+   "state": "The sun is hopping and blinking again with golden sun and blue sky during backward travel.",
+   "other_readings": [],
+   "introduced_at": 15,
+   "last_active_at": 80,
+   "evidence": [
+    {
+     "passage": 15,
+     "quote": "I saw the sun hopping swiftly across the sky, leaping it every\nminute, and every minute marking a day",
+     "start": 418,
+     "end": 519
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 77,
+    "quote": "where, cut by the horizon, lay the\nhuge hull of the sun, red and motionless",
+    "before": "blue. North-eastward it was inky black, and out\nof the blackness shone brightly and steadily the pale white stars.\nOverhead it was a deep Indian red and starless, and south-eastward it\ngrew brighter to a glowing scarlet ",
+    "after": ". The rocks about me were of a\nharsh reddish colour, and all the trace of life that I could see at\nfirst was the intensely green vegetation that covered every projecting\npoint on their south-eastern face. It was the same"
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 15,
+    "quote": "I saw the sun hopping swiftly across the sky, leaping it every\nminute, and every minute marking a day",
+    "before": "! I\nfelt the same horrible anticipation, too, of an imminent smash. As I\nput on pace, night followed day like the flapping of a black wing. The\ndim suggestion of the laboratory seemed presently to fall away from me,\nand ",
+    "after": ". I supposed the laboratory had\nbeen destroyed and I had come into the open air. I had a dim impression\nof scaffolding, but I was already going too fast to be conscious of any\nmoving things. The slowest snail that ever c"
+   }
+  ],
+  "score": 21.037
+ },
+ {
+  "earlier": "u19_5",
+  "later": "u76_2",
+  "relation": {
+   "id": "r76_3",
+   "source": "u76_2",
+   "target": "u19_5",
+   "type": "CHANGES_STATE",
+   "rationale": "The Lever Fixed and Pulled says the lever was at last fixed and pulled over, while Removing Machine Levers says the starting levers had been unscrewed to disable the machine; fixing restores what removal had taken away.",
+   "confidence": 0.9,
+   "created_at": 76,
+   "layer": "interpretation",
+   "rationale_raw": "The Lever Fixed and Pulled says the lever was at last fixed and pulled over, while Removing Machine Levers says the starting levers had been unscrewed to disable the machine; fixing restores what removal had taken away."
+  },
+  "source": {
+   "id": "u76_2",
+   "kind": "event",
+   "label": "Lever Fixed and Pulled",
+   "content": "After a desperate scramble, the Traveller finally fixes and pulls the lever to escape.",
+   "participants": [
+    "Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 0.98,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 76,
+   "last_active_at": 76,
+   "evidence": [
+    {
+     "passage": 76,
+     "quote": "But at last the lever was fixed and pulled over",
+     "start": 642,
+     "end": 689
+    }
+   ]
+  },
+  "target": {
+   "id": "u19_5",
+   "kind": "event",
+   "label": "Removing Machine Levers",
+   "content": "The Traveller unscrews the starting levers from the Time Machine to keep the visitors from setting it in motion.",
+   "participants": [
+    "Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": "The starting levers are no longer removed and safekept; they have been fixed back onto the machine and pulled for escape.",
+   "other_readings": [],
+   "introduced_at": 19,
+   "last_active_at": 76,
+   "evidence": [
+    {
+     "passage": 19,
+     "quote": "machine I unscrewed the little levers that would set it in motion",
+     "start": 2155,
+     "end": 2220
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 76,
+    "quote": "But at last the lever was fixed and pulled over",
+    "before": "ot away from me. As it slipped from my hand, I had to butt in the dark\nwith my head—I could hear the Morlock’s skull ring—to recover it. It\nwas a nearer thing than the fight in the forest, I think, this last\nscramble.\n\n“",
+    "after": ". The clinging hands\nslipped from me. The darkness presently fell from my eyes. I found\nmyself in the same grey light and tumult I have already described.\n\n“I have already told you of the sickness and confusion that come"
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 19,
+    "quote": "machine I unscrewed the little levers that would set it in motion",
+    "before": "made\na sudden motion to warn them when I saw their little pink hands feeling\nat the Time Machine. Happily then, when it was not too late, I thought\nof a danger I had hitherto forgotten, and reaching over the bars of the\n",
+    "after": ", and\nput these in my pocket. Then I turned again to see what I could do in\nthe way of communication."
+   }
+  ],
+  "score": 20.588
+ },
+ {
+  "earlier": "u10_1",
+  "later": "u54_6",
+  "relation": {
+   "id": "r54_8",
+   "source": "u54_6",
+   "target": "u10_1",
+   "type": "REFINES",
+   "rationale": "Interrupted jacket discovery notes something found when changing his jacket, which makes Battered traveller appearance more precise, where he has washed and changed from dusty dirty cut clothes into ordinary evening clothes.",
+   "confidence": 0.8,
+   "created_at": 54,
+   "layer": "interpretation",
+   "rationale_raw": "Interrupted jacket discovery notes something found when changing his jacket, which makes Battered traveller appearance more precise, where he has washed and changed from dusty dirty cut clothes into ordinary evening clothes."
+  },
+  "source": {
+   "id": "u54_6",
+   "kind": "event",
+   "label": "Interrupted jacket discovery",
+   "content": "The narrator interrupts his account to note something he found when changing his jacket.",
+   "participants": [
+    "Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 0.9,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 54,
+   "last_active_at": 54,
+   "evidence": [
+    {
+     "passage": 54,
+     "quote": "reminds me! In changing my jacket I found",
+     "start": 2052,
+     "end": 2093
+    }
+   ]
+  },
+  "target": {
+   "id": "u10_1",
+   "kind": "situation",
+   "label": "Battered traveller appearance",
+   "content": "The Time Traveller appears dusty, dirty, pale, cut, haggard, and limping.",
+   "participants": [
+    "Time Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": "He has now washed and changed into ordinary evening clothes, with nothing of his dusty, dirty, cut condition remaining save his haggard look.",
+   "other_readings": [],
+   "introduced_at": 10,
+   "last_active_at": 11,
+   "evidence": [
+    {
+     "passage": 10,
+     "quote": "His coat was dusty and dirty, and smeared",
+     "start": 29,
+     "end": 70
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 54,
+    "quote": "reminds me! In changing my jacket I found",
+    "before": "owers to stick in my\npockets. My pockets had always puzzled Weena, but at the last she had\nconcluded that they were an eccentric kind of vases for floral\ndecoration. At least she utilised them for that purpose. And that\n",
+    "after": "…”"
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 10,
+    "quote": "His coat was dusty and dirty, and smeared",
+    "before": "He was in an amazing plight. ",
+    "after": "\nwith green down the sleeves; his hair disordered, and as it seemed to\nme greyer—either with dust and dirt or because its colour had actually\nfaded. His face was ghastly pale; his chin had a brown cut on it—a cut\nhalf-he"
+   }
+  ],
+  "score": 19.2
+ },
+ {
+  "earlier": "u16_2",
+  "later": "u60_3",
+  "relation": {
+   "id": "r60_3",
+   "source": "u60_3",
+   "target": "u16_2",
+   "type": "REFINES",
+   "rationale": "Future South Kensington concludes the ruins are a latter-day South Kensington palaeontological collection, which makes precise the earlier glimpse of massive splendid future architecture as a specific decayed museum.",
+   "confidence": 0.8,
+   "created_at": 60,
+   "layer": "interpretation",
+   "rationale_raw": "Future South Kensington concludes the ruins are a latter-day South Kensington palaeontological collection, which makes precise the earlier glimpse of massive splendid future architecture as a specific decayed museum."
+  },
+  "source": {
+   "id": "u60_3",
+   "kind": "claim",
+   "label": "Future South Kensington",
+   "content": "The Traveller concludes the ruins are a latter-day South Kensington palaeontological collection.",
+   "participants": [
+    "Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 0.9,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 60,
+   "last_active_at": 60,
+   "evidence": [
+    {
+     "passage": 60,
+     "quote": "Clearly we stood among the ruins of some latter-day South Kensington!",
+     "start": 1083,
+     "end": 1152
+    }
+   ]
+  },
+  "target": {
+   "id": "u16_2",
+   "kind": "image",
+   "label": "Glimmering Future Architecture",
+   "content": "He glimpses massive mist-like splendid buildings and evergreen earth suggesting wonderful future advances.",
+   "participants": [
+    "Time Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 0.96,
+   "status": "active",
+   "reading": "Massive splendid buildings remain seen, but they no longer signify vastly superior inhabitants; childlike frail people show architectural splendour can coexist with intellectual decline.",
+   "state": null,
+   "other_readings": [
+    "The massive splendid buildings are understood as themselves worn and dilapidated, not merely coexisting with decline but physically decaying.",
+    "Glimmering Future Architecture is now also to be read as relics of the civilising climax left to decay after security enfeebled their maintainers.",
+    "Glimmering Future Architecture is now also to be read as grandeur built by perfect conquest and left to ruin by contented inactivity.",
+    "Massive splendid buildings are also to be read as relics of an intellect that destroyed itself by pursuing comfort, ease and a permanent secure balanced society."
+   ],
+   "introduced_at": 16,
+   "last_active_at": 73,
+   "evidence": [
+    {
+     "passage": 16,
+     "quote": "I saw great and\nsplendid architecture rising about me, more massive than any buildings\nof our own time",
+     "start": 809,
+     "end": 911
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 60,
+    "quote": "Clearly we stood among the ruins of some latter-day South Kensington!",
+    "before": " appeared to be sloping shelves, and\nclearing away the thick dust, I found the old familiar glass cases of\nour own time. But they must have been air-tight to judge from the fair\npreservation of some of their contents.\n\n“",
+    "after": "\nHere, apparently, was the Palæontological Section, and a very splendid\narray of fossils it must have been, though the inevitable process of\ndecay that had been staved off for a time, and had, through the\nextinction of b"
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 16,
+    "quote": "I saw great and\nsplendid architecture rising about me, more massive than any buildings\nof our own time",
+    "before": "at strange developments of\nhumanity, what wonderful advances upon our rudimentary civilisation, I\nthought, might not appear when I came to look nearly into the dim\nelusive world that raced and fluctuated before my eyes! ",
+    "after": ", and yet, as it seemed, built of glimmer and mist. I\nsaw a richer green flow up the hillside, and remain there, without any\nwintry intermission. Even through the veil of my confusion the earth\nseemed very fair. And so m"
+   }
+  ],
+  "score": 19.2
+ },
+ {
+  "earlier": "u19_2",
+  "later": "u59_5",
+  "relation": {
+   "id": "r59_4",
+   "source": "u59_5",
+   "target": "u19_2",
+   "type": "REFINES",
+   "rationale": "The Weena without writing account says she has no idea of writing yet seems more human through affection, while the frail future people account describes slight beautiful graceful frail beings, so the Weena account specifies their intellectual limit and human quality.",
+   "confidence": 0.85,
+   "created_at": 59,
+   "layer": "interpretation",
+   "rationale_raw": "The Weena without writing account says she has no idea of writing yet seems more human through affection, while the frail future people account describes slight beautiful graceful frail beings, so the Weena account specifies their intellectual limit and human quality."
+  },
+  "source": {
+   "id": "u59_5",
+   "kind": "claim",
+   "label": "Weena Without Writing",
+   "content": "Weena has no idea of writing yet seems more human than she is because her affection is so human.",
+   "participants": [
+    "Weena",
+    "Traveller"
+   ],
+   "layer": "interpretation",
+   "confidence": 0.88,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 59,
+   "last_active_at": 59,
+   "evidence": [
+    {
+     "passage": 59,
+     "quote": "the bare idea of writing\nhad never entered her head",
+     "start": 1754,
+     "end": 1805
+    }
+   ]
+  },
+  "target": {
+   "id": "u19_2",
+   "kind": "entity",
+   "label": "Frail Future People",
+   "content": "The future people are slight, beautiful, graceful, and indescribably frail beings.",
+   "participants": [
+    "future people"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": "Frail Future People are now also to be read as enfeebled by perfect security which rewarded feebleness.",
+   "state": null,
+   "other_readings": [
+    "Frail future people are now also to be read as the end-point after secure energy burned briefly in art and eroticism and then sank into languor, not only as direct enfeeblement by security.",
+    "The Frail Future People are now to be read as only the surface branch of a humanity split into two species, still frail from security but no longer the whole of humanity.",
+    "The slight beautiful frail people are now also to be understood as descendants of the Capitalist upper branch maintained by underground labour, in addition to being enfeebled by security.",
+    "The slight beautiful frail beings should now also be understood as decaying doomed prey whose former servants are creeping on as their nemesis in a reversed class order.",
+    "Frail Future People remain slight and frail and preyed upon, but are also still recognizably human whose form compels sympathy, so they cannot be regarded with detachment as mere cattle.",
+    "Slight beautiful graceful frail beings are also to be understood as living a pleasant heedless cattle-like existence ending as prey."
+   ],
+   "introduced_at": 19,
+   "last_active_at": 73,
+   "evidence": [
+    {
+     "passage": 19,
+     "quote": "He was a slight creature—perhaps four feet",
+     "start": 234,
+     "end": 276
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 59,
+    "quote": "the bare idea of writing\nhad never entered her head",
+    "before": "lace proved on examination to be indeed\nporcelain, and along the face of it I saw an inscription in some\nunknown character. I thought, rather foolishly, that Weena might help\nme to interpret this, but I only learnt that ",
+    "after": ". She always seemed to me, I fancy, more\nhuman than she was, perhaps because her affection was so human."
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 19,
+    "quote": "He was a slight creature—perhaps four feet",
+    "before": "voices approaching me. Coming through the bushes by the\nWhite Sphinx were the heads and shoulders of men running. One of these\nemerged in a pathway leading straight to the little lawn upon which I\nstood with my machine. ",
+    "after": "\nhigh—clad in a purple tunic, girdled at the waist with a leather belt.\nSandals or buskins—I could not clearly distinguish which—were on his\nfeet; his legs were bare to the knees, and his head was bare. Noticing\nthat, I "
+   }
+  ],
+  "score": 18.7
+ },
+ {
+  "earlier": "u31_5",
+  "later": "u82_5",
+  "relation": {
+   "id": "r82_7",
+   "source": "u82_5",
+   "target": "u31_5",
+   "type": "CHANGES_STATE",
+   "rationale": "Scarred knuckles evidence shows half-healed scars looked at now, while Bloody bush beating described knuckles gashed and bleeding from beating bushes; healed scars are the later state of the same wounds.",
+   "confidence": 0.9,
+   "created_at": 82,
+   "layer": "interpretation",
+   "rationale_raw": "Scarred knuckles evidence shows half-healed scars looked at now, while Bloody bush beating described knuckles gashed and bleeding from beating bushes; healed scars are the later state of the same wounds."
+  },
+  "source": {
+   "id": "u82_5",
+   "kind": "entity",
+   "label": "Scarred knuckles evidence",
+   "content": "The Traveller looks at half-healed scars on his own knuckles.",
+   "participants": [
+    "Time Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 0.93,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 82,
+   "last_active_at": 82,
+   "evidence": [
+    {
+     "passage": 82,
+     "quote": "he was looking at some half-healed scars on his knuckles",
+     "start": 1106,
+     "end": 1162
+    }
+   ]
+  },
+  "target": {
+   "id": "u31_5",
+   "kind": "event",
+   "label": "Bloody bush beating",
+   "content": "In frenzy the Traveller beats the bushes until his knuckles are gashed and bleeding.",
+   "participants": [
+    "Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": "The gashed bleeding knuckles are now half-healed scars examined after the story.",
+   "other_readings": [],
+   "introduced_at": 31,
+   "last_active_at": 82,
+   "evidence": [
+    {
+     "passage": 31,
+     "quote": "fist until my knuckles were gashed and bleeding from the broken twigs",
+     "start": 1397,
+     "end": 1466
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 82,
+    "quote": "he was looking at some half-healed scars on his knuckles",
+    "before": "ng. “To tell you the truth... I\nhardly believe it myself..... And yet...”\n\nHis eye fell with a mute inquiry upon the withered white flowers upon\nthe little table. Then he turned over the hand holding his pipe, and I\nsaw ",
+    "after": ".\n\nThe Medical Man rose, came to the lamp, and examined the flowers. “The\ngynæceum’s odd,” he said. The Psychologist leant forward to see,\nholding out his hand for a specimen.\n\n“I’m hanged if it isn’t a quarter to one,” "
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 31,
+    "quote": "fist until my knuckles were gashed and bleeding from the broken twigs",
+    "before": " violently\nin and out among the moonlit bushes all round the sphinx, and startling\nsome white animal that, in the dim light, I took for a small deer. I\nremember, too, late that night, beating the bushes with my clenched\n",
+    "after": ".\nThen, sobbing and raving in my anguish of mind, I went down to the\ngreat building of stone. The big hall was dark, silent, and deserted. I\nslipped on the uneven floor, and fell over one of the malachite tables,\nalmost "
+   }
+  ],
+  "score": 18.562
+ },
+ {
+  "earlier": "u36_1",
+  "later": "u73_4",
+  "relation": {
+   "id": "r73_5",
+   "source": "u73_4",
+   "target": "u36_1",
+   "type": "REFINES",
+   "rationale": "Cupolas as Landscape Blots describes cupolas above Underworld ways rising like blots upon the landscape, while Lush uniform future landscape describes the world as uniformly rich with buildings, greenery, water and blue hills, so the blot image qualifies uniform beauty as marred.",
+   "confidence": 0.9,
+   "created_at": 73,
+   "layer": "interpretation",
+   "rationale_raw": "Cupolas as Landscape Blots describes cupolas above Underworld ways rising like blots upon the landscape, while Lush uniform future landscape describes the world as uniformly rich with buildings, greenery, water and blue hills, so the blot image qualifies uniform beauty as marred."
+  },
+  "source": {
+   "id": "u73_4",
+   "kind": "image",
+   "label": "Cupolas as Landscape Blots",
+   "content": "The cupolas leading to the Underworld appear as blots spoiling the beautiful Overworld landscape.",
+   "participants": [
+    "Underworld cupolas"
+   ],
+   "layer": "observation",
+   "confidence": 0.92,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 73,
+   "last_active_at": 73,
+   "evidence": [
+    {
+     "passage": 73,
+     "quote": "like blots upon the landscape rose the cupolas above the ways to the\nUnderworld",
+     "start": 809,
+     "end": 888
+    }
+   ]
+  },
+  "target": {
+   "id": "u36_1",
+   "kind": "situation",
+   "label": "Lush uniform future landscape",
+   "content": "The future world appears uniformly rich with splendid buildings, greenery, shining water, and distant blue hills.",
+   "participants": [],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 36,
+   "last_active_at": 36,
+   "evidence": [
+    {
+     "passage": 36,
+     "quote": "all the world displayed the same exuberant",
+     "start": 24,
+     "end": 66
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 73,
+    "quote": "like blots upon the landscape rose the cupolas above the ways to the\nUnderworld",
+    "before": "tween its\nfertile banks. The gay robes of the beautiful people moved hither and\nthither among the trees. Some were bathing in exactly the place where I\nhad saved Weena, and that suddenly gave me a keen stab of pain. And\n",
+    "after": ". I understood now what all the beauty of the Overworld\npeople covered. Very pleasant was their day, as pleasant as the day of\nthe cattle in the field. Like the cattle, they knew of no enemies and\nprovided against no nee"
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 36,
+    "quote": "all the world displayed the same exuberant",
+    "before": "“So far as I could see, ",
+    "after": "\nrichness as the Thames valley. From every hill I climbed I saw the same\nabundance of splendid buildings, endlessly varied in material and\nstyle, the same clustering thickets of evergreens, the same\nblossom-laden trees a"
+   }
+  ],
+  "score": 18.45
+ },
+ {
+  "earlier": "u54_1",
+  "later": "u85_4",
+  "relation": {
+   "id": "r85_5",
+   "source": "u85_4",
+   "target": "u54_1",
+   "type": "CONTRADICTS",
+   "rationale": "The Fearless modern self presents the present age as a ripe prime when fear does not paralyse and mystery has lost its terrors, while the Future as Black Blank confesses that to the narrator the future is still black and blank vast ignorance, showing mystery remains.",
+   "confidence": 0.7,
+   "created_at": 85,
+   "layer": "interpretation",
+   "rationale_raw": "The Fearless modern self presents the present age as a ripe prime when fear does not paralyse and mystery has lost its terrors, while the Future as Black Blank confesses that to the narrator the future is still black and blank vast ignorance, showing mystery remains."
+  },
+  "source": {
+   "id": "u85_4",
+   "kind": "concept",
+   "label": "Future as Black Blank",
+   "content": "To the narrator the future remains a black and blank vast ignorance.",
+   "participants": [
+    "narrator"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 85,
+   "last_active_at": 85,
+   "evidence": [
+    {
+     "passage": 85,
+     "quote": "But to me the future is still black and blank—is",
+     "start": 2650,
+     "end": 2698
+    }
+   ]
+  },
+  "target": {
+   "id": "u54_1",
+   "kind": "concept",
+   "label": "Fearless modern self",
+   "content": "The Traveller presents his own age as a ripe prime when fear does not paralyse and mystery has lost its terrors.",
+   "participants": [
+    "Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 0.9,
+   "status": "contested",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 54,
+   "last_active_at": 54,
+   "evidence": [
+    {
+     "passage": 54,
+     "quote": "of ours, this ripe prime of the human race, when Fear does not paralyse",
+     "start": 139,
+     "end": 210
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 85,
+    "quote": "But to me the future is still black and blank—is",
+    "before": "nt of Mankind, and saw in the growing pile of civilisation\nonly a foolish heaping that must inevitably fall back upon and destroy\nits makers in the end. If that is so, it remains for us to live as\nthough it were not so. ",
+    "after": "\na vast ignorance, lit at a few casual places by the memory of his\nstory. And I have by me, for my comfort, two strange white\nflowers—shrivelled now, and brown and flat and brittle—to witness that\neven when mind and stre"
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 54,
+    "quote": "of ours, this ripe prime of the human race, when Fear does not paralyse",
+    "before": "“Still, however helpless the little people in the presence of their\nmysterious Fear, I was differently constituted. I came out of this age\n",
+    "after": "\nand mystery has lost its terrors. I at least would defend myself.\nWithout further delay I determined to make myself arms and a fastness\nwhere I might sleep. With that refuge as a base, I could face this\nstrange world wi"
+   }
+  ],
+  "score": 18.375
+ },
+ {
+  "earlier": "u15_4",
+  "later": "u76_5",
+  "relation": {
+   "id": "r76_9",
+   "source": "u76_5",
+   "target": "u15_4",
+   "type": "CHANGES_STATE",
+   "rationale": "The Motionless Red Sun shows the sun halted motionless on the horizon, while Merged Continuous Greyness describes night and day merging into continuous greyness from rapid passage; a stopped sun ends that flickering alternation.",
+   "confidence": 0.75,
+   "created_at": 76,
+   "layer": "interpretation",
+   "rationale_raw": "The Motionless Red Sun shows the sun halted motionless on the horizon, while Merged Continuous Greyness describes night and day merging into continuous greyness from rapid passage; a stopped sun ends that flickering alternation."
+  },
+  "source": {
+   "id": "u76_5",
+   "kind": "image",
+   "label": "Motionless Red Sun",
+   "content": "The far-future sun hangs huge, red, and motionless on the horizon.",
+   "participants": [
+    "sun"
+   ],
+   "layer": "observation",
+   "confidence": 0.96,
+   "status": "active",
+   "reading": null,
+   "state": "The Motionless Red Sun is no longer fully obscured by eclipse darkness; its edge has reappeared as a red-hot bow.",
+   "other_readings": [],
+   "introduced_at": 76,
+   "last_active_at": 80,
+   "evidence": [
+    {
+     "passage": 76,
+     "quote": "stopped, the sun, red and very large, halted motionless upon the",
+     "start": 2543,
+     "end": 2607
+    }
+   ]
+  },
+  "target": {
+   "id": "u15_4",
+   "kind": "situation",
+   "label": "Merged Continuous Greyness",
+   "content": "Faster still, the palpitation of night and day merges into one continuous greyness and deep blue sky.",
+   "participants": [
+    "night",
+    "day",
+    "sky"
+   ],
+   "layer": "observation",
+   "confidence": 0.94,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 15,
+   "last_active_at": 15,
+   "evidence": [
+    {
+     "passage": 15,
+     "quote": "the palpitation of night and day merged into one\ncontinuous greyness; the sky took on a wonderful deepness of blue",
+     "start": 1061,
+     "end": 1175
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 76,
+    "quote": "stopped, the sun, red and very large, halted motionless upon the",
+    "before": "nd fell in\nthe west, and grew ever broader and more red. All trace of the moon had\nvanished. The circling of the stars, growing slower and slower, had\ngiven place to creeping points of light. At last, some time before I\n",
+    "after": "\nhorizon, a vast dome glowing with a dull heat, and now and then\nsuffering a momentary extinction. At one time it had for a little while\nglowed more brilliantly again, but it speedily reverted to its sullen\nred heat. I p"
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 15,
+    "quote": "the palpitation of night and day merged into one\ncontinuous greyness; the sky took on a wonderful deepness of blue",
+    "before": "ul to the eye. Then, in the intermittent darknesses, I saw the\nmoon spinning swiftly through her quarters from new to full, and had a\nfaint glimpse of the circling stars. Presently, as I went on, still\ngaining velocity, ",
+    "after": ", a\nsplendid luminous colour like that of early twilight; the jerking sun\nbecame a streak of fire, a brilliant arch, in space; the moon a fainter\nfluctuating band; and I could see nothing of the stars, save now and\nthen "
+   }
+  ],
+  "score": 18.281
+ },
+ {
+  "earlier": "u19_2",
+  "later": "u58_5",
+  "relation": {
+   "id": "r58_7",
+   "source": "u58_5",
+   "target": "u19_2",
+   "type": "REFINES",
+   "rationale": "Inescapable Human Sympathy stresses that human form still claims sympathy and forces shared degradation and Fear, while Frail Future People describes slight beautiful frail beings. The sympathy claim develops frailty as still recognizably human.",
+   "confidence": 0.85,
+   "created_at": 58,
+   "layer": "interpretation",
+   "rationale_raw": "Inescapable Human Sympathy stresses that human form still claims sympathy and forces shared degradation and Fear, while Frail Future People describes slight beautiful frail beings. The sympathy claim develops frailty as still recognizably human."
+  },
+  "source": {
+   "id": "u58_5",
+   "kind": "situation",
+   "label": "Inescapable Human Sympathy",
+   "content": "The Traveller admits detachment is impossible because the Eloi's human form claims his sympathy and makes him share their degradation and Fear.",
+   "participants": [
+    "Traveller",
+    "Eloi"
+   ],
+   "layer": "observation",
+   "confidence": 0.94,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 58,
+   "last_active_at": 58,
+   "evidence": [
+    {
+     "passage": 58,
+     "quote": "my sympathy, and to make me perforce a sharer in their degradation and",
+     "start": 1815,
+     "end": 1885
+    }
+   ]
+  },
+  "target": {
+   "id": "u19_2",
+   "kind": "entity",
+   "label": "Frail Future People",
+   "content": "The future people are slight, beautiful, graceful, and indescribably frail beings.",
+   "participants": [
+    "future people"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": "Frail Future People are now also to be read as enfeebled by perfect security which rewarded feebleness.",
+   "state": null,
+   "other_readings": [
+    "Frail future people are now also to be read as the end-point after secure energy burned briefly in art and eroticism and then sank into languor, not only as direct enfeeblement by security.",
+    "The Frail Future People are now to be read as only the surface branch of a humanity split into two species, still frail from security but no longer the whole of humanity.",
+    "The slight beautiful frail people are now also to be understood as descendants of the Capitalist upper branch maintained by underground labour, in addition to being enfeebled by security.",
+    "The slight beautiful frail beings should now also be understood as decaying doomed prey whose former servants are creeping on as their nemesis in a reversed class order.",
+    "Frail Future People remain slight and frail and preyed upon, but are also still recognizably human whose form compels sympathy, so they cannot be regarded with detachment as mere cattle.",
+    "Slight beautiful graceful frail beings are also to be understood as living a pleasant heedless cattle-like existence ending as prey."
+   ],
+   "introduced_at": 19,
+   "last_active_at": 73,
+   "evidence": [
+    {
+     "passage": 19,
+     "quote": "He was a slight creature—perhaps four feet",
+     "start": 234,
+     "end": 276
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 58,
+    "quote": "my sympathy, and to make me perforce a sharer in their degradation and",
+    "before": " I even tried a\nCarlyle-like scorn of this wretched aristocracy in decay. But this\nattitude of mind was impossible. However great their intellectual\ndegradation, the Eloi had kept too much of the human form not to claim\n",
+    "after": "\ntheir Fear."
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 19,
+    "quote": "He was a slight creature—perhaps four feet",
+    "before": "voices approaching me. Coming through the bushes by the\nWhite Sphinx were the heads and shoulders of men running. One of these\nemerged in a pathway leading straight to the little lawn upon which I\nstood with my machine. ",
+    "after": "\nhigh—clad in a purple tunic, girdled at the waist with a leather belt.\nSandals or buskins—I could not clearly distinguish which—were on his\nfeet; his legs were bare to the knees, and his head was bare. Noticing\nthat, I "
+   }
+  ],
+  "score": 18.275
+ },
+ {
+  "earlier": "u20_1",
+  "later": "u43_6",
+  "relation": {
+   "id": "r43_11",
+   "source": "u43_6",
+   "target": "u20_1",
+   "type": "REFRAMES",
+   "rationale": "Humanity Split Species claims humanity differentiated into two distinct animals, changing what Delicate Future People, with Dresden-china prettiness and childlike features, stands for from all humanity to only one branch.",
+   "confidence": 0.9,
+   "created_at": 43,
+   "layer": "interpretation",
+   "rationale_raw": "Humanity Split Species claims humanity differentiated into two distinct animals, changing what Delicate Future People, with Dresden-china prettiness and childlike features, stands for from all humanity to only one branch."
+  },
+  "source": {
+   "id": "u43_6",
+   "kind": "claim",
+   "label": "Humanity Split Species",
+   "content": "Humanity has differentiated from one species into two distinct animals.",
+   "participants": [
+    "Man",
+    "Upper World people",
+    "nocturnal Thing"
+   ],
+   "layer": "observation",
+   "confidence": 0.97,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 43,
+   "last_active_at": 43,
+   "evidence": [
+    {
+     "passage": 43,
+     "quote": "had not remained one species, but had differentiated into two distinct",
+     "start": 1350,
+     "end": 1420
+    }
+   ]
+  },
+  "target": {
+   "id": "u20_1",
+   "kind": "entity",
+   "label": "Delicate Future People",
+   "content": "The future people have a delicate Dresden-china prettiness with small, childlike features and large mild eyes.",
+   "participants": [
+    "future people"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": "Delicate Future People are now also to be read as the languor endpoint after secure energy burned briefly in art and eroticism, not only as directly enfeebled by security.",
+   "state": null,
+   "other_readings": [
+    "The delicate Dresden-china people are only the surface branch of a humanity now split into two distinct species, still showing enfeeblement after security but no longer taken as the whole of humanity.",
+    "Delicate Future People are now also to be read as the Capitalist-descended surface branch maintained by hidden underground labour while remaining the languor endpoint.",
+    "The Delicate Future People are now also to be understood as decaying doomed prey whose former servants are creeping on as their nemesis.",
+    "Delicate Future People remain delicate Dresden-china pretty beings but are also still recognizably human whose form compels sympathy so they cannot be regarded with detachment as mere cattle.",
+    "Delicate Future People are also to be understood as living a pleasant heedless cattle-like existence ending as prey."
+   ],
+   "introduced_at": 20,
+   "last_active_at": 73,
+   "evidence": [
+    {
+     "passage": 20,
+     "quote": "peculiarities in their Dresden china type of prettiness",
+     "start": 71,
+     "end": 126
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 43,
+    "quote": "had not remained one species, but had differentiated into two distinct",
+    "before": "isappeared.\n\n“I do not know how long I sat peering down that well. It was not for\nsome time that I could succeed in persuading myself that the thing I\nhad seen was human. But, gradually, the truth dawned on me: that Man\n",
+    "after": "\nanimals: that my graceful children of the Upper World were not the sole\ndescendants of our generation, but that this bleached, obscene,\nnocturnal Thing, which had flashed before me, was also heir to all the\nages."
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 20,
+    "quote": "peculiarities in their Dresden china type of prettiness",
+    "before": "“And then, looking more nearly into their features, I saw some further\n",
+    "after": ". Their hair,\nwhich was uniformly curly, came to a sharp end at the neck and cheek;\nthere was not the faintest suggestion of it on the face, and their ears\nwere singularly minute. The mouths were small, with bright red, "
+   }
+  ],
+  "score": 18.225
+ },
+ {
+  "earlier": "u03_4",
+  "later": "u80_4",
+  "relation": {
+   "id": "r80_3",
+   "source": "u80_4",
+   "target": "u03_4",
+   "type": "SUPPORTS",
+   "rationale": "The Hope to reverse Time drift suggests humans might turn about and travel the other way in Time, while the Backward flight through time shows days and nights resuming with golden sun and blue sky on a backward journey, giving an actual example of that possibility.",
+   "confidence": 0.9,
+   "created_at": 80,
+   "layer": "interpretation",
+   "rationale_raw": "The Hope to reverse Time drift suggests humans might turn about and travel the other way in Time, while the Backward flight through time shows days and nights resuming with golden sun and blue sky on a backward journey, giving an actual example of that possibility."
+  },
+  "source": {
+   "id": "u80_4",
+   "kind": "event",
+   "label": "Backward flight through time",
+   "content": "He travels backward as the blinking succession of days and nights resumes with golden sun and blue sky.",
+   "participants": [
+    "Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 0.97,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 80,
+   "last_active_at": 80,
+   "evidence": [
+    {
+     "passage": 80,
+     "quote": "The blinking succession of the days and nights was resumed,\nthe sun got golden again, the sky blue",
+     "start": 924,
+     "end": 1022
+    }
+   ]
+  },
+  "target": {
+   "id": "u03_4",
+   "kind": "claim",
+   "label": "Hope to reverse Time drift",
+   "content": "The Traveller suggests humans might turn about and travel the other way in Time.",
+   "participants": [
+    "Time Traveller"
+   ],
+   "layer": "observation",
+   "confidence": 0.93,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 3,
+   "last_active_at": 3,
+   "evidence": [
+    {
+     "passage": 3,
+     "quote": "Time-Dimension, or even turn about and travel the other way?",
+     "start": 1507,
+     "end": 1567
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 80,
+    "quote": "The blinking succession of the days and nights was resumed,\nthe sun got golden again, the sky blue",
+    "before": "lt I was fainting. But a terrible dread of lying helpless in that\nremote and awful twilight sustained me while I clambered upon the\nsaddle.\n\n“So I came back. For a long time I must have been insensible upon the\nmachine. ",
+    "after": ". I breathed with greater\nfreedom. The fluctuating contours of the land ebbed and flowed. The\nhands spun backward upon the dials. At last I saw again the dim shadows\nof houses, the evidences of decadent humanity. These, "
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 3,
+    "quote": "Time-Dimension, or even turn about and travel the other way?",
+    "before": "ound. But a\ncivilised man is better off than the savage in this respect. He can go\nup against gravitation in a balloon, and why should he not hope that\nultimately he may be able to stop or accelerate his drift along the\n",
+    "after": "”\n\n“Oh, _this_,” began Filby, “is all—”\n\n“Why not?” said the Time Traveller.\n\n“It’s against reason,” said Filby.\n\n“What reason?” said the Time Traveller."
+   }
+  ],
+  "score": 18.225
+ },
+ {
+  "earlier": "u24_3",
+  "later": "u76_4",
+  "relation": {
+   "id": "r76_6",
+   "source": "u76_4",
+   "target": "u24_3",
+   "type": "CHANGES_STATE",
+   "rationale": "The Rush Into Deep Futurity says the thousands hand sweeps as fast as seconds, while Machine's Far Future Date records the dials at 802,701; the rapid spinning leaves that recorded date behind.",
+   "confidence": 0.85,
+   "created_at": 76,
+   "layer": "interpretation",
+   "rationale_raw": "The Rush Into Deep Futurity says the thousands hand sweeps as fast as seconds, while Machine's Far Future Date records the dials at 802,701; the rapid spinning leaves that recorded date behind."
+  },
+  "source": {
+   "id": "u76_4",
+   "kind": "situation",
+   "label": "Rush Into Deep Futurity",
+   "content": "The thousands-day dial spins as fast as a seconds hand, showing a rush into the far future.",
+   "participants": [
+    "Time Machine"
+   ],
+   "layer": "observation",
+   "confidence": 0.9,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 76,
+   "last_active_at": 76,
+   "evidence": [
+    {
+     "passage": 76,
+     "quote": "found that the thousands hand was sweeping round as fast as the seconds",
+     "start": 1478,
+     "end": 1549
+    }
+   ]
+  },
+  "target": {
+   "id": "u24_3",
+   "kind": "claim",
+   "label": "Machine's Far Future Date",
+   "content": "The machine's dials record the date as A.D. 802,701.",
+   "participants": [
+    "time machine"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": "The dials no longer stand at 802,701; they are spinning rapidly onward into far deeper futurity.",
+   "other_readings": [],
+   "introduced_at": 24,
+   "last_active_at": 76,
+   "evidence": [
+    {
+     "passage": 24,
+     "quote": "Hundred and Two Thousand Seven Hundred and One, A.D",
+     "start": 1331,
+     "end": 1382
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 76,
+    "quote": "found that the thousands hand was sweeping round as fast as the seconds",
+    "before": "r thousands\nof days, another millions of days, and another thousands of millions.\nNow, instead of reversing the levers, I had pulled them over so as to\ngo forward with them, and when I came to look at these indicators I\n",
+    "after": "\nhand of a watch—into futurity.\n\n“As I drove on, a peculiar change crept over the appearance of things.\nThe palpitating greyness grew darker; then—though I was still\ntravelling with prodigious velocity—the blinking succe"
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 24,
+    "quote": "Hundred and Two Thousand Seven Hundred and One, A.D",
+    "before": "t the Thames\nhad shifted, perhaps, a mile from its present position. I resolved to\nmount to the summit of a crest, perhaps a mile and a half away, from\nwhich I could get a wider view of this our planet in the year Eight\n",
+    "after": ". For that, I should\nexplain, was the date the little dials of my machine recorded.\n\n“As I walked I was watching for every impression that could possibly\nhelp to explain the condition of ruinous splendour in which I foun"
+   }
+  ],
+  "score": 17.85
+ },
+ {
+  "earlier": "u29_5",
+  "later": "u74_3",
+  "relation": {
+   "id": "r74_5",
+   "source": "u74_3",
+   "target": "u29_5",
+   "type": "CHANGES_STATE",
+   "rationale": "Necessity Returns Below says necessity returned below after thousands of years when Underworld feeding became disjointed, while Broken Grindstone of Necessity celebrated pain and necessity as a hateful grindstone finally broken; the return alters the earlier broken condition.",
+   "confidence": 0.9,
+   "created_at": 74,
+   "layer": "interpretation",
+   "rationale_raw": "Necessity Returns Below says necessity returned below after thousands of years when Underworld feeding became disjointed, while Broken Grindstone of Necessity celebrated pain and necessity as a hateful grindstone finally broken; the return alters the earlier broken condition."
+  },
+  "source": {
+   "id": "u74_3",
+   "kind": "event",
+   "label": "Necessity Returns Below",
+   "content": "After being staved off for thousands of years, necessity returned below when Underworld feeding became disjointed.",
+   "participants": [
+    "Mother Necessity",
+    "Underworld"
+   ],
+   "layer": "observation",
+   "confidence": 0.9,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 74,
+   "last_active_at": 74,
+   "evidence": [
+    {
+     "passage": 74,
+     "quote": "Mother Necessity, who had been staved off for a few thousand years",
+     "start": 772,
+     "end": 838
+    }
+   ]
+  },
+  "target": {
+   "id": "u29_5",
+   "kind": "image",
+   "label": "Broken Grindstone of Necessity",
+   "content": "Pain and necessity are a grindstone that kept humans keen, and here that hateful grindstone is finally broken.",
+   "participants": [
+    "Traveller",
+    "Humanity"
+   ],
+   "layer": "observation",
+   "confidence": 0.92,
+   "status": "active",
+   "reading": null,
+   "state": "Pain and necessity are no longer finally broken everywhere; after thousands of years necessity has returned below.",
+   "other_readings": [],
+   "introduced_at": 29,
+   "last_active_at": 74,
+   "evidence": [
+    {
+     "passage": 29,
+     "quote": "that hateful grindstone broken at last!",
+     "start": 2037,
+     "end": 2076
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 74,
+    "quote": "Mother Necessity, who had been staved off for a few thousand years",
+    "before": "hanical industry. But that\nperfect state had lacked one thing even for mechanical\nperfection—absolute permanency. Apparently as time went on, the feeding\nof an Underworld, however it was effected, had become disjointed.\n",
+    "after": ",\ncame back again, and she began below. The Underworld being in contact\nwith machinery, which, however perfect, still needs some little thought\noutside habit, had probably retained perforce rather more initiative,\nif les"
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 29,
+    "quote": "that hateful grindstone broken at last!",
+    "before": "he sunlight: so much was left of the artistic spirit, and no more.\nEven that would fade in the end into a contented inactivity. We are\nkept keen on the grindstone of pain and necessity, and it seemed to me\nthat here was ",
+    "after": ""
+   }
+  ],
+  "score": 16.538
+ },
+ {
+  "earlier": "u30_4",
+  "later": "u75_3",
+  "relation": {
+   "id": "r75_4",
+   "source": "u75_3",
+   "target": "u30_4",
+   "type": "CHANGES_STATE",
+   "rationale": "The vanished machine account says the Time Machine was gone from the lawn by the Sphinx, while the recovered machine waiting inside shows it later reappeared inside, changing absence into presence.",
+   "confidence": 0.9,
+   "created_at": 75,
+   "layer": "interpretation",
+   "rationale_raw": "The vanished machine account says the Time Machine was gone from the lawn by the Sphinx, while the recovered machine waiting inside shows it later reappeared inside, changing absence into presence."
+  },
+  "source": {
+   "id": "u75_3",
+   "kind": "situation",
+   "label": "Recovered Time Machine Inside",
+   "content": "The Time Machine is waiting inside the Sphinx's small apartment.",
+   "participants": [
+    "Time Machine"
+   ],
+   "layer": "observation",
+   "confidence": 0.98,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 75,
+   "last_active_at": 75,
+   "evidence": [
+    {
+     "passage": 75,
+     "quote": "this was the Time Machine",
+     "start": 544,
+     "end": 569
+    }
+   ]
+  },
+  "target": {
+   "id": "u30_4",
+   "kind": "event",
+   "label": "Time Machine Vanished",
+   "content": "The Traveller realizes with shock that the Time Machine is gone from the lawn by the Sphinx.",
+   "participants": [
+    "Traveller",
+    "Time Machine"
+   ],
+   "layer": "observation",
+   "confidence": 1.0,
+   "status": "active",
+   "reading": null,
+   "state": "The Time Machine is no longer missing from the lawn but is recovered waiting inside the Sphinx.",
+   "other_readings": [],
+   "introduced_at": 30,
+   "last_active_at": 75,
+   "evidence": [
+    {
+     "passage": 30,
+     "quote": "The Time Machine was gone!",
+     "start": 1413,
+     "end": 1439
+    }
+   ]
+  },
+  "source_evidence": [
+   {
+    "passage": 75,
+    "quote": "this was the Time Machine",
+    "before": "stal of\nthe sphinx I found the bronze valves were open. They had slid down into\ngrooves.\n\n“At that I stopped short before them, hesitating to enter.\n\n“Within was a small apartment, and on a raised place in the corner of\n",
+    "after": ". I had the small levers in my pocket. So\nhere, after all my elaborate preparations for the siege of the White\nSphinx, was a meek surrender. I threw my iron bar away, almost sorry\nnot to use it.\n\n“A sudden thought came i"
+   }
+  ],
+  "target_evidence": [
+   {
+    "passage": 30,
+    "quote": "The Time Machine was gone!",
+    "before": " ‘No,’ said I stoutly\nto myself, ‘that was not the lawn.’\n\n“But it _was_ the lawn. For the white leprous face of the sphinx was\ntowards it. Can you imagine what I felt as this conviction came home to\nme? But you cannot. ",
+    "after": "\n\n“At once, like a lash across the face, came the possibility of losing\nmy own age, of being left helpless in this strange new world. The bare\nthought of it was an actual physical sensation. I could feel it grip me\nat th"
+   }
+  ],
+  "score": 16.538
+ }
+]

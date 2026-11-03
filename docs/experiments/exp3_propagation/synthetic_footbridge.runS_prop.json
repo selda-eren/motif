@@ -1,0 +1,894 @@
+{
+ "book": {
+  "id": "synthetic_footbridge",
+  "title": "The Harlow Footbridge (synthetic test text)",
+  "author": "MOTIF test fixture",
+  "genre": "nonfiction",
+  "provenance": "model",
+  "model": "muse-spark-1.3",
+  "updated_at": 1793124124.017066,
+  "meta": {
+   "id": "synthetic_footbridge",
+   "title": "The Harlow Footbridge (synthetic test text)",
+   "author": "MOTIF test fixture",
+   "genre": "nonfiction",
+   "source": "Synthetic text written for Experiment 3 (2026-10-27); describes no real place",
+   "license": "Test data",
+   "text_file": "synthetic_footbridge.txt"
+  }
+ },
+ "passages": [
+  {
+   "idx": 0,
+   "text": "Harlow lies on both banks of the river Lenn, and for most of its history the two halves of the town have been joined by a single wooden footbridge. The bridge was built in 1912 by the carpenters' guild of the west bank and the masons' guild of the east bank, working together for the first time after decades of rivalry. There is no other crossing for twenty kilometres in either direction.\n\nThe weekly market is held every Saturday in the square on the east bank. The vegetable growers of the west bank carry their produce over on handcarts at dawn, and for most of these households the Saturday stalls bring in more than half of their yearly income.\n\nSince 1920 the town seal has shown the footbridge beneath two clasped hands. The council's own guide to the seal explains that the image stands for the union of the two banks and for the reconciliation of the guilds that built it.\n\nThe railings were repainted dark green in 2019, after a public vote in which green narrowly defeated a proposal to restore the original white. A council survey published in 2021 reported that the footbridge had been inspected every year and was structurally sound.\n\nThe only school in Harlow stands on the east bank, near the church. About ninety children from the west bank walk to it each morning, and the school timetable begins at a quarter past eight so that they can cross after the market carts have passed. Teachers say that the walk is the part of the day the children talk about most.\n\nIn 2022 the west-bank growers formed a cooperative and built a shared cold store beside their fields. It keeps vegetables fresh through the week, so that everything picked between Sunday and Friday can still be sold at the Saturday stalls. The cooperative borrowed heavily to build it and expected to repay the loan within six years from market sales.",
+   "gist": "Introduces the footbridge as Harlow's sole historic crossing that sustains west-bank livelihoods, schooling, and town identity.",
+   "processed": 1
+  },
+  {
+   "idx": 1,
+   "text": "The town's only doctor keeps her surgery on the west bank, in the old customs house. Patients from the east bank cross to see her on weekday mornings, and on Thursdays she holds a clinic for the elderly, many of whom are pushed over the footbridge in wheelchairs by relatives or neighbours. She has said that she chose the customs house because it is a short walk from the bridge, so that both halves of the town could reach her easily.\n\nThe council has also begun planning a festival for the bridge's centenary of restoration, due in 2025, with lanterns hung along the green railings and a procession from one bank to the other. A local poet has written verses for the occasion, ending with the line \"two banks, one step\". The festival committee has already ordered three hundred paper lanterns and asked both guilds to lead the procession together, as their founders did when the bridge first opened.\n\nThe river itself has changed little. Trout are still caught below the weir, and the library on the east bank keeps a record of the largest fish landed each summer, a tradition that dates from the nineteenth century. The library also lends fishing rods to children during the school holidays, and its reading room holds the town's collection of old maps and parish registers.\n\nPost for the whole town is sorted at the post office on the east bank. Twice a day the postman carries the letters for the west bank across in a canvas bag, and the post office has never needed a second branch because, as the postmaster likes to say, the bridge is only four minutes long. Parcels too large for the bag are wheeled over on a trolley that the post office bought for the purpose in the 1960s and still uses.",
+   "gist": "Shows how the footbridge sustains everyday medical care, mail, and tradition while inspiring shared celebration across both banks.",
+   "processed": 1
+  },
+  {
+   "idx": 2,
+   "text": "In March 2024, after a week of heavy rain, the Lenn rose higher than at any time in living memory. Shortly before midnight on the fourteenth, the flood carried the footbridge away. By morning only the stone footings remained on either bank, and the timbers were later found scattered for several kilometres downstream.\n\nAn engineering firm was asked to report on what had happened. Its report found that the footbridge had not been inspected at all since 1998, and that rot in the main beams had gone unnoticed for many years. The firm concluded that a sound bridge would probably have survived the flood.\n\nThe council has said that a new crossing cannot be built in less than three years. Until then, the nearest way from one bank to the other is the road bridge twenty kilometres to the north.",
+   "gist": "Narrates the footbridge's destruction in the March 2024 flood, attributes the loss to decades of uninspected rot, and establishes years of separation until replacement.",
+   "processed": 1
+  }
+ ],
+ "units": [
+  {
+   "id": "u00_1",
+   "kind": "entity",
+   "label": "Sole Wooden Footbridge",
+   "content": "Harlow's two halves are joined by a single wooden footbridge with no other crossing for twenty kilometres.",
+   "participants": [
+    "west bank",
+    "east bank"
+   ],
+   "layer": "observation",
+   "confidence": 1.0,
+   "status": "active",
+   "reading": null,
+   "state": "The single wooden footbridge no longer joins the banks; it was carried away in the March flood leaving only stone footings, with no local replacement for years.",
+   "other_readings": [],
+   "introduced_at": 0,
+   "last_active_at": 2,
+   "evidence": [
+    {
+     "passage": 0,
+     "quote": "the two halves of the town have been joined by a single wooden footbridge",
+     "start": 73,
+     "end": 146
+    }
+   ]
+  },
+  {
+   "id": "u00_2",
+   "kind": "situation",
+   "label": "Growers Market Dependence",
+   "content": "Most west-bank grower households depend on Saturday stalls for more than half their yearly income.",
+   "participants": [
+    "vegetable growers of the west bank"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 0,
+   "last_active_at": 0,
+   "evidence": [
+    {
+     "passage": 0,
+     "quote": "for most of these households the Saturday stalls bring in more than half of their yearly income",
+     "start": 555,
+     "end": 650
+    }
+   ]
+  },
+  {
+   "id": "u00_3",
+   "kind": "image",
+   "label": "Seal Union Symbol",
+   "content": "The town seal shows the footbridge beneath clasped hands as a symbol of the union of the banks and reconciliation of the building guilds.",
+   "participants": [
+    "council",
+    "carpenters' guild",
+    "masons' guild"
+   ],
+   "layer": "interpretation",
+   "confidence": 0.9,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 0,
+   "last_active_at": 0,
+   "evidence": [
+    {
+     "passage": 0,
+     "quote": "Since 1920 the town seal has shown the footbridge beneath two clasped hands",
+     "start": 653,
+     "end": 728
+    }
+   ]
+  },
+  {
+   "id": "u00_4",
+   "kind": "situation",
+   "label": "Schoolchildren Daily Crossing",
+   "content": "About ninety west-bank children cross the bridge each morning to reach the east-bank school.",
+   "participants": [
+    "west-bank children",
+    "school"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 0,
+   "last_active_at": 0,
+   "evidence": [
+    {
+     "passage": 0,
+     "quote": "About ninety children from the west bank walk to it each morning",
+     "start": 1219,
+     "end": 1283
+    }
+   ]
+  },
+  {
+   "id": "u00_5",
+   "kind": "situation",
+   "label": "Cooperative Cold Store Debt",
+   "content": "The west-bank cooperative borrowed heavily for a shared cold store to be repaid within six years from market sales.",
+   "participants": [
+    "west-bank growers cooperative"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 0,
+   "last_active_at": 0,
+   "evidence": [
+    {
+     "passage": 0,
+     "quote": "The cooperative borrowed heavily to build it and expected to repay the loan within six years from market sales",
+     "start": 1721,
+     "end": 1831
+    }
+   ]
+  },
+  {
+   "id": "u00_6",
+   "kind": "claim",
+   "label": "Bridge Structurally Sound",
+   "content": "A 2021 council survey reported the footbridge was inspected yearly and structurally sound.",
+   "participants": [
+    "council"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "contested",
+   "reading": "The 2021 council claim of yearly inspections and sound condition is discredited; the bridge had in fact not been inspected at all since 1998.",
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 0,
+   "last_active_at": 2,
+   "evidence": [
+    {
+     "passage": 0,
+     "quote": "the footbridge had been inspected every year and was structurally sound",
+     "start": 1077,
+     "end": 1148
+    }
+   ]
+  },
+  {
+   "id": "u01_1",
+   "kind": "situation",
+   "label": "Doctor's bridge-accessible surgery",
+   "content": "The town's only doctor keeps her surgery on the west bank near the bridge so both halves can reach her.",
+   "participants": [
+    "doctor",
+    "patients"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": "The west-bank surgery is no longer reachable from the east bank via the footbridge, leaving east-bank patients to use the distant road bridge for years.",
+   "other_readings": [],
+   "introduced_at": 1,
+   "last_active_at": 2,
+   "evidence": [
+    {
+     "passage": 1,
+     "quote": "The town's only doctor keeps her surgery on the west bank, in the old customs house",
+     "start": 0,
+     "end": 83
+    }
+   ]
+  },
+  {
+   "id": "u01_2",
+   "kind": "event",
+   "label": "Elderly wheelchair bridge crossings",
+   "content": "Elderly patients are pushed over the footbridge in wheelchairs to reach the Thursday clinic.",
+   "participants": [
+    "elderly patients",
+    "relatives",
+    "neighbours"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 1,
+   "last_active_at": 1,
+   "evidence": [
+    {
+     "passage": 1,
+     "quote": "many of whom are pushed over the footbridge in wheelchairs by relatives or neighbours",
+     "start": 204,
+     "end": 289
+    }
+   ]
+  },
+  {
+   "id": "u01_3",
+   "kind": "event",
+   "label": "Centenary festival planning",
+   "content": "The council is planning a 2025 centenary festival with lanterns and a procession from one bank to the other.",
+   "participants": [
+    "council",
+    "festival committee",
+    "guilds"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": "The planned 2025 procession from one bank to the other cannot proceed across the footbridge; there will be no local crossing for at least three years.",
+   "other_readings": [],
+   "introduced_at": 1,
+   "last_active_at": 2,
+   "evidence": [
+    {
+     "passage": 1,
+     "quote": "The council has also begun planning a festival for the bridge's centenary of restoration, due in 2025",
+     "start": 438,
+     "end": 539
+    }
+   ]
+  },
+  {
+   "id": "u01_4",
+   "kind": "image",
+   "label": "Two banks one step",
+   "content": "The poet's closing line figures the bridge as joining two banks in a single step.",
+   "participants": [
+    "local poet"
+   ],
+   "layer": "observation",
+   "confidence": 0.98,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 1,
+   "last_active_at": 1,
+   "evidence": [
+    {
+     "passage": 1,
+     "quote": "ending with the line \"two banks, one step\"",
+     "start": 680,
+     "end": 722
+    }
+   ]
+  },
+  {
+   "id": "u01_5",
+   "kind": "situation",
+   "label": "Single post office reliance",
+   "content": "The single east-bank post office serves the west bank by carrying letters across the bridge twice daily.",
+   "participants": [
+    "postman",
+    "postmaster"
+   ],
+   "layer": "observation",
+   "confidence": 0.93,
+   "status": "active",
+   "reading": null,
+   "state": "The twice-daily carry of letters across the footbridge can no longer run, cutting the west bank off from the east-bank post office for years.",
+   "other_readings": [],
+   "introduced_at": 1,
+   "last_active_at": 2,
+   "evidence": [
+    {
+     "passage": 1,
+     "quote": "Twice a day the postman carries the letters for the west bank across in a canvas bag",
+     "start": 1351,
+     "end": 1435
+    }
+   ]
+  },
+  {
+   "id": "u02_1",
+   "kind": "event",
+   "label": "Flood Destroys Footbridge",
+   "content": "Shortly before midnight on the fourteenth, the flood carries the footbridge away.",
+   "participants": [
+    "flood",
+    "footbridge"
+   ],
+   "layer": "observation",
+   "confidence": 0.98,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 2,
+   "last_active_at": 2,
+   "evidence": [
+    {
+     "passage": 2,
+     "quote": "Shortly before midnight on the fourteenth, the flood carried the footbridge away",
+     "start": 99,
+     "end": 179
+    }
+   ]
+  },
+  {
+   "id": "u02_2",
+   "kind": "situation",
+   "label": "Bare Footings Remain",
+   "content": "By morning only the stone footings remain on either bank.",
+   "participants": [
+    "stone footings"
+   ],
+   "layer": "observation",
+   "confidence": 0.97,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 2,
+   "last_active_at": 2,
+   "evidence": [
+    {
+     "passage": 2,
+     "quote": "By morning only the stone footings remained on either bank",
+     "start": 181,
+     "end": 239
+    }
+   ]
+  },
+  {
+   "id": "u02_3",
+   "kind": "claim",
+   "label": "Decades Without Inspection",
+   "content": "The engineering report finds the footbridge had not been inspected at all since 1998.",
+   "participants": [
+    "engineering firm",
+    "footbridge"
+   ],
+   "layer": "observation",
+   "confidence": 0.96,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 2,
+   "last_active_at": 2,
+   "evidence": [
+    {
+     "passage": 2,
+     "quote": "Its report found that the footbridge had not been inspected at all since 1998",
+     "start": 382,
+     "end": 459
+    }
+   ]
+  },
+  {
+   "id": "u02_4",
+   "kind": "claim",
+   "label": "Unnoticed Beam Rot",
+   "content": "Rot in the main beams had gone unnoticed for many years.",
+   "participants": [
+    "main beams"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 2,
+   "last_active_at": 2,
+   "evidence": [
+    {
+     "passage": 2,
+     "quote": "rot in the main beams had gone unnoticed for many years",
+     "start": 470,
+     "end": 525
+    }
+   ]
+  },
+  {
+   "id": "u02_5",
+   "kind": "claim",
+   "label": "Sound Bridge Survival",
+   "content": "The firm concludes a sound bridge would probably have survived the flood.",
+   "participants": [
+    "engineering firm"
+   ],
+   "layer": "observation",
+   "confidence": 0.94,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 2,
+   "last_active_at": 2,
+   "evidence": [
+    {
+     "passage": 2,
+     "quote": "a sound bridge would probably have survived the flood",
+     "start": 551,
+     "end": 604
+    }
+   ]
+  },
+  {
+   "id": "u02_6",
+   "kind": "situation",
+   "label": "Years-Long Crossing Gap",
+   "content": "For at least three years the only crossing is the road bridge twenty kilometres north.",
+   "participants": [
+    "council"
+   ],
+   "layer": "observation",
+   "confidence": 0.96,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 2,
+   "last_active_at": 2,
+   "evidence": [
+    {
+     "passage": 2,
+     "quote": "the nearest way from one bank to the other is the road bridge twenty kilometres to the north",
+     "start": 702,
+     "end": 794
+    }
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "id": "r01_1",
+   "source": "u01_1",
+   "target": "u00_1",
+   "type": "SUPPORTS",
+   "rationale": "Doctor's bridge-accessible surgery says the only doctor keeps her surgery on the west bank near the bridge so both halves can reach her, which gives a concrete medical example of what Sole Wooden Footbridge describes as joining the two halves with no other crossing nearby.",
+   "confidence": 0.85,
+   "created_at": 1,
+   "layer": "interpretation",
+   "rationale_raw": "Doctor's bridge-accessible surgery says the only doctor keeps her surgery on the west bank near the bridge so both halves can reach her, which gives a concrete medical example of what Sole Wooden Footbridge describes as joining the two halves with no other crossing nearby."
+  },
+  {
+   "id": "r01_2",
+   "source": "u01_2",
+   "target": "u01_1",
+   "type": "SUPPORTS",
+   "rationale": "Elderly wheelchair bridge crossings says elderly patients are pushed over the footbridge to reach the Thursday clinic, which gives a lived example of how Doctor's bridge-accessible surgery serves both halves from its west-bank location.",
+   "confidence": 0.9,
+   "created_at": 1,
+   "layer": "interpretation",
+   "rationale_raw": "Elderly wheelchair bridge crossings says elderly patients are pushed over the footbridge to reach the Thursday clinic, which gives a lived example of how Doctor's bridge-accessible surgery serves both halves from its west-bank location."
+  },
+  {
+   "id": "r01_3",
+   "source": "u01_3",
+   "target": "u00_3",
+   "type": "SUPPORTS",
+   "rationale": "Centenary festival planning says the council is planning a lantern procession from one bank to the other for the restoration centenary, which provides a celebratory instance of what Seal Union Symbol describes as the bridge standing for union of the banks.",
+   "confidence": 0.85,
+   "created_at": 1,
+   "layer": "interpretation",
+   "rationale_raw": "Centenary festival planning says the council is planning a lantern procession from one bank to the other for the restoration centenary, which provides a celebratory instance of what Seal Union Symbol describes as the bridge standing for union of the banks."
+  },
+  {
+   "id": "r01_4",
+   "source": "u01_4",
+   "target": "u00_3",
+   "type": "REFINES",
+   "rationale": "Two banks one step says the poet figures the bridge as joining two banks in a single step, which develops the symbolic meaning described in Seal Union Symbol where the bridge appears beneath clasped hands as union and reconciliation.",
+   "confidence": 0.8,
+   "created_at": 1,
+   "layer": "interpretation",
+   "rationale_raw": "Two banks one step says the poet figures the bridge as joining two banks in a single step, which develops the symbolic meaning described in Seal Union Symbol where the bridge appears beneath clasped hands as union and reconciliation."
+  },
+  {
+   "id": "r01_5",
+   "source": "u01_5",
+   "target": "u00_1",
+   "type": "SUPPORTS",
+   "rationale": "Single post office reliance says the east-bank post office serves the west bank by carrying letters across twice daily, which gives a postal example of what Sole Wooden Footbridge describes as the single link between the halves.",
+   "confidence": 0.85,
+   "created_at": 1,
+   "layer": "interpretation",
+   "rationale_raw": "Single post office reliance says the east-bank post office serves the west bank by carrying letters across twice daily, which gives a postal example of what Sole Wooden Footbridge describes as the single link between the halves."
+  },
+  {
+   "id": "r02_1",
+   "source": "u02_1",
+   "target": "u00_1",
+   "type": "CHANGES_STATE",
+   "rationale": "Flood Destroys Footbridge says the flood carried the footbridge away shortly before midnight on the fourteenth, while Sole Wooden Footbridge says the two halves were joined by a single wooden footbridge.",
+   "confidence": 1.0,
+   "created_at": 2,
+   "layer": "interpretation",
+   "rationale_raw": "Flood Destroys Footbridge says the flood carried the footbridge away shortly before midnight on the fourteenth, while Sole Wooden Footbridge says the two halves were joined by a single wooden footbridge."
+  },
+  {
+   "id": "r02_10",
+   "source": "u02_6",
+   "target": "u00_1",
+   "type": "REFINES",
+   "rationale": "Years-Long Crossing Gap specifies the road bridge twenty kilometres to the north as the only crossing for at least three years, while Sole Wooden Footbridge said there was no other crossing for twenty kilometres.",
+   "confidence": 0.9,
+   "created_at": 2,
+   "layer": "interpretation",
+   "rationale_raw": "Years-Long Crossing Gap specifies the road bridge twenty kilometres to the north as the only crossing for at least three years, while Sole Wooden Footbridge said there was no other crossing for twenty kilometres."
+  },
+  {
+   "id": "r02_2",
+   "source": "u02_1",
+   "target": "u01_3",
+   "type": "CHANGES_STATE",
+   "rationale": "Flood Destroys Footbridge says the footbridge was carried away, while Centenary festival planning describes a 2025 festival with a procession from one bank to the other across that bridge.",
+   "confidence": 0.85,
+   "created_at": 2,
+   "layer": "interpretation",
+   "rationale_raw": "Flood Destroys Footbridge says the footbridge was carried away, while Centenary festival planning describes a 2025 festival with a procession from one bank to the other across that bridge."
+  },
+  {
+   "id": "r02_3",
+   "source": "u02_1",
+   "target": "u02_2",
+   "type": "CAUSES",
+   "rationale": "Flood Destroys Footbridge says the flood carried the footbridge away, which brings about Bare Footings Remain saying only stone footings remained on either bank by morning.",
+   "confidence": 0.95,
+   "created_at": 2,
+   "layer": "interpretation",
+   "rationale_raw": "Flood Destroys Footbridge says the flood carried the footbridge away, which brings about Bare Footings Remain saying only stone footings remained on either bank by morning."
+  },
+  {
+   "id": "r02_4",
+   "source": "u02_3",
+   "target": "u00_6",
+   "type": "CONTRADICTS",
+   "rationale": "Decades Without Inspection says the engineering report found no inspection at all since 1998, while Bridge Structurally Sound says a 2021 council survey reported yearly inspections and sound condition.",
+   "confidence": 0.95,
+   "created_at": 2,
+   "layer": "interpretation",
+   "rationale_raw": "Decades Without Inspection says the engineering report found no inspection at all since 1998, while Bridge Structurally Sound says a 2021 council survey reported yearly inspections and sound condition."
+  },
+  {
+   "id": "r02_5",
+   "source": "u02_4",
+   "target": "u00_6",
+   "type": "CONTRADICTS",
+   "rationale": "Unnoticed Beam Rot says rot in the main beams had gone unnoticed for many years, while Bridge Structurally Sound claimed the bridge was structurally sound.",
+   "confidence": 0.9,
+   "created_at": 2,
+   "layer": "interpretation",
+   "rationale_raw": "Unnoticed Beam Rot says rot in the main beams had gone unnoticed for many years, while Bridge Structurally Sound claimed the bridge was structurally sound."
+  },
+  {
+   "id": "r02_6",
+   "source": "u02_3",
+   "target": "u02_4",
+   "type": "CAUSES",
+   "rationale": "Decades Without Inspection says no inspection since 1998, which explains why Unnoticed Beam Rot says rot in the main beams went unnoticed for many years.",
+   "confidence": 0.8,
+   "created_at": 2,
+   "layer": "interpretation",
+   "rationale_raw": "Decades Without Inspection says no inspection since 1998, which explains why Unnoticed Beam Rot says rot in the main beams went unnoticed for many years."
+  },
+  {
+   "id": "r02_7",
+   "source": "u02_5",
+   "target": "u02_1",
+   "type": "REFINES",
+   "rationale": "Sound Bridge Survival says a sound bridge would probably have survived, which qualifies Flood Destroys Footbridge saying the flood carried the footbridge away by showing condition contributed, not flood alone.",
+   "confidence": 0.85,
+   "created_at": 2,
+   "layer": "interpretation",
+   "rationale_raw": "Sound Bridge Survival says a sound bridge would probably have survived, which qualifies Flood Destroys Footbridge saying the flood carried the footbridge away by showing condition contributed, not flood alone."
+  },
+  {
+   "id": "r02_8",
+   "source": "u02_5",
+   "target": "u02_4",
+   "type": "SUPPORTS",
+   "rationale": "Sound Bridge Survival says a sound bridge would probably have survived, which gives a reason supporting Unnoticed Beam Rot saying long-unnoticed rot weakened the main beams.",
+   "confidence": 0.75,
+   "created_at": 2,
+   "layer": "interpretation",
+   "rationale_raw": "Sound Bridge Survival says a sound bridge would probably have survived, which gives a reason supporting Unnoticed Beam Rot saying long-unnoticed rot weakened the main beams."
+  },
+  {
+   "id": "r02_9",
+   "source": "u02_1",
+   "target": "u02_6",
+   "type": "CAUSES",
+   "rationale": "Flood Destroys Footbridge says the flood carried the footbridge away, which brings about Years-Long Crossing Gap saying the only crossing for at least three years is the road bridge twenty kilometres north.",
+   "confidence": 0.9,
+   "created_at": 2,
+   "layer": "interpretation",
+   "rationale_raw": "Flood Destroys Footbridge says the flood carried the footbridge away, which brings about Years-Long Crossing Gap saying the only crossing for at least three years is the road bridge twenty kilometres north."
+  }
+ ],
+ "revisions": [
+  {
+   "unit_id": "u00_1",
+   "passage": 2,
+   "old_reading": null,
+   "new_reading": "The single wooden footbridge no longer joins the banks; it was carried away in the March flood leaving only stone footings, with no local replacement for years.",
+   "rationale": "Sole Wooden Footbridge described a standing crossing joining the halves, but Flood Destroys Footbridge and Bare Footings Remain show it is now gone.",
+   "cause_unit": "u02_1",
+   "kind": "state",
+   "mode": "replaces",
+   "source": "integration",
+   "trigger_unit": null,
+   "evidence_units": [
+    "u02_1",
+    "u00_1"
+   ]
+  },
+  {
+   "unit_id": "u00_6",
+   "passage": 2,
+   "old_reading": null,
+   "new_reading": "The 2021 council claim of yearly inspections and sound condition is discredited; the bridge had in fact not been inspected at all since 1998.",
+   "rationale": "Decades Without Inspection shows the earlier survey account of yearly inspection cannot be trusted as true.",
+   "cause_unit": "u02_3",
+   "kind": "interpretive",
+   "mode": "replaces",
+   "source": "integration",
+   "trigger_unit": null,
+   "evidence_units": [
+    "u02_3",
+    "u00_6"
+   ]
+  },
+  {
+   "unit_id": "u01_3",
+   "passage": 2,
+   "old_reading": null,
+   "new_reading": "The planned 2025 procession from one bank to the other cannot proceed across the footbridge; there will be no local crossing for at least three years.",
+   "rationale": "Centenary festival planning assumed a usable footbridge for a bank-to-bank procession in 2025, but Years-Long Crossing Gap establishes years of separation with only a distant road bridge.",
+   "cause_unit": "u02_6",
+   "kind": "state",
+   "mode": "replaces",
+   "source": "integration",
+   "trigger_unit": null,
+   "evidence_units": [
+    "u02_6",
+    "u01_3"
+   ]
+  },
+  {
+   "unit_id": "u01_1",
+   "passage": 2,
+   "old_reading": null,
+   "new_reading": "The west-bank surgery is no longer reachable from the east bank via the footbridge, leaving east-bank patients to use the distant road bridge for years.",
+   "rationale": "Because Sole Wooden Footbridge no longer joins the banks after Flood Destroys Footbridge, and Years-Long Crossing Gap leaves only the road bridge twenty kilometres north, the Doctor's bridge-accessible surgery can no longer serve both halves as before while its locational purpose is unchanged.",
+   "cause_unit": "u02_1",
+   "kind": "state",
+   "mode": "replaces",
+   "source": "propagation",
+   "trigger_unit": "u00_1",
+   "evidence_units": [
+    "u02_1",
+    "u02_6"
+   ]
+  },
+  {
+   "unit_id": "u01_5",
+   "passage": 2,
+   "old_reading": null,
+   "new_reading": "The twice-daily carry of letters across the footbridge can no longer run, cutting the west bank off from the east-bank post office for years.",
+   "rationale": "Because Flood Destroys Footbridge removed Sole Wooden Footbridge and Years-Long Crossing Gap leaves only the distant road bridge, the Single post office reliance can no longer operate by carrying letters across while its single-office arrangement is unchanged.",
+   "cause_unit": "u02_1",
+   "kind": "state",
+   "mode": "replaces",
+   "source": "propagation",
+   "trigger_unit": "u00_1",
+   "evidence_units": [
+    "u02_1",
+    "u02_6"
+   ]
+  }
+ ],
+ "changes": [
+  {
+   "passage": 0,
+   "gist": "Introduces the footbridge as Harlow's sole historic crossing that sustains west-bank livelihoods, schooling, and town identity.",
+   "processed": true,
+   "introduced": [
+    "u00_1",
+    "u00_2",
+    "u00_3",
+    "u00_4",
+    "u00_5",
+    "u00_6"
+   ],
+   "reinforced": [],
+   "relations": [],
+   "cross_passage_relations": [],
+   "revisions": [],
+   "change_score": 3.0
+  },
+  {
+   "passage": 1,
+   "gist": "Shows how the footbridge sustains everyday medical care, mail, and tradition while inspiring shared celebration across both banks.",
+   "processed": true,
+   "introduced": [
+    "u01_1",
+    "u01_2",
+    "u01_3",
+    "u01_4",
+    "u01_5"
+   ],
+   "reinforced": [],
+   "relations": [
+    "r01_1",
+    "r01_2",
+    "r01_3",
+    "r01_4",
+    "r01_5"
+   ],
+   "cross_passage_relations": [
+    "r01_1",
+    "r01_3",
+    "r01_4",
+    "r01_5"
+   ],
+   "revisions": [],
+   "change_score": 8.0
+  },
+  {
+   "passage": 2,
+   "gist": "Narrates the footbridge's destruction in the March 2024 flood, attributes the loss to decades of uninspected rot, and establishes years of separation until replacement.",
+   "processed": true,
+   "introduced": [
+    "u02_1",
+    "u02_2",
+    "u02_3",
+    "u02_4",
+    "u02_5",
+    "u02_6"
+   ],
+   "reinforced": [],
+   "relations": [
+    "r02_1",
+    "r02_10",
+    "r02_2",
+    "r02_3",
+    "r02_4",
+    "r02_5",
+    "r02_6",
+    "r02_7",
+    "r02_8",
+    "r02_9"
+   ],
+   "cross_passage_relations": [
+    "r02_1",
+    "r02_10",
+    "r02_2",
+    "r02_4",
+    "r02_5"
+   ],
+   "revisions": [
+    {
+     "unit_id": "u00_1",
+     "passage": 2,
+     "old_reading": null,
+     "new_reading": "The single wooden footbridge no longer joins the banks; it was carried away in the March flood leaving only stone footings, with no local replacement for years.",
+     "rationale": "Sole Wooden Footbridge described a standing crossing joining the halves, but Flood Destroys Footbridge and Bare Footings Remain show it is now gone.",
+     "cause_unit": "u02_1",
+     "kind": "state",
+     "mode": "replaces",
+     "source": "integration",
+     "trigger_unit": null,
+     "evidence_units": [
+      "u02_1",
+      "u00_1"
+     ]
+    },
+    {
+     "unit_id": "u00_6",
+     "passage": 2,
+     "old_reading": null,
+     "new_reading": "The 2021 council claim of yearly inspections and sound condition is discredited; the bridge had in fact not been inspected at all since 1998.",
+     "rationale": "Decades Without Inspection shows the earlier survey account of yearly inspection cannot be trusted as true.",
+     "cause_unit": "u02_3",
+     "kind": "interpretive",
+     "mode": "replaces",
+     "source": "integration",
+     "trigger_unit": null,
+     "evidence_units": [
+      "u02_3",
+      "u00_6"
+     ]
+    },
+    {
+     "unit_id": "u01_3",
+     "passage": 2,
+     "old_reading": null,
+     "new_reading": "The planned 2025 procession from one bank to the other cannot proceed across the footbridge; there will be no local crossing for at least three years.",
+     "rationale": "Centenary festival planning assumed a usable footbridge for a bank-to-bank procession in 2025, but Years-Long Crossing Gap establishes years of separation with only a distant road bridge.",
+     "cause_unit": "u02_6",
+     "kind": "state",
+     "mode": "replaces",
+     "source": "integration",
+     "trigger_unit": null,
+     "evidence_units": [
+      "u02_6",
+      "u01_3"
+     ]
+    },
+    {
+     "unit_id": "u01_1",
+     "passage": 2,
+     "old_reading": null,
+     "new_reading": "The west-bank surgery is no longer reachable from the east bank via the footbridge, leaving east-bank patients to use the distant road bridge for years.",
+     "rationale": "Because Sole Wooden Footbridge no longer joins the banks after Flood Destroys Footbridge, and Years-Long Crossing Gap leaves only the road bridge twenty kilometres north, the Doctor's bridge-accessible surgery can no longer serve both halves as before while its locational purpose is unchanged.",
+     "cause_unit": "u02_1",
+     "kind": "state",
+     "mode": "replaces",
+     "source": "propagation",
+     "trigger_unit": "u00_1",
+     "evidence_units": [
+      "u02_1",
+      "u02_6"
+     ]
+    },
+    {
+     "unit_id": "u01_5",
+     "passage": 2,
+     "old_reading": null,
+     "new_reading": "The twice-daily carry of letters across the footbridge can no longer run, cutting the west bank off from the east-bank post office for years.",
+     "rationale": "Because Flood Destroys Footbridge removed Sole Wooden Footbridge and Years-Long Crossing Gap leaves only the distant road bridge, the Single post office reliance can no longer operate by carrying letters across while its single-office arrangement is unchanged.",
+     "cause_unit": "u02_1",
+     "kind": "state",
+     "mode": "replaces",
+     "source": "propagation",
+     "trigger_unit": "u00_1",
+     "evidence_units": [
+      "u02_1",
+      "u02_6"
+     ]
+    }
+   ],
+   "change_score": 26.75
+  }
+ ],
+ "journey": null,
+ "_note": "Experiment 3 run 'runS_prop': model output (muse-spark-1.3, reasoning_effort=medium), exported from motif.exp3.db. Unreviewed machine interpretation; quotations verified against the text."
+}

@@ -1,0 +1,77 @@
+{
+ "earlier": "u00_6",
+ "later": "u05_3",
+ "relation": {
+  "id": "r05_2",
+  "source": "u05_3",
+  "target": "u00_6",
+  "type": "REFRAMES",
+  "rationale": "Passage 1: the prisoners are 'prevented by the chains from turning round their heads'. Now knowledge comes when the whole soul is 'turned' from becoming to being. Their trouble is direction, not missing sight.",
+  "confidence": 0.85,
+  "created_at": 5,
+  "layer": "interpretation",
+  "rationale_raw": "Passage 1: the prisoners are 'prevented by the chains from turning round their heads'. Now knowledge comes when the whole soul is 'turned' from becoming to being. Their trouble is direction, not missing sight."
+ },
+ "source": {
+  "id": "u05_3",
+  "kind": "claim",
+  "label": "Learning as turning the soul",
+  "content": "Knowledge requires turning the whole soul from becoming toward being, as the eye turns only with the whole body.",
+  "participants": [
+   "soul"
+  ],
+  "layer": "observation",
+  "confidence": 0.9,
+  "status": "active",
+  "reading": null,
+  "introduced_at": 5,
+  "last_active_at": 5,
+  "evidence": [
+   {
+    "passage": 5,
+    "quote": "the instrument of knowledge can only by the movement of the whole soul be turned from the world of becoming into that of being",
+    "start": 420,
+    "end": 546
+   }
+  ]
+ },
+ "target": {
+  "id": "u00_6",
+  "kind": "situation",
+  "label": "Unable to turn round",
+  "content": "The chains prevent the prisoners from turning their heads, so they face only one way.",
+  "participants": [
+   "prisoners"
+  ],
+  "layer": "observation",
+  "confidence": 0.9,
+  "status": "active",
+  "reading": "Not turning shows a soul whose power of sight is intact but faces the wrong way. Education is the turning the chains prevented.",
+  "introduced_at": 0,
+  "last_active_at": 5,
+  "evidence": [
+   {
+    "passage": 0,
+    "quote": "being prevented by the chains from turning round their heads",
+    "start": 352,
+    "end": 412
+   }
+  ]
+ },
+ "source_evidence": [
+  {
+   "passage": 5,
+   "quote": "the instrument of knowledge can only by the movement of the whole soul be turned from the world of becoming into that of being",
+   "before": "ly say this, he replied.\n\nWhereas, our argument shows that the power and capacity of learning exists in the soul already; and that just as the eye was unable to turn from darkness to light without the whole body, so too ",
+   "after": ", and learn by degrees to endure the sight of being, and of the brightest and best of being, or in other words, of the good.\n\nVery true.\n\nAnd must there not be some art which will effect conversion in the easiest and qui"
+  }
+ ],
+ "target_evidence": [
+  {
+   "passage": 0,
+   "quote": "being prevented by the chains from turning round their heads",
+   "before": "round den, which has a mouth open towards the light and reaching all along the den; here they have been from their childhood, and have their legs and necks chained so that they cannot move, and can only see before them, ",
+   "after": ". Above and behind them a fire is blazing at a distance, and between the fire and the prisoners there is a raised way; and you will see, if you look, a low wall built along the way, like the screen which marionette playe"
+  }
+ ]
+}

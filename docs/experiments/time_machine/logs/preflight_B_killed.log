@@ -1,0 +1,5 @@
+the_time_machine: 86 passages; target 4; run 20261101-164447; budget $50.00; spent $0.1020; uncertain exposure $0.0000
+  perception/p3: ok  in=1033 (cached 0) out=5909 (reasoning 5381)  $0.0264  18.4s
+  integration/p3: ok  in=2511 (cached 0) out=4599 (reasoning 3976)  $0.0227  16.0s
+[fault injection] exiting right after integration/p3 completed
+exit code 137

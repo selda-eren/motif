@@ -1,0 +1,1957 @@
+{
+ "run_id": "20261027-192654",
+ "model": "muse-spark-1.3",
+ "reasoning_effort": "medium",
+ "max_completion_tokens": 12000,
+ "representation_fingerprint": {
+  "before": "14bb196f33b54d35571390aed3ff59050d5fc1d7dfeb0fe9a61705f6b26fd3ee",
+  "after": "14bb196f33b54d35571390aed3ff59050d5fc1d7dfeb0fe9a61705f6b26fd3ee",
+  "unchanged": true
+ },
+ "usage": [
+  {
+   "ts": 1793125614.399381,
+   "run_id": "20261027-192654",
+   "task": "propagation",
+   "key": "p2",
+   "model": "muse-spark-1.3",
+   "reasoning_effort": "medium",
+   "status": "cache_hit",
+   "prompt_tokens": 0,
+   "cached_tokens": 0,
+   "completion_tokens": 0,
+   "reasoning_tokens": 0,
+   "cost_usd": 0.0,
+   "latency_s": 0.0,
+   "finish_reason": null,
+   "detail": null
+  },
+  {
+   "ts": 1793125632.749828,
+   "run_id": "20261027-192654",
+   "task": "constructive",
+   "key": "magi_p3",
+   "model": "muse-spark-1.3",
+   "reasoning_effort": "medium",
+   "status": "ok",
+   "prompt_tokens": 3505,
+   "cached_tokens": 0,
+   "completion_tokens": 3828,
+   "reasoning_tokens": 2969,
+   "cost_usd": 0.02065025,
+   "latency_s": 18.35,
+   "finish_reason": "stop",
+   "detail": null
+  },
+  {
+   "ts": 1793125632.7541351,
+   "run_id": "20261027-192654",
+   "task": "propagation",
+   "key": "p3",
+   "model": "muse-spark-1.3",
+   "reasoning_effort": "medium",
+   "status": "cache_hit",
+   "prompt_tokens": 0,
+   "cached_tokens": 0,
+   "completion_tokens": 0,
+   "reasoning_tokens": 0,
+   "cost_usd": 0.0,
+   "latency_s": 0.0,
+   "finish_reason": null,
+   "detail": null
+  },
+  {
+   "ts": 1793125649.222086,
+   "run_id": "20261027-192654",
+   "task": "constructive",
+   "key": "magi_p4",
+   "model": "muse-spark-1.3",
+   "reasoning_effort": "medium",
+   "status": "ok",
+   "prompt_tokens": 1875,
+   "cached_tokens": 0,
+   "completion_tokens": 3133,
+   "reasoning_tokens": 2519,
+   "cost_usd": 0.015659,
+   "latency_s": 16.47,
+   "finish_reason": "stop",
+   "detail": null
+  },
+  {
+   "ts": 1793125649.229483,
+   "run_id": "20261027-192654",
+   "task": "propagation",
+   "key": "p4",
+   "model": "muse-spark-1.3",
+   "reasoning_effort": "medium",
+   "status": "cache_hit",
+   "prompt_tokens": 0,
+   "cached_tokens": 0,
+   "completion_tokens": 0,
+   "reasoning_tokens": 0,
+   "cost_usd": 0.0,
+   "latency_s": 0.0,
+   "finish_reason": null,
+   "detail": null
+  },
+  {
+   "ts": 1793125667.615227,
+   "run_id": "20261027-192654",
+   "task": "constructive",
+   "key": "magi_p5",
+   "model": "muse-spark-1.3",
+   "reasoning_effort": "medium",
+   "status": "ok",
+   "prompt_tokens": 2675,
+   "cached_tokens": 0,
+   "completion_tokens": 3530,
+   "reasoning_tokens": 2579,
+   "cost_usd": 0.01834625,
+   "latency_s": 18.38,
+   "finish_reason": "stop",
+   "detail": null
+  },
+  {
+   "ts": 1793125667.627948,
+   "run_id": "20261027-192654",
+   "task": "propagation",
+   "key": "p5",
+   "model": "muse-spark-1.3",
+   "reasoning_effort": "medium",
+   "status": "cache_hit",
+   "prompt_tokens": 0,
+   "cached_tokens": 0,
+   "completion_tokens": 0,
+   "reasoning_tokens": 0,
+   "cost_usd": 0.0,
+   "latency_s": 0.0,
+   "finish_reason": null,
+   "detail": null
+  },
+  {
+   "ts": 1793125681.031086,
+   "run_id": "20261027-192654",
+   "task": "constructive",
+   "key": "magi_p6",
+   "model": "muse-spark-1.3",
+   "reasoning_effort": "medium",
+   "status": "ok",
+   "prompt_tokens": 3379,
+   "cached_tokens": 0,
+   "completion_tokens": 2720,
+   "reasoning_tokens": 1946,
+   "cost_usd": 0.01578375,
+   "latency_s": 13.4,
+   "finish_reason": "stop",
+   "detail": null
+  },
+  {
+   "ts": 1793125681.043252,
+   "run_id": "20261027-192654",
+   "task": "propagation",
+   "key": "p2",
+   "model": "muse-spark-1.3",
+   "reasoning_effort": "medium",
+   "status": "cache_hit",
+   "prompt_tokens": 0,
+   "cached_tokens": 0,
+   "completion_tokens": 0,
+   "reasoning_tokens": 0,
+   "cost_usd": 0.0,
+   "latency_s": 0.0,
+   "finish_reason": null,
+   "detail": null
+  },
+  {
+   "ts": 1793125707.2830238,
+   "run_id": "20261027-192654",
+   "task": "constructive",
+   "key": "bridge_p3",
+   "model": "muse-spark-1.3",
+   "reasoning_effort": "medium",
+   "status": "ok",
+   "prompt_tokens": 3687,
+   "cached_tokens": 0,
+   "completion_tokens": 5113,
+   "reasoning_tokens": 3903,
+   "cost_usd": 0.026339,
+   "latency_s": 26.23,
+   "finish_reason": "stop",
+   "detail": null
+  },
+  {
+   "ts": 1793125712.298481,
+   "run_id": "20261027-192654",
+   "task": "propagation",
+   "key": "p1",
+   "model": "muse-spark-1.3",
+   "reasoning_effort": "medium",
+   "status": "ok",
+   "prompt_tokens": 1132,
+   "cached_tokens": 0,
+   "completion_tokens": 981,
+   "reasoning_tokens": 836,
+   "cost_usd": 0.00558425,
+   "latency_s": 5.0,
+   "finish_reason": "stop",
+   "detail": null
+  },
+  {
+   "ts": 1793125719.3228831,
+   "run_id": "20261027-192654",
+   "task": "constructive",
+   "key": "control_library_p2",
+   "model": "muse-spark-1.3",
+   "reasoning_effort": "medium",
+   "status": "ok",
+   "prompt_tokens": 1338,
+   "cached_tokens": 0,
+   "completion_tokens": 1237,
+   "reasoning_tokens": 1144,
+   "cost_usd": 0.00692975,
+   "latency_s": 7.01,
+   "finish_reason": "stop",
+   "detail": null
+  }
+ ],
+ "cases": [
+  {
+   "case": "magi_p3",
+   "book_id": "gift_of_the_magi",
+   "passage": 3,
+   "shown_units": [
+    "u00_1",
+    "u00_2",
+    "u00_3",
+    "u00_5",
+    "u01_2",
+    "u01_3",
+    "u01_4",
+    "u01_6",
+    "u02_1",
+    "u02_2",
+    "u02_3",
+    "u02_4",
+    "u02_5"
+   ],
+   "A_revision": {
+    "verdicts": [
+     {
+      "candidate": "u01_3",
+      "verdict": "unchanged",
+      "new_reading": "",
+      "coexists": false,
+      "evidence": [],
+      "rationale": "Jim's Inherited Gold Watch still names the inherited gold watch, and the revision to Couple's Two Proud Possessions that only the watch remains leaves that ownership fact intact."
+     },
+     {
+      "candidate": "u00_3",
+      "verdict": "unchanged",
+      "new_reading": "",
+      "coexists": false,
+      "evidence": [],
+      "rationale": "Impoverished shrunken household still describes the shabby flat and shrunk income; the change to Della's meager savings to 87 cents and loss of hair does not alter that household situation."
+     },
+     {
+      "candidate": "u00_5",
+      "verdict": "unchanged",
+      "new_reading": "",
+      "coexists": false,
+      "evidence": [],
+      "rationale": "Desire for worthy gift still describes longing for something worthy of Jim, which is confirmed rather than undone by Della sells her hair and Buys platinum fob chain to fulfill it."
+     },
+     {
+      "candidate": "u00_2",
+      "verdict": "unchanged",
+      "new_reading": "",
+      "coexists": false,
+      "evidence": [],
+      "rationale": "Della weeps on couch still describes the past overwhelm on the couch, and the update to Della's meager savings from $1.87 to 87 cents does not erase that event."
+     }
+    ],
+    "non_unchanged": []
+   },
+   "B_constructive": {
+    "accepted": [
+     {
+      "statement": "Della sacrifices her own proud possession to adorn Jim's proud possession, turning mutual pride into selfless devotion.",
+      "contributing": [
+       "u01_2",
+       "u01_3",
+       "u02_1",
+       "u02_3",
+       "u02_4"
+      ],
+      "support": [
+       {
+        "unit": "u01_2",
+        "contributes": "Provides the twin-pride frame and that one pride has been sacrificed"
+       },
+       {
+        "unit": "u01_3",
+        "contributes": "Identifies the surviving pride as Jim's inherited heirloom to be honored"
+       },
+       {
+        "unit": "u02_1",
+        "contributes": "Supplies the sacrificial conversion of hair into money"
+       },
+       {
+        "unit": "u02_3",
+        "contributes": "Shows the money converted into a platinum fob chain"
+       },
+       {
+        "unit": "u02_4",
+        "contributes": "Shows the chain was chosen because it suits Jim's quietness and value"
+       }
+      ],
+      "relationship": "sacrifice enabling tribute, a cause-and-consequence chain where loss of one pride becomes adornment for the other",
+      "kind": "emergent_meaning",
+      "relation_to_existing": "new",
+      "existing_reading_of": "",
+      "justification": "Couple's Two Proud Possessions establishes hair and watch as twin prides and notes hair no longer exists, Jim's Inherited Gold Watch identifies the watch as an heirloom, Della sells her hair supplies the sacrificial act that converts beauty to twenty dollars, Buys platinum fob chain shows conversion of that money into an adornment, and Chain mirrors Jim's character shows the choice was guided by fit with Jim's quiet value rather than mere spending. Together they show more than loss and purchase.",
+      "limitations": "The units do not show whether the chain will please Jim, whether the watch is still available to receive it, or whether Della regrets the loss.",
+      "confidence": 0.85,
+      "contributing_valid": [
+       "u01_2",
+       "u01_3",
+       "u02_1",
+       "u02_3",
+       "u02_4"
+      ],
+      "contributing_unknown": [],
+      "evidence": [
+       {
+        "unit": "u01_2",
+        "label": "Couple's Two Proud Possessions",
+        "introduced_at": 1,
+        "quotes": [
+         {
+          "passage": 1,
+          "quote": "Now, there were two possessions of the James Dillingham Youngs in which they both took a mighty pride"
+         }
+        ]
+       },
+       {
+        "unit": "u01_3",
+        "label": "Jim's Inherited Gold Watch",
+        "introduced_at": 1,
+        "quotes": [
+         {
+          "passage": 1,
+          "quote": "One was Jim’s gold watch that had been his father’s and his grandfather’s"
+         }
+        ]
+       },
+       {
+        "unit": "u02_1",
+        "label": "Della sells her hair",
+        "introduced_at": 2,
+        "quotes": [
+         {
+          "passage": 2,
+          "quote": "Twenty dollars,” said Madame, lifting the mass with a practised hand"
+         }
+        ]
+       },
+       {
+        "unit": "u02_3",
+        "label": "Buys platinum fob chain",
+        "introduced_at": 2,
+        "quotes": [
+         {
+          "passage": 2,
+          "quote": "Twenty-one dollars they took from her for it, and she hurried home with the 87 cents"
+         }
+        ]
+       },
+       {
+        "unit": "u02_4",
+        "label": "Chain mirrors Jim's character",
+        "introduced_at": 2,
+        "quotes": [
+         {
+          "passage": 2,
+          "quote": "It was like him. Quietness and value—the description applied to both"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "statement": "Under shrunken means, Della's longing for a worthy gift can only be satisfied by monetizing her own beauty.",
+      "contributing": [
+       "u00_3",
+       "u00_1",
+       "u00_5",
+       "u02_1"
+      ],
+      "support": [
+       {
+        "unit": "u00_3",
+        "contributes": "Establishes structural poverty as background cause"
+       },
+       {
+        "unit": "u00_1",
+        "contributes": "Quantifies inability to buy through scrimping alone"
+       },
+       {
+        "unit": "u00_5",
+        "contributes": "Provides the loving motive that makes mere cheapness unacceptable"
+       },
+       {
+        "unit": "u02_1",
+        "contributes": "Provides the sacrificial solution of selling personal beauty for money"
+       }
+      ],
+      "relationship": "structural cause leading through thwarted motive to sacrificial consequence",
+      "kind": "emergent_meaning",
+      "relation_to_existing": "new",
+      "existing_reading_of": "",
+      "justification": "Impoverished shrunken household gives structural income collapse from thirty to twenty dollars, Della's meager savings quantifies the result as inability to buy with ordinary savings and now only eighty-seven cents left after purchase, Desire for worthy gift supplies the counter-pressure to find something fine and rare worthy of Jim, and Della sells her hair supplies the only available means of bridging the gap. No single unit states that poverty forces self-commodification.",
+      "limitations": "The units do not show other options Della considered, whether selling hair was the only possible recourse, or how long poverty has lasted.",
+      "confidence": 0.8,
+      "contributing_valid": [
+       "u00_3",
+       "u00_1",
+       "u00_5",
+       "u02_1"
+      ],
+      "contributing_unknown": [],
+      "evidence": [
+       {
+        "unit": "u00_3",
+        "label": "Impoverished shrunken household",
+        "introduced_at": 0,
+        "quotes": [
+         {
+          "passage": 0,
+          "quote": "when its possessor was being paid $30 per week. Now, when the income was shrunk to $20"
+         }
+        ]
+       },
+       {
+        "unit": "u00_1",
+        "label": "Della's meager savings",
+        "introduced_at": 0,
+        "quotes": [
+         {
+          "passage": 0,
+          "quote": "One dollar and eighty-seven cents. That was all"
+         }
+        ]
+       },
+       {
+        "unit": "u00_5",
+        "label": "Desire for worthy gift",
+        "introduced_at": 0,
+        "quotes": [
+         {
+          "passage": 0,
+          "quote": "Something fine and rare and sterling—something just a little bit near to being worthy of the honor of being owned by Jim"
+         }
+        ]
+       },
+       {
+        "unit": "u02_1",
+        "label": "Della sells her hair",
+        "introduced_at": 2,
+        "quotes": [
+         {
+          "passage": 2,
+          "quote": "Twenty dollars,” said Madame, lifting the mass with a practised hand"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "rejected": [],
+    "no_new_meaning": ""
+   },
+   "B_raw": {
+    "interpretations": [
+     {
+      "confidence": 0.85,
+      "contributing": [
+       "u01_2",
+       "u01_3",
+       "u02_1",
+       "u02_3",
+       "u02_4"
+      ],
+      "existing_reading_of": "",
+      "justification": "Couple's Two Proud Possessions establishes hair and watch as twin prides and notes hair no longer exists, Jim's Inherited Gold Watch identifies the watch as an heirloom, Della sells her hair supplies the sacrificial act that converts beauty to twenty dollars, Buys platinum fob chain shows conversion of that money into an adornment, and Chain mirrors Jim's character shows the choice was guided by fit with Jim's quiet value rather than mere spending. Together they show more than loss and purchase.",
+      "kind": "emergent_meaning",
+      "limitations": "The units do not show whether the chain will please Jim, whether the watch is still available to receive it, or whether Della regrets the loss.",
+      "relation_to_existing": "new",
+      "relationship": "sacrifice enabling tribute, a cause-and-consequence chain where loss of one pride becomes adornment for the other",
+      "statement": "Della sacrifices her own proud possession to adorn Jim's proud possession, turning mutual pride into selfless devotion.",
+      "support": [
+       {
+        "contributes": "Provides the twin-pride frame and that one pride has been sacrificed",
+        "unit": "u01_2"
+       },
+       {
+        "contributes": "Identifies the surviving pride as Jim's inherited heirloom to be honored",
+        "unit": "u01_3"
+       },
+       {
+        "contributes": "Supplies the sacrificial conversion of hair into money",
+        "unit": "u02_1"
+       },
+       {
+        "contributes": "Shows the money converted into a platinum fob chain",
+        "unit": "u02_3"
+       },
+       {
+        "contributes": "Shows the chain was chosen because it suits Jim's quietness and value",
+        "unit": "u02_4"
+       }
+      ]
+     },
+     {
+      "confidence": 0.8,
+      "contributing": [
+       "u00_3",
+       "u00_1",
+       "u00_5",
+       "u02_1"
+      ],
+      "existing_reading_of": "",
+      "justification": "Impoverished shrunken household gives structural income collapse from thirty to twenty dollars, Della's meager savings quantifies the result as inability to buy with ordinary savings and now only eighty-seven cents left after purchase, Desire for worthy gift supplies the counter-pressure to find something fine and rare worthy of Jim, and Della sells her hair supplies the only available means of bridging the gap. No single unit states that poverty forces self-commodification.",
+      "kind": "emergent_meaning",
+      "limitations": "The units do not show other options Della considered, whether selling hair was the only possible recourse, or how long poverty has lasted.",
+      "relation_to_existing": "new",
+      "relationship": "structural cause leading through thwarted motive to sacrificial consequence",
+      "statement": "Under shrunken means, Della's longing for a worthy gift can only be satisfied by monetizing her own beauty.",
+      "support": [
+       {
+        "contributes": "Establishes structural poverty as background cause",
+        "unit": "u00_3"
+       },
+       {
+        "contributes": "Quantifies inability to buy through scrimping alone",
+        "unit": "u00_1"
+       },
+       {
+        "contributes": "Provides the loving motive that makes mere cheapness unacceptable",
+        "unit": "u00_5"
+       },
+       {
+        "contributes": "Provides the sacrificial solution of selling personal beauty for money",
+        "unit": "u02_1"
+       }
+      ]
+     }
+    ],
+    "no_new_meaning": ""
+   },
+   "wall_s": {
+    "A": 0.0,
+    "B": 18.4
+   }
+  },
+  {
+   "case": "magi_p4",
+   "book_id": "gift_of_the_magi",
+   "passage": 4,
+   "shown_units": [
+    "u01_2",
+    "u01_4",
+    "u02_1",
+    "u03_1",
+    "u03_2",
+    "u03_3",
+    "u03_4",
+    "u03_5"
+   ],
+   "A_revision": {
+    "verdicts": [
+     {
+      "candidate": "u01_2",
+      "verdict": "unchanged",
+      "new_reading": "",
+      "coexists": false,
+      "evidence": [],
+      "rationale": "The confirmation that Cascade Of Brown Hair is gone and replaced by Boyish Short Curls merely corroborates the current state that Della's hair no longer exists as a proud possession, while Hair Sold for Christmas and Jim’s Fixed Stare do not restore it or change what Couple's Two Proud Possessions meant."
+     },
+     {
+      "candidate": "u02_1",
+      "verdict": "unchanged",
+      "new_reading": "",
+      "coexists": false,
+      "evidence": [],
+      "rationale": "Boyish Short Curls showing the result of the cutting and Hair Sold for Christmas restating the sale confirm rather than alter Della sells her hair as a completed sale for twenty dollars."
+     }
+    ],
+    "non_unchanged": []
+   },
+   "B_constructive": {
+    "accepted": [
+     {
+      "statement": "Della willingly destroys one of the couple's two objects of pride in order to give Jim a Christmas present, subordinating shared pride to love.",
+      "contributing": [
+       "u01_2",
+       "u02_1",
+       "u03_5"
+      ],
+      "support": [
+       {
+        "unit": "u01_2",
+        "contributes": "establishes Della's hair as half of the couple's mighty pride, not incidental decoration"
+       },
+       {
+        "unit": "u02_1",
+        "contributes": "establishes the hair was actually cut and sold for twenty dollars, making that pride physically unrecoverable"
+       },
+       {
+        "unit": "u03_5",
+        "contributes": "provides the motive — she could not live through Christmas without giving Jim a present — framing destruction as love-driven giving"
+       }
+      ],
+      "relationship": "contrast between prized status and deliberate destruction, explained by motive as cause",
+      "kind": "emergent_meaning",
+      "relation_to_existing": "new",
+      "existing_reading_of": "",
+      "justification": "Only together do the units show a value hierarchy: pride-status plus irreversible sale plus loving motive turns a transaction into sacrifice of pride for giving. No single unit states this subordination.",
+      "limitations": "The units do not show whether Jim shares this hierarchy, whether pride is permanently lost, or whether the sacrifice will be valued or reciprocated.",
+      "confidence": 0.82,
+      "contributing_valid": [
+       "u01_2",
+       "u02_1",
+       "u03_5"
+      ],
+      "contributing_unknown": [],
+      "evidence": [
+       {
+        "unit": "u01_2",
+        "label": "Couple's Two Proud Possessions",
+        "introduced_at": 1,
+        "quotes": [
+         {
+          "passage": 1,
+          "quote": "Now, there were two possessions of the James Dillingham Youngs in which they both took a mighty pride"
+         }
+        ]
+       },
+       {
+        "unit": "u02_1",
+        "label": "Della sells her hair",
+        "introduced_at": 2,
+        "quotes": [
+         {
+          "passage": 2,
+          "quote": "Twenty dollars,” said Madame, lifting the mass with a practised hand"
+         }
+        ]
+       },
+       {
+        "unit": "u03_5",
+        "label": "Hair Sold for Christmas",
+        "introduced_at": 3,
+        "quotes": [
+         {
+          "passage": 3,
+          "quote": "I had my hair cut off and sold because I couldn’t have lived through Christmas without giving you a present"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "statement": "The loss of Della's celebrated beauty leaves her fearing she is no longer pretty to Jim, a fear left unresolved by his unreadable stare.",
+      "contributing": [
+       "u01_4",
+       "u03_2",
+       "u03_4"
+      ],
+      "support": [
+       {
+        "unit": "u01_4",
+        "contributes": "records what was lost — long rippling shining hair below the knee now cut off and gone — establishing magnitude of bodily change"
+       },
+       {
+        "unit": "u03_2",
+        "contributes": "reveals Della's internal consequence — whispered prayer that Jim will still think her pretty"
+       },
+       {
+        "unit": "u03_4",
+        "contributes": "shows Jim's fixed peculiar expression she cannot read, withholding the reassurance she seeks"
+       }
+      ],
+      "relationship": "cause and consequence in sequence: transformation causes anxiety, ambiguous reception sustains it",
+      "kind": "emergent_meaning",
+      "relation_to_existing": "new",
+      "existing_reading_of": "",
+      "justification": "No unit alone states vulnerability: beauty description alone is admiration, prayer alone is insecurity, stare alone is ambiguity; together they show the sacrifice creates relational uncertainty about being loved for appearance.",
+      "limitations": "The units do not show Jim's actual judgment or whether Della's fear is justified, only her perception and his unreadability in this moment.",
+      "confidence": 0.85,
+      "contributing_valid": [
+       "u01_4",
+       "u03_2",
+       "u03_4"
+      ],
+      "contributing_unknown": [],
+      "evidence": [
+       {
+        "unit": "u01_4",
+        "label": "Cascade Of Brown Hair",
+        "introduced_at": 1,
+        "quotes": [
+         {
+          "passage": 1,
+          "quote": "So now Della’s beautiful hair fell about her rippling and shining like a cascade of brown waters"
+         }
+        ]
+       },
+       {
+        "unit": "u03_2",
+        "label": "Prayer for Prettiness",
+        "introduced_at": 3,
+        "quotes": [
+         {
+          "passage": 3,
+          "quote": "Please God, make him think I am still pretty"
+         }
+        ]
+       },
+       {
+        "unit": "u03_4",
+        "label": "Jim’s Fixed Stare",
+        "introduced_at": 3,
+        "quotes": [
+         {
+          "passage": 3,
+          "quote": "He simply stared at her fixedly with that peculiar expression on his face"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "rejected": [],
+    "no_new_meaning": ""
+   },
+   "B_raw": {
+    "interpretations": [
+     {
+      "confidence": 0.82,
+      "contributing": [
+       "u01_2",
+       "u02_1",
+       "u03_5"
+      ],
+      "existing_reading_of": "",
+      "justification": "Only together do the units show a value hierarchy: pride-status plus irreversible sale plus loving motive turns a transaction into sacrifice of pride for giving. No single unit states this subordination.",
+      "kind": "emergent_meaning",
+      "limitations": "The units do not show whether Jim shares this hierarchy, whether pride is permanently lost, or whether the sacrifice will be valued or reciprocated.",
+      "relation_to_existing": "new",
+      "relationship": "contrast between prized status and deliberate destruction, explained by motive as cause",
+      "statement": "Della willingly destroys one of the couple's two objects of pride in order to give Jim a Christmas present, subordinating shared pride to love.",
+      "support": [
+       {
+        "contributes": "establishes Della's hair as half of the couple's mighty pride, not incidental decoration",
+        "unit": "u01_2"
+       },
+       {
+        "contributes": "establishes the hair was actually cut and sold for twenty dollars, making that pride physically unrecoverable",
+        "unit": "u02_1"
+       },
+       {
+        "contributes": "provides the motive — she could not live through Christmas without giving Jim a present — framing destruction as love-driven giving",
+        "unit": "u03_5"
+       }
+      ]
+     },
+     {
+      "confidence": 0.85,
+      "contributing": [
+       "u01_4",
+       "u03_2",
+       "u03_4"
+      ],
+      "existing_reading_of": "",
+      "justification": "No unit alone states vulnerability: beauty description alone is admiration, prayer alone is insecurity, stare alone is ambiguity; together they show the sacrifice creates relational uncertainty about being loved for appearance.",
+      "kind": "emergent_meaning",
+      "limitations": "The units do not show Jim's actual judgment or whether Della's fear is justified, only her perception and his unreadability in this moment.",
+      "relation_to_existing": "new",
+      "relationship": "cause and consequence in sequence: transformation causes anxiety, ambiguous reception sustains it",
+      "statement": "The loss of Della's celebrated beauty leaves her fearing she is no longer pretty to Jim, a fear left unresolved by his unreadable stare.",
+      "support": [
+       {
+        "contributes": "records what was lost — long rippling shining hair below the knee now cut off and gone — establishing magnitude of bodily change",
+        "unit": "u01_4"
+       },
+       {
+        "contributes": "reveals Della's internal consequence — whispered prayer that Jim will still think her pretty",
+        "unit": "u03_2"
+       },
+       {
+        "contributes": "shows Jim's fixed peculiar expression she cannot read, withholding the reassurance she seeks",
+        "unit": "u03_4"
+       }
+      ]
+     }
+    ],
+    "no_new_meaning": ""
+   },
+   "wall_s": {
+    "A": 0.0,
+    "B": 16.5
+   }
+  },
+  {
+   "case": "magi_p5",
+   "book_id": "gift_of_the_magi",
+   "passage": 5,
+   "shown_units": [
+    "u00_4",
+    "u00_5",
+    "u02_3",
+    "u03_1",
+    "u03_3",
+    "u03_4",
+    "u04_1",
+    "u04_2",
+    "u04_3",
+    "u04_4",
+    "u04_5"
+   ],
+   "A_revision": {
+    "verdicts": [
+     {
+      "candidate": "u03_1",
+      "verdict": "unchanged",
+      "new_reading": "",
+      "coexists": false,
+      "evidence": [],
+      "rationale": "The revision of Jim's Fixed Stare to stunned incomprehension, explained by Jim stunned confusion, still leaves Boyish Short Curls as the strikingly altered hair that caused that stare, so its meaning is unchanged."
+     },
+     {
+      "candidate": "u02_3",
+      "verdict": "unchanged",
+      "new_reading": "",
+      "coexists": false,
+      "evidence": [],
+      "rationale": "The ending of Anxious Wait by Door by Jim presents gift package changes Della's waiting state, but Buys platinum fob chain remains the earlier purchase that made clutching the chain possible, so its reading still holds."
+     },
+     {
+      "candidate": "u00_4",
+      "verdict": "unchanged",
+      "new_reading": "",
+      "coexists": false,
+      "evidence": [],
+      "rationale": "The reinterpretation of Jim's Fixed Stare as stunned absorption, supported by Jim stunned confusion and Love unchanged by haircut, is consistent with rather than contrary to Jim beloved husband, so that entity reading still holds."
+     },
+     {
+      "candidate": "u00_5",
+      "verdict": "unchanged",
+      "new_reading": "",
+      "coexists": false,
+      "evidence": [],
+      "rationale": "The ending of Anxious Wait by Door with Jim presents gift package shows Della ready to give, but Desire for worthy gift as longing for something worthy of Jim is still evidenced by that wait, so its meaning is unchanged."
+     }
+    ],
+    "non_unchanged": []
+   },
+   "B_constructive": {
+    "accepted": [
+     {
+      "statement": "Jim's Fixed Stare expresses stunned struggle to absorb Della's altered appearance while his standing as a loving husband remains undiminished.",
+      "contributing": [
+       "u03_4",
+       "u04_1",
+       "u04_2",
+       "u00_4"
+      ],
+      "support": [
+       {
+        "unit": "u03_4",
+        "contributes": "Jim's Fixed Stare provides the unreadable fixed expression that requires reinterpretation."
+       },
+       {
+        "unit": "u04_1",
+        "contributes": "Jim stunned confusion provides the cognitive mechanism of laborious non-comprehension behind the stare."
+       },
+       {
+        "unit": "u04_2",
+        "contributes": "Love unchanged by haircut provides explicit denial that haircut could lessen love, excluding rejection."
+       },
+       {
+        "unit": "u00_4",
+        "contributes": "Jim beloved husband provides the baseline affectionate relationship that persists through the shock."
+       }
+      ],
+      "relationship": "cause and contrast: Jim stunned confusion explains and causes Jim's Fixed Stare, while Love unchanged by haircut and Jim beloved husband contrast with apparent rejection and frame the shock within enduring affection.",
+      "kind": "emergent_meaning",
+      "relation_to_existing": "supplements",
+      "existing_reading_of": "u03_4",
+      "justification": "Jim's Fixed Stare presents an unreadable fixed look that needs explanation. Jim stunned confusion supplies that explanation as laborious failure to grasp the patent fact of the haircut. Love unchanged by haircut explicitly denies that such a change could lessen love, ruling out coldness or displeasure as the meaning of the stare. Jim beloved husband supplies the baseline of an affectionately hugged husband, so shock occurs within continuing affection rather than replacing it.",
+      "limitations": "The units do not show why comprehension is so laborious beyond surprise, nor whether reassurance fully resolves Della's fear, and they do not describe Jim's longer-term feelings beyond his claim.",
+      "confidence": 0.85,
+      "contributing_valid": [
+       "u03_4",
+       "u04_1",
+       "u04_2",
+       "u00_4"
+      ],
+      "contributing_unknown": [],
+      "evidence": [
+       {
+        "unit": "u03_4",
+        "label": "Jim’s Fixed Stare",
+        "introduced_at": 3,
+        "quotes": [
+         {
+          "passage": 3,
+          "quote": "He simply stared at her fixedly with that peculiar expression on his face"
+         }
+        ]
+       },
+       {
+        "unit": "u04_1",
+        "label": "Jim stunned confusion",
+        "introduced_at": 4,
+        "quotes": [
+         {
+          "passage": 4,
+          "quote": "You’ve cut off your hair?” asked Jim, laboriously, as if he had not arrived at that patent fact yet even after the hardest mental labor"
+         }
+        ]
+       },
+       {
+        "unit": "u04_2",
+        "label": "Love unchanged by haircut",
+        "introduced_at": 4,
+        "quotes": [
+         {
+          "passage": 4,
+          "quote": "I don’t think there’s anything in the way of a haircut or a shave or a shampoo that could make me like my girl any less"
+         }
+        ]
+       },
+       {
+        "unit": "u00_4",
+        "label": "Jim beloved husband",
+        "introduced_at": 0,
+        "quotes": [
+         {
+          "passage": 0,
+          "quote": "he was called “Jim” and greatly hugged by Mrs. James Dillingham Young, already introduced to you as Della"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "statement": "Della's anxious wait clutching her purchased chain and Jim's arrival with his own package turn a one-sided offering into a mutual exchange of gifts.",
+      "contributing": [
+       "u03_3",
+       "u02_3",
+       "u00_5",
+       "u04_4"
+      ],
+      "support": [
+       {
+        "unit": "u03_3",
+        "contributes": "Anxious Wait by Door provides Della waiting by the entrance clutching the chain for Jim."
+       },
+       {
+        "unit": "u02_3",
+        "contributes": "Buys platinum fob chain provides that the clutched object is a costly chain Della bought and hurried home with."
+       },
+       {
+        "unit": "u00_5",
+        "contributes": "Desire for worthy gift provides the motive of wanting something worthy of Jim behind the purchase."
+       },
+       {
+        "unit": "u04_4",
+        "contributes": "Jim presents gift package provides Jim also bringing a package to throw on the table for unwrapping."
+       }
+      ],
+      "relationship": "parallel convergence: Anxious Wait by Door and Buys platinum fob chain and Desire for worthy gift form one line of preparation culminating in waiting, which parallels Jim presents gift package, and the two lines meet when waiting ends.",
+      "kind": "emergent_meaning",
+      "relation_to_existing": "new",
+      "existing_reading_of": "",
+      "justification": "Anxious Wait by Door shows Della positioned by the door clutching the fob chain in anticipation. Buys platinum fob chain shows that chain was deliberately purchased with nearly all her money, and Desire for worthy gift shows that purchase was motivated by longing to honor Jim. Jim presents gift package shows Jim also arrives with a package from his pocket to put on the table, so the waited-for arrival is not only receipt of Della's gift but presentation of his own. Taken together they convert one-sided giving into convergence of two prepared offerings.",
+      "limitations": "The units do not reveal the contents or value of Jim's package, whether either gift succeeds, or why opening later leads from joy to tears.",
+      "confidence": 0.78,
+      "contributing_valid": [
+       "u03_3",
+       "u02_3",
+       "u00_5",
+       "u04_4"
+      ],
+      "contributing_unknown": [],
+      "evidence": [
+       {
+        "unit": "u03_3",
+        "label": "Anxious Wait by Door",
+        "introduced_at": 3,
+        "quotes": [
+         {
+          "passage": 3,
+          "quote": "Della doubled the fob chain in her hand and sat on the corner of the table near the door that he always entered"
+         }
+        ]
+       },
+       {
+        "unit": "u02_3",
+        "label": "Buys platinum fob chain",
+        "introduced_at": 2,
+        "quotes": [
+         {
+          "passage": 2,
+          "quote": "Twenty-one dollars they took from her for it, and she hurried home with the 87 cents"
+         }
+        ]
+       },
+       {
+        "unit": "u00_5",
+        "label": "Desire for worthy gift",
+        "introduced_at": 0,
+        "quotes": [
+         {
+          "passage": 0,
+          "quote": "Something fine and rare and sterling—something just a little bit near to being worthy of the honor of being owned by Jim"
+         }
+        ]
+       },
+       {
+        "unit": "u04_4",
+        "label": "Jim presents gift package",
+        "introduced_at": 4,
+        "quotes": [
+         {
+          "passage": 4,
+          "quote": "Jim drew a package from his overcoat pocket and threw it upon the table"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "rejected": [],
+    "no_new_meaning": ""
+   },
+   "B_raw": {
+    "interpretations": [
+     {
+      "confidence": 0.85,
+      "contributing": [
+       "u03_4",
+       "u04_1",
+       "u04_2",
+       "u00_4"
+      ],
+      "existing_reading_of": "u03_4",
+      "justification": "Jim's Fixed Stare presents an unreadable fixed look that needs explanation. Jim stunned confusion supplies that explanation as laborious failure to grasp the patent fact of the haircut. Love unchanged by haircut explicitly denies that such a change could lessen love, ruling out coldness or displeasure as the meaning of the stare. Jim beloved husband supplies the baseline of an affectionately hugged husband, so shock occurs within continuing affection rather than replacing it.",
+      "kind": "emergent_meaning",
+      "limitations": "The units do not show why comprehension is so laborious beyond surprise, nor whether reassurance fully resolves Della's fear, and they do not describe Jim's longer-term feelings beyond his claim.",
+      "relation_to_existing": "supplements",
+      "relationship": "cause and contrast: Jim stunned confusion explains and causes Jim's Fixed Stare, while Love unchanged by haircut and Jim beloved husband contrast with apparent rejection and frame the shock within enduring affection.",
+      "statement": "Jim's Fixed Stare expresses stunned struggle to absorb Della's altered appearance while his standing as a loving husband remains undiminished.",
+      "support": [
+       {
+        "contributes": "Jim's Fixed Stare provides the unreadable fixed expression that requires reinterpretation.",
+        "unit": "u03_4"
+       },
+       {
+        "contributes": "Jim stunned confusion provides the cognitive mechanism of laborious non-comprehension behind the stare.",
+        "unit": "u04_1"
+       },
+       {
+        "contributes": "Love unchanged by haircut provides explicit denial that haircut could lessen love, excluding rejection.",
+        "unit": "u04_2"
+       },
+       {
+        "contributes": "Jim beloved husband provides the baseline affectionate relationship that persists through the shock.",
+        "unit": "u00_4"
+       }
+      ]
+     },
+     {
+      "confidence": 0.78,
+      "contributing": [
+       "u03_3",
+       "u02_3",
+       "u00_5",
+       "u04_4"
+      ],
+      "existing_reading_of": "",
+      "justification": "Anxious Wait by Door shows Della positioned by the door clutching the fob chain in anticipation. Buys platinum fob chain shows that chain was deliberately purchased with nearly all her money, and Desire for worthy gift shows that purchase was motivated by longing to honor Jim. Jim presents gift package shows Jim also arrives with a package from his pocket to put on the table, so the waited-for arrival is not only receipt of Della's gift but presentation of his own. Taken together they convert one-sided giving into convergence of two prepared offerings.",
+      "kind": "emergent_meaning",
+      "limitations": "The units do not reveal the contents or value of Jim's package, whether either gift succeeds, or why opening later leads from joy to tears.",
+      "relation_to_existing": "new",
+      "relationship": "parallel convergence: Anxious Wait by Door and Buys platinum fob chain and Desire for worthy gift form one line of preparation culminating in waiting, which parallels Jim presents gift package, and the two lines meet when waiting ends.",
+      "statement": "Della's anxious wait clutching her purchased chain and Jim's arrival with his own package turn a one-sided offering into a mutual exchange of gifts.",
+      "support": [
+       {
+        "contributes": "Anxious Wait by Door provides Della waiting by the entrance clutching the chain for Jim.",
+        "unit": "u03_3"
+       },
+       {
+        "contributes": "Buys platinum fob chain provides that the clutched object is a costly chain Della bought and hurried home with.",
+        "unit": "u02_3"
+       },
+       {
+        "contributes": "Desire for worthy gift provides the motive of wanting something worthy of Jim behind the purchase.",
+        "unit": "u00_5"
+       },
+       {
+        "contributes": "Jim presents gift package provides Jim also bringing a package to throw on the table for unwrapping.",
+        "unit": "u04_4"
+       }
+      ]
+     }
+    ],
+    "no_new_meaning": ""
+   },
+   "wall_s": {
+    "A": 0.0,
+    "B": 18.4
+   }
+  },
+  {
+   "case": "magi_p6",
+   "book_id": "gift_of_the_magi",
+   "passage": 6,
+   "shown_units": [
+    "u00_1",
+    "u00_3",
+    "u00_4",
+    "u01_2",
+    "u01_3",
+    "u01_4",
+    "u02_1",
+    "u02_3",
+    "u02_4",
+    "u03_3",
+    "u05_1",
+    "u05_2",
+    "u05_3",
+    "u05_4",
+    "u05_5"
+   ],
+   "A_revision": {
+    "verdicts": [
+     {
+      "candidate": "u00_4",
+      "verdict": "unchanged",
+      "new_reading": "",
+      "coexists": false,
+      "evidence": [],
+      "rationale": "Jim beloved husband still holds as Della's hugged husband at home; that Jim's Inherited Gold Watch was sold adds what he gave up but does not undo the husband relationship."
+     },
+     {
+      "candidate": "u01_4",
+      "verdict": "unchanged",
+      "new_reading": "",
+      "coexists": false,
+      "evidence": [],
+      "rationale": "Cascade Of Brown Hair still describes Della's long hair as it was, and its gone state is already recorded; that Couple's Two Proud Possessions are now both gone does not restore or further change the hair itself."
+     },
+     {
+      "candidate": "u02_1",
+      "verdict": "unchanged",
+      "new_reading": "",
+      "coexists": false,
+      "evidence": [],
+      "rationale": "Della sells her hair still records the past sale for twenty dollars that funded the purchase; that Buys platinum fob chain is now an unusable gift does not undo that the sale happened and paid for the chain."
+     },
+     {
+      "candidate": "u00_3",
+      "verdict": "unchanged",
+      "new_reading": "",
+      "coexists": false,
+      "evidence": [],
+      "rationale": "Impoverished shrunken household still describes the shabby flat and shrunk income; that Couple's Two Proud Possessions are now gone leaves the income and dwelling facts the same."
+     },
+     {
+      "candidate": "u00_1",
+      "verdict": "unchanged",
+      "new_reading": "",
+      "coexists": false,
+      "evidence": [],
+      "rationale": "Della's meager savings updated state of eighty-seven cents left after buying the chain still holds; that Buys platinum fob chain is now understood as unusable does not change how much money she has left."
+     },
+     {
+      "candidate": "u02_4",
+      "verdict": "unchanged",
+      "new_reading": "",
+      "coexists": false,
+      "evidence": [],
+      "rationale": "Chain mirrors Jim's character still holds that quietness and value describe chain and Jim; that Buys platinum fob chain is now kept without a watch does not undo the quiet and valuable likeness."
+     },
+     {
+      "candidate": "u03_3",
+      "verdict": "unchanged",
+      "new_reading": "",
+      "coexists": false,
+      "evidence": [],
+      "rationale": "Anxious Wait by Door still records Della clutching the chain by the door, already ended by arrival; that Buys platinum fob chain is now unusable does not change that the waiting with the chain happened."
+     }
+    ],
+    "non_unchanged": []
+   },
+   "B_constructive": {
+    "accepted": [
+     {
+      "statement": "Della's fob chain and Jim's combs form a reciprocal pair of unusable gifts whose matching uselessness turns material failure into evidence of mutual love.",
+      "contributing": [
+       "u02_3",
+       "u05_2",
+       "u02_1",
+       "u05_4"
+      ],
+      "support": [
+       {
+        "unit": "u02_3",
+        "contributes": "provides the chain side of the pair: an unusable gift kept without a watch, already framed as mirroring the combs while still signifying love"
+       },
+       {
+        "unit": "u05_2",
+        "contributes": "provides the combs side of the pair: ownership of coveted adornments without the tresses to adorn"
+       },
+       {
+        "unit": "u02_1",
+        "contributes": "provides the cause of the combs' uselessness: Della deliberately sold her hair"
+       },
+       {
+        "unit": "u05_4",
+        "contributes": "provides the cause of the chain's uselessness: Jim deliberately sold his watch to buy the combs"
+       }
+      ],
+      "relationship": "parallel and reciprocal cause and consequence: each partner's sacrifice is the cause of the other's gift becoming unusable, creating two mirrored unusable pairs",
+      "kind": "emergent_meaning",
+      "relation_to_existing": "supplements",
+      "existing_reading_of": "u02_3",
+      "justification": "u02_3 states the chain is kept without a watch to hold and u05_2 states the combs are owned without hair to wear them; u02_1 and u05_4 supply the intentional sales that explain each uselessness. Taken together they show not two isolated losses but a reciprocal pattern where each sacrifice disables the other's gift.",
+      "limitations": "The units do not show whether the gifts will ever become usable again, nor do they state the couple's own understanding of the symmetry.",
+      "confidence": 0.9,
+      "contributing_valid": [
+       "u02_3",
+       "u05_2",
+       "u02_1",
+       "u05_4"
+      ],
+      "contributing_unknown": [],
+      "evidence": [
+       {
+        "unit": "u02_3",
+        "label": "Buys platinum fob chain",
+        "introduced_at": 2,
+        "quotes": [
+         {
+          "passage": 2,
+          "quote": "Twenty-one dollars they took from her for it, and she hurried home with the 87 cents"
+         }
+        ]
+       },
+       {
+        "unit": "u05_2",
+        "label": "Useless Coveted Adornments",
+        "introduced_at": 5,
+        "quotes": [
+         {
+          "passage": 5,
+          "quote": "And now, they were hers, but the tresses that should have adorned the coveted adornments were gone"
+         }
+        ]
+       },
+       {
+        "unit": "u02_1",
+        "label": "Della sells her hair",
+        "introduced_at": 2,
+        "quotes": [
+         {
+          "passage": 2,
+          "quote": "Twenty dollars,” said Madame, lifting the mass with a practised hand"
+         }
+        ]
+       },
+       {
+        "unit": "u05_4",
+        "label": "Jim's Watch Sale",
+        "introduced_at": 5,
+        "quotes": [
+         {
+          "passage": 5,
+          "quote": "I sold the watch to get the money to buy your combs"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "statement": "The deliberate sacrifice of both mighty prides — hair and heirloom watch — is reframed from foolish loss into wisest giving.",
+      "contributing": [
+       "u01_2",
+       "u02_1",
+       "u05_4",
+       "u05_5"
+      ],
+      "support": [
+       {
+        "unit": "u01_2",
+        "contributes": "establishes joint loss of both sources of mighty pride: hair gone and watch sold"
+       },
+       {
+        "unit": "u02_1",
+        "contributes": "establishes Della's loss was intentional sacrifice to buy a gift"
+       },
+       {
+        "unit": "u05_4",
+        "contributes": "establishes Jim's loss was intentional sacrifice to buy a gift"
+       },
+       {
+        "unit": "u05_5",
+        "contributes": "provides the evaluative reversal declaring the foolish givers the wisest"
+       }
+      ],
+      "relationship": "contrast between material loss and evaluative elevation: deliberate destruction of what was prized contrasts with the narrator's claim that it constitutes wisdom",
+      "kind": "emergent_meaning",
+      "relation_to_existing": "new",
+      "existing_reading_of": "",
+      "justification": "u01_2 establishes that neither proud possession remains intact, u02_1 and u05_4 establish that both losses were deliberate sales to fund gifts for the other, and u05_5 evaluates the givers as wisest. Jointly, loss plus deliberate other-regarding motive plus wisest evaluation support reframing destruction of pride-objects as wisdom.",
+      "limitations": "The units do not explain the criterion for wisdom, nor whether pride survives in altered form; the narrator's declaration is taken as evaluation, not proven.",
+      "confidence": 0.78,
+      "contributing_valid": [
+       "u01_2",
+       "u02_1",
+       "u05_4",
+       "u05_5"
+      ],
+      "contributing_unknown": [],
+      "evidence": [
+       {
+        "unit": "u01_2",
+        "label": "Couple's Two Proud Possessions",
+        "introduced_at": 1,
+        "quotes": [
+         {
+          "passage": 1,
+          "quote": "Now, there were two possessions of the James Dillingham Youngs in which they both took a mighty pride"
+         }
+        ]
+       },
+       {
+        "unit": "u02_1",
+        "label": "Della sells her hair",
+        "introduced_at": 2,
+        "quotes": [
+         {
+          "passage": 2,
+          "quote": "Twenty dollars,” said Madame, lifting the mass with a practised hand"
+         }
+        ]
+       },
+       {
+        "unit": "u05_4",
+        "label": "Jim's Watch Sale",
+        "introduced_at": 5,
+        "quotes": [
+         {
+          "passage": 5,
+          "quote": "I sold the watch to get the money to buy your combs"
+         }
+        ]
+       },
+       {
+        "unit": "u05_5",
+        "label": "Wisest Foolish Givers",
+        "introduced_at": 5,
+        "quotes": [
+         {
+          "passage": 5,
+          "quote": "of all who give gifts these two were the wisest"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "rejected": [],
+    "no_new_meaning": ""
+   },
+   "B_raw": {
+    "interpretations": [
+     {
+      "confidence": 0.9,
+      "contributing": [
+       "u02_3",
+       "u05_2",
+       "u02_1",
+       "u05_4"
+      ],
+      "existing_reading_of": "u02_3",
+      "justification": "u02_3 states the chain is kept without a watch to hold and u05_2 states the combs are owned without hair to wear them; u02_1 and u05_4 supply the intentional sales that explain each uselessness. Taken together they show not two isolated losses but a reciprocal pattern where each sacrifice disables the other's gift.",
+      "kind": "emergent_meaning",
+      "limitations": "The units do not show whether the gifts will ever become usable again, nor do they state the couple's own understanding of the symmetry.",
+      "relation_to_existing": "supplements",
+      "relationship": "parallel and reciprocal cause and consequence: each partner's sacrifice is the cause of the other's gift becoming unusable, creating two mirrored unusable pairs",
+      "statement": "Della's fob chain and Jim's combs form a reciprocal pair of unusable gifts whose matching uselessness turns material failure into evidence of mutual love.",
+      "support": [
+       {
+        "contributes": "provides the chain side of the pair: an unusable gift kept without a watch, already framed as mirroring the combs while still signifying love",
+        "unit": "u02_3"
+       },
+       {
+        "contributes": "provides the combs side of the pair: ownership of coveted adornments without the tresses to adorn",
+        "unit": "u05_2"
+       },
+       {
+        "contributes": "provides the cause of the combs' uselessness: Della deliberately sold her hair",
+        "unit": "u02_1"
+       },
+       {
+        "contributes": "provides the cause of the chain's uselessness: Jim deliberately sold his watch to buy the combs",
+        "unit": "u05_4"
+       }
+      ]
+     },
+     {
+      "confidence": 0.78,
+      "contributing": [
+       "u01_2",
+       "u02_1",
+       "u05_4",
+       "u05_5"
+      ],
+      "existing_reading_of": "",
+      "justification": "u01_2 establishes that neither proud possession remains intact, u02_1 and u05_4 establish that both losses were deliberate sales to fund gifts for the other, and u05_5 evaluates the givers as wisest. Jointly, loss plus deliberate other-regarding motive plus wisest evaluation support reframing destruction of pride-objects as wisdom.",
+      "kind": "emergent_meaning",
+      "limitations": "The units do not explain the criterion for wisdom, nor whether pride survives in altered form; the narrator's declaration is taken as evaluation, not proven.",
+      "relation_to_existing": "new",
+      "relationship": "contrast between material loss and evaluative elevation: deliberate destruction of what was prized contrasts with the narrator's claim that it constitutes wisdom",
+      "statement": "The deliberate sacrifice of both mighty prides — hair and heirloom watch — is reframed from foolish loss into wisest giving.",
+      "support": [
+       {
+        "contributes": "establishes joint loss of both sources of mighty pride: hair gone and watch sold",
+        "unit": "u01_2"
+       },
+       {
+        "contributes": "establishes Della's loss was intentional sacrifice to buy a gift",
+        "unit": "u02_1"
+       },
+       {
+        "contributes": "establishes Jim's loss was intentional sacrifice to buy a gift",
+        "unit": "u05_4"
+       },
+       {
+        "contributes": "provides the evaluative reversal declaring the foolish givers the wisest",
+        "unit": "u05_5"
+       }
+      ]
+     }
+    ],
+    "no_new_meaning": ""
+   },
+   "wall_s": {
+    "A": 0.0,
+    "B": 13.4
+   }
+  },
+  {
+   "case": "bridge_p3",
+   "book_id": "synthetic_footbridge",
+   "passage": 3,
+   "shown_units": [
+    "u00_1",
+    "u00_3",
+    "u00_6",
+    "u01_1",
+    "u01_3",
+    "u01_5",
+    "u02_1",
+    "u02_2",
+    "u02_3",
+    "u02_4",
+    "u02_5",
+    "u02_6"
+   ],
+   "A_revision": {
+    "verdicts": [
+     {
+      "candidate": "u01_1",
+      "verdict": "state_update",
+      "new_reading": "The west-bank surgery is no longer reachable from the east bank via the footbridge, leaving east-bank patients to use the distant road bridge for years.",
+      "coexists": false,
+      "evidence": [
+       "u02_1",
+       "u02_6"
+      ],
+      "rationale": "Because Sole Wooden Footbridge no longer joins the banks after Flood Destroys Footbridge, and Years-Long Crossing Gap leaves only the road bridge twenty kilometres north, the Doctor's bridge-accessible surgery can no longer serve both halves as before while its locational purpose is unchanged."
+     },
+     {
+      "candidate": "u00_3",
+      "verdict": "unchanged",
+      "new_reading": "",
+      "coexists": false,
+      "evidence": [],
+      "rationale": "Although Sole Wooden Footbridge was carried away in Flood Destroys Footbridge, the Seal Union Symbol still describes what the town seal shows since 1920 and its union meaning, which the physical loss does not erase."
+     },
+     {
+      "candidate": "u01_5",
+      "verdict": "state_update",
+      "new_reading": "The twice-daily carry of letters across the footbridge can no longer run, cutting the west bank off from the east-bank post office for years.",
+      "coexists": false,
+      "evidence": [
+       "u02_1",
+       "u02_6"
+      ],
+      "rationale": "Because Flood Destroys Footbridge removed Sole Wooden Footbridge and Years-Long Crossing Gap leaves only the distant road bridge, the Single post office reliance can no longer operate by carrying letters across while its single-office arrangement is unchanged."
+     }
+    ],
+    "non_unchanged": [
+     {
+      "candidate": "u01_1",
+      "verdict": "state_update",
+      "new_reading": "The west-bank surgery is no longer reachable from the east bank via the footbridge, leaving east-bank patients to use the distant road bridge for years.",
+      "coexists": false,
+      "evidence": [
+       "u02_1",
+       "u02_6"
+      ],
+      "rationale": "Because Sole Wooden Footbridge no longer joins the banks after Flood Destroys Footbridge, and Years-Long Crossing Gap leaves only the road bridge twenty kilometres north, the Doctor's bridge-accessible surgery can no longer serve both halves as before while its locational purpose is unchanged."
+     },
+     {
+      "candidate": "u01_5",
+      "verdict": "state_update",
+      "new_reading": "The twice-daily carry of letters across the footbridge can no longer run, cutting the west bank off from the east-bank post office for years.",
+      "coexists": false,
+      "evidence": [
+       "u02_1",
+       "u02_6"
+      ],
+      "rationale": "Because Flood Destroys Footbridge removed Sole Wooden Footbridge and Years-Long Crossing Gap leaves only the distant road bridge, the Single post office reliance can no longer operate by carrying letters across while its single-office arrangement is unchanged."
+     }
+    ]
+   },
+   "B_constructive": {
+    "accepted": [
+     {
+      "statement": "The footbridge was lost not to an unsurvivable flood alone but to decades of uninspected rot that contradicted the council assurance of soundness.",
+      "contributing": [
+       "u00_6",
+       "u02_3",
+       "u02_4",
+       "u02_5"
+      ],
+      "support": [
+       {
+        "unit": "u00_6",
+        "contributes": "Provides the discredited assurance of yearly inspections and sound condition that the later findings overturn."
+       },
+       {
+        "unit": "u02_3",
+        "contributes": "Establishes the duration of neglect with no inspection at all since 1998, exposing the assurance as false."
+       },
+       {
+        "unit": "u02_4",
+        "contributes": "Establishes the physical result of neglect as rot in the main beams unnoticed for many years."
+       },
+       {
+        "unit": "u02_5",
+        "contributes": "Establishes that sound condition would probably have survived, making the neglected condition causally decisive."
+       }
+      ],
+      "relationship": "contrast between claimed soundness and documented neglect converging as cause accounting for the destruction",
+      "kind": "emergent_meaning",
+      "relation_to_existing": "supplements",
+      "existing_reading_of": "u00_6",
+      "justification": "Bridge Structurally Sound claimed yearly inspections and sound condition, while Decades Without Inspection establishes no inspection at all since 1998. Unnoticed Beam Rot establishes long-unnoticed rot in the main beams as the physical product of that gap, and Sound Bridge Survival establishes that a sound bridge would probably have survived the flood. Taken together the false assurance, the long gap, the resulting rot, and the survivability claim jointly point to neglect as decisive, which no single unit states alone.",
+      "limitations": "The units do not show who made or maintained the false claim, whether the neglect was deliberate or negligent, or the precise engineering contribution of rot versus flood force.",
+      "confidence": 0.85,
+      "contributing_valid": [
+       "u00_6",
+       "u02_3",
+       "u02_4",
+       "u02_5"
+      ],
+      "contributing_unknown": [],
+      "evidence": [
+       {
+        "unit": "u00_6",
+        "label": "Bridge Structurally Sound",
+        "introduced_at": 0,
+        "quotes": [
+         {
+          "passage": 0,
+          "quote": "the footbridge had been inspected every year and was structurally sound"
+         }
+        ]
+       },
+       {
+        "unit": "u02_3",
+        "label": "Decades Without Inspection",
+        "introduced_at": 2,
+        "quotes": [
+         {
+          "passage": 2,
+          "quote": "Its report found that the footbridge had not been inspected at all since 1998"
+         }
+        ]
+       },
+       {
+        "unit": "u02_4",
+        "label": "Unnoticed Beam Rot",
+        "introduced_at": 2,
+        "quotes": [
+         {
+          "passage": 2,
+          "quote": "rot in the main beams had gone unnoticed for many years"
+         }
+        ]
+       },
+       {
+        "unit": "u02_5",
+        "label": "Sound Bridge Survival",
+        "introduced_at": 2,
+        "quotes": [
+         {
+          "passage": 2,
+          "quote": "a sound bridge would probably have survived the flood"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "statement": "With the sole local crossing destroyed for years, the west-bank surgery sited for both halves and the east-bank post office serving by twice-daily carry can no longer reach the opposite bank locally.",
+      "contributing": [
+       "u01_1",
+       "u01_5",
+       "u00_1",
+       "u02_6"
+      ],
+      "support": [
+       {
+        "unit": "u01_1",
+        "contributes": "Shows essential medical provision deliberately placed to depend on the bridge for access from both halves."
+       },
+       {
+        "unit": "u01_5",
+        "contributes": "Shows essential postal provision deliberately operated by daily carry across the bridge to the opposite bank."
+       },
+       {
+        "unit": "u00_1",
+        "contributes": "Establishes the sole bridge no longer joins the banks, leaving only stone footings."
+       },
+       {
+        "unit": "u02_6",
+        "contributes": "Establishes the severance will last years with only a distant crossing available."
+       }
+      ],
+      "relationship": "two parallel cross-bank dependencies sharing a single point of failure, jointly severed as consequence of the same destruction",
+      "kind": "state_consequence",
+      "relation_to_existing": "new",
+      "existing_reading_of": "",
+      "justification": "Doctor's bridge-accessible surgery was sited on the west bank near the bridge so both halves could reach the only doctor, and Single post office reliance served the west bank by twice-daily carry across the bridge. Sole Wooden Footbridge no longer joins the banks after being carried away, and Years-Long Crossing Gap establishes the only crossing is twenty kilometres away for at least three years. Together the two parallel dependencies plus the prolonged loss of their sole link entail that neither opposite-bank service can continue locally.",
+      "limitations": "The units do not show whether alternative medical or postal arrangements are made, how residents actually travel, or the exact burden of the distant crossing.",
+      "confidence": 0.9,
+      "contributing_valid": [
+       "u01_1",
+       "u01_5",
+       "u00_1",
+       "u02_6"
+      ],
+      "contributing_unknown": [],
+      "evidence": [
+       {
+        "unit": "u01_1",
+        "label": "Doctor's bridge-accessible surgery",
+        "introduced_at": 1,
+        "quotes": [
+         {
+          "passage": 1,
+          "quote": "The town's only doctor keeps her surgery on the west bank, in the old customs house"
+         }
+        ]
+       },
+       {
+        "unit": "u01_5",
+        "label": "Single post office reliance",
+        "introduced_at": 1,
+        "quotes": [
+         {
+          "passage": 1,
+          "quote": "Twice a day the postman carries the letters for the west bank across in a canvas bag"
+         }
+        ]
+       },
+       {
+        "unit": "u00_1",
+        "label": "Sole Wooden Footbridge",
+        "introduced_at": 0,
+        "quotes": [
+         {
+          "passage": 0,
+          "quote": "the two halves of the town have been joined by a single wooden footbridge"
+         }
+        ]
+       },
+       {
+        "unit": "u02_6",
+        "label": "Years-Long Crossing Gap",
+        "introduced_at": 2,
+        "quotes": [
+         {
+          "passage": 2,
+          "quote": "the nearest way from one bank to the other is the road bridge twenty kilometres to the north"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "statement": "With the physical link gone and its centenary procession impossible for years, the footbridge persists only as an emblem of union and planned celebration, turning symbols of living connection into reminders of division.",
+      "contributing": [
+       "u00_3",
+       "u01_3",
+       "u00_1",
+       "u02_6"
+      ],
+      "support": [
+       {
+        "unit": "u00_3",
+        "contributes": "Provides the symbolic meaning of the bridge as union of the banks and reconciliation."
+       },
+       {
+        "unit": "u01_3",
+        "contributes": "Provides the planned celebratory enactment of that union as a procession across the bridge."
+       },
+       {
+        "unit": "u00_1",
+        "contributes": "Establishes the physical referent of both symbol and celebration has been carried away."
+       },
+       {
+        "unit": "u02_6",
+        "contributes": "Establishes the absence will last years, preventing enactment of the procession."
+       }
+      ],
+      "relationship": "contrast between enduring symbolic celebration of union and physical absence that prevents its enactment",
+      "kind": "emergent_meaning",
+      "relation_to_existing": "new",
+      "existing_reading_of": "",
+      "justification": "Seal Union Symbol presents the footbridge beneath clasped hands as the emblem of union of the banks, and Centenary festival planning planned a procession from one bank to the other to celebrate that restoration. Sole Wooden Footbridge no longer joins the banks after being carried away, and Years-Long Crossing Gap makes any cross-bridge procession impossible for years. Together the enduring emblem and planned celebration contrasted with the prolonged physical absence give the symbols a new memorial character unspoken by any unit alone.",
+      "limitations": "The units do not show how residents interpret the seal or festival, whether the festival will be cancelled or altered, or whether the seal will be changed.",
+      "confidence": 0.68,
+      "contributing_valid": [
+       "u00_3",
+       "u01_3",
+       "u00_1",
+       "u02_6"
+      ],
+      "contributing_unknown": [],
+      "evidence": [
+       {
+        "unit": "u00_3",
+        "label": "Seal Union Symbol",
+        "introduced_at": 0,
+        "quotes": [
+         {
+          "passage": 0,
+          "quote": "Since 1920 the town seal has shown the footbridge beneath two clasped hands"
+         }
+        ]
+       },
+       {
+        "unit": "u01_3",
+        "label": "Centenary festival planning",
+        "introduced_at": 1,
+        "quotes": [
+         {
+          "passage": 1,
+          "quote": "The council has also begun planning a festival for the bridge's centenary of restoration, due in 2025"
+         }
+        ]
+       },
+       {
+        "unit": "u00_1",
+        "label": "Sole Wooden Footbridge",
+        "introduced_at": 0,
+        "quotes": [
+         {
+          "passage": 0,
+          "quote": "the two halves of the town have been joined by a single wooden footbridge"
+         }
+        ]
+       },
+       {
+        "unit": "u02_6",
+        "label": "Years-Long Crossing Gap",
+        "introduced_at": 2,
+        "quotes": [
+         {
+          "passage": 2,
+          "quote": "the nearest way from one bank to the other is the road bridge twenty kilometres to the north"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "rejected": [],
+    "no_new_meaning": ""
+   },
+   "B_raw": {
+    "interpretations": [
+     {
+      "confidence": 0.85,
+      "contributing": [
+       "u00_6",
+       "u02_3",
+       "u02_4",
+       "u02_5"
+      ],
+      "existing_reading_of": "u00_6",
+      "justification": "Bridge Structurally Sound claimed yearly inspections and sound condition, while Decades Without Inspection establishes no inspection at all since 1998. Unnoticed Beam Rot establishes long-unnoticed rot in the main beams as the physical product of that gap, and Sound Bridge Survival establishes that a sound bridge would probably have survived the flood. Taken together the false assurance, the long gap, the resulting rot, and the survivability claim jointly point to neglect as decisive, which no single unit states alone.",
+      "kind": "emergent_meaning",
+      "limitations": "The units do not show who made or maintained the false claim, whether the neglect was deliberate or negligent, or the precise engineering contribution of rot versus flood force.",
+      "relation_to_existing": "supplements",
+      "relationship": "contrast between claimed soundness and documented neglect converging as cause accounting for the destruction",
+      "statement": "The footbridge was lost not to an unsurvivable flood alone but to decades of uninspected rot that contradicted the council assurance of soundness.",
+      "support": [
+       {
+        "contributes": "Provides the discredited assurance of yearly inspections and sound condition that the later findings overturn.",
+        "unit": "u00_6"
+       },
+       {
+        "contributes": "Establishes the duration of neglect with no inspection at all since 1998, exposing the assurance as false.",
+        "unit": "u02_3"
+       },
+       {
+        "contributes": "Establishes the physical result of neglect as rot in the main beams unnoticed for many years.",
+        "unit": "u02_4"
+       },
+       {
+        "contributes": "Establishes that sound condition would probably have survived, making the neglected condition causally decisive.",
+        "unit": "u02_5"
+       }
+      ]
+     },
+     {
+      "confidence": 0.9,
+      "contributing": [
+       "u01_1",
+       "u01_5",
+       "u00_1",
+       "u02_6"
+      ],
+      "existing_reading_of": "",
+      "justification": "Doctor's bridge-accessible surgery was sited on the west bank near the bridge so both halves could reach the only doctor, and Single post office reliance served the west bank by twice-daily carry across the bridge. Sole Wooden Footbridge no longer joins the banks after being carried away, and Years-Long Crossing Gap establishes the only crossing is twenty kilometres away for at least three years. Together the two parallel dependencies plus the prolonged loss of their sole link entail that neither opposite-bank service can continue locally.",
+      "kind": "state_consequence",
+      "limitations": "The units do not show whether alternative medical or postal arrangements are made, how residents actually travel, or the exact burden of the distant crossing.",
+      "relation_to_existing": "new",
+      "relationship": "two parallel cross-bank dependencies sharing a single point of failure, jointly severed as consequence of the same destruction",
+      "statement": "With the sole local crossing destroyed for years, the west-bank surgery sited for both halves and the east-bank post office serving by twice-daily carry can no longer reach the opposite bank locally.",
+      "support": [
+       {
+        "contributes": "Shows essential medical provision deliberately placed to depend on the bridge for access from both halves.",
+        "unit": "u01_1"
+       },
+       {
+        "contributes": "Shows essential postal provision deliberately operated by daily carry across the bridge to the opposite bank.",
+        "unit": "u01_5"
+       },
+       {
+        "contributes": "Establishes the sole bridge no longer joins the banks, leaving only stone footings.",
+        "unit": "u00_1"
+       },
+       {
+        "contributes": "Establishes the severance will last years with only a distant crossing available.",
+        "unit": "u02_6"
+       }
+      ]
+     },
+     {
+      "confidence": 0.68,
+      "contributing": [
+       "u00_3",
+       "u01_3",
+       "u00_1",
+       "u02_6"
+      ],
+      "existing_reading_of": "",
+      "justification": "Seal Union Symbol presents the footbridge beneath clasped hands as the emblem of union of the banks, and Centenary festival planning planned a procession from one bank to the other to celebrate that restoration. Sole Wooden Footbridge no longer joins the banks after being carried away, and Years-Long Crossing Gap makes any cross-bridge procession impossible for years. Together the enduring emblem and planned celebration contrasted with the prolonged physical absence give the symbols a new memorial character unspoken by any unit alone.",
+      "kind": "emergent_meaning",
+      "limitations": "The units do not show how residents interpret the seal or festival, whether the festival will be cancelled or altered, or whether the seal will be changed.",
+      "relation_to_existing": "new",
+      "relationship": "contrast between enduring symbolic celebration of union and physical absence that prevents its enactment",
+      "statement": "With the physical link gone and its centenary procession impossible for years, the footbridge persists only as an emblem of union and planned celebration, turning symbols of living connection into reminders of division.",
+      "support": [
+       {
+        "contributes": "Provides the symbolic meaning of the bridge as union of the banks and reconciliation.",
+        "unit": "u00_3"
+       },
+       {
+        "contributes": "Provides the planned celebratory enactment of that union as a procession across the bridge.",
+        "unit": "u01_3"
+       },
+       {
+        "contributes": "Establishes the physical referent of both symbol and celebration has been carried away.",
+        "unit": "u00_1"
+       },
+       {
+        "contributes": "Establishes the absence will last years, preventing enactment of the procession.",
+        "unit": "u02_6"
+       }
+      ]
+     }
+    ],
+    "no_new_meaning": ""
+   },
+   "wall_s": {
+    "A": 0.0,
+    "B": 26.2
+   }
+  },
+  {
+   "case": "control_library_p2",
+   "book_id": "control_library",
+   "passage": 2,
+   "shown_units": [
+    "u00_1",
+    "u00_2",
+    "u00_3",
+    "u01_1",
+    "u01_2"
+   ],
+   "A_revision": {
+    "verdicts": [
+     {
+      "candidate": "u00_2",
+      "verdict": "unchanged",
+      "new_reading": "",
+      "coexists": false,
+      "evidence": [],
+      "rationale": "Old map collection describes what the reading room holds, which is unaffected by Library now opens at ten moving Library opens at nine from nine to ten."
+     },
+     {
+      "candidate": "u00_3",
+      "verdict": "unchanged",
+      "new_reading": "",
+      "coexists": false,
+      "evidence": [],
+      "rationale": "Fishing rods lent to children describes holiday lending, which is unaffected by Library now opens at ten changing the weekday opening hour."
+     }
+    ],
+    "non_unchanged": []
+   },
+   "B_constructive": {
+    "accepted": [],
+    "rejected": [],
+    "no_new_meaning": "The change from Library opens at nine to Library now opens at ten is already stated by the new unit alone, and New reading-room carpet shares only general library topic with Old map collection and Fishing rods lent to children. Co-location in the reading room or in the library does not yield a higher-level meaning, contrast, or causal relation beyond the stated facts."
+   },
+   "B_raw": {
+    "interpretations": [],
+    "no_new_meaning": "The change from Library opens at nine to Library now opens at ten is already stated by the new unit alone, and New reading-room carpet shares only general library topic with Old map collection and Fishing rods lent to children. Co-location in the reading room or in the library does not yield a higher-level meaning, contrast, or causal relation beyond the stated facts."
+   },
+   "wall_s": {
+    "A": 5.0,
+    "B": 7.0
+   }
+  }
+ ]
+}

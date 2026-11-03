@@ -1,0 +1,465 @@
+the_time_machine: 86 passages; target 86; run 20261101-164601; budget $50.00; spent $0.1511; uncertain exposure $0.0532
+  perception/p4: ok  in=1076 (cached 497) out=3331 (reasoning 2874)  $0.0150  10.8s
+  integration/p4: ok  in=2818 (cached 0) out=2866 (reasoning 2303)  $0.0157  10.3s
+  passage 5/86: +5 units, 0 merged, 6 relations, 0 revisions, 0 ungrounded rejected; propagation: 0 reconsidered, 0 revised; construction: 0 triggers, 0 meanings, 0 rejected
+passage 5/86 checkpointed: 25 units, 28 relations, 0 constructed; passage cost $0.0307; total $0.1817
+  perception/p5: ok  in=1116 (cached 0) out=4183 (reasoning 3756)  $0.0192  14.9s
+  integration/p5: ok  in=2890 (cached 0) out=3258 (reasoning 2488)  $0.0175  11.1s
+  propagation/p5: ok  in=2426 (cached 0) out=1728 (reasoning 1454)  $0.0104  7.8s
+  construction/p5: ok  in=3010 (cached 0) out=1946 (reasoning 1574)  $0.0120  8.3s
+  passage 6/86: +5 units, 0 merged, 6 relations, 2 revisions, 0 ungrounded rejected; propagation: 3 reconsidered, 0 revised; construction: 4 triggers, 1 meanings, 0 rejected
+passage 6/86 checkpointed: 30 units, 34 relations, 1 constructed; passage cost $0.0590; total $0.2408
+  perception/p6: ok  in=1084 (cached 0) out=6190 (reasoning 5725)  $0.0277  16.8s
+  integration/p6: ok  in=3015 (cached 0) out=3396 (reasoning 2489)  $0.0182  12.7s
+  propagation/p6: ok  in=3118 (cached 0) out=2929 (reasoning 2578)  $0.0163  11.6s
+  construction/p6: ok  in=3815 (cached 0) out=2501 (reasoning 2173)  $0.0154  9.6s
+  passage 7/86: +5 units, 0 merged, 7 relations, 3 revisions, 0 ungrounded rejected; propagation: 4 reconsidered, 1 revised; construction: 5 triggers, 1 meanings, 0 rejected
+passage 7/86 checkpointed: 35 units, 41 relations, 2 constructed; passage cost $0.0776; total $0.3184
+  perception/p7: ok  in=1162 (cached 0) out=3294 (reasoning 2805)  $0.0155  9.4s
+  integration/p7: ok  in=3368 (cached 0) out=5269 (reasoning 4369)  $0.0266  19.1s
+  propagation/p7: ok  in=2839 (cached 0) out=4694 (reasoning 4176)  $0.0235  18.2s
+  construction/p7: ok  in=3790 (cached 0) out=3493 (reasoning 2868)  $0.0196  13.9s
+  passage 8/86: +6 units, 0 merged, 8 relations, 2 revisions, 0 ungrounded rejected; propagation: 5 reconsidered, 2 revised; construction: 4 triggers, 2 meanings, 0 rejected
+passage 8/86 checkpointed: 41 units, 49 relations, 4 constructed; passage cost $0.0851; total $0.4035
+  perception/p8: ok  in=1320 (cached 0) out=5946 (reasoning 5459)  $0.0269  17.2s
+  integration/p8: ok  in=3126 (cached 0) out=5260 (reasoning 4371)  $0.0263  18.0s
+  propagation/p8: ok  in=2474 (cached 0) out=4466 (reasoning 4018)  $0.0221  15.0s
+  construction/p8: ok  in=4183 (cached 0) out=2501 (reasoning 2136)  $0.0159  9.3s
+  passage 9/86: +5 units, 0 merged, 6 relations, 2 revisions, 0 ungrounded rejected; propagation: 4 reconsidered, 2 revised; construction: 5 triggers, 1 meanings, 0 rejected
+passage 9/86 checkpointed: 46 units, 55 relations, 5 constructed; passage cost $0.0911; total $0.4946
+  perception/p9: ok  in=1049 (cached 497) out=5940 (reasoning 5440)  $0.0260  18.9s
+  integration/p9: ok  in=3402 (cached 0) out=5822 (reasoning 5026)  $0.0290  27.6s
+  propagation/p9: ok  in=1893 (cached 0) out=2278 (reasoning 1889)  $0.0120  9.2s
+  construction/p9: ok  in=4517 (cached 0) out=4267 (reasoning 3645)  $0.0238  16.4s
+  passage 10/86: +5 units, 0 merged, 9 relations, 0 revisions, 0 ungrounded rejected; propagation: 4 reconsidered, 0 revised; construction: 2 triggers, 2 meanings, 0 rejected
+passage 10/86 checkpointed: 51 units, 64 relations, 7 constructed; passage cost $0.0908; total $0.5855
+  perception/p10: ok  in=1070 (cached 0) out=2779 (reasoning 2330)  $0.0131  10.1s
+  integration/p10: ok  in=3294 (cached 0) out=4095 (reasoning 3237)  $0.0215  14.4s
+  propagation/p10: ok  in=1844 (cached 0) out=2428 (reasoning 2164)  $0.0126  8.9s
+  construction/p10: ok  in=4569 (cached 0) out=4817 (reasoning 4423)  $0.0262  20.7s
+  passage 11/86: +5 units, 0 merged, 9 relations, 1 revisions, 0 ungrounded rejected; propagation: 3 reconsidered, 0 revised; construction: 3 triggers, 0 meanings, 0 rejected
+passage 11/86 checkpointed: 56 units, 73 relations, 7 constructed; passage cost $0.0735; total $0.6589
+  perception/p11: ok  in=1179 (cached 497) out=4510 (reasoning 4039)  $0.0201  15.0s
+  integration/p11: ok  in=3388 (cached 0) out=3702 (reasoning 2777)  $0.0200  13.0s
+  propagation/p11: ok  in=2989 (cached 0) out=2080 (reasoning 1515)  $0.0126  7.6s
+  construction/p11: ok  in=4389 (cached 0) out=3111 (reasoning 2752)  $0.0187  14.7s
+  passage 12/86: +5 units, 0 merged, 6 relations, 2 revisions, 0 ungrounded rejected; propagation: 7 reconsidered, 0 revised; construction: 3 triggers, 1 meanings, 0 rejected
+passage 12/86 checkpointed: 61 units, 79 relations, 8 constructed; passage cost $0.0713; total $0.7303
+  perception/p12: ok  in=1092 (cached 0) out=4287 (reasoning 3760)  $0.0196  19.8s
+  integration/p12: ok  in=3529 (cached 0) out=3346 (reasoning 2767)  $0.0186  11.5s
+  propagation/p12: ok  in=2268 (cached 0) out=4284 (reasoning 3880)  $0.0210  15.8s
+  construction/p12: ok  in=4534 (cached 0) out=4456 (reasoning 3789)  $0.0246  17.2s
+  passage 13/86: +5 units, 0 merged, 5 relations, 1 revisions, 0 ungrounded rejected; propagation: 4 reconsidered, 1 revised; construction: 3 triggers, 2 meanings, 0 rejected
+passage 13/86 checkpointed: 66 units, 84 relations, 10 constructed; passage cost $0.0839; total $0.8142
+  perception/p13: ok  in=1063 (cached 0) out=2355 (reasoning 1828)  $0.0113  7.4s
+  integration/p13: ok  in=3601 (cached 0) out=2929 (reasoning 2290)  $0.0169  12.1s
+  propagation/p13: ok  in=1657 (cached 0) out=2399 (reasoning 2223)  $0.0123  10.1s
+  construction/p13: ok  in=3565 (cached 0) out=3184 (reasoning 2536)  $0.0180  17.7s
+  passage 14/86: +5 units, 0 merged, 6 relations, 0 revisions, 0 ungrounded rejected; propagation: 2 reconsidered, 0 revised; construction: 3 triggers, 2 meanings, 0 rejected
+passage 14/86 checkpointed: 71 units, 90 relations, 12 constructed; passage cost $0.0585; total $0.8727
+  perception/p14: ok  in=1116 (cached 0) out=5714 (reasoning 5163)  $0.0257  19.1s
+  integration/p14: ok  in=3834 (cached 0) out=3896 (reasoning 3036)  $0.0214  13.5s
+  propagation/p14: ok  in=2751 (cached 497) out=3403 (reasoning 2901)  $0.0174  13.0s
+  construction/p14: ok  in=4459 (cached 0) out=3753 (reasoning 3005)  $0.0215  14.1s
+  passage 15/86: +6 units, 0 merged, 8 relations, 1 revisions, 0 ungrounded rejected; propagation: 6 reconsidered, 1 revised; construction: 4 triggers, 1 meanings, 0 rejected
+passage 15/86 checkpointed: 77 units, 98 relations, 13 constructed; passage cost $0.0859; total $0.9586
+  perception/p15: ok  in=1140 (cached 0) out=3403 (reasoning 2832)  $0.0159  11.9s
+  integration/p15: ok  in=3839 (cached 0) out=4194 (reasoning 3345)  $0.0226  14.5s
+  propagation/p15: ok  in=1892 (cached 0) out=723 (reasoning 616)  $0.0054  3.1s
+  passage 16/86: +6 units, 0 merged, 6 relations, 1 revisions, 0 ungrounded rejected; propagation: 1 reconsidered, 0 revised; construction: 0 triggers, 0 meanings, 0 rejected
+passage 16/86 checkpointed: 83 units, 104 relations, 13 constructed; passage cost $0.0439; total $1.0026
+  perception/p16: ok  in=1200 (cached 0) out=2746 (reasoning 2229)  $0.0132  7.6s
+  integration/p16: ok  in=3848 (cached 0) out=4166 (reasoning 3312)  $0.0225  14.2s
+  propagation/p16: ok  in=2750 (cached 0) out=3508 (reasoning 3232)  $0.0183  12.7s
+  construction/p16: ok  in=4417 (cached 0) out=3430 (reasoning 2803)  $0.0201  12.5s
+  passage 17/86: +5 units, 0 merged, 7 relations, 2 revisions, 0 ungrounded rejected; propagation: 3 reconsidered, 1 revised; construction: 4 triggers, 2 meanings, 0 rejected
+passage 17/86 checkpointed: 88 units, 111 relations, 15 constructed; passage cost $0.0741; total $1.0767
+  perception/p17: ok  in=1106 (cached 0) out=7457 (reasoning 6994)  $0.0331  21.8s
+  integration/p17: ok  in=3734 (cached 0) out=2942 (reasoning 2359)  $0.0172  9.5s
+  propagation/p17: ok  in=2377 (cached 0) out=3327 (reasoning 2862)  $0.0171  12.3s
+  construction/p17: ok  in=3869 (cached 0) out=4610 (reasoning 4209)  $0.0244  18.9s
+  passage 18/86: +5 units, 0 merged, 6 relations, 0 revisions, 0 ungrounded rejected; propagation: 5 reconsidered, 3 revised; construction: 3 triggers, 0 meanings, 0 rejected
+passage 18/86 checkpointed: 93 units, 117 relations, 15 constructed; passage cost $0.0918; total $1.1685
+  perception/p18: ok  in=1102 (cached 0) out=2852 (reasoning 2361)  $0.0135  9.2s
+  integration/p18: ok  in=3732 (cached 0) out=4976 (reasoning 4241)  $0.0258  19.4s
+  propagation/p18: ok  in=1824 (cached 0) out=2158 (reasoning 1968)  $0.0115  9.0s
+  construction/p18: ok  in=3066 (cached 0) out=2954 (reasoning 2606)  $0.0164  12.4s
+  passage 19/86: +5 units, 0 merged, 7 relations, 1 revisions, 0 ungrounded rejected; propagation: 2 reconsidered, 0 revised; construction: 1 triggers, 1 meanings, 0 rejected
+passage 19/86 checkpointed: 98 units, 124 relations, 16 constructed; passage cost $0.0672; total $1.2356
+  perception/p19: ok  in=1168 (cached 0) out=4936 (reasoning 4489)  $0.0224  15.7s
+  integration/p19: ok  in=3646 (cached 0) out=3819 (reasoning 2859)  $0.0208  13.8s
+  propagation/p19: ok  in=3762 (cached 0) out=3433 (reasoning 2852)  $0.0193  13.4s
+  construction/p19: ok  in=4576 (cached 0) out=3314 (reasoning 2746)  $0.0198  10.9s
+  passage 20/86: +5 units, 0 merged, 7 relations, 3 revisions, 0 ungrounded rejected; propagation: 7 reconsidered, 1 revised; construction: 5 triggers, 2 meanings, 0 rejected
+passage 20/86 checkpointed: 103 units, 131 relations, 18 constructed; passage cost $0.0823; total $1.3179
+  perception/p20: ok  in=1022 (cached 0) out=4966 (reasoning 4389)  $0.0224  14.9s
+  integration/p20: ok  in=3752 (cached 0) out=5171 (reasoning 4350)  $0.0267  17.3s
+  propagation/p20: ok  in=1934 (cached 0) out=2564 (reasoning 2195)  $0.0133  11.1s
+  construction/p20: ok  in=3997 (cached 0) out=2325 (reasoning 1963)  $0.0149  8.6s
+  passage 21/86: +6 units, 0 merged, 7 relations, 1 revisions, 0 ungrounded rejected; propagation: 3 reconsidered, 1 revised; construction: 2 triggers, 1 meanings, 0 rejected
+passage 21/86 checkpointed: 109 units, 138 relations, 19 constructed; passage cost $0.0772; total $1.3952
+  perception/p21: ok  in=1143 (cached 0) out=2875 (reasoning 2403)  $0.0136  8.8s
+  integration/p21: ok  in=3825 (cached 0) out=3889 (reasoning 3196)  $0.0213  13.7s
+  propagation/p21: ok  in=1461 (cached 497) out=1645 (reasoning 1539)  $0.0083  6.8s
+  passage 22/86: +5 units, 0 merged, 6 relations, 0 revisions, 0 ungrounded rejected; propagation: 1 reconsidered, 0 revised; construction: 0 triggers, 0 meanings, 0 rejected
+passage 22/86 checkpointed: 114 units, 144 relations, 19 constructed; passage cost $0.0432; total $1.4384
+  perception/p22: ok  in=1037 (cached 0) out=3336 (reasoning 2826)  $0.0155  11.9s
+  integration/p22: ok  in=3815 (cached 0) out=4264 (reasoning 3490)  $0.0229  15.2s
+  propagation/p22: ok  in=3082 (cached 0) out=3113 (reasoning 2459)  $0.0171  11.8s
+  construction/p22: ok  in=4495 (cached 0) out=2653 (reasoning 2307)  $0.0169  10.5s
+  passage 23/86: +5 units, 0 merged, 8 relations, 1 revisions, 0 ungrounded rejected; propagation: 7 reconsidered, 1 revised; construction: 5 triggers, 1 meanings, 0 rejected
+passage 23/86 checkpointed: 119 units, 152 relations, 20 constructed; passage cost $0.0723; total $1.5108
+  perception/p23: ok  in=1065 (cached 0) out=3648 (reasoning 3194)  $0.0168  11.6s
+  integration/p23: ok  in=3843 (cached 0) out=3206 (reasoning 2446)  $0.0184  10.6s
+  propagation/p23: ok  in=2533 (cached 0) out=2680 (reasoning 2182)  $0.0146  9.5s
+  construction/p23: ok  in=4626 (cached 0) out=3587 (reasoning 3164)  $0.0210  14.3s
+  passage 24/86: +5 units, 0 merged, 8 relations, 0 revisions, 0 ungrounded rejected; propagation: 6 reconsidered, 0 revised; construction: 2 triggers, 1 meanings, 0 rejected
+passage 24/86 checkpointed: 124 units, 160 relations, 21 constructed; passage cost $0.0708; total $1.5816
+  perception/p24: ok  in=1135 (cached 0) out=4831 (reasoning 4300)  $0.0220  14.7s
+  integration/p24: ok  in=3795 (cached 0) out=3999 (reasoning 3112)  $0.0217  13.5s
+  construction/p24: ok  in=4640 (cached 0) out=4941 (reasoning 4479)  $0.0268  20.5s
+  passage 25/86: +6 units, 0 merged, 9 relations, 0 revisions, 0 ungrounded rejected; propagation: 0 reconsidered, 0 revised; construction: 2 triggers, 1 meanings, 0 rejected
+passage 25/86 checkpointed: 130 units, 169 relations, 22 constructed; passage cost $0.0705; total $1.6521
+  perception/p25: ok  in=1099 (cached 0) out=3102 (reasoning 2533)  $0.0146  10.9s
+  integration/p25: ok  in=3883 (cached 0) out=3966 (reasoning 3127)  $0.0217  13.7s
+  passage 26/86: +6 units, 0 merged, 8 relations, 0 revisions, 0 ungrounded rejected; propagation: 0 reconsidered, 0 revised; construction: 0 triggers, 0 meanings, 0 rejected
+passage 26/86 checkpointed: 136 units, 177 relations, 22 constructed; passage cost $0.0363; total $1.6884
+  perception/p26: ok  in=1026 (cached 497) out=3647 (reasoning 3137)  $0.0162  10.8s
+  integration/p26: ok  in=3759 (cached 0) out=3040 (reasoning 2348)  $0.0176  9.8s
+  passage 27/86: +6 units, 0 merged, 7 relations, 0 revisions, 0 ungrounded rejected; propagation: 0 reconsidered, 0 revised; construction: 0 triggers, 0 meanings, 0 rejected
+passage 27/86 checkpointed: 142 units, 184 relations, 22 constructed; passage cost $0.0339; total $1.7222
+  perception/p27: ok  in=1048 (cached 497) out=2790 (reasoning 2324)  $0.0126  8.3s
+  integration/p27: ok  in=3775 (cached 1009) out=4634 (reasoning 3427)  $0.0233  15.7s
+  propagation/p27: ok  in=3557 (cached 0) out=4641 (reasoning 3673)  $0.0242  18.0s
+  construction/p27: ok  in=5031 (cached 1009) out=2821 (reasoning 2366)  $0.0172  11.6s
+  passage 28/86: +5 units, 0 merged, 10 relations, 2 revisions, 0 ungrounded rejected; propagation: 8 reconsidered, 5 revised; construction: 10 triggers, 1 meanings, 0 rejected
+passage 28/86 checkpointed: 147 units, 194 relations, 23 constructed; passage cost $0.0773; total $1.7995
+  perception/p28: ok  in=1063 (cached 497) out=2815 (reasoning 2366)  $0.0127  8.5s
+  integration/p28: ok  in=3843 (cached 0) out=4420 (reasoning 3569)  $0.0236  14.5s
+  construction/p28: ok  in=4950 (cached 0) out=2737 (reasoning 2307)  $0.0178  9.1s
+  passage 29/86: +5 units, 0 merged, 9 relations, 0 revisions, 0 ungrounded rejected; propagation: 0 reconsidered, 0 revised; construction: 2 triggers, 1 meanings, 0 rejected
+passage 29/86 checkpointed: 152 units, 203 relations, 24 constructed; passage cost $0.0542; total $1.8536
+  perception/p29: ok  in=1087 (cached 497) out=4469 (reasoning 4009)  $0.0198  13.1s
+  integration/p29: ok  in=3847 (cached 0) out=4424 (reasoning 3198)  $0.0236  15.5s
+  propagation/p29: ok  in=3370 (cached 0) out=4551 (reasoning 3666)  $0.0236  15.9s
+  construction/p29: ok  in=5302 (cached 0) out=3227 (reasoning 2798)  $0.0203  13.7s
+  passage 30/86: +5 units, 0 merged, 11 relations, 2 revisions, 0 ungrounded rejected; propagation: 8 reconsidered, 5 revised; construction: 14 triggers, 1 meanings, 0 rejected
+passage 30/86 checkpointed: 157 units, 214 relations, 25 constructed; passage cost $0.0873; total $1.9409
+  perception/p30: ok  in=1244 (cached 0) out=4068 (reasoning 3541)  $0.0188  13.2s
+  integration/p30: ok  in=4159 (cached 0) out=3288 (reasoning 2521)  $0.0192  12.8s
+  propagation/p30: ok  in=2540 (cached 0) out=2140 (reasoning 1777)  $0.0123  8.5s
+  construction/p30: ok  in=4909 (cached 0) out=3987 (reasoning 3569)  $0.0231  18.0s
+  passage 31/86: +6 units, 0 merged, 7 relations, 1 revisions, 0 ungrounded rejected; propagation: 4 reconsidered, 1 revised; construction: 3 triggers, 1 meanings, 0 rejected
+passage 31/86 checkpointed: 163 units, 221 relations, 26 constructed; passage cost $0.0734; total $2.0143
+  perception/p31: ok  in=1056 (cached 497) out=3910 (reasoning 3371)  $0.0174  10.5s
+  integration/p31: ok  in=3728 (cached 0) out=6481 (reasoning 5460)  $0.0322  22.1s
+  propagation/p31: ok  in=2506 (cached 497) out=3358 (reasoning 2995)  $0.0169  11.9s
+  construction/p31: ok  in=4436 (cached 0) out=3647 (reasoning 2899)  $0.0210  13.8s
+  passage 32/86: +6 units, 0 merged, 9 relations, 1 revisions, 0 ungrounded rejected; propagation: 3 reconsidered, 1 revised; construction: 5 triggers, 2 meanings, 0 rejected
+passage 32/86 checkpointed: 169 units, 230 relations, 28 constructed; passage cost $0.0875; total $2.1018
+  perception/p32: ok  in=1075 (cached 0) out=2990 (reasoning 2500)  $0.0141  10.3s
+  integration/p32: ok  in=3767 (cached 0) out=4274 (reasoning 3514)  $0.0229  15.3s
+  construction/p32: ok  in=4317 (cached 0) out=3776 (reasoning 3150)  $0.0214  13.2s
+  passage 33/86: +5 units, 0 merged, 9 relations, 0 revisions, 0 ungrounded rejected; propagation: 0 reconsidered, 0 revised; construction: 3 triggers, 2 meanings, 0 rejected
+passage 33/86 checkpointed: 174 units, 239 relations, 30 constructed; passage cost $0.0584; total $2.1602
+  perception/p33: ok  in=1254 (cached 497) out=3859 (reasoning 3331)  $0.0174  11.7s
+  integration/p33: ok  in=3902 (cached 0) out=5032 (reasoning 3657)  $0.0263  16.5s
+  propagation/p33: ok  in=3554 (cached 0) out=3228 (reasoning 2655)  $0.0182  12.9s
+  construction/p33: ok  in=4671 (cached 0) out=4182 (reasoning 3214)  $0.0236  16.4s
+  passage 34/86: +6 units, 0 merged, 13 relations, 3 revisions, 0 ungrounded rejected; propagation: 7 reconsidered, 0 revised; construction: 7 triggers, 2 meanings, 0 rejected
+passage 34/86 checkpointed: 180 units, 252 relations, 32 constructed; passage cost $0.0855; total $2.2456
+  perception/p34: ok  in=1072 (cached 497) out=2889 (reasoning 2260)  $0.0131  9.4s
+  integration/p34: ok  in=4129 (cached 0) out=5645 (reasoning 4409)  $0.0292  25.0s
+  propagation/p34: ok  in=2238 (cached 0) out=2260 (reasoning 2054)  $0.0124  9.1s
+  construction/p34: ok  in=4900 (cached 0) out=4722 (reasoning 3938)  $0.0262  28.0s
+  passage 35/86: +6 units, 0 merged, 9 relations, 2 revisions, 0 ungrounded rejected; propagation: 2 reconsidered, 0 revised; construction: 2 triggers, 2 meanings, 0 rejected
+passage 35/86 checkpointed: 186 units, 261 relations, 34 constructed; passage cost $0.0808; total $2.3265
+  perception/p35: ok  in=1119 (cached 0) out=2587 (reasoning 2014)  $0.0124  7.8s
+  integration/p35: ok  in=3978 (cached 0) out=4590 (reasoning 3772)  $0.0245  15.6s
+  construction/p35: ok  in=4531 (cached 0) out=4039 (reasoning 3428)  $0.0228  15.6s
+  passage 36/86: +5 units, 0 merged, 8 relations, 0 revisions, 0 ungrounded rejected; propagation: 0 reconsidered, 0 revised; construction: 1 triggers, 2 meanings, 0 rejected
+passage 36/86 checkpointed: 191 units, 269 relations, 36 constructed; passage cost $0.0597; total $2.3862
+  perception/p36: ok  in=1058 (cached 0) out=3963 (reasoning 3518)  $0.0182  15.2s
+  integration/p36: ok  in=3871 (cached 0) out=4240 (reasoning 3349)  $0.0229  15.6s
+  propagation/p36: ok  in=1990 (cached 0) out=1486 (reasoning 1371)  $0.0088  6.3s
+  construction/p36: ok  in=4745 (cached 1009) out=2475 (reasoning 1743)  $0.0153  9.8s
+  passage 37/86: +5 units, 0 merged, 8 relations, 2 revisions, 0 ungrounded rejected; propagation: 1 reconsidered, 0 revised; construction: 4 triggers, 2 meanings, 0 rejected
+passage 37/86 checkpointed: 196 units, 277 relations, 38 constructed; passage cost $0.0652; total $2.4513
+  perception/p37: ok  in=1040 (cached 0) out=2094 (reasoning 1543)  $0.0102  6.9s
+  integration/p37: ok  in=3880 (cached 1009) out=3269 (reasoning 2667)  $0.0176  10.5s
+  passage 38/86: +6 units, 0 merged, 6 relations, 0 revisions, 0 ungrounded rejected; propagation: 0 reconsidered, 0 revised; construction: 0 triggers, 0 meanings, 0 rejected
+passage 38/86 checkpointed: 202 units, 283 relations, 38 constructed; passage cost $0.0278; total $2.4792
+  perception/p38: ok  in=1174 (cached 497) out=3830 (reasoning 3369)  $0.0172  10.9s
+  integration/p38: ok  in=3812 (cached 0) out=2713 (reasoning 1865)  $0.0163  9.2s
+  propagation/p38: ok  in=1956 (cached 0) out=1351 (reasoning 1253)  $0.0082  5.2s
+  construction/p38: ok  in=4541 (cached 0) out=3154 (reasoning 2483)  $0.0191  12.2s
+  passage 39/86: +5 units, 0 merged, 8 relations, 1 revisions, 0 ungrounded rejected; propagation: 1 reconsidered, 0 revised; construction: 4 triggers, 2 meanings, 0 rejected
+passage 39/86 checkpointed: 207 units, 291 relations, 40 constructed; passage cost $0.0608; total $2.5399
+  perception/p39: ok  in=1105 (cached 497) out=4693 (reasoning 4111)  $0.0208  14.8s
+  integration/p39: ok  in=3947 (cached 0) out=3843 (reasoning 3042)  $0.0213  13.0s
+  propagation/p39: ok  in=1996 (cached 0) out=948 (reasoning 736)  $0.0065  4.3s
+  passage 40/86: +6 units, 0 merged, 7 relations, 1 revisions, 0 ungrounded rejected; propagation: 2 reconsidered, 0 revised; construction: 0 triggers, 0 meanings, 0 rejected
+passage 40/86 checkpointed: 213 units, 298 relations, 40 constructed; passage cost $0.0486; total $2.5885
+  perception/p40: ok  in=1065 (cached 497) out=3201 (reasoning 2709)  $0.0144  9.1s
+  integration/p40: ok  in=3957 (cached 1009) out=3817 (reasoning 3009)  $0.0201  15.7s
+  propagation/p40: ok  in=1491 (cached 0) out=2079 (reasoning 1964)  $0.0107  11.2s
+  construction/p40: ok  in=3999 (cached 0) out=2825 (reasoning 2506)  $0.0170  9.6s
+  passage 41/86: +5 units, 0 merged, 7 relations, 1 revisions, 0 ungrounded rejected; propagation: 1 reconsidered, 0 revised; construction: 1 triggers, 0 meanings, 1 rejected
+passage 41/86 checkpointed: 218 units, 305 relations, 40 constructed; passage cost $0.0622; total $2.6506
+  perception/p41: ok  in=1049 (cached 497) out=5264 (reasoning 4831)  $0.0231  15.5s
+  integration/p41: ok  in=3778 (cached 0) out=5615 (reasoning 4765)  $0.0286  22.2s
+  propagation/p41: ok  in=2597 (cached 497) out=2879 (reasoning 2442)  $0.0149  10.6s
+  construction/p41: ok  in=4675 (cached 0) out=4578 (reasoning 3790)  $0.0253  16.2s
+  passage 42/86: +5 units, 0 merged, 7 relations, 2 revisions, 0 ungrounded rejected; propagation: 4 reconsidered, 3 revised; construction: 7 triggers, 0 meanings, 1 rejected
+passage 42/86 checkpointed: 223 units, 312 relations, 40 constructed; passage cost $0.0920; total $2.7426
+  perception/p42: ok  in=1108 (cached 497) out=3264 (reasoning 2812)  $0.0147  9.0s
+  integration/p42: ok  in=3903 (cached 1009) out=3274 (reasoning 2763)  $0.0177  13.0s
+  propagation/p42: ok  in=1776 (cached 0) out=3696 (reasoning 3401)  $0.0179  14.9s
+  construction/p42: ok  in=4560 (cached 0) out=3120 (reasoning 2775)  $0.0190  11.5s
+  passage 43/86: +5 units, 0 merged, 5 relations, 0 revisions, 0 ungrounded rejected; propagation: 3 reconsidered, 0 revised; construction: 1 triggers, 1 meanings, 0 rejected
+passage 43/86 checkpointed: 228 units, 317 relations, 41 constructed; passage cost $0.0693; total $2.8119
+  perception/p43: ok  in=1020 (cached 497) out=5048 (reasoning 4454)  $0.0222  14.9s
+  integration/p43: ok  in=4188 (cached 1009) out=6882 (reasoning 5202)  $0.0334  21.3s
+  propagation/p43: ok  in=3779 (cached 0) out=5485 (reasoning 4669)  $0.0280  18.8s
+  construction/p43: ok  in=5274 (cached 0) out=4980 (reasoning 4155)  $0.0278  18.8s
+  passage 44/86: +6 units, 0 merged, 13 relations, 3 revisions, 0 ungrounded rejected; propagation: 8 reconsidered, 3 revised; construction: 10 triggers, 2 meanings, 0 rejected
+passage 44/86 checkpointed: 234 units, 330 relations, 43 constructed; passage cost $0.1113; total $2.9232
+  perception/p44: ok  in=1003 (cached 0) out=3635 (reasoning 3178)  $0.0167  11.3s
+  integration/p44: ok  in=3914 (cached 0) out=4825 (reasoning 3968)  $0.0254  16.7s
+  propagation/p44: ok  in=3654 (cached 497) out=5413 (reasoning 4656)  $0.0270  19.9s
+  construction/p44: ok  in=4799 (cached 0) out=3592 (reasoning 3178)  $0.0213  13.5s
+  passage 45/86: +5 units, 0 merged, 6 relations, 2 revisions, 0 ungrounded rejected; propagation: 7 reconsidered, 3 revised; construction: 8 triggers, 1 meanings, 0 rejected
+passage 45/86 checkpointed: 239 units, 336 relations, 44 constructed; passage cost $0.0904; total $3.0136
+  perception/p45: ok  in=1195 (cached 497) out=4505 (reasoning 3921)  $0.0201  15.0s
+  integration/p45: ok  in=4173 (cached 0) out=5944 (reasoning 4844)  $0.0305  26.9s
+  propagation/p45: ok  in=3352 (cached 0) out=5883 (reasoning 4992)  $0.0292  22.6s
+  construction/p45: ok  in=5118 (cached 0) out=5357 (reasoning 4811)  $0.0292  26.7s
+  passage 46/86: +6 units, 0 merged, 10 relations, 3 revisions, 0 ungrounded rejected; propagation: 7 reconsidered, 5 revised; construction: 8 triggers, 1 meanings, 0 rejected
+passage 46/86 checkpointed: 245 units, 346 relations, 45 constructed; passage cost $0.1089; total $3.1226
+  perception/p46: ok  in=1262 (cached 497) out=3543 (reasoning 2970)  $0.0161  9.8s
+  integration/p46: ok  in=4223 (cached 0) out=5621 (reasoning 4616)  $0.0292  20.4s
+  propagation/p46: ok  in=4172 (cached 497) out=4668 (reasoning 3831)  $0.0245  15.8s
+  construction/p46: ok  in=5423 (cached 0) out=4220 (reasoning 3336)  $0.0247  17.4s
+  passage 47/86: +5 units, 0 merged, 7 relations, 3 revisions, 0 ungrounded rejected; propagation: 8 reconsidered, 3 revised; construction: 8 triggers, 2 meanings, 0 rejected
+passage 47/86 checkpointed: 250 units, 353 relations, 47 constructed; passage cost $0.0945; total $3.2170
+  perception/p47: ok  in=1235 (cached 0) out=2746 (reasoning 2208)  $0.0132  7.9s
+  integration/p47: ok  in=4144 (cached 0) out=4548 (reasoning 3644)  $0.0245  14.6s
+  propagation/p47: ok  in=2060 (cached 0) out=1690 (reasoning 1507)  $0.0098  6.7s
+  construction/p47: ok  in=4562 (cached 0) out=5005 (reasoning 4239)  $0.0270  22.1s
+  passage 48/86: +5 units, 0 merged, 9 relations, 1 revisions, 0 ungrounded rejected; propagation: 2 reconsidered, 0 revised; construction: 2 triggers, 2 meanings, 0 rejected
+passage 48/86 checkpointed: 255 units, 362 relations, 49 constructed; passage cost $0.0745; total $3.2915
+  perception/p48: ok  in=1132 (cached 0) out=3209 (reasoning 2757)  $0.0151  9.5s
+  integration/p48: ok  in=3959 (cached 0) out=4539 (reasoning 3660)  $0.0242  15.5s
+  propagation/p48: ok  in=1855 (cached 0) out=2739 (reasoning 2474)  $0.0140  10.5s
+  construction/p48: ok  in=4129 (cached 881) out=2923 (reasoning 2495)  $0.0166  11.9s
+  passage 49/86: +5 units, 0 merged, 8 relations, 1 revisions, 0 ungrounded rejected; propagation: 2 reconsidered, 1 revised; construction: 3 triggers, 1 meanings, 0 rejected
+passage 49/86 checkpointed: 260 units, 370 relations, 50 constructed; passage cost $0.0699; total $3.3614
+  perception/p49: ok  in=1025 (cached 497) out=4842 (reasoning 4304)  $0.0213  15.9s
+  integration/p49: ok  in=4389 (cached 0) out=4029 (reasoning 3212)  $0.0226  14.8s
+  propagation/p49: ok  in=1676 (cached 497) out=1148 (reasoning 965)  $0.0064  3.8s
+  passage 50/86: +6 units, 0 merged, 7 relations, 0 revisions, 0 ungrounded rejected; propagation: 2 reconsidered, 0 revised; construction: 0 triggers, 0 meanings, 0 rejected
+passage 50/86 checkpointed: 266 units, 377 relations, 50 constructed; passage cost $0.0503; total $3.4117
+  perception/p50: ok  in=1174 (cached 0) out=3536 (reasoning 2962)  $0.0165  12.4s
+  integration/p50: ok  in=4269 (cached 1009) out=4952 (reasoning 3957)  $0.0253  16.3s
+  propagation/p50: ok  in=1656 (cached 497) out=1065 (reasoning 970)  $0.0060  3.6s
+  construction/p50: ok  in=4712 (cached 1009) out=3460 (reasoning 2700)  $0.0195  13.9s
+  passage 51/86: +6 units, 0 merged, 10 relations, 0 revisions, 0 ungrounded rejected; propagation: 1 reconsidered, 0 revised; construction: 1 triggers, 1 meanings, 0 rejected
+passage 51/86 checkpointed: 272 units, 387 relations, 51 constructed; passage cost $0.0673; total $3.4790
+  perception/p51: ok  in=1199 (cached 497) out=5211 (reasoning 4704)  $0.0231  17.3s
+  integration/p51: ok  in=4041 (cached 0) out=6302 (reasoning 5422)  $0.0318  21.7s
+  propagation/p51: ok  in=2809 (cached 0) out=4929 (reasoning 4323)  $0.0245  19.5s
+  construction/p51: ok  in=4617 (cached 0) out=3927 (reasoning 3454)  $0.0225  15.8s
+  passage 52/86: +6 units, 0 merged, 6 relations, 2 revisions, 0 ungrounded rejected; propagation: 6 reconsidered, 1 revised; construction: 3 triggers, 1 meanings, 0 rejected
+passage 52/86 checkpointed: 278 units, 393 relations, 52 constructed; passage cost $0.1019; total $3.5809
+  perception/p52: ok  in=1053 (cached 0) out=4118 (reasoning 3579)  $0.0188  15.2s
+  integration/p52: ok  in=4023 (cached 0) out=4076 (reasoning 3085)  $0.0224  14.8s
+  propagation/p52: ok  in=2482 (cached 497) out=3252 (reasoning 2928)  $0.0164  14.1s
+  construction/p52: ok  in=4523 (cached 0) out=3333 (reasoning 2983)  $0.0198  13.4s
+  passage 53/86: +5 units, 0 merged, 7 relations, 2 revisions, 0 ungrounded rejected; propagation: 3 reconsidered, 1 revised; construction: 3 triggers, 1 meanings, 0 rejected
+passage 53/86 checkpointed: 283 units, 400 relations, 53 constructed; passage cost $0.0774; total $3.6582
+  perception/p53: ok  in=1315 (cached 0) out=2975 (reasoning 2504)  $0.0143  9.3s
+  integration/p53: ok  in=4091 (cached 0) out=4114 (reasoning 3316)  $0.0226  14.2s
+  propagation/p53: ok  in=2371 (cached 497) out=2799 (reasoning 2409)  $0.0143  9.4s
+  construction/p53: ok  in=4767 (cached 0) out=4631 (reasoning 3891)  $0.0256  18.3s
+  passage 54/86: +5 units, 0 merged, 7 relations, 1 revisions, 0 ungrounded rejected; propagation: 4 reconsidered, 1 revised; construction: 4 triggers, 2 meanings, 0 rejected
+passage 54/86 checkpointed: 288 units, 407 relations, 55 constructed; passage cost $0.0768; total $3.7351
+  perception/p54: ok  in=1110 (cached 0) out=5889 (reasoning 5372)  $0.0264  17.3s
+  integration/p54: ok  in=4062 (cached 0) out=5255 (reasoning 4346)  $0.0274  20.5s
+  propagation/p54: ok  in=2642 (cached 497) out=2868 (reasoning 2461)  $0.0149  9.9s
+  construction/p54: ok  in=4289 (cached 1009) out=2923 (reasoning 2381)  $0.0167  10.6s
+  passage 55/86: +6 units, 0 merged, 8 relations, 1 revisions, 0 ungrounded rejected; propagation: 5 reconsidered, 0 revised; construction: 4 triggers, 2 meanings, 0 rejected
+passage 55/86 checkpointed: 294 units, 415 relations, 57 constructed; passage cost $0.0854; total $3.8205
+  perception/p55: ok  in=1126 (cached 0) out=2962 (reasoning 2494)  $0.0140  8.2s
+  integration/p55: ok  in=4045 (cached 0) out=5372 (reasoning 4484)  $0.0279  19.2s
+  propagation/p55: ok  in=1439 (cached 0) out=1412 (reasoning 1304)  $0.0078  5.8s
+  construction/p55: ok  in=4378 (cached 0) out=5332 (reasoning 4662)  $0.0281  19.8s
+  passage 56/86: +5 units, 0 merged, 10 relations, 0 revisions, 0 ungrounded rejected; propagation: 1 reconsidered, 0 revised; construction: 3 triggers, 1 meanings, 1 rejected
+passage 56/86 checkpointed: 299 units, 425 relations, 58 constructed; passage cost $0.0778; total $3.8983
+  perception/p56: ok  in=1056 (cached 0) out=3981 (reasoning 3446)  $0.0182  12.7s
+  integration/p56: ok  in=4066 (cached 0) out=3731 (reasoning 2862)  $0.0209  14.8s
+  propagation/p56: ok  in=2135 (cached 0) out=1316 (reasoning 1067)  $0.0083  6.1s
+  construction/p56: ok  in=4533 (cached 0) out=4027 (reasoning 3305)  $0.0228  16.7s
+  passage 57/86: +6 units, 0 merged, 8 relations, 0 revisions, 0 ungrounded rejected; propagation: 3 reconsidered, 0 revised; construction: 1 triggers, 2 meanings, 0 rejected
+passage 57/86 checkpointed: 305 units, 433 relations, 60 constructed; passage cost $0.0702; total $3.9685
+  perception/p57: ok  in=1082 (cached 0) out=5636 (reasoning 5079)  $0.0253  16.6s
+  integration/p57: ok  in=4094 (cached 0) out=4774 (reasoning 3692)  $0.0254  18.8s
+  propagation/p57: ok  in=2897 (cached 0) out=5173 (reasoning 4648)  $0.0256  24.7s
+  construction/p57: ok  in=4918 (cached 0) out=4996 (reasoning 4328)  $0.0274  21.4s
+  passage 58/86: +6 units, 0 merged, 7 relations, 2 revisions, 0 ungrounded rejected; propagation: 5 reconsidered, 1 revised; construction: 6 triggers, 2 meanings, 0 rejected
+passage 58/86 checkpointed: 311 units, 440 relations, 62 constructed; passage cost $0.1037; total $4.0722
+  perception/p58: ok  in=1085 (cached 0) out=6090 (reasoning 5483)  $0.0272  17.5s
+  integration/p58: ok  in=4121 (cached 0) out=6110 (reasoning 5174)  $0.0311  20.5s
+  propagation/p58: ok  in=4322 (cached 0) out=5587 (reasoning 4835)  $0.0291  22.2s
+  construction/p58: ok  in=5123 (cached 0) out=2942 (reasoning 2540)  $0.0189  12.2s
+  passage 59/86: +5 units, 0 merged, 7 relations, 2 revisions, 0 ungrounded rejected; propagation: 8 reconsidered, 1 revised; construction: 5 triggers, 1 meanings, 0 rejected
+passage 59/86 checkpointed: 316 units, 447 relations, 63 constructed; passage cost $0.1064; total $4.1787
+  perception/p59: ok  in=1071 (cached 0) out=5654 (reasoning 5079)  $0.0254  22.3s
+  integration/p59: ok  in=4209 (cached 1009) out=5112 (reasoning 4410)  $0.0259  19.1s
+  propagation/p59: ok  in=1531 (cached 0) out=878 (reasoning 775)  $0.0056  3.8s
+  passage 60/86: +5 units, 1 merged, 4 relations, 1 revisions, 0 ungrounded rejected; propagation: 1 reconsidered, 0 revised; construction: 0 triggers, 0 meanings, 0 rejected
+passage 60/86 checkpointed: 321 units, 451 relations, 63 constructed; passage cost $0.0569; total $4.2355
+  perception/p60: ok  in=1084 (cached 0) out=2668 (reasoning 2232)  $0.0127  9.7s
+  integration/p60: ok  in=4036 (cached 1009) out=3114 (reasoning 2582)  $0.0172  11.9s
+  passage 61/86: +5 units, 0 merged, 5 relations, 0 revisions, 0 ungrounded rejected; propagation: 0 reconsidered, 0 revised; construction: 0 triggers, 0 meanings, 0 rejected
+passage 61/86 checkpointed: 326 units, 456 relations, 63 constructed; passage cost $0.0299; total $4.2654
+  perception/p61: ok  in=1187 (cached 0) out=2763 (reasoning 2228)  $0.0132  9.4s
+  integration/p61: ok  in=4046 (cached 0) out=5353 (reasoning 4502)  $0.0278  20.8s
+  propagation/p61: ok  in=2216 (cached 497) out=1546 (reasoning 1225)  $0.0088  6.2s
+  construction/p61: ok  in=4485 (cached 0) out=3593 (reasoning 2884)  $0.0209  14.6s
+  passage 62/86: +5 units, 1 merged, 8 relations, 0 revisions, 0 ungrounded rejected; propagation: 4 reconsidered, 0 revised; construction: 2 triggers, 2 meanings, 0 rejected
+passage 62/86 checkpointed: 331 units, 464 relations, 65 constructed; passage cost $0.0707; total $4.3361
+  perception/p62: ok  in=1211 (cached 497) out=2993 (reasoning 2442)  $0.0137  10.2s
+  integration/p62: ok  in=4308 (cached 0) out=4646 (reasoning 3484)  $0.0251  17.3s
+  construction/p62: ok  in=4825 (cached 0) out=3829 (reasoning 3212)  $0.0223  17.3s
+  passage 63/86: +6 units, 0 merged, 11 relations, 0 revisions, 0 ungrounded rejected; propagation: 0 reconsidered, 0 revised; construction: 3 triggers, 2 meanings, 0 rejected
+passage 63/86 checkpointed: 337 units, 475 relations, 67 constructed; passage cost $0.0611; total $4.3972
+  perception/p63: ok  in=1059 (cached 497) out=3220 (reasoning 2715)  $0.0145  10.9s
+  integration/p63: ok  in=4163 (cached 0) out=3879 (reasoning 3020)  $0.0217  15.0s
+  construction/p63: ok  in=4539 (cached 0) out=7978 (reasoning 7377)  $0.0396  29.9s
+  passage 64/86: +5 units, 0 merged, 10 relations, 0 revisions, 0 ungrounded rejected; propagation: 0 reconsidered, 0 revised; construction: 1 triggers, 2 meanings, 0 rejected
+passage 64/86 checkpointed: 342 units, 485 relations, 69 constructed; passage cost $0.0757; total $4.4730
+  perception/p64: ok  in=1118 (cached 497) out=5954 (reasoning 5381)  $0.0262  18.9s
+  integration/p64: ok  in=4137 (cached 0) out=3083 (reasoning 2379)  $0.0183  10.2s
+  passage 65/86: +5 units, 0 merged, 8 relations, 0 revisions, 0 ungrounded rejected; propagation: 0 reconsidered, 0 revised; construction: 0 triggers, 0 meanings, 0 rejected
+passage 65/86 checkpointed: 347 units, 493 relations, 69 constructed; passage cost $0.0444; total $4.5174
+  perception/p65: ok  in=1082 (cached 0) out=5472 (reasoning 4924)  $0.0246  17.8s
+  integration/p65: ok  in=4201 (cached 0) out=4710 (reasoning 3758)  $0.0253  16.6s
+  construction/p65: ok  in=4775 (cached 0) out=3731 (reasoning 3281)  $0.0218  15.7s
+  passage 66/86: +6 units, 0 merged, 11 relations, 0 revisions, 0 ungrounded rejected; propagation: 0 reconsidered, 0 revised; construction: 2 triggers, 1 meanings, 0 rejected
+passage 66/86 checkpointed: 353 units, 504 relations, 70 constructed; passage cost $0.0717; total $4.5891
+  perception/p66: ok  in=1075 (cached 0) out=3215 (reasoning 2702)  $0.0150  11.4s
+  integration/p66: ok  in=4154 (cached 0) out=6130 (reasoning 5216)  $0.0312  20.5s
+  propagation/p66: ok  in=1948 (cached 497) out=1434 (reasoning 1215)  $0.0080  6.3s
+  construction/p66: ok  in=4177 (cached 0) out=3361 (reasoning 2951)  $0.0195  12.3s
+  passage 67/86: +5 units, 0 merged, 8 relations, 1 revisions, 0 ungrounded rejected; propagation: 2 reconsidered, 0 revised; construction: 2 triggers, 1 meanings, 0 rejected
+passage 67/86 checkpointed: 358 units, 512 relations, 71 constructed; passage cost $0.0737; total $4.6628
+  perception/p67: ok  in=1134 (cached 0) out=2780 (reasoning 2236)  $0.0132  8.1s
+  integration/p67: ok  in=4133 (cached 0) out=4085 (reasoning 3053)  $0.0225  13.7s
+  propagation/p67: ok  in=2101 (cached 0) out=5582 (reasoning 5085)  $0.0263  22.1s
+  construction/p67: ok  in=4867 (cached 0) out=4664 (reasoning 3860)  $0.0259  16.7s
+  passage 68/86: +6 units, 0 merged, 11 relations, 0 revisions, 0 ungrounded rejected; propagation: 4 reconsidered, 3 revised; construction: 4 triggers, 1 meanings, 0 rejected
+passage 68/86 checkpointed: 364 units, 523 relations, 73 constructed; passage cost $0.0880; total $4.7509
+  perception/p68: ok  in=1059 (cached 0) out=5047 (reasoning 4482)  $0.0228  18.5s
+  integration/p68: ok  in=4156 (cached 1009) out=5474 (reasoning 4484)  $0.0273  17.3s
+  propagation/p68: ok  in=1716 (cached 497) out=1263 (reasoning 1047)  $0.0070  5.2s
+  construction/p68: ok  in=4666 (cached 0) out=3259 (reasoning 2814)  $0.0197  12.2s
+  passage 69/86: +6 units, 0 merged, 11 relations, 0 revisions, 0 ungrounded rejected; propagation: 2 reconsidered, 0 revised; construction: 1 triggers, 1 meanings, 0 rejected
+passage 69/86 checkpointed: 370 units, 534 relations, 74 constructed; passage cost $0.0768; total $4.8276
+  perception/p69: ok  in=1208 (cached 0) out=3830 (reasoning 3236)  $0.0178  13.4s
+  integration/p69: ok  in=4198 (cached 1009) out=5296 (reasoning 4170)  $0.0266  19.5s
+  propagation/p69: ok  in=3369 (cached 0) out=4502 (reasoning 3752)  $0.0233  17.5s
+  construction/p69: ok  in=4764 (cached 0) out=4103 (reasoning 3646)  $0.0234  17.1s
+  passage 70/86: +6 units, 0 merged, 8 relations, 3 revisions, 0 ungrounded rejected; propagation: 8 reconsidered, 1 revised; construction: 4 triggers, 1 meanings, 0 rejected
+passage 70/86 checkpointed: 376 units, 542 relations, 75 constructed; passage cost $0.0912; total $4.9188
+  perception/p70: ok  in=1090 (cached 0) out=3312 (reasoning 2810)  $0.0154  8.8s
+  integration/p70: ok  in=4058 (cached 0) out=4582 (reasoning 3693)  $0.0245  17.5s
+  propagation/p70: ok  in=2780 (cached 0) out=3991 (reasoning 3453)  $0.0204  16.6s
+  construction/p70: ok  in=4588 (cached 0) out=2761 (reasoning 2358)  $0.0175  11.2s
+  passage 71/86: +5 units, 0 merged, 8 relations, 2 revisions, 0 ungrounded rejected; propagation: 5 reconsidered, 2 revised; construction: 6 triggers, 1 meanings, 0 rejected
+passage 71/86 checkpointed: 381 units, 550 relations, 76 constructed; passage cost $0.0779; total $4.9967
+  perception/p71: ok  in=1104 (cached 497) out=2812 (reasoning 2343)  $0.0128  8.4s
+  integration/p71: ok  in=4135 (cached 0) out=3503 (reasoning 2785)  $0.0201  14.7s
+  passage 72/86: +4 units, 1 merged, 7 relations, 0 revisions, 0 ungrounded rejected; propagation: 0 reconsidered, 0 revised; construction: 0 triggers, 0 meanings, 0 rejected
+passage 72/86 checkpointed: 385 units, 557 relations, 76 constructed; passage cost $0.0328; total $5.0295
+  perception/p72: ok  in=1100 (cached 497) out=2227 (reasoning 1743)  $0.0103  7.2s
+  integration/p72: ok  in=4221 (cached 0) out=3927 (reasoning 3176)  $0.0220  14.9s
+  construction/p72: ok  in=4314 (cached 0) out=4913 (reasoning 4082)  $0.0263  20.2s
+  passage 73/86: +5 units, 0 merged, 7 relations, 0 revisions, 0 ungrounded rejected; propagation: 0 reconsidered, 0 revised; construction: 1 triggers, 2 meanings, 0 rejected
+passage 73/86 checkpointed: 390 units, 564 relations, 78 constructed; passage cost $0.0585; total $5.0881
+  perception/p73: ok  in=1003 (cached 497) out=2869 (reasoning 2299)  $0.0129  7.6s
+  integration/p73: ok  in=4245 (cached 0) out=8783 (reasoning 7521)  $0.0426  34.6s
+  propagation/p73: ok  in=3995 (cached 497) out=3543 (reasoning 2873)  $0.0195  13.5s
+  construction/p73: ok  in=5199 (cached 0) out=4738 (reasoning 4249)  $0.0266  17.0s
+  passage 74/86: +6 units, 0 merged, 9 relations, 3 revisions, 0 ungrounded rejected; propagation: 8 reconsidered, 1 revised; construction: 6 triggers, 1 meanings, 0 rejected
+passage 74/86 checkpointed: 396 units, 573 relations, 79 constructed; passage cost $0.1017; total $5.1897
+  perception/p74: ok  in=1026 (cached 497) out=4850 (reasoning 4306)  $0.0213  14.0s
+  integration/p74: ok  in=4119 (cached 0) out=5298 (reasoning 4223)  $0.0277  19.4s
+  propagation/p74: ok  in=2129 (cached 0) out=1833 (reasoning 1634)  $0.0105  6.3s
+  construction/p74: ok  in=5202 (cached 0) out=3793 (reasoning 3322)  $0.0226  13.5s
+  passage 75/86: +5 units, 0 merged, 8 relations, 1 revisions, 0 ungrounded rejected; propagation: 2 reconsidered, 0 revised; construction: 2 triggers, 1 meanings, 0 rejected
+passage 75/86 checkpointed: 401 units, 581 relations, 80 constructed; passage cost $0.0821; total $5.2718
+  perception/p75: ok  in=1045 (cached 0) out=4747 (reasoning 4242)  $0.0215  18.6s
+  integration/p75: ok  in=4289 (cached 0) out=6217 (reasoning 5081)  $0.0318  21.0s
+  propagation/p75: ok  in=4621 (cached 497) out=5611 (reasoning 4852)  $0.0291  19.1s
+  construction/p75: ok  in=4953 (cached 0) out=2782 (reasoning 2207)  $0.0180  12.0s
+  passage 76/86: +6 units, 0 merged, 8 relations, 5 revisions, 0 ungrounded rejected; propagation: 8 reconsidered, 3 revised; construction: 11 triggers, 2 meanings, 0 rejected
+passage 76/86 checkpointed: 407 units, 589 relations, 82 constructed; passage cost $0.1004; total $5.3722
+  perception/p76: ok  in=1409 (cached 497) out=3519 (reasoning 2983)  $0.0162  11.7s
+  integration/p76: ok  in=4287 (cached 0) out=5897 (reasoning 4618)  $0.0304  22.6s
+  propagation/p76: ok  in=3912 (cached 497) out=3827 (reasoning 3289)  $0.0206  16.0s
+  construction/p76: ok  in=4788 (cached 1009) out=3592 (reasoning 2875)  $0.0201  17.0s
+  passage 77/86: +6 units, 0 merged, 10 relations, 3 revisions, 0 ungrounded rejected; propagation: 6 reconsidered, 2 revised; construction: 3 triggers, 2 meanings, 0 rejected
+passage 77/86 checkpointed: 413 units, 599 relations, 84 constructed; passage cost $0.0873; total $5.4595
+  perception/p77: ok  in=1198 (cached 497) out=3869 (reasoning 3418)  $0.0174  14.1s
+  integration/p77: ok  in=4218 (cached 0) out=5728 (reasoning 5024)  $0.0296  26.5s
+  propagation/p77: ok  in=2941 (cached 0) out=3630 (reasoning 3097)  $0.0191  16.3s
+  construction/p77: ok  in=4515 (cached 0) out=3433 (reasoning 2990)  $0.0202  14.5s
+  passage 78/86: +5 units, 0 merged, 5 relations, 2 revisions, 0 ungrounded rejected; propagation: 5 reconsidered, 2 revised; construction: 2 triggers, 0 meanings, 0 rejected
+passage 78/86 checkpointed: 418 units, 604 relations, 84 constructed; passage cost $0.0863; total $5.5459
+  perception/p78: ok  in=1242 (cached 0) out=4328 (reasoning 3698)  $0.0199  13.1s
+  integration/p78: ok  in=4285 (cached 0) out=5612 (reasoning 4346)  $0.0292  18.3s
+  propagation/p78: ok  in=3071 (cached 0) out=3662 (reasoning 3123)  $0.0194  13.0s
+  construction/p78: ok  in=4796 (cached 0) out=3064 (reasoning 2682)  $0.0190  11.4s
+  passage 79/86: +6 units, 0 merged, 10 relations, 2 revisions, 0 ungrounded rejected; propagation: 6 reconsidered, 2 revised; construction: 2 triggers, 1 meanings, 0 rejected
+passage 79/86 checkpointed: 424 units, 614 relations, 85 constructed; passage cost $0.0876; total $5.6334
+  perception/p79: ok  in=1126 (cached 497) out=3347 (reasoning 2826)  $0.0151  9.5s
+  integration/p79: ok  in=4265 (cached 1009) out=4293 (reasoning 3337)  $0.0225  16.4s
+  propagation/p79: ok  in=2870 (cached 497) out=3233 (reasoning 2814)  $0.0168  11.3s
+  construction/p79: ok  in=4431 (cached 0) out=2962 (reasoning 2616)  $0.0181  11.1s
+  passage 80/86: +6 units, 0 merged, 8 relations, 2 revisions, 0 ungrounded rejected; propagation: 4 reconsidered, 2 revised; construction: 6 triggers, 1 meanings, 0 rejected
+passage 80/86 checkpointed: 430 units, 622 relations, 86 constructed; passage cost $0.0725; total $5.7059
+  perception/p80: ok  in=1153 (cached 0) out=4214 (reasoning 3721)  $0.0194  11.5s
+  integration/p80: ok  in=4242 (cached 0) out=5149 (reasoning 4248)  $0.0272  17.6s
+  propagation/p80: ok  in=3547 (cached 0) out=3125 (reasoning 2448)  $0.0177  13.3s
+  construction/p80: ok  in=4448 (cached 0) out=3769 (reasoning 3362)  $0.0216  14.2s
+  passage 81/86: +5 units, 0 merged, 5 relations, 2 revisions, 0 ungrounded rejected; propagation: 8 reconsidered, 2 revised; construction: 5 triggers, 1 meanings, 0 rejected
+passage 81/86 checkpointed: 435 units, 627 relations, 87 constructed; passage cost $0.0858; total $5.7917
+  perception/p81: ok  in=1072 (cached 497) out=2866 (reasoning 2285)  $0.0130  8.8s
+  integration/p81: ok  in=4221 (cached 0) out=5208 (reasoning 4226)  $0.0274  18.9s
+  propagation/p81: ok  in=3186 (cached 0) out=3252 (reasoning 2707)  $0.0178  11.2s
+  construction/p81: ok  in=4429 (cached 0) out=3595 (reasoning 3279)  $0.0208  16.3s
+  passage 82/86: +6 units, 0 merged, 7 relations, 2 revisions, 0 ungrounded rejected; propagation: 6 reconsidered, 1 revised; construction: 2 triggers, 1 meanings, 0 rejected
+passage 82/86 checkpointed: 441 units, 634 relations, 88 constructed; passage cost $0.0790; total $5.8707
+  perception/p82: ok  in=1065 (cached 0) out=4953 (reasoning 4401)  $0.0224  15.3s
+  integration/p82: ok  in=4192 (cached 1009) out=5296 (reasoning 4188)  $0.0266  17.1s
+  propagation/p82: ok  in=3693 (cached 0) out=4173 (reasoning 3382)  $0.0224  13.4s
+  construction/p82: ok  in=4757 (cached 0) out=4472 (reasoning 3968)  $0.0250  16.4s
+  passage 83/86: +6 units, 0 merged, 10 relations, 2 revisions, 0 ungrounded rejected; propagation: 8 reconsidered, 2 revised; construction: 9 triggers, 1 meanings, 0 rejected
+passage 83/86 checkpointed: 447 units, 644 relations, 89 constructed; passage cost $0.0963; total $5.9671
+  perception/p83: ok  in=1040 (cached 0) out=4669 (reasoning 4153)  $0.0211  14.7s
+  integration/p83: ok  in=4061 (cached 0) out=4059 (reasoning 3239)  $0.0223  14.1s
+  propagation/p83: ok  in=3459 (cached 497) out=3843 (reasoning 3040)  $0.0201  16.8s
+  construction/p83: ok  in=4819 (cached 0) out=3910 (reasoning 3187)  $0.0226  15.7s
+  passage 84/86: +5 units, 0 merged, 8 relations, 1 revisions, 0 ungrounded rejected; propagation: 8 reconsidered, 3 revised; construction: 6 triggers, 2 meanings, 0 rejected
+passage 84/86 checkpointed: 452 units, 652 relations, 91 constructed; passage cost $0.0862; total $6.0533
+  perception/p84: ok  in=1114 (cached 0) out=2685 (reasoning 2082)  $0.0128  9.1s
+  integration/p84: ok  in=4382 (cached 1009) out=5159 (reasoning 4158)  $0.0263  18.7s
+  propagation/p84: ok  in=1622 (cached 0) out=1026 (reasoning 909)  $0.0064  7.3s
+  passage 85/86: +6 units, 0 merged, 10 relations, 0 revisions, 0 ungrounded rejected; propagation: 1 reconsidered, 0 revised; construction: 0 triggers, 0 meanings, 0 rejected
+passage 85/86 checkpointed: 458 units, 662 relations, 91 constructed; passage cost $0.0455; total $6.0988
+  perception/p85: ok  in=1356 (cached 0) out=3631 (reasoning 3179)  $0.0171  12.5s
+  integration/p85: ok  in=4123 (cached 0) out=5139 (reasoning 4151)  $0.0270  17.6s
+  propagation/p85: ok  in=3746 (cached 497) out=5231 (reasoning 4545)  $0.0264  18.7s
+  construction/p85: ok  in=4650 (cached 1009) out=2672 (reasoning 2300)  $0.0161  10.9s
+  passage 86/86: +5 units, 0 merged, 6 relations, 2 revisions, 0 ungrounded rejected; propagation: 8 reconsidered, 1 revised; construction: 6 triggers, 1 meanings, 0 rejected
+passage 86/86 checkpointed: 463 units, 668 relations, 92 constructed; passage cost $0.0865; total $6.1853

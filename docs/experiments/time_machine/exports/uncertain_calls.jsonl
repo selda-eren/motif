@@ -1,0 +1,1 @@
+{"t": 1793547942.200802, "task": "perception", "key": "p4", "cache_key": "98802fc0c4b0a325cc944396ae40712636d26a47412781b415c5fff2e9865a75", "kind": "timeout_or_network_billing_uncertain", "error": "Network error calling https://api.meta.ai/v1/chat/completions: The read operation timed out", "run_id": "20261101-164541", "request_chars": 5362, "worst_case_cost_usd": 0.0532}

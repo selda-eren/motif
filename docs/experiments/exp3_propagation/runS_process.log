@@ -1,0 +1,75 @@
+start 2026-10-27T18:02:03Z
+Meta Model API: model=muse-spark-1.3 reasoning_effort=medium max_completion_tokens=12000 attempts=1 propagate=True
+Budget: $2.00 total; already spent $0.8096 (responses cached in ../data/motif.exp3.db)
+  perception/p0: ok  in=955 (cached 0) out=4495 (reasoning 3930)  $0.0203  24.0s
+  integration/p0: ok  in=1641 (cached 0) out=1395 (reasoning 1208)  $0.0080  8.5s
+passage 1/3: +6 units, 0 merged, 0 relations, 0 revisions, 0 ungrounded rejected; propagation: 0 reconsidered, 0 revised
+  perception/p1: ok  in=969 (cached 0) out=2651 (reasoning 2165)  $0.0125  13.2s
+  integration/p1: ok  in=2072 (cached 0) out=2717 (reasoning 2150)  $0.0141  15.2s
+passage 2/3: +5 units, 0 merged, 5 relations, 0 revisions, 0 ungrounded rejected; propagation: 0 reconsidered, 0 revised
+  perception/p2: ok  in=774 (cached 0) out=2578 (reasoning 2064)  $0.0119  13.8s
+  integration/p2: ok  in=2551 (cached 0) out=5497 (reasoning 4099)  $0.0266  30.2s
+  propagation/p2: ok  in=3481 (cached 0) out=1525 (reasoning 1165)  $0.0108  8.8s
+passage 3/3: +6 units, 0 merged, 10 relations, 3 revisions, 0 ungrounded rejected; propagation: 3 reconsidered, 2 revised
+
+This run (20261027-190204):
+  call            status            input  cached  output reasoning    cost $   secs
+  perce/p0        ok                  955       0    4495      3930    0.0203   24.0
+  integ/p0        ok                 1641       0    1395      1208    0.0080    8.5
+  perce/p1        ok                  969       0    2651      2165    0.0125   13.2
+  integ/p1        ok                 2072       0    2717      2150    0.0141   15.2
+  perce/p2        ok                  774       0    2578      2064    0.0119   13.8
+  integ/p2        ok                 2551       0    5497      4099    0.0266   30.2
+  propa/p2        ok                 3481       0    1525      1165    0.0108    8.8
+  TOTAL                             12443       0   20858     16781    0.1042
+Total spent in motif.exp3.db: $0.9138 of $2.00 budget
+Provenance: model output (muse-spark-1.3)
+
+17 units, 15 relations, 5 revisions
+
+Change per passage (what the representation did):
+   1   3.0  ~~~
+          Introduces the footbridge as Harlow's sole historic crossing that sustains west-bank
+          livelihoods, schooling, and town identity.
+   2   8.0  ~~~~~~~~
+          Shows how the footbridge sustains everyday medical care, mail, and tradition while
+          inspiring shared celebration across both banks.
+   3 26.75  ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          Narrates the footbridge's destruction in the March 2024 flood, attributes the loss to
+          decades of uninspected rot, and establishes years of separation until replacement.
+
+Strongest cross-passage connections (formed by integration):
+
+ 1. [Decades Without Inspection] (passage 3) --CONTRADICTS--> [Bridge Structurally Sound] (passage 1)  conf=0.95
+    Why: Decades Without Inspection says the engineering report found no inspection at all since
+    1998, while Bridge Structurally Sound says a 2021 council survey reported yearly inspections
+    and sound condition.
+    Evidence [Bridge Structurally Sound], passage 1: "the footbridge had been inspected every
+    year and was structurally sound"
+    Evidence [Decades Without Inspection], passage 3: "Its report found that the footbridge had
+    not been inspected at all since 1998"
+    Current reading of the earlier unit: The 2021 council claim of yearly inspections and sound
+    condition is discredited; the bridge had in fact not been inspected at all since 1998.
+
+ 2. [Unnoticed Beam Rot] (passage 3) --CONTRADICTS--> [Bridge Structurally Sound] (passage 1)  conf=0.90
+    Why: Unnoticed Beam Rot says rot in the main beams had gone unnoticed for many years, while
+    Bridge Structurally Sound claimed the bridge was structurally sound.
+    Evidence [Bridge Structurally Sound], passage 1: "the footbridge had been inspected every
+    year and was structurally sound"
+    Evidence [Unnoticed Beam Rot], passage 3: "rot in the main beams had gone unnoticed for many
+    years"
+    Current reading of the earlier unit: The 2021 council claim of yearly inspections and sound
+    condition is discredited; the bridge had in fact not been inspected at all since 1998.
+
+ 3. [Years-Long Crossing Gap] (passage 3) --REFINES--> [Sole Wooden Footbridge] (passage 1)  conf=0.90
+    Why: Years-Long Crossing Gap specifies the road bridge twenty kilometres to the north as the
+    only crossing for at least three years, while Sole Wooden Footbridge said there was no other
+    crossing for twenty kilometres.
+    Evidence [Sole Wooden Footbridge], passage 1: "the two halves of the town have been joined
+    by a single wooden footbridge"
+    Evidence [Years-Long Crossing Gap], passage 3: "the nearest way from one bank to the other
+    is the road bridge twenty kilometres to the north"
+real 114.36
+user 0.27
+sys 0.13
+end 2026-10-27T18:03:57Z

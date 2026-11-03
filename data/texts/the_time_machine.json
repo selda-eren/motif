@@ -1,0 +1,131 @@
+{
+ "id": "the_time_machine",
+ "title": "The Time Machine",
+ "author": "H. G. Wells",
+ "genre": "fiction",
+ "source": "Project Gutenberg eBook #35 (first published 1895)",
+ "source_url": "https://www.gutenberg.org/ebooks/35",
+ "license": "Public domain",
+ "text_file": "the_time_machine.txt",
+ "chapters": [
+  {
+   "number": 1,
+   "numeral": "I",
+   "title": "Introduction",
+   "start": 0,
+   "end": 9803
+  },
+  {
+   "number": 2,
+   "numeral": "II",
+   "title": "The Machine",
+   "start": 9805,
+   "end": 17319
+  },
+  {
+   "number": 3,
+   "numeral": "III",
+   "title": "The Time Traveller Returns",
+   "start": 17321,
+   "end": 28392
+  },
+  {
+   "number": 4,
+   "numeral": "IV",
+   "title": "Time Travelling",
+   "start": 28394,
+   "end": 40032
+  },
+  {
+   "number": 5,
+   "numeral": "V",
+   "title": "In the Golden Age",
+   "start": 40034,
+   "end": 49335
+  },
+  {
+   "number": 6,
+   "numeral": "VI",
+   "title": "The Sunset of Mankind",
+   "start": 49337,
+   "end": 61887
+  },
+  {
+   "number": 7,
+   "numeral": "VII",
+   "title": "A Sudden Shock",
+   "start": 61889,
+   "end": 74362
+  },
+  {
+   "number": 8,
+   "numeral": "VIII",
+   "title": "Explanation",
+   "start": 74364,
+   "end": 97714
+  },
+  {
+   "number": 9,
+   "numeral": "IX",
+   "title": "The Morlocks",
+   "start": 97716,
+   "end": 109494
+  },
+  {
+   "number": 10,
+   "numeral": "X",
+   "title": "When Night Came",
+   "start": 109496,
+   "end": 123235
+  },
+  {
+   "number": 11,
+   "numeral": "XI",
+   "title": "The Palace of Green Porcelain",
+   "start": 123237,
+   "end": 136892
+  },
+  {
+   "number": 12,
+   "numeral": "XII",
+   "title": "In the Darkness",
+   "start": 136894,
+   "end": 150848
+  },
+  {
+   "number": 13,
+   "numeral": "XIII",
+   "title": "The Trap of the White Sphinx",
+   "start": 150850,
+   "end": 156770
+  },
+  {
+   "number": 14,
+   "numeral": "XIV",
+   "title": "The Further Vision",
+   "start": 156772,
+   "end": 167156
+  },
+  {
+   "number": 15,
+   "numeral": "XV",
+   "title": "The Time Traveller’s Return",
+   "start": 167158,
+   "end": 169789
+  },
+  {
+   "number": 16,
+   "numeral": "XVI",
+   "title": "After the Story",
+   "start": 169791,
+   "end": 177227
+  },
+  {
+   "number": 17,
+   "numeral": "Epilogue",
+   "title": "Epilogue",
+   "start": 177229,
+   "end": 178757
+  }
+ ]
+}

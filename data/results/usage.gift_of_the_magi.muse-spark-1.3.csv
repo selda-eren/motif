@@ -1,0 +1,16 @@
+ts,run_id,task,key,model,reasoning_effort,status,prompt_tokens,cached_tokens,completion_tokens,reasoning_tokens,cost_usd,latency_s,finish_reason,detail
+1793121914.9917161,20261027-182505,perception,p0,muse-spark-1.3,medium,ok,1079,0,1982,1503,0.00977225,9.17,stop,
+1793121925.305069,20261027-182505,integration,p0,muse-spark-1.3,medium,ok,1338,0,1753,1350,0.00912275,10.31,stop,
+1793121944.357837,20261027-182505,perception,p1,muse-spark-1.3,medium,ok,960,0,3446,2897,0.0158455,19.04,stop,
+1793121970.270596,20261027-182505,integration,p1,muse-spark-1.3,medium,ok,1858,0,4305,3567,0.02061875,25.9,stop,
+1793122270.285606,20261027-182505,perception,p2,muse-spark-1.3,medium,network_error,0,0,0,0,0.0,0.0,,The read operation timed out
+1793122296.589034,20261027-183119,perception,p2,muse-spark-1.3,medium,ok,1001,0,3519,3038,0.016207,16.7,stop,
+1793122321.769866,20261027-183119,integration,p2,muse-spark-1.3,medium,ok,2302,0,4755,3908,0.02308625,25.17,stop,
+1793122336.097236,20261027-183119,perception,p3,muse-spark-1.3,medium,ok,1073,0,3011,2534,0.014138,14.31,stop,
+1793122351.7383401,20261027-183119,integration,p3,muse-spark-1.3,medium,ok,2548,0,3105,2335,0.01638125,15.63,stop,
+1793122363.310839,20261027-183119,perception,p4,muse-spark-1.3,medium,ok,1015,0,2738,2152,0.01290525,11.55,stop,
+1793122399.765504,20261027-183119,integration,p4,muse-spark-1.3,medium,ok,2986,0,6973,6081,0.03336775,36.43,stop,
+1793122412.667893,20261027-183119,perception,p5,muse-spark-1.3,medium,ok,1100,0,3118,2657,0.0146265,12.89,stop,
+1793122445.6296582,20261027-183119,integration,p5,muse-spark-1.3,medium,ok,3122,0,6029,4871,0.02952575,32.95,stop,
+1793122463.828506,20261027-183410,journey,gift_of_the_magi,muse-spark-1.3,medium,ok,4788,0,2902,2424,0.0183185,13.02,stop,
+1793122490.9496891,20261027-183427,explain,gift_of_the_magi,muse-spark-1.3,medium,ok,5039,0,4822,3880,0.02679225,23.65,stop,

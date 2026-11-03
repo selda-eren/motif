@@ -1,0 +1,84 @@
+{
+ "book": "The Time Machine (H. G. Wells), Project Gutenberg #35",
+ "words": 32310,
+ "chapters": 17,
+ "passages": 86,
+ "passage_words": {
+  "min": 305,
+  "median": 358.5,
+  "max": 613
+ },
+ "expected_calls": {
+  "perception": 86,
+  "integration": 86,
+  "propagation": 60,
+  "construction": 69,
+  "journey": 1,
+  "explain": 1,
+  "total": 303
+ },
+ "calibration": {
+  "construction": {
+   "mean_cost_usd": 0.0192,
+   "mean_seconds": 14.1,
+   "mean_input_tokens": 4445,
+   "mean_output_tokens": 3221
+  },
+  "constructive": {
+   "mean_cost_usd": 0.0173,
+   "mean_seconds": 16.6,
+   "mean_input_tokens": 2743,
+   "mean_output_tokens": 3260
+  },
+  "explain": {
+   "mean_cost_usd": 0.0301,
+   "mean_seconds": 24.2,
+   "mean_input_tokens": 6384,
+   "mean_output_tokens": 5203
+  },
+  "integration": {
+   "mean_cost_usd": 0.0208,
+   "mean_seconds": 18.5,
+   "mean_input_tokens": 2694,
+   "mean_output_tokens": 4093
+  },
+  "journey": {
+   "mean_cost_usd": 0.0251,
+   "mean_seconds": 15.0,
+   "mean_input_tokens": 6998,
+   "mean_output_tokens": 3844
+  },
+  "perception": {
+   "mean_cost_usd": 0.0142,
+   "mean_seconds": 12.2,
+   "mean_input_tokens": 988,
+   "mean_output_tokens": 3053
+  },
+  "propagation": {
+   "mean_cost_usd": 0.0155,
+   "mean_seconds": 14.1,
+   "mean_input_tokens": 2813,
+   "mean_output_tokens": 2830
+  }
+ },
+ "cost_usd": {
+  "central_with_growth_allowance": 8.66,
+  "journey": 0.168,
+  "explain": 0.059,
+  "ceiling_every_call_at_output_cap": 20.23,
+  "local_limit": 50.0
+ },
+ "runtime_minutes": {
+  "expected": 93,
+  "range": [
+   74,
+   129
+  ]
+ },
+ "assumptions": [
+  "per-call cost and latency = means of the 'ok' calls in the Plato and Gift of the Magi runs",
+  "propagation fires on 70% and construction on 80% of passages (observed)",
+  "x1.6 allowance on per-passage cost for larger working memory",
+  "Journey input estimated from the digest format"
+ ]
+}

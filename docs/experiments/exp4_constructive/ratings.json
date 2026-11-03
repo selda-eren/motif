@@ -1,0 +1,29 @@
+{
+ "_note": "Ratings by a single rater (an AI assistant), made against the stored quotations of the contributing units and the pre-registered expectations. S = supported and meaningful, P = plausible but weakly supported, T = trivial or redundant, U = unsupported. Independent of the model's confidence, which is listed only for comparison.",
+ "ratings": [
+  {"case": "magi_p3", "n": 1, "rating": "S", "model_confidence": 0.85, "expected": "M6",
+   "note": "Della turns her own treasure into an adornment for his. Spans P2-P3. Before this it existed only as separate pairwise links. 'Selfless devotion' is a mild embellishment."},
+  {"case": "magi_p3", "n": 2, "rating": "P", "model_confidence": 0.8, "expected": "Day-2 reference D1 (poverty turns a gift into a sacrifice)",
+   "note": "Poverty + desire -> the hair sale is supported. 'Can only be satisfied' overclaims, and the model's own limitations admit the units show no other options."},
+  {"case": "magi_p4", "n": 1, "rating": "T", "model_confidence": 0.82,
+   "note": "Duplicate of magi_p3 B1, proposed again one passage later (the harness keeps no memory of earlier proposals). Supported in isolation."},
+  {"case": "magi_p4", "n": 2, "rating": "P", "model_confidence": 0.85,
+   "note": "Loss of hair -> fear of not being pretty, left unresolved by the stare. Mostly restates the explicit prayer; the combination is modest."},
+  {"case": "magi_p5", "n": 1, "rating": "T", "model_confidence": 0.85,
+   "note": "Restates the stare's stored reading (stunned incomprehension) together with 'love unchanged'."},
+  {"case": "magi_p5", "n": 2, "rating": "P", "model_confidence": 0.78,
+   "note": "Both partners have gifts, so it becomes an exchange. True from P5 alone and no leakage of the ending, but obvious."},
+  {"case": "magi_p6", "n": 1, "rating": "S", "model_confidence": 0.9, "expected": "M2, M3, M4",
+   "note": "Reciprocal pair of unusable gifts: each sacrifice disables the other's gift. Material failure becomes evidence of love. Partly anticipated by the chain's stored reading ('mirroring the combs'); adds the cross-causal structure."},
+  {"case": "magi_p6", "n": 2, "rating": "S", "model_confidence": 0.78, "expected": "M1, M3",
+   "note": "Mutual sacrifice of both prides, reframed from foolish loss to wisest giving. Spans P2, P3, P6. Before this: one RELATES_TO link and one SUPPORTS link."},
+  {"case": "bridge_p3", "n": 1, "rating": "S", "model_confidence": 0.85, "expected": "S3",
+   "note": "Neglect, not the flood alone, caused the loss. Supplements the discredited-survey reading; backed by the 'sound bridge would probably have survived' quotation."},
+  {"case": "bridge_p3", "n": 2, "rating": "T", "model_confidence": 0.9, "expected": "S1",
+   "note": "Correctly labelled state_consequence. Same content as objective A's two state updates (doctor, post)."},
+  {"case": "bridge_p3", "n": 3, "rating": "U", "model_confidence": 0.68, "expected": "S2 failure mode",
+   "note": "Seal and festival become 'reminders of division'. The text never says this, and the model's own limitations admit 'the units do not show how residents interpret the seal'. The seal's union reading is not challenged (labelled 'new'), but an unsupported symbolic meaning is added. The lowest model confidence of the run."}
+ ],
+ "control_library_p2": {"rating": "correct", "note": "Returned no interpretation, explaining that the units share only a topic."},
+ "totals": {"S": 4, "P": 3, "T": 3, "U": 1, "proposals": 11, "rejected_by_code": 0}
+}

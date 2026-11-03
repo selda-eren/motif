@@ -1,0 +1,76 @@
+
+magi_p3 (passage 3): 13 units shown
+  u00_1 P1 Della's meager savings
+  u00_2 P1 Della weeps on couch
+  u00_3 P1 Impoverished shrunken household
+  u00_5 P1 Desire for worthy gift
+  u01_2 P2 Couple's Two Proud Possessions
+  u01_3 P2 Jim's Inherited Gold Watch
+  u01_4 P2 Cascade Of Brown Hair
+  u01_6 P2 Della Rushes To Street
+  u02_1 P3 Della sells her hair
+  u02_2 P3 Chilly Madame Sofronie
+  u02_3 P3 Buys platinum fob chain
+  u02_4 P3 Chain mirrors Jim's character
+  u02_5 P3 Repairing shorn hair at home
+
+magi_p4 (passage 4): 8 units shown
+  u01_2 P2 Couple's Two Proud Possessions
+  u01_4 P2 Cascade Of Brown Hair
+  u02_1 P3 Della sells her hair
+  u03_1 P4 Boyish Short Curls
+  u03_2 P4 Prayer for Prettiness
+  u03_3 P4 Anxious Wait by Door
+  u03_4 P4 Jim’s Fixed Stare
+  u03_5 P4 Hair Sold for Christmas
+
+magi_p5 (passage 5): 11 units shown
+  u00_4 P1 Jim beloved husband
+  u00_5 P1 Desire for worthy gift
+  u02_3 P3 Buys platinum fob chain
+  u03_1 P4 Boyish Short Curls
+  u03_3 P4 Anxious Wait by Door
+  u03_4 P4 Jim’s Fixed Stare
+  u04_1 P5 Jim stunned confusion
+  u04_2 P5 Love unchanged by haircut
+  u04_3 P5 Magi valuable gifts
+  u04_4 P5 Jim presents gift package
+  u04_5 P5 Joy turns to tears
+
+magi_p6 (passage 6): 15 units shown
+  u00_1 P1 Della's meager savings
+  u00_3 P1 Impoverished shrunken household
+  u00_4 P1 Jim beloved husband
+  u01_2 P2 Couple's Two Proud Possessions
+  u01_3 P2 Jim's Inherited Gold Watch
+  u01_4 P2 Cascade Of Brown Hair
+  u02_1 P3 Della sells her hair
+  u02_3 P3 Buys platinum fob chain
+  u02_4 P3 Chain mirrors Jim's character
+  u03_3 P4 Anxious Wait by Door
+  u05_1 P6 Coveted Tortoise Combs
+  u05_2 P6 Useless Coveted Adornments
+  u05_3 P6 Della's Chain Presentation
+  u05_4 P6 Jim's Watch Sale
+  u05_5 P6 Wisest Foolish Givers
+
+bridge_p3 (passage 3): 12 units shown
+  u00_1 P1 Sole Wooden Footbridge
+  u00_3 P1 Seal Union Symbol
+  u00_6 P1 Bridge Structurally Sound
+  u01_1 P2 Doctor's bridge-accessible surgery
+  u01_3 P2 Centenary festival planning
+  u01_5 P2 Single post office reliance
+  u02_1 P3 Flood Destroys Footbridge
+  u02_2 P3 Bare Footings Remain
+  u02_3 P3 Decades Without Inspection
+  u02_4 P3 Unnoticed Beam Rot
+  u02_5 P3 Sound Bridge Survival
+  u02_6 P3 Years-Long Crossing Gap
+
+control_library_p2 (passage 2): 5 units shown
+  u00_1 P1 Library opens at nine
+  u00_2 P1 Old map collection
+  u00_3 P1 Fishing rods lent to children
+  u01_1 P2 Library now opens at ten
+  u01_2 P2 New reading-room carpet

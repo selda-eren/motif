@@ -1,0 +1,8 @@
+ts,run_id,task,key,model,reasoning_effort,status,prompt_tokens,cached_tokens,completion_tokens,reasoning_tokens,cost_usd,latency_s,finish_reason,detail
+1793124148.040042,20261027-190204,perception,p0,muse-spark-1.3,medium,ok,955,0,4495,3930,0.0202975,24.02,stop,
+1793124156.5787048,20261027-190204,integration,p0,muse-spark-1.3,medium,ok,1641,0,1395,1208,0.00798,8.53,stop,
+1793124169.77702,20261027-190204,perception,p1,muse-spark-1.3,medium,ok,969,0,2651,2165,0.012478,13.18,stop,
+1793124185.008406,20261027-190204,integration,p1,muse-spark-1.3,medium,ok,2072,0,2717,2150,0.01413725,15.22,stop,
+1793124198.827389,20261027-190204,perception,p2,muse-spark-1.3,medium,ok,774,0,2578,2064,0.011924,13.81,stop,
+1793124229.001308,20261027-190204,integration,p2,muse-spark-1.3,medium,ok,2551,0,5497,4099,0.026551,30.16,stop,
+1793124237.8407109,20261027-190204,propagation,p2,muse-spark-1.3,medium,ok,3481,0,1525,1165,0.0108325,8.83,stop,

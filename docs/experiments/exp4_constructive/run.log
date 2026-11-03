@@ -1,0 +1,12 @@
+  constructive/magi_p3: ok  in=3505 (cached 0) out=3828 (reasoning 2969)  $0.0207  18.3s
+  constructive/magi_p4: ok  in=1875 (cached 0) out=3133 (reasoning 2519)  $0.0157  16.5s
+  constructive/magi_p5: ok  in=2675 (cached 0) out=3530 (reasoning 2579)  $0.0183  18.4s
+  constructive/magi_p6: ok  in=3379 (cached 0) out=2720 (reasoning 1946)  $0.0158  13.4s
+  constructive/bridge_p3: ok  in=3687 (cached 0) out=5113 (reasoning 3903)  $0.0263  26.2s
+  propagation/p1: ok  in=1132 (cached 0) out=981 (reasoning 836)  $0.0056  5.0s
+  constructive/control_library_p2: ok  in=1338 (cached 0) out=1237 (reasoning 1144)  $0.0069  7.0s
+representation unchanged: True
+cost this run: $0.1093; total in db $1.0803
+real 105.27
+user 0.22
+sys 0.10

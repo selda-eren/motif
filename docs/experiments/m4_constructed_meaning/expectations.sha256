@@ -1,0 +1,3 @@
+# For publication, the rater's name was replaced by "an AI assistant" in expectations.md; the hash below is of the edited file. Nothing else changed.
+578409d5b5a7ef28b92d80b1b333e97151e90425ce4082d0a268869d6af68e07  docs/experiments/m4_constructed_meaning/expectations.md
+420d63cb0fff2771c926da61ddf27ad76a2d3786a0f8d5b56abdf87173d1ab88  backend/motif/construct.py

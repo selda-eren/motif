@@ -1,0 +1,121 @@
+the_time_machine: 86 passages; target 5; run 20261101-164541; budget $50.00; spent $0.1511; uncertain exposure $0.0000
+  perception/p4: network_error  in=0 (cached 0) out=0 (reasoning 0)  $0.0000  0.0s
+  passage 5 attempt 1 failed: Network error calling https://api.meta.ai/v1/chat/completions: The read operation timed out
+Traceback (most recent call last):
+  File "<repo>/backend/.venv/lib/python3.13/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "<repo>/backend/.venv/lib/python3.13/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "<repo>/backend/.venv/lib/python3.13/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "<repo>/backend/.venv/lib/python3.13/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+        pool_request.request
+    )
+  File "<repo>/backend/.venv/lib/python3.13/site-packages/httpcore/_sync/connection.py", line 103, in handle_request
+    return self._connection.handle_request(request)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "<repo>/backend/.venv/lib/python3.13/site-packages/httpcore/_sync/http11.py", line 136, in handle_request
+    raise exc
+  File "<repo>/backend/.venv/lib/python3.13/site-packages/httpcore/_sync/http11.py", line 106, in handle_request
+    ) = self._receive_response_headers(**kwargs)
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "<repo>/backend/.venv/lib/python3.13/site-packages/httpcore/_sync/http11.py", line 177, in _receive_response_headers
+    event = self._receive_event(timeout=timeout)
+  File "<repo>/backend/.venv/lib/python3.13/site-packages/httpcore/_sync/http11.py", line 217, in _receive_event
+    data = self._network_stream.read(
+        self.READ_NUM_BYTES, timeout=timeout
+    )
+  File "<repo>/backend/.venv/lib/python3.13/site-packages/httpcore/_backends/sync.py", line 126, in read
+    with map_exceptions(exc_map):
+         ~~~~~~~~~~~~~~^^^^^^^^^
+  File "/opt/miniconda3/lib/python3.13/contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "<repo>/backend/.venv/lib/python3.13/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ReadTimeout: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<repo>/backend/motif/llm.py", line 124, in _post
+    resp = self.http.post(url, json=body, headers=headers)
+  File "<repo>/backend/.venv/lib/python3.13/site-packages/httpx/_client.py", line 1144, in post
+    return self.request(
+           ~~~~~~~~~~~~^
+        "POST",
+        ^^^^^^^
+    ...<11 lines>...
+        extensions=extensions,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "<repo>/backend/.venv/lib/python3.13/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<repo>/backend/.venv/lib/python3.13/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+        request,
+    ...<2 lines>...
+        history=[],
+    )
+  File "<repo>/backend/.venv/lib/python3.13/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+        request,
+        follow_redirects=follow_redirects,
+        history=history,
+    )
+  File "<repo>/backend/.venv/lib/python3.13/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "<repo>/backend/.venv/lib/python3.13/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "<repo>/backend/.venv/lib/python3.13/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+         ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/miniconda3/lib/python3.13/contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "<repo>/backend/.venv/lib/python3.13/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadTimeout: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<repo>/backend/motif/experimental/long_run.py", line 311, in run_passages
+    process_book(book, client, store, limit=p + 1, propagate=exp.settings.propagate,
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 construct=exp.settings.construct, log=lambda m: print("  " + m, flush=True))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<repo>/backend/motif/pipeline.py", line 39, in process_book
+    perception = perceive(client, book, p, len(passages), prev_gist)
+  File "<repo>/backend/motif/perceive.py", line 40, in perceive
+    raw = client.complete(
+        task="perception", key=f"p{passage.index}", system=SYSTEM,
+        user=perception_prompt(book, passage, n_passages, prev_gist),
+        schema_name="Perception", schema=PerceptionResult.model_json_schema(),
+    )
+  File "<repo>/backend/motif/experimental/long_run.py", line 162, in complete
+    out = self.inner.complete(task=task, key=key, system=system, user=user, schema_name=schema_name, schema=schema)
+  File "<repo>/backend/motif/llm.py", line 102, in complete
+    data = self._post(task, key, body)
+  File "<repo>/backend/motif/llm.py", line 128, in _post
+    raise LLMError(f"Network error calling {url}: {exc}") from exc
+motif.llm.LLMError: Network error calling https://api.meta.ai/v1/chat/completions: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "<repo>/backend/motif/experimental/long_run.py", line 398, in <module>
+    main()
+    ~~~~^^
+  File "<repo>/backend/motif/experimental/long_run.py", line 390, in main
+    run_passages(exp, a.upto, max_retries=a.retries, chapters_by_passage=chapters)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<repo>/backend/motif/experimental/long_run.py", line 320, in run_passages
+    raise RuntimeError(f"passage {p + 1} failed {attempt} times; stopping. Completed calls are cached; "
+                       f"re-run the same command to resume.") from exc
+RuntimeError: passage 5 failed 1 times; stopping. Completed calls are cached; re-run the same command to resume.

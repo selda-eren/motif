@@ -1,0 +1,9 @@
+{
+  "id": "synthetic_footbridge",
+  "title": "The Harlow Footbridge (synthetic test text)",
+  "author": "MOTIF test fixture",
+  "genre": "nonfiction",
+  "source": "Synthetic text written for Experiment 3 (2026-10-27); describes no real place",
+  "license": "Test data",
+  "text_file": "synthetic_footbridge.txt"
+}

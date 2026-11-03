@@ -1,0 +1,1828 @@
+{
+ "book": "The Time Machine",
+ "model": "muse-spark-1.3",
+ "words": 32310,
+ "chapters": 17,
+ "passages": 86,
+ "units": 463,
+ "relations": 668,
+ "revisions": 175,
+ "revisions_interpretive": 81,
+ "revisions_state": 94,
+ "constructed_meanings": 92,
+ "constructed_established": 91,
+ "constructed_pending": 1,
+ "relation_types": {
+  "SUPPORTS": 191,
+  "REFINES": 198,
+  "CONTRADICTS": 38,
+  "CHANGES_STATE": 72,
+  "CAUSES": 99,
+  "RELATES_TO": 52,
+  "REFRAMES": 18
+ },
+ "relation_distance_passages": {
+  "median": 2,
+  "max": 83,
+  "share_ge_10": 0.259,
+  "count_ge_20": 104
+ },
+ "revisions_distance_ge_20": 47,
+ "constructions_spanning_ge_20_passages": 18,
+ "constructions_spanning_ge_3_chapters": 29,
+ "tasks": {
+  "perception": {
+   "calls": 86,
+   "cost_usd": 1.5509,
+   "seconds": 1084.71,
+   "prompt_tokens": 95888,
+   "completion_tokens": 340706,
+   "reasoning_tokens": 296340
+  },
+  "integration": {
+   "calls": 86,
+   "cost_usd": 2.0579,
+   "seconds": 1413.04,
+   "prompt_tokens": 331073,
+   "completion_tokens": 390224,
+   "reasoning_tokens": 313747
+  },
+  "propagation": {
+   "calls": 68,
+   "cost_usd": 1.0959,
+   "seconds": 806.98,
+   "prompt_tokens": 178889,
+   "completion_tokens": 207820,
+   "reasoning_tokens": 178656
+  },
+  "construction": {
+   "calls": 69,
+   "cost_usd": 1.4806,
+   "seconds": 1039.06,
+   "prompt_tokens": 314236,
+   "completion_tokens": 257755,
+   "reasoning_tokens": 220104
+  },
+  "journey": {
+   "calls": 1,
+   "cost_usd": 0.1175,
+   "seconds": 14.53,
+   "prompt_tokens": 80023,
+   "completion_tokens": 4106,
+   "reasoning_tokens": 3389
+  },
+  "explain": {
+   "calls": 1,
+   "cost_usd": 0.0326,
+   "seconds": 20.33,
+   "prompt_tokens": 8079,
+   "completion_tokens": 5301,
+   "reasoning_tokens": 3999
+  }
+ },
+ "totals": {
+  "api_calls_ok": 311,
+  "cache_hits": 2,
+  "failed_or_uncertain_attempts": {
+   "network_error": 1
+  },
+  "cost_usd": 6.3354,
+  "prompt_tokens": 1008188,
+  "completion_tokens": 1205912,
+  "reasoning_tokens": 1016235,
+  "model_seconds": 4378.6
+ },
+ "per_chapter": [
+  {
+   "chapter": "I",
+   "title": "Introduction",
+   "words": 1680,
+   "passages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "units_introduced": 30,
+   "constructed_meanings_formed": 1
+  },
+  {
+   "chapter": "II",
+   "title": "The Machine",
+   "words": 1335,
+   "passages": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "units_introduced": 21,
+   "constructed_meanings_formed": 5
+  },
+  {
+   "chapter": "III",
+   "title": "The Time Traveller Returns",
+   "words": 1983,
+   "passages": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ],
+   "units_introduced": 30,
+   "constructed_meanings_formed": 8
+  },
+  {
+   "chapter": "IV",
+   "title": "Time Travelling",
+   "words": 2086,
+   "passages": [
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+   ],
+   "units_introduced": 32,
+   "constructed_meanings_formed": 6
+  },
+  {
+   "chapter": "V",
+   "title": "In the Golden Age",
+   "words": 1653,
+   "passages": [
+    20,
+    21,
+    22,
+    23,
+    24
+   ],
+   "units_introduced": 26,
+   "constructed_meanings_formed": 5
+  },
+  {
+   "chapter": "VI",
+   "title": "The Sunset of Mankind",
+   "words": 2183,
+   "passages": [
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+   ],
+   "units_introduced": 39,
+   "constructed_meanings_formed": 5
+  },
+  {
+   "chapter": "VII",
+   "title": "A Sudden Shock",
+   "words": 2321,
+   "passages": [
+    31,
+    32,
+    33,
+    34,
+    35,
+    36
+   ],
+   "units_introduced": 34,
+   "constructed_meanings_formed": 11
+  },
+  {
+   "chapter": "VIII",
+   "title": "Explanation",
+   "words": 4181,
+   "passages": [
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48
+   ],
+   "units_introduced": 64,
+   "constructed_meanings_formed": 13
+  },
+  {
+   "chapter": "IX",
+   "title": "The Morlocks",
+   "words": 2154,
+   "passages": [
+    48,
+    49,
+    50,
+    51,
+    52,
+    53
+   ],
+   "units_introduced": 33,
+   "constructed_meanings_formed": 6
+  },
+  {
+   "chapter": "X",
+   "title": "When Night Came",
+   "words": 2519,
+   "passages": [
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60
+   ],
+   "units_introduced": 38,
+   "constructed_meanings_formed": 10
+  },
+  {
+   "chapter": "XI",
+   "title": "The Palace of Green Porcelain",
+   "words": 2465,
+   "passages": [
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66
+   ],
+   "units_introduced": 37,
+   "constructed_meanings_formed": 7
+  },
+  {
+   "chapter": "XII",
+   "title": "In the Darkness",
+   "words": 2638,
+   "passages": [
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74
+   ],
+   "units_introduced": 43,
+   "constructed_meanings_formed": 9
+  },
+  {
+   "chapter": "XIII",
+   "title": "The Trap of the White Sphinx",
+   "words": 1066,
+   "passages": [
+    74,
+    75,
+    76,
+    77
+   ],
+   "units_introduced": 23,
+   "constructed_meanings_formed": 6
+  },
+  {
+   "chapter": "XIV",
+   "title": "The Further Vision",
+   "words": 1900,
+   "passages": [
+    77,
+    78,
+    79,
+    80,
+    81
+   ],
+   "units_introduced": 28,
+   "constructed_meanings_formed": 5
+  },
+  {
+   "chapter": "XV",
+   "title": "The Time Traveller’s Return",
+   "words": 480,
+   "passages": [
+    81,
+    82
+   ],
+   "units_introduced": 11,
+   "constructed_meanings_formed": 2
+  },
+  {
+   "chapter": "XVI",
+   "title": "After the Story",
+   "words": 1389,
+   "passages": [
+    82,
+    83,
+    84,
+    85,
+    86
+   ],
+   "units_introduced": 28,
+   "constructed_meanings_formed": 5
+  },
+  {
+   "chapter": "Epilogue",
+   "title": "Epilogue",
+   "words": 277,
+   "passages": [
+    86
+   ],
+   "units_introduced": 5,
+   "constructed_meanings_formed": 1
+  }
+ ],
+ "per_passage": [
+  {
+   "passage": 1,
+   "chapters": [
+    "I"
+   ],
+   "words": 309,
+   "change_score": 4.0
+  },
+  {
+   "passage": 2,
+   "chapters": [
+    "I"
+   ],
+   "words": 374,
+   "change_score": 12.0
+  },
+  {
+   "passage": 3,
+   "chapters": [
+    "I"
+   ],
+   "words": 334,
+   "change_score": 12.0
+  },
+  {
+   "passage": 4,
+   "chapters": [
+    "I"
+   ],
+   "words": 309,
+   "change_score": 12.5
+  },
+  {
+   "passage": 5,
+   "chapters": [
+    "I"
+   ],
+   "words": 315,
+   "change_score": 11.25
+  },
+  {
+   "passage": 6,
+   "chapters": [
+    "I",
+    "II"
+   ],
+   "words": 375,
+   "change_score": 13.5
+  },
+  {
+   "passage": 7,
+   "chapters": [
+    "II"
+   ],
+   "words": 347,
+   "change_score": 18.25
+  },
+  {
+   "passage": 8,
+   "chapters": [
+    "II"
+   ],
+   "words": 395,
+   "change_score": 24.0
+  },
+  {
+   "passage": 9,
+   "chapters": [
+    "II",
+    "III"
+   ],
+   "words": 537,
+   "change_score": 20.5
+  },
+  {
+   "passage": 10,
+   "chapters": [
+    "III"
+   ],
+   "words": 310,
+   "change_score": 12.5
+  },
+  {
+   "passage": 11,
+   "chapters": [
+    "III"
+   ],
+   "words": 332,
+   "change_score": 16.25
+  },
+  {
+   "passage": 12,
+   "chapters": [
+    "III"
+   ],
+   "words": 396,
+   "change_score": 15.5
+  },
+  {
+   "passage": 13,
+   "chapters": [
+    "III"
+   ],
+   "words": 337,
+   "change_score": 11.5
+  },
+  {
+   "passage": 14,
+   "chapters": [
+    "III"
+   ],
+   "words": 328,
+   "change_score": 14.0
+  },
+  {
+   "passage": 15,
+   "chapters": [
+    "IV"
+   ],
+   "words": 387,
+   "change_score": 17.25
+  },
+  {
+   "passage": 16,
+   "chapters": [
+    "IV"
+   ],
+   "words": 397,
+   "change_score": 11.75
+  },
+  {
+   "passage": 17,
+   "chapters": [
+    "IV"
+   ],
+   "words": 433,
+   "change_score": 16.75
+  },
+  {
+   "passage": 18,
+   "chapters": [
+    "IV"
+   ],
+   "words": 363,
+   "change_score": 13.75
+  },
+  {
+   "passage": 19,
+   "chapters": [
+    "IV"
+   ],
+   "words": 356,
+   "change_score": 14.25
+  },
+  {
+   "passage": 20,
+   "chapters": [
+    "IV",
+    "V"
+   ],
+   "words": 427,
+   "change_score": 18.75
+  },
+  {
+   "passage": 21,
+   "chapters": [
+    "V"
+   ],
+   "words": 318,
+   "change_score": 17.25
+  },
+  {
+   "passage": 22,
+   "chapters": [
+    "V"
+   ],
+   "words": 388,
+   "change_score": 12.5
+  },
+  {
+   "passage": 23,
+   "chapters": [
+    "V"
+   ],
+   "words": 319,
+   "change_score": 21.5
+  },
+  {
+   "passage": 24,
+   "chapters": [
+    "V"
+   ],
+   "words": 351,
+   "change_score": 11.5
+  },
+  {
+   "passage": 25,
+   "chapters": [
+    "VI"
+   ],
+   "words": 403,
+   "change_score": 13.0
+  },
+  {
+   "passage": 26,
+   "chapters": [
+    "VI"
+   ],
+   "words": 359,
+   "change_score": 13.0
+  },
+  {
+   "passage": 27,
+   "chapters": [
+    "VI"
+   ],
+   "words": 321,
+   "change_score": 11.75
+  },
+  {
+   "passage": 28,
+   "chapters": [
+    "VI"
+   ],
+   "words": 332,
+   "change_score": 36.75
+  },
+  {
+   "passage": 29,
+   "chapters": [
+    "VI"
+   ],
+   "words": 331,
+   "change_score": 13.0
+  },
+  {
+   "passage": 30,
+   "chapters": [
+    "VI"
+   ],
+   "words": 364,
+   "change_score": 40.0
+  },
+  {
+   "passage": 31,
+   "chapters": [
+    "VI",
+    "VII"
+   ],
+   "words": 485,
+   "change_score": 14.5
+  },
+  {
+   "passage": 32,
+   "chapters": [
+    "VII"
+   ],
+   "words": 327,
+   "change_score": 23.75
+  },
+  {
+   "passage": 33,
+   "chapters": [
+    "VII"
+   ],
+   "words": 347,
+   "change_score": 16.0
+  },
+  {
+   "passage": 34,
+   "chapters": [
+    "VII"
+   ],
+   "words": 490,
+   "change_score": 26.25
+  },
+  {
+   "passage": 35,
+   "chapters": [
+    "VII"
+   ],
+   "words": 345,
+   "change_score": 19.25
+  },
+  {
+   "passage": 36,
+   "chapters": [
+    "VII"
+   ],
+   "words": 400,
+   "change_score": 15.0
+  },
+  {
+   "passage": 37,
+   "chapters": [
+    "VIII"
+   ],
+   "words": 324,
+   "change_score": 20.5
+  },
+  {
+   "passage": 38,
+   "chapters": [
+    "VIII"
+   ],
+   "words": 321,
+   "change_score": 7.5
+  },
+  {
+   "passage": 39,
+   "chapters": [
+    "VIII"
+   ],
+   "words": 423,
+   "change_score": 17.25
+  },
+  {
+   "passage": 40,
+   "chapters": [
+    "VIII"
+   ],
+   "words": 387,
+   "change_score": 13.75
+  },
+  {
+   "passage": 41,
+   "chapters": [
+    "VIII"
+   ],
+   "words": 343,
+   "change_score": 12.5
+  },
+  {
+   "passage": 42,
+   "chapters": [
+    "VIII"
+   ],
+   "words": 314,
+   "change_score": 28.0
+  },
+  {
+   "passage": 43,
+   "chapters": [
+    "VIII"
+   ],
+   "words": 384,
+   "change_score": 8.75
+  },
+  {
+   "passage": 44,
+   "chapters": [
+    "VIII"
+   ],
+   "words": 312,
+   "change_score": 41.75
+  },
+  {
+   "passage": 45,
+   "chapters": [
+    "VIII"
+   ],
+   "words": 308,
+   "change_score": 31.5
+  },
+  {
+   "passage": 46,
+   "chapters": [
+    "VIII"
+   ],
+   "words": 425,
+   "change_score": 39.75
+  },
+  {
+   "passage": 47,
+   "chapters": [
+    "VIII"
+   ],
+   "words": 480,
+   "change_score": 33.5
+  },
+  {
+   "passage": 48,
+   "chapters": [
+    "VIII",
+    "IX"
+   ],
+   "words": 456,
+   "change_score": 17.0
+  },
+  {
+   "passage": 49,
+   "chapters": [
+    "IX"
+   ],
+   "words": 374,
+   "change_score": 15.25
+  },
+  {
+   "passage": 50,
+   "chapters": [
+    "IX"
+   ],
+   "words": 309,
+   "change_score": 13.5
+  },
+  {
+   "passage": 51,
+   "chapters": [
+    "IX"
+   ],
+   "words": 423,
+   "change_score": 14.25
+  },
+  {
+   "passage": 52,
+   "chapters": [
+    "IX"
+   ],
+   "words": 439,
+   "change_score": 19.5
+  },
+  {
+   "passage": 53,
+   "chapters": [
+    "IX"
+   ],
+   "words": 313,
+   "change_score": 18.75
+  },
+  {
+   "passage": 54,
+   "chapters": [
+    "X"
+   ],
+   "words": 530,
+   "change_score": 18.5
+  },
+  {
+   "passage": 55,
+   "chapters": [
+    "X"
+   ],
+   "words": 382,
+   "change_score": 18.5
+  },
+  {
+   "passage": 56,
+   "chapters": [
+    "X"
+   ],
+   "words": 390,
+   "change_score": 16.25
+  },
+  {
+   "passage": 57,
+   "chapters": [
+    "X"
+   ],
+   "words": 336,
+   "change_score": 10.75
+  },
+  {
+   "passage": 58,
+   "chapters": [
+    "X"
+   ],
+   "words": 358,
+   "change_score": 24.5
+  },
+  {
+   "passage": 59,
+   "chapters": [
+    "X"
+   ],
+   "words": 344,
+   "change_score": 25.0
+  },
+  {
+   "passage": 60,
+   "chapters": [
+    "X",
+    "XI"
+   ],
+   "words": 353,
+   "change_score": 9.5
+  },
+  {
+   "passage": 61,
+   "chapters": [
+    "XI"
+   ],
+   "words": 350,
+   "change_score": 7.5
+  },
+  {
+   "passage": 62,
+   "chapters": [
+    "XI"
+   ],
+   "words": 439,
+   "change_score": 13.75
+  },
+  {
+   "passage": 63,
+   "chapters": [
+    "XI"
+   ],
+   "words": 453,
+   "change_score": 17.0
+  },
+  {
+   "passage": 64,
+   "chapters": [
+    "XI"
+   ],
+   "words": 335,
+   "change_score": 13.75
+  },
+  {
+   "passage": 65,
+   "chapters": [
+    "XI"
+   ],
+   "words": 368,
+   "change_score": 10.25
+  },
+  {
+   "passage": 66,
+   "chapters": [
+    "XI"
+   ],
+   "words": 346,
+   "change_score": 16.5
+  },
+  {
+   "passage": 67,
+   "chapters": [
+    "XII"
+   ],
+   "words": 349,
+   "change_score": 12.25
+  },
+  {
+   "passage": 68,
+   "chapters": [
+    "XII"
+   ],
+   "words": 405,
+   "change_score": 19.25
+  },
+  {
+   "passage": 69,
+   "chapters": [
+    "XII"
+   ],
+   "words": 323,
+   "change_score": 15.25
+  },
+  {
+   "passage": 70,
+   "chapters": [
+    "XII"
+   ],
+   "words": 443,
+   "change_score": 21.25
+  },
+  {
+   "passage": 71,
+   "chapters": [
+    "XII"
+   ],
+   "words": 354,
+   "change_score": 17.5
+  },
+  {
+   "passage": 72,
+   "chapters": [
+    "XII"
+   ],
+   "words": 359,
+   "change_score": 9.75
+  },
+  {
+   "passage": 73,
+   "chapters": [
+    "XII"
+   ],
+   "words": 370,
+   "change_score": 12.5
+  },
+  {
+   "passage": 74,
+   "chapters": [
+    "XII",
+    "XIII"
+   ],
+   "words": 305,
+   "change_score": 26.5
+  },
+  {
+   "passage": 75,
+   "chapters": [
+    "XIII"
+   ],
+   "words": 309,
+   "change_score": 13.75
+  },
+  {
+   "passage": 76,
+   "chapters": [
+    "XIII"
+   ],
+   "words": 326,
+   "change_score": 32.75
+  },
+  {
+   "passage": 77,
+   "chapters": [
+    "XIII",
+    "XIV"
+   ],
+   "words": 613,
+   "change_score": 20.75
+  },
+  {
+   "passage": 78,
+   "chapters": [
+    "XIV"
+   ],
+   "words": 428,
+   "change_score": 14.25
+  },
+  {
+   "passage": 79,
+   "chapters": [
+    "XIV"
+   ],
+   "words": 471,
+   "change_score": 23.0
+  },
+  {
+   "passage": 80,
+   "chapters": [
+    "XIV"
+   ],
+   "words": 390,
+   "change_score": 17.25
+  },
+  {
+   "passage": 81,
+   "chapters": [
+    "XIV",
+    "XV"
+   ],
+   "words": 408,
+   "change_score": 16.0
+  },
+  {
+   "passage": 82,
+   "chapters": [
+    "XV",
+    "XVI"
+   ],
+   "words": 349,
+   "change_score": 17.0
+  },
+  {
+   "passage": 83,
+   "chapters": [
+    "XVI"
+   ],
+   "words": 310,
+   "change_score": 27.0
+  },
+  {
+   "passage": 84,
+   "chapters": [
+    "XVI"
+   ],
+   "words": 317,
+   "change_score": 22.5
+  },
+  {
+   "passage": 85,
+   "chapters": [
+    "XVI"
+   ],
+   "words": 374,
+   "change_score": 15.0
+  },
+  {
+   "passage": 86,
+   "chapters": [
+    "XVI",
+    "Epilogue"
+   ],
+   "words": 547,
+   "change_score": 18.25
+  }
+ ],
+ "working_memory_and_growth": [
+  {
+   "passage": 1,
+   "units": 5,
+   "relations": 3,
+   "constructions": 0,
+   "prompt_tokens": 2516,
+   "cost_usd": 0.028645,
+   "wall_seconds": 21.4
+  },
+  {
+   "passage": 2,
+   "units": 10,
+   "relations": 11,
+   "constructions": 0,
+   "prompt_tokens": 3010,
+   "cost_usd": 0.03381,
+   "wall_seconds": 25.3
+  },
+  {
+   "passage": 3,
+   "units": 15,
+   "relations": 16,
+   "constructions": 0,
+   "prompt_tokens": 4993,
+   "cost_usd": 0.039531,
+   "wall_seconds": 28.5
+  },
+  {
+   "passage": 4,
+   "units": 20,
+   "relations": 22,
+   "constructions": 0,
+   "prompt_tokens": 3544,
+   "cost_usd": 0.049089,
+   "wall_seconds": 0.0
+  },
+  {
+   "passage": 5,
+   "units": 25,
+   "relations": 28,
+   "constructions": 0,
+   "prompt_tokens": 3894,
+   "cost_usd": 0.030658,
+   "wall_seconds": 21.2
+  },
+  {
+   "passage": 6,
+   "units": 30,
+   "relations": 34,
+   "constructions": 1,
+   "prompt_tokens": 9442,
+   "cost_usd": 0.059041,
+   "wall_seconds": 42.1
+  },
+  {
+   "passage": 7,
+   "units": 35,
+   "relations": 41,
+   "constructions": 2,
+   "prompt_tokens": 11032,
+   "cost_usd": 0.077608,
+   "wall_seconds": 50.9
+  },
+  {
+   "passage": 8,
+   "units": 41,
+   "relations": 49,
+   "constructions": 4,
+   "prompt_tokens": 11159,
+   "cost_usd": 0.085136,
+   "wall_seconds": 60.8
+  },
+  {
+   "passage": 9,
+   "units": 46,
+   "relations": 55,
+   "constructions": 5,
+   "prompt_tokens": 11103,
+   "cost_usd": 0.091114,
+   "wall_seconds": 59.6
+  },
+  {
+   "passage": 10,
+   "units": 51,
+   "relations": 64,
+   "constructions": 7,
+   "prompt_tokens": 10861,
+   "cost_usd": 0.090834,
+   "wall_seconds": 72.3
+  },
+  {
+   "passage": 11,
+   "units": 56,
+   "relations": 73,
+   "constructions": 7,
+   "prompt_tokens": 10777,
+   "cost_usd": 0.073477,
+   "wall_seconds": 54.3
+  },
+  {
+   "passage": 12,
+   "units": 61,
+   "relations": 79,
+   "constructions": 8,
+   "prompt_tokens": 11945,
+   "cost_usd": 0.071347,
+   "wall_seconds": 50.5
+  },
+  {
+   "passage": 13,
+   "units": 66,
+   "relations": 84,
+   "constructions": 10,
+   "prompt_tokens": 11423,
+   "cost_usd": 0.083864,
+   "wall_seconds": 64.5
+  },
+  {
+   "passage": 14,
+   "units": 71,
+   "relations": 90,
+   "constructions": 12,
+   "prompt_tokens": 9886,
+   "cost_usd": 0.058542,
+   "wall_seconds": 47.5
+  },
+  {
+   "passage": 15,
+   "units": 77,
+   "relations": 98,
+   "constructions": 13,
+   "prompt_tokens": 12160,
+   "cost_usd": 0.085909,
+   "wall_seconds": 59.8
+  },
+  {
+   "passage": 16,
+   "units": 83,
+   "relations": 104,
+   "constructions": 13,
+   "prompt_tokens": 6871,
+   "cost_usd": 0.043949,
+   "wall_seconds": 29.6
+  },
+  {
+   "passage": 17,
+   "units": 88,
+   "relations": 111,
+   "constructions": 15,
+   "prompt_tokens": 12215,
+   "cost_usd": 0.074131,
+   "wall_seconds": 47.1
+  },
+  {
+   "passage": 18,
+   "units": 93,
+   "relations": 117,
+   "constructions": 15,
+   "prompt_tokens": 11086,
+   "cost_usd": 0.091785,
+   "wall_seconds": 62.7
+  },
+  {
+   "passage": 19,
+   "units": 98,
+   "relations": 124,
+   "constructions": 16,
+   "prompt_tokens": 9724,
+   "cost_usd": 0.06715,
+   "wall_seconds": 50.1
+  },
+  {
+   "passage": 20,
+   "units": 103,
+   "relations": 131,
+   "constructions": 18,
+   "prompt_tokens": 13152,
+   "cost_usd": 0.082323,
+   "wall_seconds": 54.0
+  },
+  {
+   "passage": 21,
+   "units": 109,
+   "relations": 138,
+   "constructions": 19,
+   "prompt_tokens": 10705,
+   "cost_usd": 0.077242,
+   "wall_seconds": 52.0
+  },
+  {
+   "passage": 22,
+   "units": 114,
+   "relations": 144,
+   "constructions": 19,
+   "prompt_tokens": 6429,
+   "cost_usd": 0.043228,
+   "wall_seconds": 29.4
+  },
+  {
+   "passage": 23,
+   "units": 119,
+   "relations": 152,
+   "constructions": 20,
+   "prompt_tokens": 12429,
+   "cost_usd": 0.072342,
+   "wall_seconds": 49.6
+  },
+  {
+   "passage": 24,
+   "units": 124,
+   "relations": 160,
+   "constructions": 21,
+   "prompt_tokens": 12067,
+   "cost_usd": 0.070848,
+   "wall_seconds": 46.2
+  },
+  {
+   "passage": 25,
+   "units": 130,
+   "relations": 169,
+   "constructions": 22,
+   "prompt_tokens": 9570,
+   "cost_usd": 0.070489,
+   "wall_seconds": 48.8
+  },
+  {
+   "passage": 26,
+   "units": 136,
+   "relations": 177,
+   "constructions": 22,
+   "prompt_tokens": 4982,
+   "cost_usd": 0.036267,
+   "wall_seconds": 24.7
+  },
+  {
+   "passage": 27,
+   "units": 142,
+   "relations": 184,
+   "constructions": 22,
+   "prompt_tokens": 4785,
+   "cost_usd": 0.033854,
+   "wall_seconds": 20.7
+  },
+  {
+   "passage": 28,
+   "units": 147,
+   "relations": 194,
+   "constructions": 23,
+   "prompt_tokens": 13411,
+   "cost_usd": 0.077263,
+   "wall_seconds": 53.7
+  },
+  {
+   "passage": 29,
+   "units": 152,
+   "relations": 203,
+   "constructions": 24,
+   "prompt_tokens": 9856,
+   "cost_usd": 0.054154,
+   "wall_seconds": 32.3
+  },
+  {
+   "passage": 30,
+   "units": 157,
+   "relations": 214,
+   "constructions": 25,
+   "prompt_tokens": 13606,
+   "cost_usd": 0.087313,
+   "wall_seconds": 58.4
+  },
+  {
+   "passage": 31,
+   "units": 163,
+   "relations": 221,
+   "constructions": 26,
+   "prompt_tokens": 12852,
+   "cost_usd": 0.073368,
+   "wall_seconds": 52.7
+  },
+  {
+   "passage": 32,
+   "units": 169,
+   "relations": 230,
+   "constructions": 28,
+   "prompt_tokens": 11726,
+   "cost_usd": 0.087497,
+   "wall_seconds": 58.5
+  },
+  {
+   "passage": 33,
+   "units": 174,
+   "relations": 239,
+   "constructions": 30,
+   "prompt_tokens": 9159,
+   "cost_usd": 0.058369,
+   "wall_seconds": 38.9
+  },
+  {
+   "passage": 34,
+   "units": 180,
+   "relations": 252,
+   "constructions": 32,
+   "prompt_tokens": 13381,
+   "cost_usd": 0.085459,
+   "wall_seconds": 57.7
+  },
+  {
+   "passage": 35,
+   "units": 186,
+   "relations": 261,
+   "constructions": 34,
+   "prompt_tokens": 12339,
+   "cost_usd": 0.08082,
+   "wall_seconds": 71.8
+  },
+  {
+   "passage": 36,
+   "units": 191,
+   "relations": 269,
+   "constructions": 36,
+   "prompt_tokens": 9628,
+   "cost_usd": 0.059703,
+   "wall_seconds": 39.2
+  },
+  {
+   "passage": 37,
+   "units": 196,
+   "relations": 277,
+   "constructions": 38,
+   "prompt_tokens": 11664,
+   "cost_usd": 0.065167,
+   "wall_seconds": 47.1
+  },
+  {
+   "passage": 38,
+   "units": 202,
+   "relations": 283,
+   "constructions": 38,
+   "prompt_tokens": 4920,
+   "cost_usd": 0.027833,
+   "wall_seconds": 17.6
+  },
+  {
+   "passage": 39,
+   "units": 207,
+   "relations": 291,
+   "constructions": 40,
+   "prompt_tokens": 11483,
+   "cost_usd": 0.060761,
+   "wall_seconds": 37.7
+  },
+  {
+   "passage": 40,
+   "units": 213,
+   "relations": 298,
+   "constructions": 40,
+   "prompt_tokens": 7048,
+   "cost_usd": 0.04857,
+   "wall_seconds": 32.2
+  },
+  {
+   "passage": 41,
+   "units": 218,
+   "relations": 305,
+   "constructions": 40,
+   "prompt_tokens": 10512,
+   "cost_usd": 0.062152,
+   "wall_seconds": 45.7
+  },
+  {
+   "passage": 42,
+   "units": 223,
+   "relations": 312,
+   "constructions": 40,
+   "prompt_tokens": 12099,
+   "cost_usd": 0.091958,
+   "wall_seconds": 64.8
+  },
+  {
+   "passage": 43,
+   "units": 228,
+   "relations": 317,
+   "constructions": 41,
+   "prompt_tokens": 11347,
+   "cost_usd": 0.069282,
+   "wall_seconds": 48.6
+  },
+  {
+   "passage": 44,
+   "units": 234,
+   "relations": 330,
+   "constructions": 43,
+   "prompt_tokens": 14261,
+   "cost_usd": 0.111348,
+   "wall_seconds": 74.0
+  },
+  {
+   "passage": 45,
+   "units": 239,
+   "relations": 336,
+   "constructions": 44,
+   "prompt_tokens": 13370,
+   "cost_usd": 0.090392,
+   "wall_seconds": 61.7
+  },
+  {
+   "passage": 46,
+   "units": 245,
+   "relations": 346,
+   "constructions": 45,
+   "prompt_tokens": 13838,
+   "cost_usd": 0.108929,
+   "wall_seconds": 91.4
+  },
+  {
+   "passage": 47,
+   "units": 250,
+   "relations": 353,
+   "constructions": 47,
+   "prompt_tokens": 15080,
+   "cost_usd": 0.094478,
+   "wall_seconds": 63.7
+  },
+  {
+   "passage": 48,
+   "units": 255,
+   "relations": 362,
+   "constructions": 49,
+   "prompt_tokens": 12001,
+   "cost_usd": 0.074455,
+   "wall_seconds": 51.5
+  },
+  {
+   "passage": 49,
+   "units": 260,
+   "relations": 370,
+   "constructions": 50,
+   "prompt_tokens": 11075,
+   "cost_usd": 0.069867,
+   "wall_seconds": 47.7
+  },
+  {
+   "passage": 50,
+   "units": 266,
+   "relations": 377,
+   "constructions": 50,
+   "prompt_tokens": 7090,
+   "cost_usd": 0.05035,
+   "wall_seconds": 34.8
+  },
+  {
+   "passage": 51,
+   "units": 272,
+   "relations": 387,
+   "constructions": 51,
+   "prompt_tokens": 11811,
+   "cost_usd": 0.067303,
+   "wall_seconds": 46.5
+  },
+  {
+   "passage": 52,
+   "units": 278,
+   "relations": 393,
+   "constructions": 52,
+   "prompt_tokens": 12666,
+   "cost_usd": 0.101854,
+   "wall_seconds": 74.4
+  },
+  {
+   "passage": 53,
+   "units": 283,
+   "relations": 400,
+   "constructions": 53,
+   "prompt_tokens": 12081,
+   "cost_usd": 0.077365,
+   "wall_seconds": 57.6
+  },
+  {
+   "passage": 54,
+   "units": 288,
+   "relations": 407,
+   "constructions": 55,
+   "prompt_tokens": 12544,
+   "cost_usd": 0.076839,
+   "wall_seconds": 51.4
+  },
+  {
+   "passage": 55,
+   "units": 294,
+   "relations": 415,
+   "constructions": 57,
+   "prompt_tokens": 12103,
+   "cost_usd": 0.085446,
+   "wall_seconds": 58.6
+  },
+  {
+   "passage": 56,
+   "units": 299,
+   "relations": 425,
+   "constructions": 58,
+   "prompt_tokens": 10988,
+   "cost_usd": 0.077816,
+   "wall_seconds": 53.4
+  },
+  {
+   "passage": 57,
+   "units": 305,
+   "relations": 433,
+   "constructions": 60,
+   "prompt_tokens": 11790,
+   "cost_usd": 0.070221,
+   "wall_seconds": 50.6
+  },
+  {
+   "passage": 58,
+   "units": 311,
+   "relations": 440,
+   "constructions": 62,
+   "prompt_tokens": 12991,
+   "cost_usd": 0.1037,
+   "wall_seconds": 81.8
+  },
+  {
+   "passage": 59,
+   "units": 316,
+   "relations": 447,
+   "constructions": 63,
+   "prompt_tokens": 14651,
+   "cost_usd": 0.106412,
+   "wall_seconds": 72.6
+  },
+  {
+   "passage": 60,
+   "units": 321,
+   "relations": 451,
+   "constructions": 63,
+   "prompt_tokens": 6811,
+   "cost_usd": 0.056891,
+   "wall_seconds": 45.5
+  },
+  {
+   "passage": 61,
+   "units": 326,
+   "relations": 456,
+   "constructions": 63,
+   "prompt_tokens": 5120,
+   "cost_usd": 0.029864,
+   "wall_seconds": 21.7
+  },
+  {
+   "passage": 62,
+   "units": 331,
+   "relations": 464,
+   "constructions": 65,
+   "prompt_tokens": 11934,
+   "cost_usd": 0.070705,
+   "wall_seconds": 51.4
+  },
+  {
+   "passage": 63,
+   "units": 337,
+   "relations": 475,
+   "constructions": 67,
+   "prompt_tokens": 10344,
+   "cost_usd": 0.061122,
+   "wall_seconds": 45.0
+  },
+  {
+   "passage": 64,
+   "units": 342,
+   "relations": 485,
+   "constructions": 69,
+   "prompt_tokens": 9761,
+   "cost_usd": 0.075732,
+   "wall_seconds": 56.0
+  },
+  {
+   "passage": 65,
+   "units": 347,
+   "relations": 493,
+   "constructions": 69,
+   "prompt_tokens": 5255,
+   "cost_usd": 0.044429,
+   "wall_seconds": 29.2
+  },
+  {
+   "passage": 66,
+   "units": 353,
+   "relations": 504,
+   "constructions": 70,
+   "prompt_tokens": 10058,
+   "cost_usd": 0.071703,
+   "wall_seconds": 50.3
+  },
+  {
+   "passage": 67,
+   "units": 358,
+   "relations": 512,
+   "constructions": 71,
+   "prompt_tokens": 11354,
+   "cost_usd": 0.073741,
+   "wall_seconds": 50.8
+  },
+  {
+   "passage": 68,
+   "units": 364,
+   "relations": 523,
+   "constructions": 73,
+   "prompt_tokens": 12235,
+   "cost_usd": 0.088015,
+   "wall_seconds": 60.8
+  },
+  {
+   "passage": 69,
+   "units": 370,
+   "relations": 534,
+   "constructions": 74,
+   "prompt_tokens": 11597,
+   "cost_usd": 0.076772,
+   "wall_seconds": 53.5
+  },
+  {
+   "passage": 70,
+   "units": 376,
+   "relations": 542,
+   "constructions": 75,
+   "prompt_tokens": 13539,
+   "cost_usd": 0.091171,
+   "wall_seconds": 67.8
+  },
+  {
+   "passage": 71,
+   "units": 381,
+   "relations": 550,
+   "constructions": 76,
+   "prompt_tokens": 12516,
+   "cost_usd": 0.077891,
+   "wall_seconds": 54.3
+  },
+  {
+   "passage": 72,
+   "units": 385,
+   "relations": 557,
+   "constructions": 76,
+   "prompt_tokens": 5239,
+   "cost_usd": 0.032841,
+   "wall_seconds": 23.3
+  },
+  {
+   "passage": 73,
+   "units": 390,
+   "relations": 564,
+   "constructions": 78,
+   "prompt_tokens": 9635,
+   "cost_usd": 0.058532,
+   "wall_seconds": 42.5
+  },
+  {
+   "passage": 74,
+   "units": 396,
+   "relations": 573,
+   "constructions": 79,
+   "prompt_tokens": 14442,
+   "cost_usd": 0.101674,
+   "wall_seconds": 73.1
+  },
+  {
+   "passage": 75,
+   "units": 401,
+   "relations": 581,
+   "constructions": 80,
+   "prompt_tokens": 12476,
+   "cost_usd": 0.082088,
+   "wall_seconds": 53.5
+  },
+  {
+   "passage": 76,
+   "units": 407,
+   "relations": 589,
+   "constructions": 82,
+   "prompt_tokens": 14908,
+   "cost_usd": 0.100356,
+   "wall_seconds": 71.1
+  },
+  {
+   "passage": 77,
+   "units": 413,
+   "relations": 599,
+   "constructions": 84,
+   "prompt_tokens": 14396,
+   "cost_usd": 0.08734,
+   "wall_seconds": 67.5
+  },
+  {
+   "passage": 78,
+   "units": 418,
+   "relations": 604,
+   "constructions": 84,
+   "prompt_tokens": 12872,
+   "cost_usd": 0.086348,
+   "wall_seconds": 71.7
+  },
+  {
+   "passage": 79,
+   "units": 424,
+   "relations": 614,
+   "constructions": 85,
+   "prompt_tokens": 13394,
+   "cost_usd": 0.087573,
+   "wall_seconds": 56.1
+  },
+  {
+   "passage": 80,
+   "units": 430,
+   "relations": 622,
+   "constructions": 86,
+   "prompt_tokens": 12692,
+   "cost_usd": 0.07246,
+   "wall_seconds": 48.6
+  },
+  {
+   "passage": 81,
+   "units": 435,
+   "relations": 627,
+   "constructions": 87,
+   "prompt_tokens": 13390,
+   "cost_usd": 0.08583,
+   "wall_seconds": 56.9
+  },
+  {
+   "passage": 82,
+   "units": 441,
+   "relations": 634,
+   "constructions": 88,
+   "prompt_tokens": 12908,
+   "cost_usd": 0.079003,
+   "wall_seconds": 55.5
+  },
+  {
+   "passage": 83,
+   "units": 447,
+   "relations": 644,
+   "constructions": 89,
+   "prompt_tokens": 13707,
+   "cost_usd": 0.096323,
+   "wall_seconds": 62.4
+  },
+  {
+   "passage": 84,
+   "units": 452,
+   "relations": 652,
+   "constructions": 91,
+   "prompt_tokens": 13379,
+   "cost_usd": 0.086221,
+   "wall_seconds": 61.6
+  },
+  {
+   "passage": 85,
+   "units": 458,
+   "relations": 662,
+   "constructions": 91,
+   "prompt_tokens": 7118,
+   "cost_usd": 0.045485,
+   "wall_seconds": 35.4
+  },
+  {
+   "passage": 86,
+   "units": 463,
+   "relations": 668,
+   "constructions": 92,
+   "prompt_tokens": 13875,
+   "cost_usd": 0.086547,
+   "wall_seconds": 60.0
+  }
+ ],
+ "activation": {
+  "mean_recalled_units_per_passage": 22.38,
+  "max_recalled_units": 24
+ }
+}

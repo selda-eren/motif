@@ -1,0 +1,4224 @@
+{
+ "book": {
+  "id": "plato_cave",
+  "title": "The Allegory of the Cave",
+  "author": "Plato",
+  "genre": "nonfiction",
+  "provenance": "model",
+  "model": "muse-spark-1.3",
+  "updated_at": 1793127180.239121,
+  "meta": {
+   "id": "plato_cave",
+   "title": "The Allegory of the Cave",
+   "author": "Plato",
+   "translator": "Benjamin Jowett",
+   "genre": "nonfiction",
+   "source": "The Republic, Book VII (opening), Project Gutenberg eBook #1497",
+   "source_url": "https://www.gutenberg.org/ebooks/1497",
+   "license": "Public domain",
+   "text_file": "plato_cave.txt"
+  }
+ },
+ "passages": [
+  {
+   "idx": 0,
+   "text": "And now, I said, let me show in a figure how far our nature is enlightened or unenlightened:—Behold! human beings living in a underground den, which has a mouth open towards the light and reaching all along the den; here they have been from their childhood, and have their legs and necks chained so that they cannot move, and can only see before them, being prevented by the chains from turning round their heads. Above and behind them a fire is blazing at a distance, and between the fire and the prisoners there is a raised way; and you will see, if you look, a low wall built along the way, like the screen which marionette players have in front of them, over which they show the puppets.\n\nI see.\n\nAnd do you see, I said, men passing along the wall carrying all sorts of vessels, and statues and figures of animals made of wood and stone and various materials, which appear over the wall? Some of them are talking, others silent.\n\nYou have shown me a strange image, and they are strange prisoners.\n\nLike ourselves, I replied; and they see only their own shadows, or the shadows of one another, which the fire throws on the opposite wall of the cave?\n\nTrue, he said; how could they see anything but the shadows if they were never allowed to move their heads?\n\nAnd of the objects which are being carried in like manner they would only see the shadows?\n\nYes, he said.\n\nAnd if they were able to converse with one another, would they not suppose that they were naming what was actually before them?\n\nVery true.\n\nAnd suppose further that the prison had an echo which came from the other side, would they not be sure to fancy when one of the passers-by spoke that the voice which they heard came from the passing shadow?\n\nNo question, he replied.",
+   "gist": "Socrates depicts chained cave-prisoners who can perceive only shadows and echoes, establishing them as like ourselves in enlightenment.",
+   "processed": 1
+  },
+  {
+   "idx": 1,
+   "text": "To them, I said, the truth would be literally nothing but the shadows of the images.\n\nThat is certain.\n\nAnd now look again, and see what will naturally follow if the prisoners are released and disabused of their error. At first, when any of them is liberated and compelled suddenly to stand up and turn his neck round and walk and look towards the light, he will suffer sharp pains; the glare will distress him, and he will be unable to see the realities of which in his former state he had seen the shadows; and then conceive some one saying to him, that what he saw before was an illusion, but that now, when he is approaching nearer to being and his eye is turned towards more real existence, he has a clearer vision,—what will be his reply? And you may further imagine that his instructor is pointing to the objects as they pass and requiring him to name them,—will he not be perplexed? Will he not fancy that the shadows which he formerly saw are truer than the objects which are now shown to him?\n\nFar truer.\n\nAnd if he is compelled to look straight at the light, will he not have a pain in his eyes which will make him turn away to take refuge in the objects of vision which he can see, and which he will conceive to be in reality clearer than the things which are now being shown to him?\n\nTrue, he said.\n\nAnd suppose once more, that he is reluctantly dragged up a steep and rugged ascent, and held fast until he is forced into the presence of the sun himself, is he not likely to be pained and irritated? When he approaches the light his eyes will be dazzled, and he will not be able to see anything at all of what are now called realities.\n\nNot all in a moment, he said.",
+   "gist": "Socrates shows that release from illusion begins with painful glare, confusion, and resistance, as the prisoner clings to familiar shadows before being dazzled by greater realities up to the sun.",
+   "processed": 1
+  },
+  {
+   "idx": 2,
+   "text": "He will require to grow accustomed to the sight of the upper world. And first he will see the shadows best, next the reflections of men and other objects in the water, and then the objects themselves; then he will gaze upon the light of the moon and the stars and the spangled heaven; and he will see the sky and the stars by night better than the sun or the light of the sun by day?\n\nCertainly.\n\nLast of all he will be able to see the sun, and not mere reflections of him in the water, but he will see him in his own proper place, and not in another; and he will contemplate him as he is.\n\nCertainly.\n\nHe will then proceed to argue that this is he who gives the season and the years, and is the guardian of all that is in the visible world, and in a certain way the cause of all things which he and his fellows have been accustomed to behold?\n\nClearly, he said, he would first see the sun and then reason about him.\n\nAnd when he remembered his old habitation, and the wisdom of the den and his fellow-prisoners, do you not suppose that he would felicitate himself on the change, and pity them?\n\nCertainly, he would.\n\nAnd if they were in the habit of conferring honours among themselves on those who were quickest to observe the passing shadows and to remark which of them went before, and which followed after, and which were together; and who were therefore best able to draw conclusions as to the future, do you think that he would care for such honours and glories, or envy the possessors of them? Would he not say with Homer,\n\n‘Better to be the poor servant of a poor master,’\n\nand to endure anything, rather than think as they do and live after their manner?",
+   "gist": "Socrates traces the freed prisoner's gradual ascent from shadows and reflections to the sun itself as cause of the visible world, leaving him to pity his former den and despise its shadow-honours.",
+   "processed": 1
+  },
+  {
+   "idx": 3,
+   "text": "Yes, he said, I think that he would rather suffer anything than entertain these false notions and live in this miserable manner.\n\nImagine once more, I said, such an one coming suddenly out of the sun to be replaced in his old situation; would he not be certain to have his eyes full of darkness?\n\nTo be sure, he said.\n\nAnd if there were a contest, and he had to compete in measuring the shadows with the prisoners who had never moved out of the den, while his sight was still weak, and before his eyes had become steady (and the time which would be needed to acquire this new habit of sight might be very considerable), would he not be ridiculous? Men would say of him that up he went and down he came without his eyes; and that it was better not even to think of ascending; and if any one tried to loose another and lead him up to the light, let them only catch the offender, and they would put him to death.\n\nNo question, he said.\n\nThis entire allegory, I said, you may now append, dear Glaucon, to the previous argument; the prison-house is the world of sight, the light of the fire is the sun, and you will not misapprehend me if you interpret the journey upwards to be the ascent of the soul into the intellectual world according to my poor belief, which, at your desire, I have expressed—whether rightly or wrongly God knows. But, whether true or false, my opinion is that in the world of knowledge the idea of good appears last of all, and is seen only with an effort; and, when seen, is also inferred to be the universal author of all things beautiful and right, parent of light and of the lord of light in this visible world, and the immediate source of reason and truth in the intellectual; and that this is the power upon which he who would act rationally either in public or private life must have his eye fixed.\n\nI agree, he said, as far as I am able to understand you.",
+   "gist": "Socrates shows the returning philosopher blinded, ridiculed, and threatened with death, then explicitly decodes the cave as the visible world and crowns the ascent with the Idea of the Good.",
+   "processed": 1
+  },
+  {
+   "idx": 4,
+   "text": "Moreover, I said, you must not wonder that those who attain to this beatific vision are unwilling to descend to human affairs; for their souls are ever hastening into the upper world where they desire to dwell; which desire of theirs is very natural, if our allegory may be trusted.\n\nYes, very natural.\n\nAnd is there anything surprising in one who passes from divine contemplations to the evil state of man, misbehaving himself in a ridiculous manner; if, while his eyes are blinking and before he has become accustomed to the surrounding darkness, he is compelled to fight in courts of law, or in other places, about the images or the shadows of images of justice, and is endeavouring to meet the conceptions of those who have never yet seen absolute justice?\n\nAnything but surprising, he replied.\n\nAny one who has common sense will remember that the bewilderments of the eyes are of two kinds, and arise from two causes, either from coming out of the light or from going into the light, which is true of the mind’s eye, quite as much as of the bodily eye; and he who remembers this when he sees any one whose vision is perplexed and weak, will not be too ready to laugh; he will first ask whether that soul of man has come out of the brighter life, and is unable to see because unaccustomed to the dark, or having turned from darkness to the day is dazzled by excess of light. And he will count the one happy in his condition and state of being, and he will pity the other; or, if he have a mind to laugh at the soul which comes from below into the light, there will be more reason in this than in the laugh which greets him who returns from above out of the light into the den.\n\nThat, he said, is a very just distinction.",
+   "gist": "Socrates excuses the enlightened philosopher's unwillingness to return and ridiculous blindness in human affairs, then teaches that dazzlement comes from either entering light or darkness and should be diagnosed rather than mocked.",
+   "processed": 1
+  },
+  {
+   "idx": 5,
+   "text": "But then, if I am right, certain professors of education must be wrong when they say that they can put a knowledge into the soul which was not there before, like sight into blind eyes.\n\nThey undoubtedly say this, he replied.\n\nWhereas, our argument shows that the power and capacity of learning exists in the soul already; and that just as the eye was unable to turn from darkness to light without the whole body, so too the instrument of knowledge can only by the movement of the whole soul be turned from the world of becoming into that of being, and learn by degrees to endure the sight of being, and of the brightest and best of being, or in other words, of the good.\n\nVery true.\n\nAnd must there not be some art which will effect conversion in the easiest and quickest manner; not implanting the faculty of sight, for that exists already, but has been turned in the wrong direction, and is looking away from the truth?\n\nYes, he said, such an art may be presumed.\n\nAnd whereas the other so-called virtues of the soul seem to be akin to bodily qualities, for even when they are not originally innate they can be implanted later by habit and exercise, the virtue of wisdom more than anything else contains a divine element which always remains, and by this conversion is rendered useful and profitable; or, on the other hand, hurtful and useless. Did you never observe the narrow intelligence flashing from the keen eye of a clever rogue—how eager he is, how clearly his paltry soul sees the way to his end; he is the reverse of blind, but his keen eye-sight is forced into the service of evil, and he is mischievous in proportion to his cleverness?\n\nVery true, he said.",
+   "gist": "Socrates rejects teachers who claim to insert knowledge into the soul, arguing that education is instead the art of turning the soul's innate power from becoming toward being and the Good.",
+   "processed": 1
+  },
+  {
+   "idx": 6,
+   "text": "But what if there had been a circumcision of such natures in the days of their youth; and they had been severed from those sensual pleasures, such as eating and drinking, which, like leaden weights, were attached to them at their birth, and which drag them down and turn the vision of their souls upon the things that are below—if, I say, they had been released from these impediments and turned in the opposite direction, the very same faculty in them would have seen the truth as keenly as they see what their eyes are turned to now.\n\nVery likely.\n\nYes, I said; and there is another thing which is likely, or rather a necessary inference from what has preceded, that neither the uneducated and uninformed of the truth, nor yet those who never make an end of their education, will be able ministers of State; not the former, because they have no single aim of duty which is the rule of all their actions, private as well as public; nor the latter, because they will not act at all except upon compulsion, fancying that they are already dwelling apart in the islands of the blest.\n\nVery true, he replied.\n\nThen, I said, the business of us who are the founders of the State will be to compel the best minds to attain that knowledge which we have already shown to be the greatest of all—they must continue to ascend until they arrive at the good; but when they have ascended and seen enough we must not allow them to do as they do now.\n\nWhat do you mean?\n\nI mean that they remain in the upper world: but this must not be allowed; they must be made to descend again among the prisoners in the den, and partake of their labours and honours, whether they are worth having or not.",
+   "gist": "Socrates argues that keen natures freed from sensual drag could see truth sharply, so the founders must compel those who reach the Good to descend again and govern.",
+   "processed": 1
+  },
+  {
+   "idx": 7,
+   "text": "But is not this unjust? he said; ought we to give them a worse life, when they might have a better?\n\nYou have again forgotten, my friend, I said, the intention of the legislator, who did not aim at making any one class in the State happy above the rest; the happiness was to be in the whole State, and he held the citizens together by persuasion and necessity, making them benefactors of the State, and therefore benefactors of one another; to this end he created them, not to please themselves, but to be his instruments in binding up the State.\n\nTrue, he said, I had forgotten.\n\nObserve, Glaucon, that there will be no injustice in compelling our philosophers to have a care and providence of others; we shall explain to them that in other States, men of their class are not obliged to share in the toils of politics: and this is reasonable, for they grow up at their own sweet will, and the government would rather not have them. Being self-taught, they cannot be expected to show any gratitude for a culture which they have never received. But we have brought you into the world to be rulers of the hive, kings of yourselves and of the other citizens, and have educated you far better and more perfectly than they have been educated, and you are better able to share in the double duty. Wherefore each of you, when his turn comes, must go down to the general underground abode, and get the habit of seeing in the dark. When you have acquired the habit, you will see ten thousand times better than the inhabitants of the den, and you will know what the several images are, and what they represent, because you have seen the beautiful and just and good in their truth. And thus our State, which is also yours, will be a reality, and not a dream only, and will be administered in a spirit unlike that of other States, in which men fight with one another about shadows only and are distracted in the struggle for power, which in their eyes is a great good. Whereas the truth is that the State in which the rulers are most reluctant to govern is always the best and most quietly governed, and the State in which they are most eager, the worst.\n\nQuite true, he replied.",
+   "gist": "Socrates answers Glaucon's charge of injustice by arguing that educated philosophers owe ruling service to the whole State, whose reluctant rulers will govern best.",
+   "processed": 1
+  },
+  {
+   "idx": 8,
+   "text": "And will our pupils, when they hear this, refuse to take their turn at the toils of State, when they are allowed to spend the greater part of their time with one another in the heavenly light?\n\nImpossible, he answered; for they are just men, and the commands which we impose upon them are just; there can be no doubt that every one of them will take office as a stern necessity, and not after the fashion of our present rulers of State.\n\nYes, my friend, I said; and there lies the point. You must contrive for your future rulers another and a better life than that of a ruler, and then you may have a well-ordered State; for only in the State which offers this, will they rule who are truly rich, not in silver and gold, but in virtue and wisdom, which are the true blessings of life. Whereas if they go to the administration of public affairs, poor and hungering after their own private advantage, thinking that hence they are to snatch the chief good, order there can never be; for they will be fighting about office, and the civil and domestic broils which thus arise will be the ruin of the rulers themselves and of the whole State.\n\nMost true, he replied.\n\nAnd the only life which looks down upon the life of political ambition is that of true philosophy. Do you know of any other?",
+   "gist": "Socrates concludes that just philosophic pupils will accept ruling as a stern necessity, and only rulers given a better life of philosophy and rich in virtue can keep the State well-ordered.",
+   "processed": 1
+  }
+ ],
+ "units": [
+  {
+   "id": "u00_1",
+   "kind": "situation",
+   "label": "Chained Underground Prisoners",
+   "content": "Human beings have lived since childhood chained by legs and necks so they can only look forward.",
+   "participants": [
+    "human beings",
+    "prisoners"
+   ],
+   "layer": "observation",
+   "confidence": 0.98,
+   "status": "active",
+   "reading": "The chained underground condition is now to be understood as life in the visible world, taking shadows for reality, while remaining as the story image.",
+   "state": null,
+   "other_readings": [
+    "The chained underground condition is now also to be understood as misdirection of a learning power that is already present, not absence of sight, while remaining as the story image of chained prisoners."
+   ],
+   "introduced_at": 0,
+   "last_active_at": 5,
+   "evidence": [
+    {
+     "passage": 0,
+     "quote": "here they have been from their childhood, and have their legs and necks chained",
+     "start": 216,
+     "end": 295
+    }
+   ]
+  },
+  {
+   "id": "u00_2",
+   "kind": "situation",
+   "label": "Fire Behind Low Wall",
+   "content": "A fire blazes behind the prisoners with a raised way and low wall like a puppet screen.",
+   "participants": [
+    "prisoners",
+    "fire"
+   ],
+   "layer": "observation",
+   "confidence": 0.97,
+   "status": "active",
+   "reading": "The blazing fire behind the wall is now to be understood as standing for the sun in the visible world, while remaining as the story image.",
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 0,
+   "last_active_at": 3,
+   "evidence": [
+    {
+     "passage": 0,
+     "quote": "Above and behind them a fire is blazing at a distance",
+     "start": 414,
+     "end": 467
+    }
+   ]
+  },
+  {
+   "id": "u00_3",
+   "kind": "event",
+   "label": "Carriers Passing With Objects",
+   "content": "Men pass along the wall carrying vessels, statues, and animal figures that appear over the wall.",
+   "participants": [
+    "men"
+   ],
+   "layer": "observation",
+   "confidence": 0.96,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 0,
+   "last_active_at": 0,
+   "evidence": [
+    {
+     "passage": 0,
+     "quote": "men passing along the wall carrying all sorts of vessels",
+     "start": 725,
+     "end": 781
+    }
+   ]
+  },
+  {
+   "id": "u00_4",
+   "kind": "claim",
+   "label": "Seeing Only Shadows",
+   "content": "The prisoners see only their own shadows or the shadows of carried objects on the cave wall.",
+   "participants": [
+    "prisoners",
+    "shadows"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 0,
+   "last_active_at": 0,
+   "evidence": [
+    {
+     "passage": 0,
+     "quote": "they see only their own shadows, or the shadows of one another",
+     "start": 1033,
+     "end": 1095
+    }
+   ]
+  },
+  {
+   "id": "u00_5",
+   "kind": "claim",
+   "label": "Mistaking Shadows for Reality",
+   "content": "The prisoners would mistake names of shadows and echoed voices for the real things themselves.",
+   "participants": [
+    "prisoners",
+    "passers-by"
+   ],
+   "layer": "interpretation",
+   "confidence": 0.88,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 0,
+   "last_active_at": 0,
+   "evidence": [
+    {
+     "passage": 0,
+     "quote": "would they not suppose that they were naming what was actually before them",
+     "start": 1421,
+     "end": 1495
+    }
+   ]
+  },
+  {
+   "id": "u01_1",
+   "kind": "claim",
+   "label": "Truth as mere shadows",
+   "content": "For the chained prisoners, truth is literally nothing but the shadows of images.",
+   "participants": [
+    "prisoners"
+   ],
+   "layer": "observation",
+   "confidence": 0.98,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 1,
+   "last_active_at": 1,
+   "evidence": [
+    {
+     "passage": 1,
+     "quote": "the truth would be literally nothing but the shadows of the images",
+     "start": 17,
+     "end": 83
+    }
+   ]
+  },
+  {
+   "id": "u01_2",
+   "kind": "event",
+   "label": "Painful forced liberation",
+   "content": "When a prisoner is freed and forced to stand, turn, and walk toward the light, he suffers sharp pains from the glare.",
+   "participants": [
+    "liberated prisoner"
+   ],
+   "layer": "observation",
+   "confidence": 0.97,
+   "status": "active",
+   "reading": "Painful forced liberation is now to be understood as the soul's initial painful turn from the visible world toward the intelligible, while remaining as forced standing and turning toward light in the story.",
+   "state": null,
+   "other_readings": [
+    "Painful forced liberation is now also to be understood as turning of the innate instrument of knowledge from becoming to being, not giving sight afresh, while remaining as forced standing and turning toward light in the story."
+   ],
+   "introduced_at": 1,
+   "last_active_at": 5,
+   "evidence": [
+    {
+     "passage": 1,
+     "quote": "when any of them is liberated and compelled suddenly to stand up and turn his neck round and walk and look towards the light, he will suffer sharp pains",
+     "start": 229,
+     "end": 381
+    }
+   ]
+  },
+  {
+   "id": "u01_3",
+   "kind": "claim",
+   "label": "Shadows seem truer",
+   "content": "Told his former sights were illusion, the perplexed prisoner fancies his old shadows are truer than the objects now shown.",
+   "participants": [
+    "prisoner",
+    "instructor"
+   ],
+   "layer": "observation",
+   "confidence": 0.9,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 1,
+   "last_active_at": 1,
+   "evidence": [
+    {
+     "passage": 1,
+     "quote": "Will he not fancy that the shadows which he formerly saw are truer than the objects which are now shown to him?",
+     "start": 891,
+     "end": 1002
+    }
+   ]
+  },
+  {
+   "id": "u01_4",
+   "kind": "event",
+   "label": "Retreat from glaring light",
+   "content": "Compelled to look straight at the light, eye pain drives him to turn away toward familiar visibles he deems clearer.",
+   "participants": [
+    "prisoner"
+   ],
+   "layer": "observation",
+   "confidence": 0.92,
+   "status": "active",
+   "reading": "Retreat from glaring light is now to be understood as the soul's resistance turning from intelligible light back to familiar visibles as clearer, while remaining as eye-pain and turning away in the story.",
+   "state": null,
+   "other_readings": [
+    "Retreat from glaring light is now to be understood as ascending dazzle from going into light, one of two opposite bewilderments, while remaining as eye-pain and turning away in the story."
+   ],
+   "introduced_at": 1,
+   "last_active_at": 4,
+   "evidence": [
+    {
+     "passage": 1,
+     "quote": "will he not have a pain in his eyes which will make him turn away to take refuge in the objects of vision which he can see",
+     "start": 1070,
+     "end": 1192
+    }
+   ]
+  },
+  {
+   "id": "u01_5",
+   "kind": "event",
+   "label": "Dragged ascent to sun",
+   "content": "Reluctantly dragged up a steep rugged ascent into the sun's presence, he is pained, irritated, and dazzled into blindness.",
+   "participants": [
+    "prisoner"
+   ],
+   "layer": "observation",
+   "confidence": 0.96,
+   "status": "active",
+   "reading": "The painful dragged climb into sunlight is now to be understood as the soul's ascent to the intelligible, while remaining as the story image of upward movement.",
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 1,
+   "last_active_at": 3,
+   "evidence": [
+    {
+     "passage": 1,
+     "quote": "that he is reluctantly dragged up a steep and rugged ascent, and held fast until he is forced into the presence of the sun himself",
+     "start": 1336,
+     "end": 1466
+    }
+   ]
+  },
+  {
+   "id": "u02_1",
+   "kind": "event",
+   "label": "Stages of Upper Vision",
+   "content": "The freed prisoner must grow accustomed to the upper world by seeing shadows first, then reflections, then objects, then night heaven before the sun.",
+   "participants": [
+    "freed prisoner"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": "Stages of Upper Vision are now to be understood as gradual habituation of the soul to the intelligible culminating in vision of the Idea of the Good, while remaining as progressive seeing from shadows to sun in the story.",
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 2,
+   "last_active_at": 3,
+   "evidence": [
+    {
+     "passage": 2,
+     "quote": "first he will see the shadows best, next the reflections of men and other objects in the water",
+     "start": 72,
+     "end": 166
+    }
+   ]
+  },
+  {
+   "id": "u02_2",
+   "kind": "event",
+   "label": "Seeing Sun Itself",
+   "content": "Last of all he sees the sun itself in its own proper place as it is, not merely its reflection.",
+   "participants": [
+    "freed prisoner",
+    "sun"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": "Seeing the sun itself last is now to be understood as prefiguring seeing the Idea of the Good last in the intelligible, crowning the ascent.",
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 2,
+   "last_active_at": 3,
+   "evidence": [
+    {
+     "passage": 2,
+     "quote": "Last of all he will be able to see the sun, and not mere reflections of him in the water",
+     "start": 397,
+     "end": 485
+    }
+   ]
+  },
+  {
+   "id": "u02_3",
+   "kind": "claim",
+   "label": "Sun as World Guardian",
+   "content": "He then reasons that the sun gives the seasons and years and guards and in a way causes all visible things.",
+   "participants": [
+    "freed prisoner",
+    "sun"
+   ],
+   "layer": "observation",
+   "confidence": 0.9,
+   "status": "active",
+   "reading": "The sun's giving of seasons and guarding of visibles is now to be understood as itself authored and illuminated by the Idea of the Good, not as ultimate.",
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 2,
+   "last_active_at": 3,
+   "evidence": [
+    {
+     "passage": 2,
+     "quote": "this is he who gives the season and the years, and is the guardian of all that is in the visible world",
+     "start": 638,
+     "end": 740
+    }
+   ]
+  },
+  {
+   "id": "u02_4",
+   "kind": "situation",
+   "label": "Pity for Cave Fellows",
+   "content": "Remembering his old habitation and the wisdom of the den, he congratulates himself on the change and pities his fellow prisoners.",
+   "participants": [
+    "freed prisoner",
+    "fellow-prisoners"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": "Pity for Cave Fellows is now to be understood as the enlightened soul's compassion from vision of the sun and the Good for those still in the visible world, while remaining as fellow-feeling for den-mates in the story.",
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 2,
+   "last_active_at": 3,
+   "evidence": [
+    {
+     "passage": 2,
+     "quote": "he would felicitate himself on the change, and pity them?",
+     "start": 1037,
+     "end": 1094
+    }
+   ]
+  },
+  {
+   "id": "u02_5",
+   "kind": "claim",
+   "label": "Contempt for Shadow Honours",
+   "content": "He would reject the cave's honours for predicting shadows, preferring to endure anything rather than think and live as they do.",
+   "participants": [
+    "freed prisoner",
+    "fellow-prisoners"
+   ],
+   "layer": "observation",
+   "confidence": 0.92,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 2,
+   "last_active_at": 2,
+   "evidence": [
+    {
+     "passage": 2,
+     "quote": "and to endure anything, rather than think as they do and live after their manner?",
+     "start": 1583,
+     "end": 1664
+    }
+   ]
+  },
+  {
+   "id": "u03_1",
+   "kind": "event",
+   "label": "Returnee blinded by darkness",
+   "content": "The freed prisoner thrust back into the cave is blinded by darkness.",
+   "participants": [
+    "freed prisoner"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": "Returnee blinded by darkness is now to be understood as descending dazzle from brightness to be counted happy, distinct from ascending dazzle to be pitied, while remaining as sudden blindness in the story.",
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 3,
+   "last_active_at": 4,
+   "evidence": [
+    {
+     "passage": 3,
+     "quote": "such an one coming suddenly out of the sun to be replaced in his old situation",
+     "start": 157,
+     "end": 235
+    }
+   ]
+  },
+  {
+   "id": "u03_2",
+   "kind": "situation",
+   "label": "Ridiculed shadow competitor",
+   "content": "Still dazzled, he appears ridiculous judging shadows and proves ascent worthless to the prisoners.",
+   "participants": [
+    "returned prisoner",
+    "prisoners"
+   ],
+   "layer": "observation",
+   "confidence": 0.92,
+   "status": "contested",
+   "reading": "The ridiculed competitor episode is now to be understood as ignorant laughter that should be suspended in favor of diagnosing direction of dazzle, while remaining as prisoners' mockery in the story.",
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 3,
+   "last_active_at": 4,
+   "evidence": [
+    {
+     "passage": 3,
+     "quote": "would he not be ridiculous? Men would say of him that up he went and down he came without his eyes",
+     "start": 620,
+     "end": 718
+    }
+   ]
+  },
+  {
+   "id": "u03_3",
+   "kind": "event",
+   "label": "Death threat to liberator",
+   "content": "The prisoners would kill anyone caught trying to free another toward the light.",
+   "participants": [
+    "prisoners",
+    "would-be liberator"
+   ],
+   "layer": "observation",
+   "confidence": 0.96,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 3,
+   "last_active_at": 3,
+   "evidence": [
+    {
+     "passage": 3,
+     "quote": "and if any one tried to loose another and lead him up to the light, let them only catch the offender, and they would put him to death",
+     "start": 775,
+     "end": 908
+    }
+   ]
+  },
+  {
+   "id": "u03_4",
+   "kind": "concept",
+   "label": "Cave to intellect mapping",
+   "content": "The prison is the visible world, the fire is the sun, and the upward journey is the soul's ascent to intellect.",
+   "participants": [
+    "prison-house",
+    "soul"
+   ],
+   "layer": "observation",
+   "confidence": 0.97,
+   "status": "active",
+   "reading": "The cave to intellect mapping is now also to be understood so that the upward journey is the art of reorienting existing sight from wrong direction toward truth, while remaining as ascent in the story.",
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 3,
+   "last_active_at": 5,
+   "evidence": [
+    {
+     "passage": 3,
+     "quote": "the prison-house is the world of sight, the light of the fire is the sun",
+     "start": 1024,
+     "end": 1096
+    }
+   ]
+  },
+  {
+   "id": "u03_5",
+   "kind": "claim",
+   "label": "Good as ultimate source",
+   "content": "The Idea of the Good is seen last with effort and is the author of beauty, right, light, reason, and truth.",
+   "participants": [
+    "idea of good"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 3,
+   "last_active_at": 3,
+   "evidence": [
+    {
+     "passage": 3,
+     "quote": "in the world of knowledge the idea of good appears last of all, and is seen only with an effort; and, when seen, is also inferred to be the universal author of all things beautiful and right",
+     "start": 1379,
+     "end": 1569
+    }
+   ]
+  },
+  {
+   "id": "u04_1",
+   "kind": "situation",
+   "label": "Philosopher unwilling to descend",
+   "content": "Those who attain the beatific vision are unwilling to descend to human affairs because their souls long to dwell above.",
+   "participants": [
+    "those who attain to this beatific vision"
+   ],
+   "layer": "observation",
+   "confidence": 0.96,
+   "status": "active",
+   "reading": "The unwillingness to descend is now to be understood as the refusal of those who fancy they already dwell in blessed isolation, which the founders must overrule by compelling return to shared labour and rule, while remaining as longing to dwell above.",
+   "state": null,
+   "other_readings": [
+    "The unwillingness to descend is now also to be understood as the mark of those most reluctant to govern and therefore best suited to govern quietly, while remaining as longing to dwell above.",
+    "The longing to dwell above remains, but it is now to be understood as compatible with willing acceptance of turns at ruling when the argument is heard, so unwillingness means reluctance rather than outright refusal."
+   ],
+   "introduced_at": 4,
+   "last_active_at": 8,
+   "evidence": [
+    {
+     "passage": 4,
+     "quote": "those who attain to this beatific vision are unwilling to descend to human affairs",
+     "start": 43,
+     "end": 125
+    }
+   ]
+  },
+  {
+   "id": "u04_2",
+   "kind": "event",
+   "label": "Returner's courtroom blindness",
+   "content": "The returner, still blinking in darkness, appears ridiculous when compelled to dispute in courts about mere images of justice.",
+   "participants": [
+    "returning philosopher",
+    "those who have never yet seen absolute justice"
+   ],
+   "layer": "observation",
+   "confidence": 0.94,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 4,
+   "last_active_at": 4,
+   "evidence": [
+    {
+     "passage": 4,
+     "quote": "he is compelled to fight in courts of law, or in other places, about the images or the shadows of images of justice",
+     "start": 549,
+     "end": 664
+    }
+   ]
+  },
+  {
+   "id": "u04_3",
+   "kind": "concept",
+   "label": "Two kinds of blindness",
+   "content": "Bewilderment of vision has two opposite causes, coming out of light and going into light, for the mind's eye as for the body.",
+   "participants": [
+    "bodily eye",
+    "mind's eye"
+   ],
+   "layer": "observation",
+   "confidence": 0.97,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 4,
+   "last_active_at": 4,
+   "evidence": [
+    {
+     "passage": 4,
+     "quote": "the bewilderments of the eyes are of two kinds, and arise from two causes, either from coming out of the light or from going into the light",
+     "start": 848,
+     "end": 987
+    }
+   ]
+  },
+  {
+   "id": "u04_4",
+   "kind": "claim",
+   "label": "Suspend mockery and diagnose",
+   "content": "A sensible observer will not laugh at confused vision but first ask whether the soul is descending from brightness or ascending from darkness.",
+   "participants": [
+    "one who has common sense",
+    "soul whose vision is perplexed"
+   ],
+   "layer": "observation",
+   "confidence": 0.93,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 4,
+   "last_active_at": 4,
+   "evidence": [
+    {
+     "passage": 4,
+     "quote": "will not be too ready to laugh; he will first ask whether that soul of man has come out of the brighter life",
+     "start": 1141,
+     "end": 1249
+    }
+   ]
+  },
+  {
+   "id": "u04_5",
+   "kind": "claim",
+   "label": "Happy descent versus pity",
+   "content": "The descended soul unaccustomed to darkness is to be counted happy, while the still-dazzled ascending soul is to be pitied.",
+   "participants": [
+    "soul from above",
+    "soul from below"
+   ],
+   "layer": "observation",
+   "confidence": 0.9,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 4,
+   "last_active_at": 4,
+   "evidence": [
+    {
+     "passage": 4,
+     "quote": "And he will count the one happy in his condition and state of being, and he will pity the other",
+     "start": 1379,
+     "end": 1474
+    }
+   ]
+  },
+  {
+   "id": "u05_1",
+   "kind": "claim",
+   "label": "Education does not implant knowledge",
+   "content": "Socrates claims certain professors are wrong to say they can put new knowledge into the soul like sight into blind eyes.",
+   "participants": [
+    "Socrates",
+    "professors of education"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 5,
+   "last_active_at": 5,
+   "evidence": [
+    {
+     "passage": 5,
+     "quote": "certain professors of education must be wrong when they say that they can put a knowledge into the soul which was not there before",
+     "start": 25,
+     "end": 155
+    }
+   ]
+  },
+  {
+   "id": "u05_2",
+   "kind": "concept",
+   "label": "Innate power of learning",
+   "content": "The power and capacity of learning already exists in the soul.",
+   "participants": [
+    "soul"
+   ],
+   "layer": "observation",
+   "confidence": 0.98,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 5,
+   "last_active_at": 5,
+   "evidence": [
+    {
+     "passage": 5,
+     "quote": "our argument shows that the power and capacity of learning exists in the soul already",
+     "start": 235,
+     "end": 320
+    }
+   ]
+  },
+  {
+   "id": "u05_3",
+   "kind": "concept",
+   "label": "Whole-soul turning toward being",
+   "content": "Learning requires turning the whole soul from the world of becoming to that of being to endure the sight of the Good.",
+   "participants": [
+    "soul"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 5,
+   "last_active_at": 5,
+   "evidence": [
+    {
+     "passage": 5,
+     "quote": "the instrument of knowledge can only by the movement of the whole soul be turned from the world of becoming into that of being",
+     "start": 420,
+     "end": 546
+    }
+   ]
+  },
+  {
+   "id": "u05_4",
+   "kind": "concept",
+   "label": "Art of easy conversion",
+   "content": "True education is an art that does not implant sight but reorients existing sight away from its wrong direction toward truth.",
+   "participants": [
+    "educator",
+    "soul"
+   ],
+   "layer": "observation",
+   "confidence": 0.9,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 5,
+   "last_active_at": 5,
+   "evidence": [
+    {
+     "passage": 5,
+     "quote": "not implanting the faculty of sight, for that exists already, but has been turned in the wrong direction",
+     "start": 780,
+     "end": 884
+    }
+   ]
+  },
+  {
+   "id": "u05_5",
+   "kind": "image",
+   "label": "Clever rogue's misdirected sight",
+   "content": "The clever rogue’s keen sight shows that unconverted wisdom serves evil in proportion to its cleverness.",
+   "participants": [
+    "clever rogue"
+   ],
+   "layer": "observation",
+   "confidence": 0.92,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 5,
+   "last_active_at": 5,
+   "evidence": [
+    {
+     "passage": 5,
+     "quote": "his keen eye-sight is forced into the service of evil, and he is mischievous in proportion to his cleverness",
+     "start": 1540,
+     "end": 1648
+    }
+   ]
+  },
+  {
+   "id": "u06_1",
+   "kind": "image",
+   "label": "Leaden Weights of Pleasure",
+   "content": "Sensual pleasures like eating and drinking cling like leaden weights that drag the soul's vision downward.",
+   "participants": [
+    "youthful natures"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 6,
+   "last_active_at": 6,
+   "evidence": [
+    {
+     "passage": 6,
+     "quote": "such as eating and drinking, which, like leaden weights, were attached to them at their birth",
+     "start": 142,
+     "end": 235
+    }
+   ]
+  },
+  {
+   "id": "u06_2",
+   "kind": "claim",
+   "label": "Freed Faculty Sees Truth",
+   "content": "If severed from those impediments in youth and turned upward, the same faculty would see truth as keenly as it now sees lower things.",
+   "participants": [
+    "such natures"
+   ],
+   "layer": "observation",
+   "confidence": 0.93,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 6,
+   "last_active_at": 6,
+   "evidence": [
+    {
+     "passage": 6,
+     "quote": "the very same faculty in them would have seen the truth as keenly as they see what their eyes are turned to now",
+     "start": 423,
+     "end": 534
+    }
+   ]
+  },
+  {
+   "id": "u06_3",
+   "kind": "claim",
+   "label": "Neither Extreme Can Rule",
+   "content": "Neither the uneducated ignorant of truth nor those who never finish education can be able ministers of State.",
+   "participants": [
+    "uneducated",
+    "perpetual students"
+   ],
+   "layer": "observation",
+   "confidence": 0.96,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 6,
+   "last_active_at": 6,
+   "evidence": [
+    {
+     "passage": 6,
+     "quote": "neither the uneducated and uninformed of the truth, nor yet those who never make an end of their education, will be able ministers of State",
+     "start": 669,
+     "end": 808
+    }
+   ]
+  },
+  {
+   "id": "u06_4",
+   "kind": "image",
+   "label": "Islands of the Blest",
+   "content": "Perpetual students refuse to act because they fancy they already dwell apart in blessed isolation.",
+   "participants": [
+    "perpetual students"
+   ],
+   "layer": "observation",
+   "confidence": 0.92,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 6,
+   "last_active_at": 6,
+   "evidence": [
+    {
+     "passage": 6,
+     "quote": "fancying that they are already dwelling apart in the islands of the blest",
+     "start": 1006,
+     "end": 1079
+    }
+   ]
+  },
+  {
+   "id": "u06_5",
+   "kind": "claim",
+   "label": "Compelled Descent to Govern",
+   "content": "The enlightened must not remain above but must be made to descend to share the prisoners' labours and honours.",
+   "participants": [
+    "founders of the State",
+    "best minds",
+    "prisoners"
+   ],
+   "layer": "observation",
+   "confidence": 0.97,
+   "status": "active",
+   "reading": "Compelled Descent to Govern is now to be understood as just service for the happiness of the whole State that harnesses reluctant rulers for the best quietly governed rule.",
+   "state": null,
+   "other_readings": [
+    "Compelled Descent to Govern is now also to be understood as willing turn-taking at the toils accepted as Ruling as Stern Necessity in view of Pupils' Shared Heavenly Life, not only external making to descend."
+   ],
+   "introduced_at": 6,
+   "last_active_at": 8,
+   "evidence": [
+    {
+     "passage": 6,
+     "quote": "they must be made to descend again among the prisoners in the den, and partake of their labours and honours",
+     "start": 1528,
+     "end": 1635
+    }
+   ]
+  },
+  {
+   "id": "u07_1",
+   "kind": "claim",
+   "label": "Compelling Philosophers Is Just",
+   "content": "Compelling philosophers to govern is not unjust because their care for others serves the whole State.",
+   "participants": [
+    "Socrates",
+    "Glaucon",
+    "philosophers"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 7,
+   "last_active_at": 7,
+   "evidence": [
+    {
+     "passage": 7,
+     "quote": "there will be no injustice in compelling our philosophers to have a care and providence of others",
+     "start": 604,
+     "end": 701
+    }
+   ]
+  },
+  {
+   "id": "u07_2",
+   "kind": "concept",
+   "label": "Happiness Of Whole State",
+   "content": "The legislator aims at happiness of the whole State rather than of any one class above the rest.",
+   "participants": [
+    "legislator",
+    "citizens"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 7,
+   "last_active_at": 7,
+   "evidence": [
+    {
+     "passage": 7,
+     "quote": "who did not aim at making any one class in the State happy above the rest",
+     "start": 179,
+     "end": 252
+    }
+   ]
+  },
+  {
+   "id": "u07_3",
+   "kind": "entity",
+   "label": "Philosophers As Hive Rulers",
+   "content": "Unlike self-taught philosophers elsewhere, these philosophers were bred and educated to be rulers of the hive.",
+   "participants": [
+    "philosophers"
+   ],
+   "layer": "observation",
+   "confidence": 0.92,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 7,
+   "last_active_at": 7,
+   "evidence": [
+    {
+     "passage": 7,
+     "quote": "we have brought you into the world to be rulers of the hive",
+     "start": 1048,
+     "end": 1107
+    }
+   ]
+  },
+  {
+   "id": "u07_4",
+   "kind": "event",
+   "label": "Descent To Underground Abode",
+   "content": "Each philosopher in turn must descend to the underground abode and learn to see in the dark.",
+   "participants": [
+    "philosophers",
+    "inhabitants of the den"
+   ],
+   "layer": "observation",
+   "confidence": 0.93,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 7,
+   "last_active_at": 7,
+   "evidence": [
+    {
+     "passage": 7,
+     "quote": "each of you, when his turn comes, must go down to the general underground abode",
+     "start": 1301,
+     "end": 1380
+    }
+   ]
+  },
+  {
+   "id": "u07_5",
+   "kind": "claim",
+   "label": "Reluctant Rulers Govern Best",
+   "content": "The best and most quietly governed State is the one whose rulers are most reluctant to govern.",
+   "participants": [
+    "rulers"
+   ],
+   "layer": "observation",
+   "confidence": 0.96,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 7,
+   "last_active_at": 7,
+   "evidence": [
+    {
+     "passage": 7,
+     "quote": "the State in which the rulers are most reluctant to govern is always the best",
+     "start": 1983,
+     "end": 2060
+    }
+   ]
+  },
+  {
+   "id": "u08_1",
+   "kind": "situation",
+   "label": "Pupils' Shared Heavenly Life",
+   "content": "The educated pupils will spend most time together in the heavenly light while taking turns at the toils of the State.",
+   "participants": [
+    "pupils"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 8,
+   "last_active_at": 8,
+   "evidence": [
+    {
+     "passage": 8,
+     "quote": "And will our pupils, when they hear this, refuse to take their turn at the toils of State, when they are allowed to spend the greater part of their time with one another in the heavenly light?",
+     "start": 0,
+     "end": 192
+    }
+   ]
+  },
+  {
+   "id": "u08_2",
+   "kind": "claim",
+   "label": "Ruling as Stern Necessity",
+   "content": "Just men will take office as a stern necessity, unlike the present rulers of the State.",
+   "participants": [
+    "just men",
+    "present rulers of State"
+   ],
+   "layer": "observation",
+   "confidence": 0.95,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 8,
+   "last_active_at": 8,
+   "evidence": [
+    {
+     "passage": 8,
+     "quote": "there can be no doubt that every one of them will take office as a stern necessity",
+     "start": 295,
+     "end": 377
+    }
+   ]
+  },
+  {
+   "id": "u08_3",
+   "kind": "claim",
+   "label": "Better Life For Rulers",
+   "content": "Future rulers must be given another and better life than ruling to produce a well-ordered State.",
+   "participants": [
+    "future rulers"
+   ],
+   "layer": "observation",
+   "confidence": 0.92,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 8,
+   "last_active_at": 8,
+   "evidence": [
+    {
+     "passage": 8,
+     "quote": "You must contrive for your future rulers another and a better life than that of a ruler",
+     "start": 488,
+     "end": 575
+    }
+   ]
+  },
+  {
+   "id": "u08_4",
+   "kind": "concept",
+   "label": "Riches In Virtue Wisdom",
+   "content": "True rulers are rich not in silver and gold but in virtue and wisdom.",
+   "participants": [
+    "rulers"
+   ],
+   "layer": "observation",
+   "confidence": 0.93,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 8,
+   "last_active_at": 8,
+   "evidence": [
+    {
+     "passage": 8,
+     "quote": "will they rule who are truly rich, not in silver and gold, but in virtue and wisdom",
+     "start": 662,
+     "end": 745
+    }
+   ]
+  },
+  {
+   "id": "u08_5",
+   "kind": "claim",
+   "label": "Office Fighting Ruins State",
+   "content": "If rulers seek private advantage from office, fighting and broils will ruin rulers and State.",
+   "participants": [
+    "rulers",
+    "whole State"
+   ],
+   "layer": "observation",
+   "confidence": 0.92,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 8,
+   "last_active_at": 8,
+   "evidence": [
+    {
+     "passage": 8,
+     "quote": "for they will be fighting about office, and the civil and domestic broils which thus arise",
+     "start": 980,
+     "end": 1070
+    }
+   ]
+  },
+  {
+   "id": "u08_6",
+   "kind": "concept",
+   "label": "Philosophy Above Political Ambition",
+   "content": "Only the life of true philosophy looks down upon the life of political ambition.",
+   "participants": [
+    "true philosophers"
+   ],
+   "layer": "observation",
+   "confidence": 0.94,
+   "status": "active",
+   "reading": null,
+   "state": null,
+   "other_readings": [],
+   "introduced_at": 8,
+   "last_active_at": 8,
+   "evidence": [
+    {
+     "passage": 8,
+     "quote": "And the only life which looks down upon the life of political ambition is that of true philosophy",
+     "start": 1162,
+     "end": 1259
+    }
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "id": "r01_1",
+   "source": "u01_1",
+   "target": "u00_4",
+   "type": "REFINES",
+   "rationale": "The claim that Truth as mere shadows, that truth is literally nothing but shadows of images, develops Seeing Only Shadows, where prisoners see only shadows on the wall, by turning a visual limitation into a definition of truth.",
+   "confidence": 0.9,
+   "created_at": 1,
+   "layer": "interpretation",
+   "rationale_raw": "The claim that Truth as mere shadows, that truth is literally nothing but shadows of images, develops Seeing Only Shadows, where prisoners see only shadows on the wall, by turning a visual limitation into a definition of truth."
+  },
+  {
+   "id": "r01_2",
+   "source": "u01_1",
+   "target": "u00_5",
+   "type": "SUPPORTS",
+   "rationale": "The claim that Truth as mere shadows, that truth is nothing but shadows, gives the reason for Mistaking Shadows for Reality, where prisoners would take names of shadows and echoed voices for real things.",
+   "confidence": 0.85,
+   "created_at": 1,
+   "layer": "interpretation",
+   "rationale_raw": "The claim that Truth as mere shadows, that truth is nothing but shadows, gives the reason for Mistaking Shadows for Reality, where prisoners would take names of shadows and echoed voices for real things."
+  },
+  {
+   "id": "r01_3",
+   "source": "u01_2",
+   "target": "u00_1",
+   "type": "CHANGES_STATE",
+   "rationale": "The event of Painful forced liberation, being freed and compelled to stand, turn and walk toward the light with sharp pains, breaks the earlier condition of Chained Underground Prisoners, where human beings live chained by legs and necks able only to look forward.",
+   "confidence": 0.95,
+   "created_at": 1,
+   "layer": "interpretation",
+   "rationale_raw": "The event of Painful forced liberation, being freed and compelled to stand, turn and walk toward the light with sharp pains, breaks the earlier condition of Chained Underground Prisoners, where human beings live chained by legs and necks able only to look forward."
+  },
+  {
+   "id": "r01_4",
+   "source": "u01_3",
+   "target": "u00_5",
+   "type": "REFINES",
+   "rationale": "The claim of Shadows seem truer, that the perplexed prisoner fancies old shadows truer than objects now shown, makes more precise Mistaking Shadows for Reality by showing active preference for illusion even when told otherwise.",
+   "confidence": 0.9,
+   "created_at": 1,
+   "layer": "interpretation",
+   "rationale_raw": "The claim of Shadows seem truer, that the perplexed prisoner fancies old shadows truer than objects now shown, makes more precise Mistaking Shadows for Reality by showing active preference for illusion even when told otherwise."
+  },
+  {
+   "id": "r01_5",
+   "source": "u01_3",
+   "target": "u01_1",
+   "type": "SUPPORTS",
+   "rationale": "The insistence in Shadows seem truer that old shadows are truer provides a concrete instance of Truth as mere shadows, that for chained prisoners truth is nothing but shadows.",
+   "confidence": 0.8,
+   "created_at": 1,
+   "layer": "interpretation",
+   "rationale_raw": "The insistence in Shadows seem truer that old shadows are truer provides a concrete instance of Truth as mere shadows, that for chained prisoners truth is nothing but shadows."
+  },
+  {
+   "id": "r01_6",
+   "source": "u01_2",
+   "target": "u01_4",
+   "type": "CAUSES",
+   "rationale": "The sharp pains suffered in Painful forced liberation when forced to stand and look toward the light bring about the eye pain in Retreat from glaring light that makes the prisoner turn away toward familiar visibles.",
+   "confidence": 0.9,
+   "created_at": 1,
+   "layer": "interpretation",
+   "rationale_raw": "The sharp pains suffered in Painful forced liberation when forced to stand and look toward the light bring about the eye pain in Retreat from glaring light that makes the prisoner turn away toward familiar visibles."
+  },
+  {
+   "id": "r01_7",
+   "source": "u01_3",
+   "target": "u01_4",
+   "type": "CAUSES",
+   "rationale": "The conviction in Shadows seem truer that old shadows are truer than objects now shown explains the turning away in Retreat from glaring light toward familiar visibles deemed clearer.",
+   "confidence": 0.85,
+   "created_at": 1,
+   "layer": "interpretation",
+   "rationale_raw": "The conviction in Shadows seem truer that old shadows are truer than objects now shown explains the turning away in Retreat from glaring light toward familiar visibles deemed clearer."
+  },
+  {
+   "id": "r01_8",
+   "source": "u01_5",
+   "target": "u01_2",
+   "type": "REFINES",
+   "rationale": "The account of Dragged ascent to sun, being reluctantly dragged up a steep rugged ascent into the sun's presence pained and dazzled, develops Painful forced liberation by extending the initial forcing to stand and turn into a longer ascent.",
+   "confidence": 0.85,
+   "created_at": 1,
+   "layer": "interpretation",
+   "rationale_raw": "The account of Dragged ascent to sun, being reluctantly dragged up a steep rugged ascent into the sun's presence pained and dazzled, develops Painful forced liberation by extending the initial forcing to stand and turn into a longer ascent."
+  },
+  {
+   "id": "r01_9",
+   "source": "u01_4",
+   "target": "u01_5",
+   "type": "CAUSES",
+   "rationale": "The turning away in Retreat from glaring light toward familiar visibles to escape eye pain necessitates the forcing described in Dragged ascent to sun, being reluctantly dragged up the ascent into the sun's presence.",
+   "confidence": 0.8,
+   "created_at": 1,
+   "layer": "interpretation",
+   "rationale_raw": "The turning away in Retreat from glaring light toward familiar visibles to escape eye pain necessitates the forcing described in Dragged ascent to sun, being reluctantly dragged up the ascent into the sun's presence."
+  },
+  {
+   "id": "r02_1",
+   "source": "u01_5",
+   "target": "u02_1",
+   "type": "CAUSES",
+   "rationale": "The dragged ascent to sun leaves the prisoner pained, irritated and dazzled into blindness in the sun's presence; the stages of upper vision describing seeing shadows first then reflections then objects describes the gradual habituation that overcomes that blindness.",
+   "confidence": 0.85,
+   "created_at": 2,
+   "layer": "interpretation",
+   "rationale_raw": "The dragged ascent to sun leaves the prisoner pained, irritated and dazzled into blindness in the sun's presence; the stages of upper vision describing seeing shadows first then reflections then objects describes the gradual habituation that overcomes that blindness."
+  },
+  {
+   "id": "r02_2",
+   "source": "u02_1",
+   "target": "u02_2",
+   "type": "CAUSES",
+   "rationale": "The stages of upper vision through shadows, reflections and objects enables the final capacity described in seeing sun itself to see the sun in its own proper place.",
+   "confidence": 0.9,
+   "created_at": 2,
+   "layer": "interpretation",
+   "rationale_raw": "The stages of upper vision through shadows, reflections and objects enables the final capacity described in seeing sun itself to see the sun in its own proper place."
+  },
+  {
+   "id": "r02_3",
+   "source": "u02_2",
+   "target": "u01_5",
+   "type": "REFINES",
+   "rationale": "The dragged ascent to sun describes being forced into the sun's presence while dazzled blind; seeing sun itself specifies the completed clear vision that follows habituation.",
+   "confidence": 0.85,
+   "created_at": 2,
+   "layer": "interpretation",
+   "rationale_raw": "The dragged ascent to sun describes being forced into the sun's presence while dazzled blind; seeing sun itself specifies the completed clear vision that follows habituation."
+  },
+  {
+   "id": "r02_4",
+   "source": "u02_2",
+   "target": "u02_3",
+   "type": "CAUSES",
+   "rationale": "Seeing sun itself in its proper place leads him to reason that the sun gives seasons and years and guards all visible things.",
+   "confidence": 0.9,
+   "created_at": 2,
+   "layer": "interpretation",
+   "rationale_raw": "Seeing sun itself in its proper place leads him to reason that the sun gives seasons and years and guards all visible things."
+  },
+  {
+   "id": "r02_5",
+   "source": "u02_4",
+   "target": "u00_1",
+   "type": "REFINES",
+   "rationale": "The chained underground prisoners who can only look forward are the fellows he remembers from his old habitation; pity for cave fellows adds his new stance of congratulating himself and pitying those still in the den.",
+   "confidence": 0.85,
+   "created_at": 2,
+   "layer": "interpretation",
+   "rationale_raw": "The chained underground prisoners who can only look forward are the fellows he remembers from his old habitation; pity for cave fellows adds his new stance of congratulating himself and pitying those still in the den."
+  },
+  {
+   "id": "r02_6",
+   "source": "u02_3",
+   "target": "u02_4",
+   "type": "CAUSES",
+   "rationale": "The sun as world guardian reasoning that the sun guards visible things gives him the understanding that makes him congratulate himself on the change and pity his fellows.",
+   "confidence": 0.75,
+   "created_at": 2,
+   "layer": "interpretation",
+   "rationale_raw": "The sun as world guardian reasoning that the sun guards visible things gives him the understanding that makes him congratulate himself on the change and pity his fellows."
+  },
+  {
+   "id": "r02_7",
+   "source": "u02_5",
+   "target": "u00_5",
+   "type": "REFINES",
+   "rationale": "Mistaking shadows for reality describing naming shadows and taking echoes for real explains the skill of predicting shadows; contempt for shadow honours adds rejection of those honours and preferring to endure anything rather than live that way.",
+   "confidence": 0.88,
+   "created_at": 2,
+   "layer": "interpretation",
+   "rationale_raw": "Mistaking shadows for reality describing naming shadows and taking echoes for real explains the skill of predicting shadows; contempt for shadow honours adds rejection of those honours and preferring to endure anything rather than live that way."
+  },
+  {
+   "id": "r02_8",
+   "source": "u02_5",
+   "target": "u02_4",
+   "type": "SUPPORTS",
+   "rationale": "Contempt for shadow honours rejecting cave honours shows why the pity for cave fellows is felt toward those still pursuing those honours.",
+   "confidence": 0.7,
+   "created_at": 2,
+   "layer": "interpretation",
+   "rationale_raw": "Contempt for shadow honours rejecting cave honours shows why the pity for cave fellows is felt toward those still pursuing those honours."
+  },
+  {
+   "id": "r03_1",
+   "source": "u03_1",
+   "target": "u03_2",
+   "type": "CAUSES",
+   "rationale": "The return passage says the freed prisoner put back in the old place is blinded by darkness, while the ridiculed competitor passage says still dazzled he looks ridiculous judging shadows; the darkness-blindness explains why he judges badly.",
+   "confidence": 0.9,
+   "created_at": 3,
+   "layer": "interpretation",
+   "rationale_raw": "The return passage says the freed prisoner put back in the old place is blinded by darkness, while the ridiculed competitor passage says still dazzled he looks ridiculous judging shadows; the darkness-blindness explains why he judges badly."
+  },
+  {
+   "id": "r03_2",
+   "source": "u03_2",
+   "target": "u02_5",
+   "type": "REFINES",
+   "rationale": "The earlier description says he rejects the cave honours for predicting shadows and would endure anything rather than live as they do, while the ridiculed competitor passage shows him dazzled, failing at shadow-judging and appearing ridiculous so ascent looks worthless; it makes concrete what that rejection costs in their eyes.",
+   "confidence": 0.85,
+   "created_at": 3,
+   "layer": "interpretation",
+   "rationale_raw": "The earlier description says he rejects the cave honours for predicting shadows and would endure anything rather than live as they do, while the ridiculed competitor passage shows him dazzled, failing at shadow-judging and appearing ridiculous so ascent looks worthless; it makes concrete what that rejection costs in their eyes."
+  },
+  {
+   "id": "r03_3",
+   "source": "u03_3",
+   "target": "u01_3",
+   "type": "SUPPORTS",
+   "rationale": "The earlier description says the perplexed prisoner fancies his old shadows truer than the objects now shown, while the death-threat passage says prisoners would kill anyone caught trying to free another toward the light; the willingness to kill gives violent evidence of how fiercely the old sights are held as true.",
+   "confidence": 0.8,
+   "created_at": 3,
+   "layer": "interpretation",
+   "rationale_raw": "The earlier description says the perplexed prisoner fancies his old shadows truer than the objects now shown, while the death-threat passage says prisoners would kill anyone caught trying to free another toward the light; the willingness to kill gives violent evidence of how fiercely the old sights are held as true."
+  },
+  {
+   "id": "r03_4",
+   "source": "u03_4",
+   "target": "u00_1",
+   "type": "REFRAMES",
+   "rationale": "The earlier description depicts human beings chained by legs and necks able only to look forward, while the mapping passage declares the prison-house is the world of sight; the literal den is revealed as a figure for our visible condition.",
+   "confidence": 0.95,
+   "created_at": 3,
+   "layer": "interpretation",
+   "rationale_raw": "The earlier description depicts human beings chained by legs and necks able only to look forward, while the mapping passage declares the prison-house is the world of sight; the literal den is revealed as a figure for our visible condition."
+  },
+  {
+   "id": "r03_5",
+   "source": "u03_4",
+   "target": "u00_2",
+   "type": "REFRAMES",
+   "rationale": "The earlier description depicts a fire blazing behind with a raised way and low wall, while the mapping passage declares the light of the fire is the sun; the cave fire is revealed as an image for the sun.",
+   "confidence": 0.95,
+   "created_at": 3,
+   "layer": "interpretation",
+   "rationale_raw": "The earlier description depicts a fire blazing behind with a raised way and low wall, while the mapping passage declares the light of the fire is the sun; the cave fire is revealed as an image for the sun."
+  },
+  {
+   "id": "r03_6",
+   "source": "u03_4",
+   "target": "u01_5",
+   "type": "REFRAMES",
+   "rationale": "The earlier description depicts being reluctantly dragged up a steep rugged ascent into the sun, while the mapping passage declares the upward journey is the soul's ascent to intellect; the physical climb is revealed as a figure for intellectual ascent.",
+   "confidence": 0.9,
+   "created_at": 3,
+   "layer": "interpretation",
+   "rationale_raw": "The earlier description depicts being reluctantly dragged up a steep rugged ascent into the sun, while the mapping passage declares the upward journey is the soul's ascent to intellect; the physical climb is revealed as a figure for intellectual ascent."
+  },
+  {
+   "id": "r03_7",
+   "source": "u03_5",
+   "target": "u02_2",
+   "type": "REFRAMES",
+   "rationale": "The earlier description says last of all he is able to see the sun itself in its own place, while the Good passage says in the world of knowledge the idea of good appears last and is seen only with effort; the solar climax is revealed as a figure for vision of the Good.",
+   "confidence": 0.9,
+   "created_at": 3,
+   "layer": "interpretation",
+   "rationale_raw": "The earlier description says last of all he is able to see the sun itself in its own place, while the Good passage says in the world of knowledge the idea of good appears last and is seen only with effort; the solar climax is revealed as a figure for vision of the Good."
+  },
+  {
+   "id": "r03_8",
+   "source": "u03_5",
+   "target": "u02_3",
+   "type": "REFINES",
+   "rationale": "The earlier description says the sun gives seasons and years and guards all in the visible world, while the Good passage says the Good is inferred as universal author of all things beautiful and right, of light and reason; the sun's guardianship is shown to derive from a higher cause.",
+   "confidence": 0.85,
+   "created_at": 3,
+   "layer": "interpretation",
+   "rationale_raw": "The earlier description says the sun gives seasons and years and guards all in the visible world, while the Good passage says the Good is inferred as universal author of all things beautiful and right, of light and reason; the sun's guardianship is shown to derive from a higher cause."
+  },
+  {
+   "id": "r04_1",
+   "source": "u04_1",
+   "target": "u02_5",
+   "type": "SUPPORTS",
+   "rationale": "The philosopher unwilling text says those attaining beatific vision resist descent because souls long to dwell above, while the contempt for honours text says the freed prisoner would reject predictive honours and endure anything rather than live as before; unwillingness explains rejection.",
+   "confidence": 0.85,
+   "created_at": 4,
+   "layer": "interpretation",
+   "rationale_raw": "The philosopher unwilling text says those attaining beatific vision resist descent because souls long to dwell above, while the contempt for honours text says the freed prisoner would reject predictive honours and endure anything rather than live as before; unwillingness explains rejection."
+  },
+  {
+   "id": "r04_10",
+   "source": "u04_5",
+   "target": "u04_4",
+   "type": "REFINES",
+   "rationale": "The happy descent text gives verdicts of happy for descending dazzle and pity for ascending dazzle, while the suspend mockery text prescribes asking about direction before judging; the verdicts make the prescribed inquiry concrete.",
+   "confidence": 0.85,
+   "created_at": 4,
+   "layer": "interpretation",
+   "rationale_raw": "The happy descent text gives verdicts of happy for descending dazzle and pity for ascending dazzle, while the suspend mockery text prescribes asking about direction before judging; the verdicts make the prescribed inquiry concrete."
+  },
+  {
+   "id": "r04_2",
+   "source": "u02_2",
+   "target": "u04_1",
+   "type": "CAUSES",
+   "rationale": "The seeing sun itself text describes last vision of the sun as it is in its proper place, while the philosopher unwilling text describes unwillingness of those who attain beatific vision; that culminating vision brings about reluctance to return.",
+   "confidence": 0.8,
+   "created_at": 4,
+   "layer": "interpretation",
+   "rationale_raw": "The seeing sun itself text describes last vision of the sun as it is in its proper place, while the philosopher unwilling text describes unwillingness of those who attain beatific vision; that culminating vision brings about reluctance to return."
+  },
+  {
+   "id": "r04_3",
+   "source": "u04_2",
+   "target": "u03_2",
+   "type": "REFINES",
+   "rationale": "The courtroom blindness text says the returner blinking in darkness appears ridiculous when compelled to dispute about images of justice, while the ridiculed competitor text says the dazzled returner appears ridiculous judging shadows; the courtroom setting specifies the human-affairs instance of shadow-judging.",
+   "confidence": 0.9,
+   "created_at": 4,
+   "layer": "interpretation",
+   "rationale_raw": "The courtroom blindness text says the returner blinking in darkness appears ridiculous when compelled to dispute about images of justice, while the ridiculed competitor text says the dazzled returner appears ridiculous judging shadows; the courtroom setting specifies the human-affairs instance of shadow-judging."
+  },
+  {
+   "id": "r04_4",
+   "source": "u03_1",
+   "target": "u04_2",
+   "type": "CAUSES",
+   "rationale": "The returnee blinded text describes sudden blindness on replacement in the old situation after sunlight, while the courtroom blindness text describes still-blinking failure in courts about images of justice; sudden darkening brings about courtroom failure.",
+   "confidence": 0.85,
+   "created_at": 4,
+   "layer": "interpretation",
+   "rationale_raw": "The returnee blinded text describes sudden blindness on replacement in the old situation after sunlight, while the courtroom blindness text describes still-blinking failure in courts about images of justice; sudden darkening brings about courtroom failure."
+  },
+  {
+   "id": "r04_5",
+   "source": "u04_3",
+   "target": "u01_4",
+   "type": "REFRAMES",
+   "rationale": "The two kinds text states bewilderment arises either from coming out of light or going into light for mind as for body, while the retreat from glaring light text describes eye pain driving turning away to familiar visibles; the twofold scheme reveals retreat as ascending-type dazzle.",
+   "confidence": 0.8,
+   "created_at": 4,
+   "layer": "interpretation",
+   "rationale_raw": "The two kinds text states bewilderment arises either from coming out of light or going into light for mind as for body, while the retreat from glaring light text describes eye pain driving turning away to familiar visibles; the twofold scheme reveals retreat as ascending-type dazzle."
+  },
+  {
+   "id": "r04_6",
+   "source": "u04_3",
+   "target": "u03_1",
+   "type": "REFRAMES",
+   "rationale": "The two kinds text states bewilderment has opposite causes of entering and leaving light, while the returnee blinded text describes blindness on thrust back into the cave; the scheme reveals that blindness as descending-type dazzle opposite to ascent.",
+   "confidence": 0.82,
+   "created_at": 4,
+   "layer": "interpretation",
+   "rationale_raw": "The two kinds text states bewilderment has opposite causes of entering and leaving light, while the returnee blinded text describes blindness on thrust back into the cave; the scheme reveals that blindness as descending-type dazzle opposite to ascent."
+  },
+  {
+   "id": "r04_7",
+   "source": "u04_4",
+   "target": "u03_2",
+   "type": "CONTRADICTS",
+   "rationale": "The suspend mockery text prescribes not laughing but first asking whether the soul comes from brightness or darkness, while the ridiculed competitor text reports men saying ascent destroyed eyes; the prescription opposes dismissive laughter as a response.",
+   "confidence": 0.9,
+   "created_at": 4,
+   "layer": "interpretation",
+   "rationale_raw": "The suspend mockery text prescribes not laughing but first asking whether the soul comes from brightness or darkness, while the ridiculed competitor text reports men saying ascent destroyed eyes; the prescription opposes dismissive laughter as a response."
+  },
+  {
+   "id": "r04_8",
+   "source": "u04_3",
+   "target": "u04_4",
+   "type": "SUPPORTS",
+   "rationale": "The two kinds text offers two opposite causes of bewilderment for eye and mind, while the suspend mockery text prescribes asking about direction of travel before laughing; the twofold distinction makes the prescribed diagnosis possible.",
+   "confidence": 0.9,
+   "created_at": 4,
+   "layer": "interpretation",
+   "rationale_raw": "The two kinds text offers two opposite causes of bewilderment for eye and mind, while the suspend mockery text prescribes asking about direction of travel before laughing; the twofold distinction makes the prescribed diagnosis possible."
+  },
+  {
+   "id": "r04_9",
+   "source": "u04_5",
+   "target": "u02_4",
+   "type": "REFINES",
+   "rationale": "The happy descent text counts the soul unaccustomed to darkness as happy and the still-dazzled ascending soul as pitiable, while the pity for fellows text says the freed prisoner congratulates himself and pities fellow prisoners; the former qualifies whom pity properly concerns.",
+   "confidence": 0.8,
+   "created_at": 4,
+   "layer": "interpretation",
+   "rationale_raw": "The happy descent text counts the soul unaccustomed to darkness as happy and the still-dazzled ascending soul as pitiable, while the pity for fellows text says the freed prisoner congratulates himself and pities fellow prisoners; the former qualifies whom pity properly concerns."
+  },
+  {
+   "id": "r05_1",
+   "source": "u05_2",
+   "target": "u05_1",
+   "type": "SUPPORTS",
+   "rationale": "The innate power of learning says capacity already exists in the soul, which gives a reason for the claim that education does not implant knowledge that professors who promise implantation are wrong.",
+   "confidence": 0.9,
+   "created_at": 5,
+   "layer": "interpretation",
+   "rationale_raw": "The innate power of learning says capacity already exists in the soul, which gives a reason for the claim that education does not implant knowledge that professors who promise implantation are wrong."
+  },
+  {
+   "id": "r05_2",
+   "source": "u05_2",
+   "target": "u05_4",
+   "type": "SUPPORTS",
+   "rationale": "The innate power of learning says capacity already exists in the soul, which gives a reason for the art of easy conversion that education only reorients existing sight rather than implanting it.",
+   "confidence": 0.9,
+   "created_at": 5,
+   "layer": "interpretation",
+   "rationale_raw": "The innate power of learning says capacity already exists in the soul, which gives a reason for the art of easy conversion that education only reorients existing sight rather than implanting it."
+  },
+  {
+   "id": "r05_3",
+   "source": "u05_3",
+   "target": "u03_4",
+   "type": "REFINES",
+   "rationale": "Whole-soul turning toward being specifies the upward journey as movement from becoming to being for vision of the Good, making more precise the cave to intellect mapping that the prison is the visible world and ascent is to intellect.",
+   "confidence": 0.85,
+   "created_at": 5,
+   "layer": "interpretation",
+   "rationale_raw": "Whole-soul turning toward being specifies the upward journey as movement from becoming to being for vision of the Good, making more precise the cave to intellect mapping that the prison is the visible world and ascent is to intellect."
+  },
+  {
+   "id": "r05_4",
+   "source": "u05_3",
+   "target": "u03_5",
+   "type": "SUPPORTS",
+   "rationale": "Whole-soul turning toward being says learning must turn to endure sight of the Good, giving a reason for the claim that Good as ultimate source is seen last with effort as author of beauty and truth.",
+   "confidence": 0.8,
+   "created_at": 5,
+   "layer": "interpretation",
+   "rationale_raw": "Whole-soul turning toward being says learning must turn to endure sight of the Good, giving a reason for the claim that Good as ultimate source is seen last with effort as author of beauty and truth."
+  },
+  {
+   "id": "r05_5",
+   "source": "u05_4",
+   "target": "u01_5",
+   "type": "REFRAMES",
+   "rationale": "The art of easy conversion says education reorients existing sight turned in the wrong direction, revealing the dragged ascent to the sun as image of educational reorientation rather than implantation of a fresh power.",
+   "confidence": 0.8,
+   "created_at": 5,
+   "layer": "interpretation",
+   "rationale_raw": "The art of easy conversion says education reorients existing sight turned in the wrong direction, revealing the dragged ascent to the sun as image of educational reorientation rather than implantation of a fresh power."
+  },
+  {
+   "id": "r05_6",
+   "source": "u05_4",
+   "target": "u05_3",
+   "type": "REFINES",
+   "rationale": "The art of easy conversion describes education as redirecting existing sight toward truth, which makes more precise whole-soul turning toward being as a craft of conversion.",
+   "confidence": 0.85,
+   "created_at": 5,
+   "layer": "interpretation",
+   "rationale_raw": "The art of easy conversion describes education as redirecting existing sight toward truth, which makes more precise whole-soul turning toward being as a craft of conversion."
+  },
+  {
+   "id": "r05_7",
+   "source": "u05_5",
+   "target": "u05_2",
+   "type": "SUPPORTS",
+   "rationale": "The clever rogue's misdirected sight gives an example where keen sight persists while serving evil, supporting the innate power of learning that capacity exists already even when misdirected.",
+   "confidence": 0.85,
+   "created_at": 5,
+   "layer": "interpretation",
+   "rationale_raw": "The clever rogue's misdirected sight gives an example where keen sight persists while serving evil, supporting the innate power of learning that capacity exists already even when misdirected."
+  },
+  {
+   "id": "r05_8",
+   "source": "u05_5",
+   "target": "u05_4",
+   "type": "SUPPORTS",
+   "rationale": "The clever rogue's misdirected sight shows wisdom forced into evil service in proportion to cleverness, giving a concrete case for the art of easy conversion that sight exists but is turned wrong and needs reorientation.",
+   "confidence": 0.85,
+   "created_at": 5,
+   "layer": "interpretation",
+   "rationale_raw": "The clever rogue's misdirected sight shows wisdom forced into evil service in proportion to cleverness, giving a concrete case for the art of easy conversion that sight exists but is turned wrong and needs reorientation."
+  },
+  {
+   "id": "r06_1",
+   "source": "u06_1",
+   "target": "u05_4",
+   "type": "REFINES",
+   "rationale": "The leaden weights image says eating, drinking and similar pleasures drag the soul's vision downward, while the art of easy conversion says existing sight has been turned in the wrong direction and needs reorienting. The first specifies what the wrong direction consists in.",
+   "confidence": 0.85,
+   "created_at": 6,
+   "layer": "interpretation",
+   "rationale_raw": "The leaden weights image says eating, drinking and similar pleasures drag the soul's vision downward, while the art of easy conversion says existing sight has been turned in the wrong direction and needs reorienting. The first specifies what the wrong direction consists in."
+  },
+  {
+   "id": "r06_2",
+   "source": "u06_2",
+   "target": "u05_2",
+   "type": "SUPPORTS",
+   "rationale": "The freed faculty claim says the same faculty that is now keen on lower things would see truth just as keenly if turned upward in youth, while the innate power claim says the capacity of learning already exists in the soul. The first gives evidence for the second by showing sameness of faculty.",
+   "confidence": 0.9,
+   "created_at": 6,
+   "layer": "interpretation",
+   "rationale_raw": "The freed faculty claim says the same faculty that is now keen on lower things would see truth just as keenly if turned upward in youth, while the innate power claim says the capacity of learning already exists in the soul. The first gives evidence for the second by showing sameness of faculty."
+  },
+  {
+   "id": "r06_3",
+   "source": "u06_2",
+   "target": "u05_4",
+   "type": "SUPPORTS",
+   "rationale": "The freed faculty claim says severing impediments and turning upward lets the same power see truth, while the art of easy conversion says education reorients existing sight toward truth rather than implanting sight. The first explains why reorientation can work.",
+   "confidence": 0.82,
+   "created_at": 6,
+   "layer": "interpretation",
+   "rationale_raw": "The freed faculty claim says severing impediments and turning upward lets the same power see truth, while the art of easy conversion says education reorients existing sight toward truth rather than implanting sight. The first explains why reorientation can work."
+  },
+  {
+   "id": "r06_4",
+   "source": "u06_3",
+   "target": "u04_1",
+   "type": "REFINES",
+   "rationale": "The neither extreme claim says neither the uneducated ignorant of truth nor endless learners can be able ministers, while the philosopher unwilling description says those attaining beatific vision are unwilling to descend to human affairs. The first develops the second into a general rule covering both extremes.",
+   "confidence": 0.8,
+   "created_at": 6,
+   "layer": "interpretation",
+   "rationale_raw": "The neither extreme claim says neither the uneducated ignorant of truth nor endless learners can be able ministers, while the philosopher unwilling description says those attaining beatific vision are unwilling to descend to human affairs. The first develops the second into a general rule covering both extremes."
+  },
+  {
+   "id": "r06_5",
+   "source": "u00_5",
+   "target": "u06_3",
+   "type": "SUPPORTS",
+   "rationale": "The mistaking shadows account says prisoners take names of shadows and echoes for real things, while the neither extreme claim says the uneducated ignorant of truth cannot be able ministers. The first explains why the uneducated side of the second is unfit.",
+   "confidence": 0.78,
+   "created_at": 6,
+   "layer": "interpretation",
+   "rationale_raw": "The mistaking shadows account says prisoners take names of shadows and echoes for real things, while the neither extreme claim says the uneducated ignorant of truth cannot be able ministers. The first explains why the uneducated side of the second is unfit."
+  },
+  {
+   "id": "r06_6",
+   "source": "u06_4",
+   "target": "u04_1",
+   "type": "REFINES",
+   "rationale": "The islands image says perpetual students refuse to act because they fancy dwelling apart in blessed isolation, while the philosopher unwilling description says those attaining beatific vision long to dwell above and not descend. The first makes the motive for unwillingness more precise.",
+   "confidence": 0.88,
+   "created_at": 6,
+   "layer": "interpretation",
+   "rationale_raw": "The islands image says perpetual students refuse to act because they fancy dwelling apart in blessed isolation, while the philosopher unwilling description says those attaining beatific vision long to dwell above and not descend. The first makes the motive for unwillingness more precise."
+  },
+  {
+   "id": "r06_7",
+   "source": "u06_4",
+   "target": "u06_3",
+   "type": "SUPPORTS",
+   "rationale": "The islands image says perpetual students refuse to act because they fancy blessed isolation, while the neither extreme claim says those who never finish education cannot be able ministers. The first gives the reason behind the unfitness stated in the second.",
+   "confidence": 0.85,
+   "created_at": 6,
+   "layer": "interpretation",
+   "rationale_raw": "The islands image says perpetual students refuse to act because they fancy blessed isolation, while the neither extreme claim says those who never finish education cannot be able ministers. The first gives the reason behind the unfitness stated in the second."
+  },
+  {
+   "id": "r06_8",
+   "source": "u06_5",
+   "target": "u04_1",
+   "type": "REFINES",
+   "rationale": "The compelled descent claim says the enlightened must be made to descend among prisoners to share labours and honours, while the philosopher unwilling description says those attaining vision are unwilling to descend. The first qualifies the second by adding the founders' compulsion to govern.",
+   "confidence": 0.84,
+   "created_at": 6,
+   "layer": "interpretation",
+   "rationale_raw": "The compelled descent claim says the enlightened must be made to descend among prisoners to share labours and honours, while the philosopher unwilling description says those attaining vision are unwilling to descend. The first qualifies the second by adding the founders' compulsion to govern."
+  },
+  {
+   "id": "r06_9",
+   "source": "u06_5",
+   "target": "u04_2",
+   "type": "CAUSES",
+   "rationale": "The compelled descent claim orders going back down to share labours and honours in the den, while the courtroom blindness event describes the returner compelled to dispute in courts about images of justice. The first brings about the second as its consequence.",
+   "confidence": 0.82,
+   "created_at": 6,
+   "layer": "interpretation",
+   "rationale_raw": "The compelled descent claim orders going back down to share labours and honours in the den, while the courtroom blindness event describes the returner compelled to dispute in courts about images of justice. The first brings about the second as its consequence."
+  },
+  {
+   "id": "r07_1",
+   "source": "u07_1",
+   "target": "u06_5",
+   "type": "SUPPORTS",
+   "rationale": "Compelling Philosophers Is Just says compelling philosophers to care for others is not unjust because it serves the whole State, which gives the justice reason for Compelled Descent to Govern which says the enlightened must be made to descend and share labours and honours.",
+   "confidence": 0.9,
+   "created_at": 7,
+   "layer": "interpretation",
+   "rationale_raw": "Compelling Philosophers Is Just says compelling philosophers to care for others is not unjust because it serves the whole State, which gives the justice reason for Compelled Descent to Govern which says the enlightened must be made to descend and share labours and honours."
+  },
+  {
+   "id": "r07_2",
+   "source": "u07_2",
+   "target": "u07_1",
+   "type": "SUPPORTS",
+   "rationale": "Happiness Of Whole State says the legislator aims at happiness of the whole State not one class above rest, which gives the whole-state purpose that justifies Compelling Philosophers Is Just which says compelling philosophers to govern is not unjust.",
+   "confidence": 0.85,
+   "created_at": 7,
+   "layer": "interpretation",
+   "rationale_raw": "Happiness Of Whole State says the legislator aims at happiness of the whole State not one class above rest, which gives the whole-state purpose that justifies Compelling Philosophers Is Just which says compelling philosophers to govern is not unjust."
+  },
+  {
+   "id": "r07_3",
+   "source": "u07_3",
+   "target": "u06_3",
+   "type": "REFINES",
+   "rationale": "Philosophers As Hive Rulers says these philosophers were bred and educated to be rulers of the hive unlike self-taught philosophers elsewhere, which makes more precise Neither Extreme Can Rule which says neither the uneducated ignorant of truth nor endless learners can be able ministers.",
+   "confidence": 0.85,
+   "created_at": 7,
+   "layer": "interpretation",
+   "rationale_raw": "Philosophers As Hive Rulers says these philosophers were bred and educated to be rulers of the hive unlike self-taught philosophers elsewhere, which makes more precise Neither Extreme Can Rule which says neither the uneducated ignorant of truth nor endless learners can be able ministers."
+  },
+  {
+   "id": "r07_4",
+   "source": "u07_3",
+   "target": "u07_1",
+   "type": "SUPPORTS",
+   "rationale": "Philosophers As Hive Rulers says these philosophers were brought into the world to be rulers, which gives background that supports Compelling Philosophers Is Just which says compelling them to care for others is not unjust.",
+   "confidence": 0.8,
+   "created_at": 7,
+   "layer": "interpretation",
+   "rationale_raw": "Philosophers As Hive Rulers says these philosophers were brought into the world to be rulers, which gives background that supports Compelling Philosophers Is Just which says compelling them to care for others is not unjust."
+  },
+  {
+   "id": "r07_5",
+   "source": "u07_4",
+   "target": "u06_5",
+   "type": "REFINES",
+   "rationale": "Descent To Underground Abode says each in turn must go down to the underground abode and learn to see in the dark, which makes more precise Compelled Descent to Govern which says they must be made to descend again among prisoners and partake of labours and honours.",
+   "confidence": 0.9,
+   "created_at": 7,
+   "layer": "interpretation",
+   "rationale_raw": "Descent To Underground Abode says each in turn must go down to the underground abode and learn to see in the dark, which makes more precise Compelled Descent to Govern which says they must be made to descend again among prisoners and partake of labours and honours."
+  },
+  {
+   "id": "r07_6",
+   "source": "u07_4",
+   "target": "u03_1",
+   "type": "REFINES",
+   "rationale": "Descent To Underground Abode says the philosopher must learn to see in the dark below, which develops Returnee blinded by darkness which says the freed prisoner thrust back is blinded by darkness.",
+   "confidence": 0.75,
+   "created_at": 7,
+   "layer": "interpretation",
+   "rationale_raw": "Descent To Underground Abode says the philosopher must learn to see in the dark below, which develops Returnee blinded by darkness which says the freed prisoner thrust back is blinded by darkness."
+  },
+  {
+   "id": "r07_7",
+   "source": "u07_5",
+   "target": "u04_1",
+   "type": "REFRAMES",
+   "rationale": "Reluctant Rulers Govern Best says the State whose rulers are most reluctant to govern is best and most quietly governed, which changes what Philosopher unwilling to descend means from mere longing to dwell above into a qualification for good rule.",
+   "confidence": 0.85,
+   "created_at": 7,
+   "layer": "interpretation",
+   "rationale_raw": "Reluctant Rulers Govern Best says the State whose rulers are most reluctant to govern is best and most quietly governed, which changes what Philosopher unwilling to descend means from mere longing to dwell above into a qualification for good rule."
+  },
+  {
+   "id": "r07_8",
+   "source": "u07_5",
+   "target": "u07_1",
+   "type": "SUPPORTS",
+   "rationale": "Reluctant Rulers Govern Best says reluctance to govern marks the best rulers, which gives a reason for Compelling Philosophers Is Just which says compelling reluctant philosophers to govern is not unjust.",
+   "confidence": 0.8,
+   "created_at": 7,
+   "layer": "interpretation",
+   "rationale_raw": "Reluctant Rulers Govern Best says reluctance to govern marks the best rulers, which gives a reason for Compelling Philosophers Is Just which says compelling reluctant philosophers to govern is not unjust."
+  },
+  {
+   "id": "r08_1",
+   "source": "u08_1",
+   "target": "u06_5",
+   "type": "REFINES",
+   "rationale": "Pupils' Shared Heavenly Life says pupils spend the greater part of time with one another in the heavenly light while taking turns at the toils of State, which makes Compelled Descent to Govern more precise — descent happens in turn while the heavenly life continues.",
+   "confidence": 0.9,
+   "created_at": 8,
+   "layer": "interpretation",
+   "rationale_raw": "Pupils' Shared Heavenly Life says pupils spend the greater part of time with one another in the heavenly light while taking turns at the toils of State, which makes Compelled Descent to Govern more precise — descent happens in turn while the heavenly life continues."
+  },
+  {
+   "id": "r08_2",
+   "source": "u08_2",
+   "target": "u07_5",
+   "type": "SUPPORTS",
+   "rationale": "Ruling as Stern Necessity says just men will take office as a stern necessity unlike present rulers, which gives an example of Reluctant Rulers Govern Best that says the state where rulers are most reluctant is best.",
+   "confidence": 0.9,
+   "created_at": 8,
+   "layer": "interpretation",
+   "rationale_raw": "Ruling as Stern Necessity says just men will take office as a stern necessity unlike present rulers, which gives an example of Reluctant Rulers Govern Best that says the state where rulers are most reluctant is best."
+  },
+  {
+   "id": "r08_3",
+   "source": "u06_5",
+   "target": "u08_2",
+   "type": "CAUSES",
+   "rationale": "Compelled Descent to Govern says the enlightened must be made to descend to share labours and honours, which brings about Ruling as Stern Necessity where each takes office as a stern necessity.",
+   "confidence": 0.85,
+   "created_at": 8,
+   "layer": "interpretation",
+   "rationale_raw": "Compelled Descent to Govern says the enlightened must be made to descend to share labours and honours, which brings about Ruling as Stern Necessity where each takes office as a stern necessity."
+  },
+  {
+   "id": "r08_4",
+   "source": "u08_6",
+   "target": "u08_3",
+   "type": "REFINES",
+   "rationale": "Philosophy Above Political Ambition says only true philosophy looks down on political ambition, which specifies what the Better Life For Rulers means when it says future rulers must be given another and better life than ruling.",
+   "confidence": 0.85,
+   "created_at": 8,
+   "layer": "interpretation",
+   "rationale_raw": "Philosophy Above Political Ambition says only true philosophy looks down on political ambition, which specifies what the Better Life For Rulers means when it says future rulers must be given another and better life than ruling."
+  },
+  {
+   "id": "r08_5",
+   "source": "u08_4",
+   "target": "u08_3",
+   "type": "REFINES",
+   "rationale": "Riches In Virtue Wisdom says true rulers are rich not in silver and gold but in virtue and wisdom, which makes Better Life For Rulers more precise about what the better life given to rulers consists in.",
+   "confidence": 0.85,
+   "created_at": 8,
+   "layer": "interpretation",
+   "rationale_raw": "Riches In Virtue Wisdom says true rulers are rich not in silver and gold but in virtue and wisdom, which makes Better Life For Rulers more precise about what the better life given to rulers consists in."
+  },
+  {
+   "id": "r08_6",
+   "source": "u08_4",
+   "target": "u06_3",
+   "type": "SUPPORTS",
+   "rationale": "Riches In Virtue Wisdom says those rich in virtue and wisdom will rule, which gives a reason for Neither Extreme Can Rule that says neither the uneducated ignorant of truth nor endless students can be able ministers.",
+   "confidence": 0.75,
+   "created_at": 8,
+   "layer": "interpretation",
+   "rationale_raw": "Riches In Virtue Wisdom says those rich in virtue and wisdom will rule, which gives a reason for Neither Extreme Can Rule that says neither the uneducated ignorant of truth nor endless students can be able ministers."
+  },
+  {
+   "id": "r08_7",
+   "source": "u08_5",
+   "target": "u07_5",
+   "type": "SUPPORTS",
+   "rationale": "Office Fighting Ruins State says fighting about office from seeking private advantage brings civil broils that ruin rulers and State, which gives a reason for Reluctant Rulers Govern Best that says the most reluctant to govern make the best governed State.",
+   "confidence": 0.85,
+   "created_at": 8,
+   "layer": "interpretation",
+   "rationale_raw": "Office Fighting Ruins State says fighting about office from seeking private advantage brings civil broils that ruin rulers and State, which gives a reason for Reluctant Rulers Govern Best that says the most reluctant to govern make the best governed State."
+  },
+  {
+   "id": "r08_8",
+   "source": "u08_6",
+   "target": "u08_3",
+   "type": "SUPPORTS",
+   "rationale": "Philosophy Above Political Ambition says only true philosophy looks down on political ambition, which explains why Better Life For Rulers works — the philosophical life lets rulers despise office.",
+   "confidence": 0.85,
+   "created_at": 8,
+   "layer": "interpretation",
+   "rationale_raw": "Philosophy Above Political Ambition says only true philosophy looks down on political ambition, which explains why Better Life For Rulers works — the philosophical life lets rulers despise office."
+  },
+  {
+   "id": "r08_9",
+   "source": "u08_6",
+   "target": "u07_5",
+   "type": "SUPPORTS",
+   "rationale": "Philosophy Above Political Ambition says only true philosophy despises political ambition, which gives a reason for Reluctant Rulers Govern Best that says the most reluctant rulers govern best and most quietly.",
+   "confidence": 0.8,
+   "created_at": 8,
+   "layer": "interpretation",
+   "rationale_raw": "Philosophy Above Political Ambition says only true philosophy despises political ambition, which gives a reason for Reluctant Rulers Govern Best that says the most reluctant rulers govern best and most quietly."
+  }
+ ],
+ "revisions": [
+  {
+   "unit_id": "u00_1",
+   "passage": 3,
+   "old_reading": null,
+   "new_reading": "The chained underground condition is now to be understood as life in the visible world, taking shadows for reality, while remaining as the story image.",
+   "rationale": "The mapping passage explicitly decodes the prison as the world of sight.",
+   "cause_unit": "u03_4",
+   "kind": "interpretive",
+   "mode": "replaces",
+   "source": "integration",
+   "trigger_unit": null,
+   "evidence_units": [
+    "u03_4",
+    "u00_1"
+   ]
+  },
+  {
+   "unit_id": "u00_2",
+   "passage": 3,
+   "old_reading": null,
+   "new_reading": "The blazing fire behind the wall is now to be understood as standing for the sun in the visible world, while remaining as the story image.",
+   "rationale": "The mapping passage explicitly decodes the fire-light as the sun.",
+   "cause_unit": "u03_4",
+   "kind": "interpretive",
+   "mode": "replaces",
+   "source": "integration",
+   "trigger_unit": null,
+   "evidence_units": [
+    "u03_4",
+    "u00_2"
+   ]
+  },
+  {
+   "unit_id": "u01_5",
+   "passage": 3,
+   "old_reading": null,
+   "new_reading": "The painful dragged climb into sunlight is now to be understood as the soul's ascent to the intelligible, while remaining as the story image of upward movement.",
+   "rationale": "The mapping passage explicitly decodes the upward journey as ascent of soul to intellect.",
+   "cause_unit": "u03_4",
+   "kind": "interpretive",
+   "mode": "replaces",
+   "source": "integration",
+   "trigger_unit": null,
+   "evidence_units": [
+    "u03_4",
+    "u01_5"
+   ]
+  },
+  {
+   "unit_id": "u02_2",
+   "passage": 3,
+   "old_reading": null,
+   "new_reading": "Seeing the sun itself last is now to be understood as prefiguring seeing the Idea of the Good last in the intelligible, crowning the ascent.",
+   "rationale": "The Good passage places the Good last in knowledge just as the sun was last in vision.",
+   "cause_unit": "u03_5",
+   "kind": "interpretive",
+   "mode": "replaces",
+   "source": "integration",
+   "trigger_unit": null,
+   "evidence_units": [
+    "u03_5",
+    "u02_2"
+   ]
+  },
+  {
+   "unit_id": "u02_3",
+   "passage": 3,
+   "old_reading": null,
+   "new_reading": "The sun's giving of seasons and guarding of visibles is now to be understood as itself authored and illuminated by the Idea of the Good, not as ultimate.",
+   "rationale": "The Good passage infers the Good as universal author of beauty, right, light and truth, placing the sun's power under it.",
+   "cause_unit": "u03_5",
+   "kind": "interpretive",
+   "mode": "replaces",
+   "source": "integration",
+   "trigger_unit": null,
+   "evidence_units": [
+    "u03_5",
+    "u02_3"
+   ]
+  },
+  {
+   "unit_id": "u01_2",
+   "passage": 3,
+   "old_reading": null,
+   "new_reading": "Painful forced liberation is now to be understood as the soul's initial painful turn from the visible world toward the intelligible, while remaining as forced standing and turning toward light in the story.",
+   "rationale": "Chained Underground Prisoners is now life in the visible world, and Cave to intellect mapping declares the prison-house is the world of sight and the upward journey is the soul's ascent to intellect, while Dragged ascent to sun refines Painful forced liberation into that ascent now understood as soul's ascent, so the initial forcing is the start of intellectual conversion.",
+   "cause_unit": "u03_4",
+   "kind": "interpretive",
+   "mode": "replaces",
+   "source": "propagation",
+   "trigger_unit": "u00_1",
+   "evidence_units": [
+    "u00_1",
+    "u03_4",
+    "u01_5"
+   ]
+  },
+  {
+   "unit_id": "u02_1",
+   "passage": 3,
+   "old_reading": null,
+   "new_reading": "Stages of Upper Vision are now to be understood as gradual habituation of the soul to the intelligible culminating in vision of the Idea of the Good, while remaining as progressive seeing from shadows to sun in the story.",
+   "rationale": "Seeing Sun Itself now prefigures seeing the Idea of the Good last, Good as ultimate source declares the Good appears last with effort, and Cave to intellect mapping declares the upward journey is the soul's ascent to intellect, so the shadow-to-sun sequence is intellectual habituation.",
+   "cause_unit": "u03_5",
+   "kind": "interpretive",
+   "mode": "replaces",
+   "source": "propagation",
+   "trigger_unit": "u02_2",
+   "evidence_units": [
+    "u02_2",
+    "u03_5",
+    "u03_4"
+   ]
+  },
+  {
+   "unit_id": "u02_4",
+   "passage": 3,
+   "old_reading": null,
+   "new_reading": "Pity for Cave Fellows is now to be understood as the enlightened soul's compassion from vision of the sun and the Good for those still in the visible world, while remaining as fellow-feeling for den-mates in the story.",
+   "rationale": "Chained Underground Prisoners is now life in the visible world, Sun as World Guardian is now itself authored by the Idea of the Good, and Good as ultimate source makes the Good the universal author, so pity grounded in solar understanding is ultimately grounded in the Good.",
+   "cause_unit": "u03_5",
+   "kind": "interpretive",
+   "mode": "replaces",
+   "source": "propagation",
+   "trigger_unit": "u02_3",
+   "evidence_units": [
+    "u00_1",
+    "u02_3",
+    "u03_5"
+   ]
+  },
+  {
+   "unit_id": "u01_4",
+   "passage": 3,
+   "old_reading": null,
+   "new_reading": "Retreat from glaring light is now to be understood as the soul's resistance turning from intelligible light back to familiar visibles as clearer, while remaining as eye-pain and turning away in the story.",
+   "rationale": "Dragged ascent to sun is now the soul's ascent to the intelligible and Cave to intellect mapping declares the upward journey is the soul's ascent to intellect, and Retreat from glaring light causes that forcing, so the turning to visibles is the soul clinging to the visible against the intelligible.",
+   "cause_unit": "u03_4",
+   "kind": "interpretive",
+   "mode": "replaces",
+   "source": "propagation",
+   "trigger_unit": "u01_5",
+   "evidence_units": [
+    "u01_5",
+    "u03_4"
+   ]
+  },
+  {
+   "unit_id": "u01_4",
+   "passage": 4,
+   "old_reading": "Retreat from glaring light is now to be understood as the soul's resistance turning from intelligible light back to familiar visibles as clearer, while remaining as eye-pain and turning away in the story.",
+   "new_reading": "Retreat from glaring light is now to be understood as ascending dazzle from going into light, one of two opposite bewilderments, while remaining as eye-pain and turning away in the story.",
+   "rationale": "The two kinds text provides a two-directional account of dazzle, while the retreat text described painful turning toward familiar visibles; the former reclassifies the latter as ascent confusion to be pitied.",
+   "cause_unit": "u04_3",
+   "kind": "interpretive",
+   "mode": "coexists",
+   "source": "integration",
+   "trigger_unit": null,
+   "evidence_units": [
+    "u04_3",
+    "u01_4"
+   ]
+  },
+  {
+   "unit_id": "u03_2",
+   "passage": 4,
+   "old_reading": null,
+   "new_reading": "The ridiculed competitor episode is now to be understood as ignorant laughter that should be suspended in favor of diagnosing direction of dazzle, while remaining as prisoners' mockery in the story.",
+   "rationale": "The suspend mockery text forbids ready laughter and requires inquiry, while the ridiculed competitor text had presented ridiculous appearance as proof ascent is worthless; the former corrects the significance of the latter.",
+   "cause_unit": "u04_4",
+   "kind": "interpretive",
+   "mode": "replaces",
+   "source": "integration",
+   "trigger_unit": null,
+   "evidence_units": [
+    "u04_4",
+    "u03_2"
+   ]
+  },
+  {
+   "unit_id": "u03_1",
+   "passage": 4,
+   "old_reading": null,
+   "new_reading": "Returnee blinded by darkness is now to be understood as descending dazzle from brightness to be counted happy, distinct from ascending dazzle to be pitied, while remaining as sudden blindness in the story.",
+   "rationale": "The happy descent text distinguishes happy descending confusion from pitiable ascending confusion, while the returnee blinded text had described replacement blindness without that valuation; the former assigns the latter its proper worth.",
+   "cause_unit": "u04_5",
+   "kind": "interpretive",
+   "mode": "replaces",
+   "source": "integration",
+   "trigger_unit": null,
+   "evidence_units": [
+    "u04_5",
+    "u03_1"
+   ]
+  },
+  {
+   "unit_id": "u00_1",
+   "passage": 5,
+   "old_reading": "The chained underground condition is now to be understood as life in the visible world, taking shadows for reality, while remaining as the story image.",
+   "new_reading": "The chained underground condition is now also to be understood as misdirection of a learning power that is already present, not absence of sight, while remaining as the story image of chained prisoners.",
+   "rationale": "The innate power of learning says capacity exists already, which shows the chained underground prisoners are about wrong direction rather than blindness.",
+   "cause_unit": "u05_2",
+   "kind": "interpretive",
+   "mode": "coexists",
+   "source": "integration",
+   "trigger_unit": null,
+   "evidence_units": [
+    "u05_2",
+    "u00_1"
+   ]
+  },
+  {
+   "unit_id": "u01_2",
+   "passage": 5,
+   "old_reading": "Painful forced liberation is now to be understood as the soul's initial painful turn from the visible world toward the intelligible, while remaining as forced standing and turning toward light in the story.",
+   "new_reading": "Painful forced liberation is now also to be understood as turning of the innate instrument of knowledge from becoming to being, not giving sight afresh, while remaining as forced standing and turning toward light in the story.",
+   "rationale": "Whole-soul turning toward being says the instrument can only be turned by movement of the whole soul, showing the painful forced liberation is such a conversion.",
+   "cause_unit": "u05_3",
+   "kind": "interpretive",
+   "mode": "coexists",
+   "source": "integration",
+   "trigger_unit": null,
+   "evidence_units": [
+    "u05_3",
+    "u01_2"
+   ]
+  },
+  {
+   "unit_id": "u03_4",
+   "passage": 5,
+   "old_reading": null,
+   "new_reading": "The cave to intellect mapping is now also to be understood so that the upward journey is the art of reorienting existing sight from wrong direction toward truth, while remaining as ascent in the story.",
+   "rationale": "The art of easy conversion says education does not implant sight but turns what exists, showing what the mapped ascent consists in.",
+   "cause_unit": "u05_4",
+   "kind": "interpretive",
+   "mode": "replaces",
+   "source": "integration",
+   "trigger_unit": null,
+   "evidence_units": [
+    "u05_4",
+    "u03_4"
+   ]
+  },
+  {
+   "unit_id": "u04_1",
+   "passage": 6,
+   "old_reading": null,
+   "new_reading": "The unwillingness to descend is now to be understood as the refusal of those who fancy they already dwell in blessed isolation, which the founders must overrule by compelling return to shared labour and rule, while remaining as longing to dwell above.",
+   "rationale": "The islands image explains unwillingness as fancy of blessed isolation and the compelled descent claim adds a duty to force return, which together change what the unwillingness signifies from a simple fact into a political problem requiring compulsion.",
+   "cause_unit": "u06_5",
+   "kind": "interpretive",
+   "mode": "replaces",
+   "source": "integration",
+   "trigger_unit": null,
+   "evidence_units": [
+    "u06_5",
+    "u04_1"
+   ]
+  },
+  {
+   "unit_id": "u04_1",
+   "passage": 7,
+   "old_reading": "The unwillingness to descend is now to be understood as the refusal of those who fancy they already dwell in blessed isolation, which the founders must overrule by compelling return to shared labour and rule, while remaining as longing to dwell above.",
+   "new_reading": "The unwillingness to descend is now also to be understood as the mark of those most reluctant to govern and therefore best suited to govern quietly, while remaining as longing to dwell above.",
+   "rationale": "Reluctant Rulers Govern Best presents reluctance as the virtue of the best rulers, which adds to Philosopher unwilling to descend which presented unwillingness as longing to dwell above to be overruled.",
+   "cause_unit": "u07_5",
+   "kind": "interpretive",
+   "mode": "coexists",
+   "source": "integration",
+   "trigger_unit": null,
+   "evidence_units": [
+    "u07_5",
+    "u04_1"
+   ]
+  },
+  {
+   "unit_id": "u06_5",
+   "passage": 7,
+   "old_reading": null,
+   "new_reading": "Compelled Descent to Govern is now to be understood as just service for the happiness of the whole State that harnesses reluctant rulers for the best quietly governed rule.",
+   "rationale": "Philosopher unwilling to descend is reframed by Reluctant Rulers Govern Best from mere longing above into qualification for best rule, so Compelled Descent to Govern is no longer mere coercion to share labours but just harnessing of that reluctance, as Compelling Philosophers Is Just and Happiness Of Whole State show compulsion serves the whole without injustice.",
+   "cause_unit": "u07_5",
+   "kind": "interpretive",
+   "mode": "replaces",
+   "source": "propagation",
+   "trigger_unit": "u04_1",
+   "evidence_units": [
+    "u07_5",
+    "u07_1",
+    "u07_2"
+   ]
+  },
+  {
+   "unit_id": "u04_1",
+   "passage": 8,
+   "old_reading": "The unwillingness to descend is now to be understood as the refusal of those who fancy they already dwell in blessed isolation, which the founders must overrule by compelling return to shared labour and rule, while remaining as longing to dwell above.",
+   "new_reading": "The longing to dwell above remains, but it is now to be understood as compatible with willing acceptance of turns at ruling when the argument is heard, so unwillingness means reluctance rather than outright refusal.",
+   "rationale": "Pupils' Shared Heavenly Life says pupils when they hear this will not refuse to take their turn, which qualifies Philosopher unwilling to descend that said those who attain the vision are unwilling to descend.",
+   "cause_unit": "u08_1",
+   "kind": "interpretive",
+   "mode": "coexists",
+   "source": "integration",
+   "trigger_unit": null,
+   "evidence_units": [
+    "u08_1",
+    "u04_1"
+   ]
+  },
+  {
+   "unit_id": "u06_5",
+   "passage": 8,
+   "old_reading": "Compelled Descent to Govern is now to be understood as just service for the happiness of the whole State that harnesses reluctant rulers for the best quietly governed rule.",
+   "new_reading": "Compelled Descent to Govern is now also to be understood as willing turn-taking at the toils accepted as Ruling as Stern Necessity in view of Pupils' Shared Heavenly Life, not only external making to descend.",
+   "rationale": "Philosopher unwilling to descend is revised from outright refusal to reluctance compatible with willing acceptance when the argument is heard, because Pupils' Shared Heavenly Life shows pupils will not refuse turns when allowed heavenly light together, and Ruling as Stern Necessity shows they will take office as necessity, so Compelled Descent to Govern now signifies reasoned willing acceptance in addition to just service.",
+   "cause_unit": "u08_1",
+   "kind": "interpretive",
+   "mode": "coexists",
+   "source": "propagation",
+   "trigger_unit": "u04_1",
+   "evidence_units": [
+    "u04_1",
+    "u08_1",
+    "u08_2"
+   ]
+  }
+ ],
+ "changes": [
+  {
+   "passage": 0,
+   "gist": "Socrates depicts chained cave-prisoners who can perceive only shadows and echoes, establishing them as like ourselves in enlightenment.",
+   "processed": true,
+   "introduced": [
+    "u00_1",
+    "u00_2",
+    "u00_3",
+    "u00_4",
+    "u00_5"
+   ],
+   "reinforced": [],
+   "relations": [],
+   "cross_passage_relations": [],
+   "revisions": [],
+   "change_score": 2.5
+  },
+  {
+   "passage": 1,
+   "gist": "Socrates shows that release from illusion begins with painful glare, confusion, and resistance, as the prisoner clings to familiar shadows before being dazzled by greater realities up to the sun.",
+   "processed": true,
+   "introduced": [
+    "u01_1",
+    "u01_2",
+    "u01_3",
+    "u01_4",
+    "u01_5"
+   ],
+   "reinforced": [],
+   "relations": [
+    "r01_1",
+    "r01_2",
+    "r01_3",
+    "r01_4",
+    "r01_5",
+    "r01_6",
+    "r01_7",
+    "r01_8",
+    "r01_9"
+   ],
+   "cross_passage_relations": [
+    "r01_1",
+    "r01_2",
+    "r01_3",
+    "r01_4"
+   ],
+   "revisions": [],
+   "change_score": 12.75
+  },
+  {
+   "passage": 2,
+   "gist": "Socrates traces the freed prisoner's gradual ascent from shadows and reflections to the sun itself as cause of the visible world, leaving him to pity his former den and despise its shadow-honours.",
+   "processed": true,
+   "introduced": [
+    "u02_1",
+    "u02_2",
+    "u02_3",
+    "u02_4",
+    "u02_5"
+   ],
+   "reinforced": [],
+   "relations": [
+    "r02_1",
+    "r02_2",
+    "r02_3",
+    "r02_4",
+    "r02_5",
+    "r02_6",
+    "r02_7",
+    "r02_8"
+   ],
+   "cross_passage_relations": [
+    "r02_1",
+    "r02_3",
+    "r02_5",
+    "r02_7"
+   ],
+   "revisions": [],
+   "change_score": 12.75
+  },
+  {
+   "passage": 3,
+   "gist": "Socrates shows the returning philosopher blinded, ridiculed, and threatened with death, then explicitly decodes the cave as the visible world and crowns the ascent with the Idea of the Good.",
+   "processed": true,
+   "introduced": [
+    "u03_1",
+    "u03_2",
+    "u03_3",
+    "u03_4",
+    "u03_5"
+   ],
+   "reinforced": [],
+   "relations": [
+    "r03_1",
+    "r03_2",
+    "r03_3",
+    "r03_4",
+    "r03_5",
+    "r03_6",
+    "r03_7",
+    "r03_8"
+   ],
+   "cross_passage_relations": [
+    "r03_2",
+    "r03_3",
+    "r03_4",
+    "r03_5",
+    "r03_6",
+    "r03_7",
+    "r03_8"
+   ],
+   "revisions": [
+    {
+     "unit_id": "u00_1",
+     "passage": 3,
+     "old_reading": null,
+     "new_reading": "The chained underground condition is now to be understood as life in the visible world, taking shadows for reality, while remaining as the story image.",
+     "rationale": "The mapping passage explicitly decodes the prison as the world of sight.",
+     "cause_unit": "u03_4",
+     "kind": "interpretive",
+     "mode": "replaces",
+     "source": "integration",
+     "trigger_unit": null,
+     "evidence_units": [
+      "u03_4",
+      "u00_1"
+     ]
+    },
+    {
+     "unit_id": "u00_2",
+     "passage": 3,
+     "old_reading": null,
+     "new_reading": "The blazing fire behind the wall is now to be understood as standing for the sun in the visible world, while remaining as the story image.",
+     "rationale": "The mapping passage explicitly decodes the fire-light as the sun.",
+     "cause_unit": "u03_4",
+     "kind": "interpretive",
+     "mode": "replaces",
+     "source": "integration",
+     "trigger_unit": null,
+     "evidence_units": [
+      "u03_4",
+      "u00_2"
+     ]
+    },
+    {
+     "unit_id": "u01_5",
+     "passage": 3,
+     "old_reading": null,
+     "new_reading": "The painful dragged climb into sunlight is now to be understood as the soul's ascent to the intelligible, while remaining as the story image of upward movement.",
+     "rationale": "The mapping passage explicitly decodes the upward journey as ascent of soul to intellect.",
+     "cause_unit": "u03_4",
+     "kind": "interpretive",
+     "mode": "replaces",
+     "source": "integration",
+     "trigger_unit": null,
+     "evidence_units": [
+      "u03_4",
+      "u01_5"
+     ]
+    },
+    {
+     "unit_id": "u02_2",
+     "passage": 3,
+     "old_reading": null,
+     "new_reading": "Seeing the sun itself last is now to be understood as prefiguring seeing the Idea of the Good last in the intelligible, crowning the ascent.",
+     "rationale": "The Good passage places the Good last in knowledge just as the sun was last in vision.",
+     "cause_unit": "u03_5",
+     "kind": "interpretive",
+     "mode": "replaces",
+     "source": "integration",
+     "trigger_unit": null,
+     "evidence_units": [
+      "u03_5",
+      "u02_2"
+     ]
+    },
+    {
+     "unit_id": "u02_3",
+     "passage": 3,
+     "old_reading": null,
+     "new_reading": "The sun's giving of seasons and guarding of visibles is now to be understood as itself authored and illuminated by the Idea of the Good, not as ultimate.",
+     "rationale": "The Good passage infers the Good as universal author of beauty, right, light and truth, placing the sun's power under it.",
+     "cause_unit": "u03_5",
+     "kind": "interpretive",
+     "mode": "replaces",
+     "source": "integration",
+     "trigger_unit": null,
+     "evidence_units": [
+      "u03_5",
+      "u02_3"
+     ]
+    },
+    {
+     "unit_id": "u01_2",
+     "passage": 3,
+     "old_reading": null,
+     "new_reading": "Painful forced liberation is now to be understood as the soul's initial painful turn from the visible world toward the intelligible, while remaining as forced standing and turning toward light in the story.",
+     "rationale": "Chained Underground Prisoners is now life in the visible world, and Cave to intellect mapping declares the prison-house is the world of sight and the upward journey is the soul's ascent to intellect, while Dragged ascent to sun refines Painful forced liberation into that ascent now understood as soul's ascent, so the initial forcing is the start of intellectual conversion.",
+     "cause_unit": "u03_4",
+     "kind": "interpretive",
+     "mode": "replaces",
+     "source": "propagation",
+     "trigger_unit": "u00_1",
+     "evidence_units": [
+      "u00_1",
+      "u03_4",
+      "u01_5"
+     ]
+    },
+    {
+     "unit_id": "u02_1",
+     "passage": 3,
+     "old_reading": null,
+     "new_reading": "Stages of Upper Vision are now to be understood as gradual habituation of the soul to the intelligible culminating in vision of the Idea of the Good, while remaining as progressive seeing from shadows to sun in the story.",
+     "rationale": "Seeing Sun Itself now prefigures seeing the Idea of the Good last, Good as ultimate source declares the Good appears last with effort, and Cave to intellect mapping declares the upward journey is the soul's ascent to intellect, so the shadow-to-sun sequence is intellectual habituation.",
+     "cause_unit": "u03_5",
+     "kind": "interpretive",
+     "mode": "replaces",
+     "source": "propagation",
+     "trigger_unit": "u02_2",
+     "evidence_units": [
+      "u02_2",
+      "u03_5",
+      "u03_4"
+     ]
+    },
+    {
+     "unit_id": "u02_4",
+     "passage": 3,
+     "old_reading": null,
+     "new_reading": "Pity for Cave Fellows is now to be understood as the enlightened soul's compassion from vision of the sun and the Good for those still in the visible world, while remaining as fellow-feeling for den-mates in the story.",
+     "rationale": "Chained Underground Prisoners is now life in the visible world, Sun as World Guardian is now itself authored by the Idea of the Good, and Good as ultimate source makes the Good the universal author, so pity grounded in solar understanding is ultimately grounded in the Good.",
+     "cause_unit": "u03_5",
+     "kind": "interpretive",
+     "mode": "replaces",
+     "source": "propagation",
+     "trigger_unit": "u02_3",
+     "evidence_units": [
+      "u00_1",
+      "u02_3",
+      "u03_5"
+     ]
+    },
+    {
+     "unit_id": "u01_4",
+     "passage": 3,
+     "old_reading": null,
+     "new_reading": "Retreat from glaring light is now to be understood as the soul's resistance turning from intelligible light back to familiar visibles as clearer, while remaining as eye-pain and turning away in the story.",
+     "rationale": "Dragged ascent to sun is now the soul's ascent to the intelligible and Cave to intellect mapping declares the upward journey is the soul's ascent to intellect, and Retreat from glaring light causes that forcing, so the turning to visibles is the soul clinging to the visible against the intelligible.",
+     "cause_unit": "u03_4",
+     "kind": "interpretive",
+     "mode": "replaces",
+     "source": "propagation",
+     "trigger_unit": "u01_5",
+     "evidence_units": [
+      "u01_5",
+      "u03_4"
+     ]
+    }
+   ],
+   "change_score": 47.25
+  },
+  {
+   "passage": 4,
+   "gist": "Socrates excuses the enlightened philosopher's unwillingness to return and ridiculous blindness in human affairs, then teaches that dazzlement comes from either entering light or darkness and should be diagnosed rather than mocked.",
+   "processed": true,
+   "introduced": [
+    "u04_1",
+    "u04_2",
+    "u04_3",
+    "u04_4",
+    "u04_5"
+   ],
+   "reinforced": [],
+   "relations": [
+    "r04_1",
+    "r04_10",
+    "r04_2",
+    "r04_3",
+    "r04_4",
+    "r04_5",
+    "r04_6",
+    "r04_7",
+    "r04_8",
+    "r04_9"
+   ],
+   "cross_passage_relations": [
+    "r04_1",
+    "r04_2",
+    "r04_3",
+    "r04_4",
+    "r04_5",
+    "r04_6",
+    "r04_7",
+    "r04_9"
+   ],
+   "revisions": [
+    {
+     "unit_id": "u01_4",
+     "passage": 4,
+     "old_reading": "Retreat from glaring light is now to be understood as the soul's resistance turning from intelligible light back to familiar visibles as clearer, while remaining as eye-pain and turning away in the story.",
+     "new_reading": "Retreat from glaring light is now to be understood as ascending dazzle from going into light, one of two opposite bewilderments, while remaining as eye-pain and turning away in the story.",
+     "rationale": "The two kinds text provides a two-directional account of dazzle, while the retreat text described painful turning toward familiar visibles; the former reclassifies the latter as ascent confusion to be pitied.",
+     "cause_unit": "u04_3",
+     "kind": "interpretive",
+     "mode": "coexists",
+     "source": "integration",
+     "trigger_unit": null,
+     "evidence_units": [
+      "u04_3",
+      "u01_4"
+     ]
+    },
+    {
+     "unit_id": "u03_2",
+     "passage": 4,
+     "old_reading": null,
+     "new_reading": "The ridiculed competitor episode is now to be understood as ignorant laughter that should be suspended in favor of diagnosing direction of dazzle, while remaining as prisoners' mockery in the story.",
+     "rationale": "The suspend mockery text forbids ready laughter and requires inquiry, while the ridiculed competitor text had presented ridiculous appearance as proof ascent is worthless; the former corrects the significance of the latter.",
+     "cause_unit": "u04_4",
+     "kind": "interpretive",
+     "mode": "replaces",
+     "source": "integration",
+     "trigger_unit": null,
+     "evidence_units": [
+      "u04_4",
+      "u03_2"
+     ]
+    },
+    {
+     "unit_id": "u03_1",
+     "passage": 4,
+     "old_reading": null,
+     "new_reading": "Returnee blinded by darkness is now to be understood as descending dazzle from brightness to be counted happy, distinct from ascending dazzle to be pitied, while remaining as sudden blindness in the story.",
+     "rationale": "The happy descent text distinguishes happy descending confusion from pitiable ascending confusion, while the returnee blinded text had described replacement blindness without that valuation; the former assigns the latter its proper worth.",
+     "cause_unit": "u04_5",
+     "kind": "interpretive",
+     "mode": "replaces",
+     "source": "integration",
+     "trigger_unit": null,
+     "evidence_units": [
+      "u04_5",
+      "u03_1"
+     ]
+    }
+   ],
+   "change_score": 30.0
+  },
+  {
+   "passage": 5,
+   "gist": "Socrates rejects teachers who claim to insert knowledge into the soul, arguing that education is instead the art of turning the soul's innate power from becoming toward being and the Good.",
+   "processed": true,
+   "introduced": [
+    "u05_1",
+    "u05_2",
+    "u05_3",
+    "u05_4",
+    "u05_5"
+   ],
+   "reinforced": [],
+   "relations": [
+    "r05_1",
+    "r05_2",
+    "r05_3",
+    "r05_4",
+    "r05_5",
+    "r05_6",
+    "r05_7",
+    "r05_8"
+   ],
+   "cross_passage_relations": [
+    "r05_3",
+    "r05_4",
+    "r05_5"
+   ],
+   "revisions": [
+    {
+     "unit_id": "u00_1",
+     "passage": 5,
+     "old_reading": "The chained underground condition is now to be understood as life in the visible world, taking shadows for reality, while remaining as the story image.",
+     "new_reading": "The chained underground condition is now also to be understood as misdirection of a learning power that is already present, not absence of sight, while remaining as the story image of chained prisoners.",
+     "rationale": "The innate power of learning says capacity exists already, which shows the chained underground prisoners are about wrong direction rather than blindness.",
+     "cause_unit": "u05_2",
+     "kind": "interpretive",
+     "mode": "coexists",
+     "source": "integration",
+     "trigger_unit": null,
+     "evidence_units": [
+      "u05_2",
+      "u00_1"
+     ]
+    },
+    {
+     "unit_id": "u01_2",
+     "passage": 5,
+     "old_reading": "Painful forced liberation is now to be understood as the soul's initial painful turn from the visible world toward the intelligible, while remaining as forced standing and turning toward light in the story.",
+     "new_reading": "Painful forced liberation is now also to be understood as turning of the innate instrument of knowledge from becoming to being, not giving sight afresh, while remaining as forced standing and turning toward light in the story.",
+     "rationale": "Whole-soul turning toward being says the instrument can only be turned by movement of the whole soul, showing the painful forced liberation is such a conversion.",
+     "cause_unit": "u05_3",
+     "kind": "interpretive",
+     "mode": "coexists",
+     "source": "integration",
+     "trigger_unit": null,
+     "evidence_units": [
+      "u05_3",
+      "u01_2"
+     ]
+    },
+    {
+     "unit_id": "u03_4",
+     "passage": 5,
+     "old_reading": null,
+     "new_reading": "The cave to intellect mapping is now also to be understood so that the upward journey is the art of reorienting existing sight from wrong direction toward truth, while remaining as ascent in the story.",
+     "rationale": "The art of easy conversion says education does not implant sight but turns what exists, showing what the mapped ascent consists in.",
+     "cause_unit": "u05_4",
+     "kind": "interpretive",
+     "mode": "replaces",
+     "source": "integration",
+     "trigger_unit": null,
+     "evidence_units": [
+      "u05_4",
+      "u03_4"
+     ]
+    }
+   ],
+   "change_score": 20.5
+  },
+  {
+   "passage": 6,
+   "gist": "Socrates argues that keen natures freed from sensual drag could see truth sharply, so the founders must compel those who reach the Good to descend again and govern.",
+   "processed": true,
+   "introduced": [
+    "u06_1",
+    "u06_2",
+    "u06_3",
+    "u06_4",
+    "u06_5"
+   ],
+   "reinforced": [],
+   "relations": [
+    "r06_1",
+    "r06_2",
+    "r06_3",
+    "r06_4",
+    "r06_5",
+    "r06_6",
+    "r06_7",
+    "r06_8",
+    "r06_9"
+   ],
+   "cross_passage_relations": [
+    "r06_1",
+    "r06_2",
+    "r06_3",
+    "r06_4",
+    "r06_5",
+    "r06_6",
+    "r06_8",
+    "r06_9"
+   ],
+   "revisions": [
+    {
+     "unit_id": "u04_1",
+     "passage": 6,
+     "old_reading": null,
+     "new_reading": "The unwillingness to descend is now to be understood as the refusal of those who fancy they already dwell in blessed isolation, which the founders must overrule by compelling return to shared labour and rule, while remaining as longing to dwell above.",
+     "rationale": "The islands image explains unwillingness as fancy of blessed isolation and the compelled descent claim adds a duty to force return, which together change what the unwillingness signifies from a simple fact into a political problem requiring compulsion.",
+     "cause_unit": "u06_5",
+     "kind": "interpretive",
+     "mode": "replaces",
+     "source": "integration",
+     "trigger_unit": null,
+     "evidence_units": [
+      "u06_5",
+      "u04_1"
+     ]
+    }
+   ],
+   "change_score": 18.5
+  },
+  {
+   "passage": 7,
+   "gist": "Socrates answers Glaucon's charge of injustice by arguing that educated philosophers owe ruling service to the whole State, whose reluctant rulers will govern best.",
+   "processed": true,
+   "introduced": [
+    "u07_1",
+    "u07_2",
+    "u07_3",
+    "u07_4",
+    "u07_5"
+   ],
+   "reinforced": [],
+   "relations": [
+    "r07_1",
+    "r07_2",
+    "r07_3",
+    "r07_4",
+    "r07_5",
+    "r07_6",
+    "r07_7",
+    "r07_8"
+   ],
+   "cross_passage_relations": [
+    "r07_1",
+    "r07_3",
+    "r07_5",
+    "r07_6",
+    "r07_7"
+   ],
+   "revisions": [
+    {
+     "unit_id": "u04_1",
+     "passage": 7,
+     "old_reading": "The unwillingness to descend is now to be understood as the refusal of those who fancy they already dwell in blessed isolation, which the founders must overrule by compelling return to shared labour and rule, while remaining as longing to dwell above.",
+     "new_reading": "The unwillingness to descend is now also to be understood as the mark of those most reluctant to govern and therefore best suited to govern quietly, while remaining as longing to dwell above.",
+     "rationale": "Reluctant Rulers Govern Best presents reluctance as the virtue of the best rulers, which adds to Philosopher unwilling to descend which presented unwillingness as longing to dwell above to be overruled.",
+     "cause_unit": "u07_5",
+     "kind": "interpretive",
+     "mode": "coexists",
+     "source": "integration",
+     "trigger_unit": null,
+     "evidence_units": [
+      "u07_5",
+      "u04_1"
+     ]
+    },
+    {
+     "unit_id": "u06_5",
+     "passage": 7,
+     "old_reading": null,
+     "new_reading": "Compelled Descent to Govern is now to be understood as just service for the happiness of the whole State that harnesses reluctant rulers for the best quietly governed rule.",
+     "rationale": "Philosopher unwilling to descend is reframed by Reluctant Rulers Govern Best from mere longing above into qualification for best rule, so Compelled Descent to Govern is no longer mere coercion to share labours but just harnessing of that reluctance, as Compelling Philosophers Is Just and Happiness Of Whole State show compulsion serves the whole without injustice.",
+     "cause_unit": "u07_5",
+     "kind": "interpretive",
+     "mode": "replaces",
+     "source": "propagation",
+     "trigger_unit": "u04_1",
+     "evidence_units": [
+      "u07_5",
+      "u07_1",
+      "u07_2"
+     ]
+    }
+   ],
+   "change_score": 20.0
+  },
+  {
+   "passage": 8,
+   "gist": "Socrates concludes that just philosophic pupils will accept ruling as a stern necessity, and only rulers given a better life of philosophy and rich in virtue can keep the State well-ordered.",
+   "processed": true,
+   "introduced": [
+    "u08_1",
+    "u08_2",
+    "u08_3",
+    "u08_4",
+    "u08_5",
+    "u08_6"
+   ],
+   "reinforced": [],
+   "relations": [
+    "r08_1",
+    "r08_2",
+    "r08_3",
+    "r08_4",
+    "r08_5",
+    "r08_6",
+    "r08_7",
+    "r08_8",
+    "r08_9"
+   ],
+   "cross_passage_relations": [
+    "r08_1",
+    "r08_2",
+    "r08_3",
+    "r08_6",
+    "r08_7",
+    "r08_9"
+   ],
+   "revisions": [
+    {
+     "unit_id": "u04_1",
+     "passage": 8,
+     "old_reading": "The unwillingness to descend is now to be understood as the refusal of those who fancy they already dwell in blessed isolation, which the founders must overrule by compelling return to shared labour and rule, while remaining as longing to dwell above.",
+     "new_reading": "The longing to dwell above remains, but it is now to be understood as compatible with willing acceptance of turns at ruling when the argument is heard, so unwillingness means reluctance rather than outright refusal.",
+     "rationale": "Pupils' Shared Heavenly Life says pupils when they hear this will not refuse to take their turn, which qualifies Philosopher unwilling to descend that said those who attain the vision are unwilling to descend.",
+     "cause_unit": "u08_1",
+     "kind": "interpretive",
+     "mode": "coexists",
+     "source": "integration",
+     "trigger_unit": null,
+     "evidence_units": [
+      "u08_1",
+      "u04_1"
+     ]
+    },
+    {
+     "unit_id": "u06_5",
+     "passage": 8,
+     "old_reading": "Compelled Descent to Govern is now to be understood as just service for the happiness of the whole State that harnesses reluctant rulers for the best quietly governed rule.",
+     "new_reading": "Compelled Descent to Govern is now also to be understood as willing turn-taking at the toils accepted as Ruling as Stern Necessity in view of Pupils' Shared Heavenly Life, not only external making to descend.",
+     "rationale": "Philosopher unwilling to descend is revised from outright refusal to reluctance compatible with willing acceptance when the argument is heard, because Pupils' Shared Heavenly Life shows pupils will not refuse turns when allowed heavenly light together, and Ruling as Stern Necessity shows they will take office as necessity, so Compelled Descent to Govern now signifies reasoned willing acceptance in addition to just service.",
+     "cause_unit": "u08_1",
+     "kind": "interpretive",
+     "mode": "coexists",
+     "source": "propagation",
+     "trigger_unit": "u04_1",
+     "evidence_units": [
+      "u04_1",
+      "u08_1",
+      "u08_2"
+     ]
+    }
+   ],
+   "change_score": 19.0
+  }
+ ],
+ "constructions": [
+  {
+   "id": "c02_1",
+   "statement": "Liberation is not instant unchaining but painful, staged retraining of vision culminating in grasp of the cause of the visible, which alone makes the former prison appear pitiable and its honours worthless.",
+   "passage": 2,
+   "contributors": [
+    {
+     "unit_id": "u01_2",
+     "role": "provides initial freeing as pain and dazzlement rather than immediate clarity"
+    },
+    {
+     "unit_id": "u01_3",
+     "role": "shows persisting epistemic loyalty to old illusions that blocks immediate seeing"
+    },
+    {
+     "unit_id": "u02_1",
+     "role": "provides gradual habituation through shadows to reflections to things that makes higher vision tolerable"
+    },
+    {
+     "unit_id": "u02_3",
+     "role": "provides culminating causal insight that the sun governs visible things"
+    },
+    {
+     "unit_id": "u02_4",
+     "role": "registers retrospective revaluation of former dwelling as pitiable"
+    },
+    {
+     "unit_id": "u02_5",
+     "role": "registers active rejection of the cave value-system of shadow-prediction"
+    }
+   ],
+   "relationship": "temporal progression from coercion and resistance through gradual habituation to causal insight and retrospective revaluation",
+   "basis": "inferred",
+   "relation_to_existing": "new",
+   "related_to": null,
+   "justification": "Painful forced liberation together with Shadows seem truer shows release alone does not free vision because pain sustains attachment to shadows; Stages of Upper Vision supplies the mediating process that overcomes that resistance stepwise; Sun as World Guardian supplies the final causal understanding from which the past can be judged; Pity for Cave Fellows and Contempt for Shadow Honours together show that judgment is not neutral recall but moral reversal from honoring to despising, which none of the units alone states.",
+   "limitations": "The units do not show any return to the cave or action following pity and contempt, only attitude; they do not show how long habituation takes.",
+   "model_confidence": 0.85,
+   "evidence": [
+    {
+     "unit_id": "u01_2",
+     "passage": 1,
+     "quote": "when any of them is liberated and compelled suddenly to stand up and turn his neck round and walk and look towards the light, he will suffer sharp pains"
+    },
+    {
+     "unit_id": "u01_3",
+     "passage": 1,
+     "quote": "Will he not fancy that the shadows which he formerly saw are truer than the objects which are now shown to him?"
+    },
+    {
+     "unit_id": "u02_1",
+     "passage": 2,
+     "quote": "first he will see the shadows best, next the reflections of men and other objects in the water"
+    },
+    {
+     "unit_id": "u02_3",
+     "passage": 2,
+     "quote": "this is he who gives the season and the years, and is the guardian of all that is in the visible world"
+    },
+    {
+     "unit_id": "u02_4",
+     "passage": 2,
+     "quote": "he would felicitate himself on the change, and pity them?"
+    },
+    {
+     "unit_id": "u02_5",
+     "passage": 2,
+     "quote": "and to endure anything, rather than think as they do and live after their manner?"
+    }
+   ],
+   "triggers": [
+    "T1 long-range link"
+   ]
+  },
+  {
+   "id": "c03_1",
+   "statement": "The philosopher's return inverts the ascent's value: competence in truth appears within the cave as blindness, ridicule, and a capital threat, so enlightenment is socially self-defeating on cave terms.",
+   "passage": 3,
+   "contributors": [
+    {
+     "unit_id": "u02_5",
+     "role": "provides the philosopher's prior devaluation of shadow-prediction honours as worthless"
+    },
+    {
+     "unit_id": "u03_1",
+     "role": "provides the physiological reversal where sun-adapted eyes fail in darkness"
+    },
+    {
+     "unit_id": "u03_2",
+     "role": "provides the prisoners' social verdict that ascent destroyed sight"
+    },
+    {
+     "unit_id": "u03_3",
+     "role": "escalates dismissal into lethal defence of the cave against liberation"
+    }
+   ],
+   "relationship": "cause and consequence leading to ironic inversion",
+   "basis": "inferred",
+   "relation_to_existing": "extends",
+   "related_to": "c02_1",
+   "justification": "Contempt for Shadow Honours establishes that the freed man no longer values cave competition, while Returnee blinded by darkness gives a bodily reason he will perform badly at it; Ridiculed shadow competitor turns that poor performance into a social proof that going up ruins eyes, and Death threat to liberator shows the proof hardens into a norm that freeing is a capital harm. Together they yield an ironic inversion none states alone: success above counts as failure below.",
+   "limitations": "The units do not show whether the philosopher chooses to return, whether ridicule deters others, or whether blindness is temporary.",
+   "model_confidence": 0.85,
+   "evidence": [
+    {
+     "unit_id": "u02_5",
+     "passage": 2,
+     "quote": "and to endure anything, rather than think as they do and live after their manner?"
+    },
+    {
+     "unit_id": "u03_1",
+     "passage": 3,
+     "quote": "such an one coming suddenly out of the sun to be replaced in his old situation"
+    },
+    {
+     "unit_id": "u03_2",
+     "passage": 3,
+     "quote": "would he not be ridiculous? Men would say of him that up he went and down he came without his eyes"
+    },
+    {
+     "unit_id": "u03_3",
+     "passage": 3,
+     "quote": "and if any one tried to loose another and lead him up to the light, let them only catch the offender, and they would put him to death"
+    }
+   ],
+   "triggers": [
+    "T1 long-range link",
+    "T2 reframing",
+    "T3 reinterpretation",
+    "T4 bridging"
+   ]
+  },
+  {
+   "id": "c03_2",
+   "statement": "The cave's light-hierarchy is demoted one level: the sun that seemed to guard and cause all visibles is itself an effect of the Idea of the Good, making the visible world doubly derivative.",
+   "passage": 3,
+   "contributors": [
+    {
+     "unit_id": "u02_3",
+     "role": "establishes the sun's apparent ultimacy as giver of seasons and guardian of visibles"
+    },
+    {
+     "unit_id": "u03_4",
+     "role": "fixes prison, fire and ascent as images for visible world, sun and soul's ascent to intellect, placing the sun inside the lower order"
+    },
+    {
+     "unit_id": "u03_5",
+     "role": "posits the Idea of the Good seen last as universal author of beauty, right, light and truth"
+    }
+   ],
+   "relationship": "part and whole",
+   "basis": "explicit",
+   "relation_to_existing": "new",
+   "related_to": null,
+   "justification": "Sun as World Guardian makes the sun look like the ultimate cause, while Cave to intellect mapping relocates that sun inside the world of sight as mere image for fire-light; Good as ultimate source then asserts a higher universal author seen only with effort. Jointly they demote the former peak to intermediary, making the visible doubly derivative, which no single unit states.",
+   "limitations": "The units do not specify how the Good authors the sun or visibles, nor the mode of inference from Good to sun.",
+   "model_confidence": 0.82,
+   "evidence": [
+    {
+     "unit_id": "u02_3",
+     "passage": 2,
+     "quote": "this is he who gives the season and the years, and is the guardian of all that is in the visible world"
+    },
+    {
+     "unit_id": "u03_4",
+     "passage": 3,
+     "quote": "the prison-house is the world of sight, the light of the fire is the sun"
+    },
+    {
+     "unit_id": "u03_5",
+     "passage": 3,
+     "quote": "in the world of knowledge the idea of good appears last of all, and is seen only with an effort; and, when seen, is also inferred to be the universal author of all things beautiful and right"
+    }
+   ],
+   "triggers": [
+    "T1 long-range link",
+    "T2 reframing",
+    "T3 reinterpretation",
+    "T4 bridging"
+   ]
+  },
+  {
+   "id": "c04_1",
+   "statement": "Confusion about truth in both directions, turning away from glare when going into light and stumbling in darkness when coming out of light, is the same excusable dazzle and must be diagnosed by direction rather than mocked.",
+   "passage": 4,
+   "contributors": [
+    {
+     "unit_id": "u01_4",
+     "role": "provides the ascending case where glare drives turning back to familiar visibles"
+    },
+    {
+     "unit_id": "u04_2",
+     "role": "provides the descending case where return to darkness produces failure that looks ridiculous"
+    },
+    {
+     "unit_id": "u04_3",
+     "role": "supplies the general principle that bewilderment has two opposite causes for eye and mind"
+    },
+    {
+     "unit_id": "u04_4",
+     "role": "supplies the normative consequence to suspend laughter and diagnose direction first"
+    }
+   ],
+   "relationship": "parallel instances unified under a common principle to support a normative consequence",
+   "basis": "explicit",
+   "relation_to_existing": "extends",
+   "related_to": "c03_1",
+   "justification": "Retreat from glaring light and Returner's courtroom blindness are opposite failures that alone invite mockery of cowardice or worthlessness, but Two kinds of blindness names them as parallel effects of the same dazzle from moving between light and darkness, and Suspend mockery and diagnose turns that shared physiology into an explicit rule not to laugh but to ask which direction the soul is traveling.",
+   "limitations": "The units do not show how an observer reliably tells direction, nor that diagnosis cures blindness.",
+   "model_confidence": 0.88,
+   "evidence": [
+    {
+     "unit_id": "u01_4",
+     "passage": 1,
+     "quote": "will he not have a pain in his eyes which will make him turn away to take refuge in the objects of vision which he can see"
+    },
+    {
+     "unit_id": "u04_2",
+     "passage": 4,
+     "quote": "he is compelled to fight in courts of law, or in other places, about the images or the shadows of images of justice"
+    },
+    {
+     "unit_id": "u04_3",
+     "passage": 4,
+     "quote": "the bewilderments of the eyes are of two kinds, and arise from two causes, either from coming out of the light or from going into the light"
+    },
+    {
+     "unit_id": "u04_4",
+     "passage": 4,
+     "quote": "will not be too ready to laugh; he will first ask whether that soul of man has come out of the brighter life"
+    }
+   ],
+   "triggers": [
+    "T1 long-range link",
+    "T2 reframing",
+    "T3 reinterpretation",
+    "T4 bridging"
+   ]
+  },
+  {
+   "id": "c04_2",
+   "statement": "The philosopher's unwillingness to return is not arrogance but the happiness of dwelling in light, to be distinguished from the pity owed to the soul still blinded while ascending.",
+   "passage": 4,
+   "contributors": [
+    {
+     "unit_id": "u04_1",
+     "role": "states unwillingness to descend as longing to dwell above after beatific vision"
+    },
+    {
+     "unit_id": "u02_4",
+     "role": "provides the earlier fellow-feeling that congratulates self-change while pitying those left behind"
+    },
+    {
+     "unit_id": "u04_5",
+     "role": "refines pity into an asymmetrical verdict counting descending dazzle happy and ascending dazzle pitiable"
+    }
+   ],
+   "relationship": "contrast between two ethical stances distinguished by direction of dazzle",
+   "basis": "explicit",
+   "relation_to_existing": "extends",
+   "related_to": "c02_1",
+   "justification": "Philosopher unwilling to descend alone could read as arrogance, and Pity for Cave Fellows alone could read as blanket contempt, but Happy descent versus pity divides the moral response by direction of travel, so reluctance to re-enter darkness is excused as the happiness of light while pity is reserved for the still-ascending soul.",
+   "limitations": "The units do not show whether unwillingness ever justifies refusal to descend, only that it is understandable.",
+   "model_confidence": 0.82,
+   "evidence": [
+    {
+     "unit_id": "u04_1",
+     "passage": 4,
+     "quote": "those who attain to this beatific vision are unwilling to descend to human affairs"
+    },
+    {
+     "unit_id": "u02_4",
+     "passage": 2,
+     "quote": "he would felicitate himself on the change, and pity them?"
+    },
+    {
+     "unit_id": "u04_5",
+     "passage": 4,
+     "quote": "And he will count the one happy in his condition and state of being, and he will pity the other"
+    }
+   ],
+   "triggers": [
+    "T1 long-range link",
+    "T2 reframing",
+    "T3 reinterpretation",
+    "T4 bridging"
+   ]
+  },
+  {
+   "id": "c05_1",
+   "statement": "The painful compulsion in the cave is the turning of an already-seeing power from becoming toward being, so education is not putting sight into blind eyes but the art of redirecting existing sight toward the Good.",
+   "passage": 5,
+   "contributors": [
+    {
+     "unit_id": "u00_1",
+     "role": "provides the initial fixed gaze at shadows as misdirection rather than blindness"
+    },
+    {
+     "unit_id": "u01_2",
+     "role": "provides the painful compulsory turning that is to be explained"
+    },
+    {
+     "unit_id": "u05_2",
+     "role": "establishes that the capacity for learning already exists in the soul"
+    },
+    {
+     "unit_id": "u05_4",
+     "role": "defines true education as reorienting existing sight rather than implanting it"
+    },
+    {
+     "unit_id": "u05_3",
+     "role": "specifies the required movement as whole-soul turn from becoming to being for vision of the Good"
+    }
+   ],
+   "relationship": "reframing where later concepts reinterpret earlier story compulsion as redirection rather than implantation",
+   "basis": "inferred",
+   "relation_to_existing": "new",
+   "related_to": null,
+   "justification": "Chained Underground Prisoners shows a fixed gaze that need not mean absence of sight; Painful forced liberation shows turning that hurts and requires compulsion; Innate power of learning denies that sight is absent; Art of easy conversion renames that compulsion as reorientation of existing sight; Whole-soul turning toward being gives it direction from becoming to being and the Good. Together they jointly support that force is redirection, not implantation.",
+   "limitations": "The units do not show how the turning is effected or whether ease of conversion removes pain and reluctance.",
+   "model_confidence": 0.85,
+   "evidence": [
+    {
+     "unit_id": "u00_1",
+     "passage": 0,
+     "quote": "here they have been from their childhood, and have their legs and necks chained"
+    },
+    {
+     "unit_id": "u01_2",
+     "passage": 1,
+     "quote": "when any of them is liberated and compelled suddenly to stand up and turn his neck round and walk and look towards the light, he will suffer sharp pains"
+    },
+    {
+     "unit_id": "u05_2",
+     "passage": 5,
+     "quote": "our argument shows that the power and capacity of learning exists in the soul already"
+    },
+    {
+     "unit_id": "u05_4",
+     "passage": 5,
+     "quote": "not implanting the faculty of sight, for that exists already, but has been turned in the wrong direction"
+    },
+    {
+     "unit_id": "u05_3",
+     "passage": 5,
+     "quote": "the instrument of knowledge can only by the movement of the whole soul be turned from the world of becoming into that of being"
+    }
+   ],
+   "triggers": [
+    "T1 long-range link",
+    "T2 reframing",
+    "T3 reinterpretation"
+   ]
+  },
+  {
+   "id": "c06_1",
+   "statement": "Fitness to rule requires both possession of truth and compelled re-entry into the cave, making ignorant fixation on shadows below and contemplative withdrawal above symmetric disqualifications cured only by forced descent.",
+   "passage": 6,
+   "contributors": [
+    {
+     "unit_id": "u00_5",
+     "role": "provides the lower pole of unfitness: ignorance that mistakes shadows for reality"
+    },
+    {
+     "unit_id": "u04_1",
+     "role": "provides the upper pole of unfitness: attainment of vision that refuses descent to human affairs"
+    },
+    {
+     "unit_id": "u06_3",
+     "role": "states the joint political judgment that neither pole can supply able ministers"
+    },
+    {
+     "unit_id": "u06_5",
+     "role": "provides the imposed remedy that joins truth to rule by forcing return to shared labour"
+    }
+   ],
+   "relationship": "contrast of parallel extremes resolved by compulsion",
+   "basis": "explicit",
+   "relation_to_existing": "new",
+   "related_to": null,
+   "justification": "Mistaking shadows and unwillingness to descend describe opposite fixations, below on illusion and above on blessed vision; Neither Extreme Can Rule judges both together as unfit to rule, while Compelled Descent supplies the only stated cure, so together they make ignorance and contemplative withdrawal symmetric political failures requiring forced mediation.",
+   "limitations": "The units do not show that the compelled will rule well or willingly, only that they must be made to descend and share labours.",
+   "model_confidence": 0.85,
+   "evidence": [
+    {
+     "unit_id": "u00_5",
+     "passage": 0,
+     "quote": "would they not suppose that they were naming what was actually before them"
+    },
+    {
+     "unit_id": "u04_1",
+     "passage": 4,
+     "quote": "those who attain to this beatific vision are unwilling to descend to human affairs"
+    },
+    {
+     "unit_id": "u06_3",
+     "passage": 6,
+     "quote": "neither the uneducated and uninformed of the truth, nor yet those who never make an end of their education, will be able ministers of State"
+    },
+    {
+     "unit_id": "u06_5",
+     "passage": 6,
+     "quote": "they must be made to descend again among the prisoners in the den, and partake of their labours and honours"
+    }
+   ],
+   "triggers": [
+    "T1 long-range link",
+    "T3 reinterpretation",
+    "T4 bridging"
+   ]
+  },
+  {
+   "id": "c06_2",
+   "statement": "The same native keenness that makes unconverted cleverness mischievous in proportion to its sharpness would see truth with equal sharpness once cut free from sensual drag, so philosophical capacity is direction-dependent rather than self-guiding.",
+   "passage": 6,
+   "contributors": [
+    {
+     "unit_id": "u05_5",
+     "role": "shows that unconverted keenness serves evil in proportion to cleverness"
+    },
+    {
+     "unit_id": "u06_1",
+     "role": "identifies sensual pleasures as the downward drag that fixes that direction"
+    },
+    {
+     "unit_id": "u06_2",
+     "role": "shows that the same faculty freed from that drag would see truth with equal keenness"
+    }
+   ],
+   "relationship": "contrast of opposite outcomes of the same faculty under opposite orientations",
+   "basis": "inferred",
+   "relation_to_existing": "extends",
+   "related_to": "c05_1",
+   "justification": "The rogue image establishes proportionality on the bad side, the freed-faculty claim establishes equal proportionality on the good side for the very same faculty, and the leaden weights explain the switch as severance from sensual drag, jointly implying keenness itself is direction-dependent rather than self-directing.",
+   "limitations": "The units do not show how severance is effected in youth beyond turning upward, nor that keenness guarantees conversion.",
+   "model_confidence": 0.8,
+   "evidence": [
+    {
+     "unit_id": "u05_5",
+     "passage": 5,
+     "quote": "his keen eye-sight is forced into the service of evil, and he is mischievous in proportion to his cleverness"
+    },
+    {
+     "unit_id": "u06_1",
+     "passage": 6,
+     "quote": "such as eating and drinking, which, like leaden weights, were attached to them at their birth"
+    },
+    {
+     "unit_id": "u06_2",
+     "passage": 6,
+     "quote": "the very same faculty in them would have seen the truth as keenly as they see what their eyes are turned to now"
+    }
+   ],
+   "triggers": [
+    "T1 long-range link",
+    "T3 reinterpretation",
+    "T4 bridging"
+   ]
+  },
+  {
+   "id": "c07_1",
+   "statement": "Unwillingness to descend, once mere longing to remain above, becomes the credential of the best rulers whose compelled service for the happiness of the whole State is just.",
+   "passage": 7,
+   "contributors": [
+    {
+     "unit_id": "u04_1",
+     "role": "supplies the reluctant longing to dwell above that resists descent"
+    },
+    {
+     "unit_id": "u07_5",
+     "role": "revalues that reluctance as the mark of the best and most quietly governed rule"
+    },
+    {
+     "unit_id": "u07_2",
+     "role": "supplies the happiness of the whole State as the end that overrides class interest"
+    },
+    {
+     "unit_id": "u07_1",
+     "role": "delivers the verdict that compelling such philosophers to care for others is not unjust"
+    }
+   ],
+   "relationship": "contrast",
+   "basis": "explicit",
+   "relation_to_existing": "extends",
+   "related_to": "c06_1",
+   "justification": "Philosopher unwilling to descend provides unwillingness as longing above, Reluctant Rulers Govern Best turns that same unwillingness from defect into credential of best rule, while Happiness Of Whole State provides the common end and Compelling Philosophers Is Just states the justice conclusion; together they make reluctance both a qualification for rule and a just reason to override it, which no unit alone states.",
+   "limitations": "The units do not show how reluctant rulers exercise power day to day or whether the prisoners accept them.",
+   "model_confidence": 0.86,
+   "evidence": [
+    {
+     "unit_id": "u04_1",
+     "passage": 4,
+     "quote": "those who attain to this beatific vision are unwilling to descend to human affairs"
+    },
+    {
+     "unit_id": "u07_5",
+     "passage": 7,
+     "quote": "the State in which the rulers are most reluctant to govern is always the best"
+    },
+    {
+     "unit_id": "u07_2",
+     "passage": 7,
+     "quote": "who did not aim at making any one class in the State happy above the rest"
+    },
+    {
+     "unit_id": "u07_1",
+     "passage": 7,
+     "quote": "there will be no injustice in compelling our philosophers to have a care and providence of others"
+    }
+   ],
+   "triggers": [
+    "T1 long-range link",
+    "T2 reframing",
+    "T3 reinterpretation",
+    "T4 bridging"
+   ]
+  },
+  {
+   "id": "c07_2",
+   "statement": "The darkness-blindness that made the returner ridiculous becomes learnable night-vision that fits hive-bred philosophers to govern the underground abode.",
+   "passage": 7,
+   "contributors": [
+    {
+     "unit_id": "u03_1",
+     "role": "provides sudden blindness on being replaced in the old situation"
+    },
+    {
+     "unit_id": "u07_4",
+     "role": "orders repeated descent to learn to see in the dark below"
+    },
+    {
+     "unit_id": "u07_3",
+     "role": "identifies these returners as bred and educated to be rulers of the hive"
+    }
+   ],
+   "relationship": "cause and consequence",
+   "basis": "inferred",
+   "relation_to_existing": "extends",
+   "related_to": "c03_1",
+   "justification": "Returnee blinded by darkness gives initial dazzle and failure, Descent To Underground Abode reframes that darkness as something to be learned to see in through ordered return, and Philosophers As Hive Rulers gives the learning its telos as bred rulership; together initial incompetence becomes trainable superior fitness to govern below, which none states alone.",
+   "limitations": "The units do not show how long learning to see in the dark takes or that ridicule ceases.",
+   "model_confidence": 0.8,
+   "evidence": [
+    {
+     "unit_id": "u03_1",
+     "passage": 3,
+     "quote": "such an one coming suddenly out of the sun to be replaced in his old situation"
+    },
+    {
+     "unit_id": "u07_4",
+     "passage": 7,
+     "quote": "each of you, when his turn comes, must go down to the general underground abode"
+    },
+    {
+     "unit_id": "u07_3",
+     "passage": 7,
+     "quote": "we have brought you into the world to be rulers of the hive"
+    }
+   ],
+   "triggers": [
+    "T1 long-range link",
+    "T2 reframing",
+    "T3 reinterpretation",
+    "T4 bridging"
+   ]
+  },
+  {
+   "id": "c08_1",
+   "statement": "Compelled descent ceases to be mere external coercion because assurance of predominant shared heavenly life turns lingering reluctance to dwell above into willing acceptance of ruling as stern necessity.",
+   "passage": 8,
+   "contributors": [
+    {
+     "unit_id": "u04_1",
+     "role": "establishes initial reluctance to leave contemplation for human affairs"
+    },
+    {
+     "unit_id": "u06_5",
+     "role": "imposes the external requirement to descend and share labours and honours"
+    },
+    {
+     "unit_id": "u08_1",
+     "role": "provides the compensating assurance of predominant shared time in heavenly light while taking turns"
+    },
+    {
+     "unit_id": "u08_2",
+     "role": "records the resulting acceptance of office as stern necessity rather than refusal"
+    }
+   ],
+   "relationship": "contrast resolved by compensation into consequence",
+   "basis": "explicit",
+   "relation_to_existing": "extends",
+   "related_to": "c07_1",
+   "justification": "Philosopher unwilling to descend and Compelled Descent to Govern stand in contrast as longing to remain above versus being made to go down, while Pupils' Shared Heavenly Life specifies that descent is limited to turns with most time together in heavenly light, which together explain why Ruling as Stern Necessity is willing acceptance rather than continued refusal.",
+   "limitations": "The units do not show actual future compliance, only Socrates' expectation that pupils will not refuse, nor how turns are allocated.",
+   "model_confidence": 0.85,
+   "evidence": [
+    {
+     "unit_id": "u04_1",
+     "passage": 4,
+     "quote": "those who attain to this beatific vision are unwilling to descend to human affairs"
+    },
+    {
+     "unit_id": "u06_5",
+     "passage": 6,
+     "quote": "they must be made to descend again among the prisoners in the den, and partake of their labours and honours"
+    },
+    {
+     "unit_id": "u08_1",
+     "passage": 8,
+     "quote": "And will our pupils, when they hear this, refuse to take their turn at the toils of State, when they are allowed to spend the greater part of their time with one another in the heavenly light?"
+    },
+    {
+     "unit_id": "u08_2",
+     "passage": 8,
+     "quote": "there can be no doubt that every one of them will take office as a stern necessity"
+    }
+   ],
+   "triggers": [
+    "T1 long-range link",
+    "T3 reinterpretation",
+    "T4 bridging"
+   ]
+  },
+  {
+   "id": "c08_2",
+   "statement": "Only rulers enriched in virtue and wisdom by the better life of true philosophy can keep the State well-ordered because looking down on political ambition immunizes them against ruinous fighting for office.",
+   "passage": 8,
+   "contributors": [
+    {
+     "unit_id": "u08_3",
+     "role": "states that a better life than ruling must be contrived to produce a well-ordered State"
+    },
+    {
+     "unit_id": "u08_6",
+     "role": "identifies that better life as true philosophy alone looking down on political ambition"
+    },
+    {
+     "unit_id": "u08_4",
+     "role": "specifies the wealth of that life as virtue and wisdom rather than silver and gold"
+    },
+    {
+     "unit_id": "u08_5",
+     "role": "states the ruinous fighting about office that this disdain for ambition prevents"
+    }
+   ],
+   "relationship": "cause and consequence",
+   "basis": "explicit",
+   "relation_to_existing": "new",
+   "related_to": null,
+   "justification": "Better Life For Rulers posits the condition for order, Philosophy Above Political Ambition and Riches In Virtue Wisdom jointly specify its content as philosophic contempt for ambition grounded in non-material wealth, and Office Fighting Ruins State supplies the factional ruin thereby avoided, together forming a preventive causal chain none states alone.",
+   "limitations": "The units do not show institutional arrangements of the well-ordered State beyond rulers' disposition, nor that virtue eliminates all sources of civil conflict.",
+   "model_confidence": 0.82,
+   "evidence": [
+    {
+     "unit_id": "u08_3",
+     "passage": 8,
+     "quote": "You must contrive for your future rulers another and a better life than that of a ruler"
+    },
+    {
+     "unit_id": "u08_6",
+     "passage": 8,
+     "quote": "And the only life which looks down upon the life of political ambition is that of true philosophy"
+    },
+    {
+     "unit_id": "u08_4",
+     "passage": 8,
+     "quote": "will they rule who are truly rich, not in silver and gold, but in virtue and wisdom"
+    },
+    {
+     "unit_id": "u08_5",
+     "passage": 8,
+     "quote": "for they will be fighting about office, and the civil and domestic broils which thus arise"
+    }
+   ],
+   "triggers": [
+    "T1 long-range link",
+    "T3 reinterpretation",
+    "T4 bridging"
+   ]
+  }
+ ],
+ "journey": {
+  "overview": "People who mistake shadows for reality are painfully dragged toward sunlight, discover goodness as the source of all, learn to excuse blindness and turn the soul, and finally accept reluctant rule to make the city just.",
+  "stages": [
+   {
+    "index": 0,
+    "title": "Chained to Shadows",
+    "summary": "People chained since childhood see only shadows and echoes and take them for the whole truth.",
+    "first_passage": 0,
+    "last_passage": 0,
+    "key_units": [
+     "u00_1",
+     "u00_4",
+     "u00_5"
+    ],
+    "leads_to_next": "The completeness of the illusion makes any first glimpse of light painful and disorienting.",
+    "bridge_relations": [
+     "r01_3",
+     "r01_1"
+    ],
+    "key_meanings": []
+   },
+   {
+    "index": 1,
+    "title": "Painful Climb to Sunlight",
+    "summary": "Being dragged out hurts and confuses, yet step by step vision adjusts until the sun is seen as source and old honors look worthless.",
+    "first_passage": 1,
+    "last_passage": 2,
+    "key_units": [
+     "u01_2",
+     "u02_1",
+     "u02_2",
+     "u02_5"
+    ],
+    "leads_to_next": "Reaching the sun sets up the shock of going back down and learning what the whole climb meant.",
+    "bridge_relations": [
+     "r03_2",
+     "r03_7"
+    ],
+    "key_meanings": [
+     "c02_1"
+    ]
+   },
+   {
+    "index": 2,
+    "title": "Blinded Return Reveals Good",
+    "summary": "The one who returns is blind in the dark, mocked and threatened, while the story is explained as the soul's climb from visible things to ultimate goodness.",
+    "first_passage": 3,
+    "last_passage": 3,
+    "key_units": [
+     "u03_1",
+     "u03_3",
+     "u03_4",
+     "u03_5"
+    ],
+    "leads_to_next": "The unfair mockery of the returner calls for a fairer test of confusion and a deeper account of learning.",
+    "bridge_relations": [
+     "r04_7",
+     "r05_3"
+    ],
+    "key_meanings": [
+     "c03_1",
+     "c03_2"
+    ]
+   },
+   {
+    "index": 3,
+    "title": "Diagnosing Blindness Turning Soul",
+    "summary": "Both kinds of dazzle are excused rather than mocked, and teaching is redefined not as filling empty minds but turning an inborn power toward reality.",
+    "first_passage": 4,
+    "last_passage": 5,
+    "key_units": [
+     "u04_3",
+     "u04_4",
+     "u05_2",
+     "u05_4"
+    ],
+    "leads_to_next": "Seeing education as turning explains why the enlightened must be turned back toward the cave to serve.",
+    "bridge_relations": [
+     "r06_8",
+     "r06_3"
+    ],
+    "key_meanings": [
+     "c04_1",
+     "c05_1"
+    ]
+   },
+   {
+    "index": 4,
+    "title": "Compelled to Govern Justly",
+    "summary": "Those who have seen goodness must go back down and govern reluctantly, because selfless philosophers make the most peaceful and well-ordered city.",
+    "first_passage": 6,
+    "last_passage": 8,
+    "key_units": [
+     "u06_5",
+     "u07_5",
+     "u08_2",
+     "u08_4"
+    ],
+    "leads_to_next": "",
+    "bridge_relations": [],
+    "key_meanings": [
+     "c07_1",
+     "c08_2"
+    ]
+   }
+  ],
+  "warnings": [],
+  "provenance": "model",
+  "model": "muse-spark-1.3",
+  "generated_at": 1793127297.365481,
+  "basis": {
+   "units": 46,
+   "relations": 69,
+   "revisions": 20,
+   "constructed_meanings": 12
+  },
+  "explanation": {
+   "stages": [
+    {
+     "index": 0,
+     "what_changes": "The reader learns that people held since childhood take shadows and echoes for complete reality.",
+     "why_it_matters": "This establishes the baseline illusion that the rest of the journey must undo.",
+     "quotes": [
+      {
+       "unit_id": "u00_1",
+       "label": "Chained Underground Prisoners",
+       "passage": 0,
+       "quote": "here they have been from their childhood, and have their legs and necks chained",
+       "start": 216,
+       "end": 295,
+       "how_it_supports": "Shows lifelong chaining that forces prisoners to stare only ahead."
+      },
+      {
+       "unit_id": "u00_4",
+       "label": "Seeing Only Shadows",
+       "passage": 0,
+       "quote": "they see only their own shadows, or the shadows of one another",
+       "start": 1033,
+       "end": 1095,
+       "how_it_supports": "Shows sight is limited to shadows of themselves and others."
+      },
+      {
+       "unit_id": "u00_5",
+       "label": "Mistaking Shadows for Reality",
+       "passage": 0,
+       "quote": "would they not suppose that they were naming what was actually before them",
+       "start": 1421,
+       "end": 1495,
+       "how_it_supports": "Shows prisoners take naming shadows for naming real things."
+      }
+     ]
+    },
+    {
+     "index": 1,
+     "what_changes": "The reader sees that release is painful and gradual, ending with vision of the sun and contempt for old honors.",
+     "why_it_matters": "This introduces liberation as suffering and adjustment that revalues former life.",
+     "quotes": [
+      {
+       "unit_id": "u01_2",
+       "label": "Painful forced liberation",
+       "passage": 1,
+       "quote": "when any of them is liberated and compelled suddenly to stand up and turn his neck round and walk and look towards the light, he will suffer sharp pains",
+       "start": 229,
+       "end": 381,
+       "how_it_supports": "Shows release as forced turning toward light with sharp pain."
+      },
+      {
+       "unit_id": "u02_2",
+       "label": "Seeing Sun Itself",
+       "passage": 2,
+       "quote": "Last of all he will be able to see the sun, and not mere reflections of him in the water",
+       "start": 397,
+       "end": 485,
+       "how_it_supports": "Shows the climb ends with direct sight of the sun itself."
+      },
+      {
+       "unit_id": "u02_5",
+       "label": "Contempt for Shadow Honours",
+       "passage": 2,
+       "quote": "and to endure anything, rather than think as they do and live after their manner?",
+       "start": 1583,
+       "end": 1664,
+       "how_it_supports": "Shows the freed person rejects old honors and prefers to endure anything else."
+      }
+     ]
+    },
+    {
+     "index": 2,
+     "what_changes": "The reader learns the returner is blinded and threatened, while the tale is decoded as ascent to ultimate goodness.",
+     "why_it_matters": "This reveals the physical story as a figure for knowledge and its social cost.",
+     "quotes": [
+      {
+       "unit_id": "u03_4",
+       "label": "Cave to intellect mapping",
+       "passage": 3,
+       "quote": "the prison-house is the world of sight, the light of the fire is the sun",
+       "start": 1024,
+       "end": 1096,
+       "how_it_supports": "Shows the prison and firelight decoded as the world of sight and the sun."
+      },
+      {
+       "unit_id": "u03_5",
+       "label": "Good as ultimate source",
+       "passage": 3,
+       "quote": "in the world of knowledge the idea of good appears last of all, and is seen only with an effort; and, when seen, is also inferred to be the universal author of all things beautiful and right",
+       "start": 1379,
+       "end": 1569,
+       "how_it_supports": "Shows the Good revealed as the hard-won universal source of beauty and right."
+      },
+      {
+       "unit_id": "u03_3",
+       "label": "Death threat to liberator",
+       "passage": 3,
+       "quote": "and if any one tried to loose another and lead him up to the light, let them only catch the offender, and they would put him to death",
+       "start": 775,
+       "end": 908,
+       "how_it_supports": "Shows the enlightened liberator faces mockery and threat of death."
+      }
+     ]
+    },
+    {
+     "index": 3,
+     "what_changes": "The reader learns to excuse both kinds of dazzle and to see teaching as turning an inborn power.",
+     "why_it_matters": "This replaces mockery with diagnosis and redefines education for the whole journey.",
+     "quotes": [
+      {
+       "unit_id": "u04_3",
+       "label": "Two kinds of blindness",
+       "passage": 4,
+       "quote": "the bewilderments of the eyes are of two kinds, and arise from two causes, either from coming out of the light or from going into the light",
+       "start": 848,
+       "end": 987,
+       "how_it_supports": "Shows blindness has two opposite causes tied to entering or leaving light."
+      },
+      {
+       "unit_id": "u04_4",
+       "label": "Suspend mockery and diagnose",
+       "passage": 4,
+       "quote": "will not be too ready to laugh; he will first ask whether that soul of man has come out of the brighter life",
+       "start": 1141,
+       "end": 1249,
+       "how_it_supports": "Shows mocking laughter is replaced by asking about the soul's direction."
+      },
+      {
+       "unit_id": "u05_2",
+       "label": "Innate power of learning",
+       "passage": 5,
+       "quote": "our argument shows that the power and capacity of learning exists in the soul already",
+       "start": 235,
+       "end": 320,
+       "how_it_supports": "Shows the power to learn already exists in the soul."
+      }
+     ]
+    },
+    {
+     "index": 4,
+     "what_changes": "The reader learns that those who have seen must return to rule reluctantly to make the city just.",
+     "why_it_matters": "This turns enlightenment into a duty that grounds a peaceful and well-ordered city.",
+     "quotes": [
+      {
+       "unit_id": "u06_5",
+       "label": "Compelled Descent to Govern",
+       "passage": 6,
+       "quote": "they must be made to descend again among the prisoners in the den, and partake of their labours and honours",
+       "start": 1528,
+       "end": 1635,
+       "how_it_supports": "Shows the enlightened must be made to go back down and share labor."
+      },
+      {
+       "unit_id": "u07_5",
+       "label": "Reluctant Rulers Govern Best",
+       "passage": 7,
+       "quote": "the State in which the rulers are most reluctant to govern is always the best",
+       "start": 1983,
+       "end": 2060,
+       "how_it_supports": "Shows the most reluctant governors make the best-governed community."
+      },
+      {
+       "unit_id": "u08_4",
+       "label": "Riches In Virtue Wisdom",
+       "passage": 8,
+       "quote": "will they rule who are truly rich, not in silver and gold, but in virtue and wisdom",
+       "start": 662,
+       "end": 745,
+       "how_it_supports": "Shows true wealth for rulers lies in virtue and wisdom, not treasure."
+      }
+     ]
+    }
+   ],
+   "transitions": [
+    {
+     "from_index": 0,
+     "to_index": 1,
+     "kind": "development",
+     "certainty": "supported",
+     "what_changes": "Bondage to shadows grows into forced painful release and slow adjustment to brighter light.",
+     "why": "Freedom naturally continues the prison condition as its painful undoing and revaluation.",
+     "evidence": [
+      {
+       "kind": "relation",
+       "relation_id": "r01_3",
+       "type": "CHANGES_STATE",
+       "confidence": 0.95,
+       "source_label": "Painful forced liberation",
+       "target_label": "Chained Underground Prisoners",
+       "rationale": "The event of Painful forced liberation, being freed and compelled to stand, turn and walk toward the light with sharp pains, breaks the earlier condition of Chained Underground Prisoners, where human beings live chained by legs and necks able only to look forward.",
+       "earlier": {
+        "unit_id": "u00_1",
+        "label": "Chained Underground Prisoners",
+        "passage": 0,
+        "quote": "here they have been from their childhood, and have their legs and necks chained",
+        "start": 216,
+        "end": 295
+       },
+       "later": {
+        "unit_id": "u01_2",
+        "label": "Painful forced liberation",
+        "passage": 1,
+        "quote": "when any of them is liberated and compelled suddenly to stand up and turn his neck round and walk and look towards the light, he will suffer sharp pains",
+        "start": 229,
+        "end": 381
+       },
+       "adjacent": true,
+       "ref_index": 0,
+       "how_it_supports": "Shows chained confinement broken by forced standing toward light with pain."
+      },
+      {
+       "kind": "relation",
+       "relation_id": "r01_1",
+       "type": "REFINES",
+       "confidence": 0.9,
+       "source_label": "Truth as mere shadows",
+       "target_label": "Seeing Only Shadows",
+       "rationale": "The claim that Truth as mere shadows, that truth is literally nothing but shadows of images, develops Seeing Only Shadows, where prisoners see only shadows on the wall, by turning a visual limitation into a definition of truth.",
+       "earlier": {
+        "unit_id": "u00_4",
+        "label": "Seeing Only Shadows",
+        "passage": 0,
+        "quote": "they see only their own shadows, or the shadows of one another",
+        "start": 1033,
+        "end": 1095
+       },
+       "later": {
+        "unit_id": "u01_1",
+        "label": "Truth as mere shadows",
+        "passage": 1,
+        "quote": "the truth would be literally nothing but the shadows of the images",
+        "start": 17,
+        "end": 83
+       },
+       "adjacent": true,
+       "ref_index": 1,
+       "how_it_supports": "Shows seeing shadows deepened into truth defined as nothing but shadows."
+      },
+      {
+       "kind": "relation",
+       "relation_id": "r01_4",
+       "type": "REFINES",
+       "confidence": 0.9,
+       "source_label": "Shadows seem truer",
+       "target_label": "Mistaking Shadows for Reality",
+       "rationale": "The claim of Shadows seem truer, that the perplexed prisoner fancies old shadows truer than objects now shown, makes more precise Mistaking Shadows for Reality by showing active preference for illusion even when told otherwise.",
+       "earlier": {
+        "unit_id": "u00_5",
+        "label": "Mistaking Shadows for Reality",
+        "passage": 0,
+        "quote": "would they not suppose that they were naming what was actually before them",
+        "start": 1421,
+        "end": 1495
+       },
+       "later": {
+        "unit_id": "u01_3",
+        "label": "Shadows seem truer",
+        "passage": 1,
+        "quote": "Will he not fancy that the shadows which he formerly saw are truer than the objects which are now shown to him?",
+        "start": 891,
+        "end": 1002
+       },
+       "adjacent": true,
+       "ref_index": 2,
+       "how_it_supports": "Shows mistaking shadows extended into feeling old shadows are truer."
+      }
+     ],
+     "limitation": "No major gap; links stay within the prison and release scene.",
+     "grounding_note": ""
+    },
+    {
+     "from_index": 1,
+     "to_index": 2,
+     "kind": "reinterpretation",
+     "certainty": "supported",
+     "what_changes": "The physical climb into sunlight becomes the soul's ascent to the ultimate source of goodness.",
+     "why": "The story is explicitly decoded so the sun prefigures a higher intelligible cause.",
+     "evidence": [
+      {
+       "kind": "relation",
+       "relation_id": "r03_6",
+       "type": "REFRAMES",
+       "confidence": 0.9,
+       "source_label": "Cave to intellect mapping",
+       "target_label": "Dragged ascent to sun",
+       "rationale": "The earlier description depicts being reluctantly dragged up a steep rugged ascent into the sun, while the mapping passage declares the upward journey is the soul's ascent to intellect; the physical climb is revealed as a figure for intellectual ascent.",
+       "earlier": {
+        "unit_id": "u01_5",
+        "label": "Dragged ascent to sun",
+        "passage": 1,
+        "quote": "that he is reluctantly dragged up a steep and rugged ascent, and held fast until he is forced into the presence of the sun himself",
+        "start": 1336,
+        "end": 1466
+       },
+       "later": {
+        "unit_id": "u03_4",
+        "label": "Cave to intellect mapping",
+        "passage": 3,
+        "quote": "the prison-house is the world of sight, the light of the fire is the sun",
+        "start": 1024,
+        "end": 1096
+       },
+       "adjacent": true,
+       "ref_index": 0,
+       "how_it_supports": "Shows the rugged dragged climb revealed as ascent of the soul to intellect."
+      },
+      {
+       "kind": "relation",
+       "relation_id": "r03_7",
+       "type": "REFRAMES",
+       "confidence": 0.9,
+       "source_label": "Good as ultimate source",
+       "target_label": "Seeing Sun Itself",
+       "rationale": "The earlier description says last of all he is able to see the sun itself in its own place, while the Good passage says in the world of knowledge the idea of good appears last and is seen only with effort; the solar climax is revealed as a figure for vision of the Good.",
+       "earlier": {
+        "unit_id": "u02_2",
+        "label": "Seeing Sun Itself",
+        "passage": 2,
+        "quote": "Last of all he will be able to see the sun, and not mere reflections of him in the water",
+        "start": 397,
+        "end": 485
+       },
+       "later": {
+        "unit_id": "u03_5",
+        "label": "Good as ultimate source",
+        "passage": 3,
+        "quote": "in the world of knowledge the idea of good appears last of all, and is seen only with an effort; and, when seen, is also inferred to be the universal author of all things beautiful and right",
+        "start": 1379,
+        "end": 1569
+       },
+       "adjacent": true,
+       "ref_index": 1,
+       "how_it_supports": "Shows seeing the sun last revealed as seeing the Good last in knowledge."
+      }
+     ],
+     "limitation": "No major gap; mapping directly decodes climb and sun.",
+     "grounding_note": ""
+    },
+    {
+     "from_index": 2,
+     "to_index": 3,
+     "kind": "contradiction",
+     "certainty": "supported",
+     "what_changes": "Mockery of the blinded returner is overruled by a demand to diagnose the direction of blindness.",
+     "why": "Compassionate inquiry answers ridicule with understanding of dazzle.",
+     "evidence": [
+      {
+       "kind": "relation",
+       "relation_id": "r04_7",
+       "type": "CONTRADICTS",
+       "confidence": 0.9,
+       "source_label": "Suspend mockery and diagnose",
+       "target_label": "Ridiculed shadow competitor",
+       "rationale": "The suspend mockery text prescribes not laughing but first asking whether the soul comes from brightness or darkness, while the ridiculed competitor text reports men saying ascent destroyed eyes; the prescription opposes dismissive laughter as a response.",
+       "earlier": {
+        "unit_id": "u03_2",
+        "label": "Ridiculed shadow competitor",
+        "passage": 3,
+        "quote": "would he not be ridiculous? Men would say of him that up he went and down he came without his eyes",
+        "start": 620,
+        "end": 718
+       },
+       "later": {
+        "unit_id": "u04_4",
+        "label": "Suspend mockery and diagnose",
+        "passage": 4,
+        "quote": "will not be too ready to laugh; he will first ask whether that soul of man has come out of the brighter life",
+        "start": 1141,
+        "end": 1249
+       },
+       "adjacent": true,
+       "ref_index": 0,
+       "how_it_supports": "Shows the order not to laugh directly opposes dismissal of the dazzled returner."
+      }
+     ],
+     "limitation": "Does not yet show the later redefinition of teaching, only the reversal of mockery.",
+     "grounding_note": ""
+    },
+    {
+     "from_index": 3,
+     "to_index": 4,
+     "kind": "reinterpretation",
+     "certainty": "supported",
+     "what_changes": "Unwillingness to descend changes from longing to stay above into the mark of the best rulers.",
+     "why": "Reluctance is revalued as the quality that justifies compelling philosophers to govern.",
+     "evidence": [
+      {
+       "kind": "relation",
+       "relation_id": "r07_7",
+       "type": "REFRAMES",
+       "confidence": 0.85,
+       "source_label": "Reluctant Rulers Govern Best",
+       "target_label": "Philosopher unwilling to descend",
+       "rationale": "Reluctant Rulers Govern Best says the State whose rulers are most reluctant to govern is best and most quietly governed, which changes what Philosopher unwilling to descend means from mere longing to dwell above into a qualification for good rule.",
+       "earlier": {
+        "unit_id": "u04_1",
+        "label": "Philosopher unwilling to descend",
+        "passage": 4,
+        "quote": "those who attain to this beatific vision are unwilling to descend to human affairs",
+        "start": 43,
+        "end": 125
+       },
+       "later": {
+        "unit_id": "u07_5",
+        "label": "Reluctant Rulers Govern Best",
+        "passage": 7,
+        "quote": "the State in which the rulers are most reluctant to govern is always the best",
+        "start": 1983,
+        "end": 2060
+       },
+       "adjacent": true,
+       "ref_index": 0,
+       "how_it_supports": "Shows longing to stay above revalued as the qualification for best rule."
+      },
+      {
+       "kind": "revision",
+       "type": "REVISION",
+       "unit_id": "u04_1",
+       "passage": 7,
+       "confidence": 0.8,
+       "new_reading": "The unwillingness to descend is now also to be understood as the mark of those most reluctant to govern and therefore best suited to govern quietly, while remaining as longing to dwell above.",
+       "rationale": "Reluctant Rulers Govern Best presents reluctance as the virtue of the best rulers, which adds to Philosopher unwilling to descend which presented unwillingness as longing to dwell above to be overruled.",
+       "earlier": {
+        "unit_id": "u04_1",
+        "label": "Philosopher unwilling to descend",
+        "passage": 4,
+        "quote": "those who attain to this beatific vision are unwilling to descend to human affairs",
+        "start": 43,
+        "end": 125
+       },
+       "later": {
+        "unit_id": "u07_5",
+        "label": "Reluctant Rulers Govern Best",
+        "passage": 7,
+        "quote": "the State in which the rulers are most reluctant to govern is always the best",
+        "start": 1983,
+        "end": 2060
+       },
+       "adjacent": true,
+       "ref_index": 2,
+       "how_it_supports": "Shows unwillingness kept as longing yet read as reluctant fitness to govern quietly."
+      }
+     ],
+     "limitation": "Evidence focuses on revaluing reluctance rather than on details of just rule.",
+     "grounding_note": ""
+    }
+   ],
+   "warnings": [],
+   "provenance": "model",
+   "model": "muse-spark-1.3",
+   "generated_at": 1793127314.45632
+  }
+ },
+ "_note": "Experiment 3 run 'm4_C': model output (muse-spark-1.3, reasoning_effort=medium), exported from motif.m4.db. Unreviewed machine interpretation; quotations verified against the text."
+}

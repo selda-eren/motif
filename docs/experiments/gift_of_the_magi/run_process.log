@@ -1,0 +1,25 @@
+start 2026-10-27T17:25:05Z
+error: Network error calling https://api.meta.ai/v1/chat/completions: The read operation timed out
+Meta Model API: model=muse-spark-1.3 reasoning_effort=medium max_completion_tokens=12000 attempts=1
+Budget: $2.00 total; already spent $0.3721 (responses cached in <repo>/data/motif.db)
+  perception/p0: ok  in=1079 (cached 0) out=1982 (reasoning 1503)  $0.0098  9.2s
+  integration/p0: ok  in=1338 (cached 0) out=1753 (reasoning 1350)  $0.0091  10.3s
+passage 1/6: +5 units, 0 merged, 3 relations, 0 revisions, 0 ungrounded rejected
+  perception/p1: ok  in=960 (cached 0) out=3446 (reasoning 2897)  $0.0158  19.0s
+  integration/p1: ok  in=1858 (cached 0) out=4305 (reasoning 3567)  $0.0206  25.9s
+passage 2/6: +6 units, 0 merged, 8 relations, 0 revisions, 0 ungrounded rejected
+  perception/p2: network_error  in=0 (cached 0) out=0 (reasoning 0)  $0.0000  0.0s
+
+This run (20261027-182505):
+  call            status            input  cached  output reasoning    cost $   secs
+  perce/p0        ok                 1079       0    1982      1503    0.0098    9.2
+  integ/p0        ok                 1338       0    1753      1350    0.0091   10.3
+  perce/p1        ok                  960       0    3446      2897    0.0158   19.0
+  integ/p1        ok                 1858       0    4305      3567    0.0206   25.9
+  perce/p2        network_error         0       0       0         0    0.0000    0.0
+  TOTAL                              5235       0   11486      9317    0.0554
+Total spent in motif.db: $0.4275 of $2.00 budget
+real 365.08
+user 0.27
+sys 0.12
+end 2026-10-27T17:31:10Z

@@ -1,0 +1,33 @@
+{
+ "_note": "Single rater (an AI assistant), against the contributors' stored quotations and the pre-registered expectations (expectations.md). S supported and meaningful, P plausible but weakly supported, T trivial or redundant, U unsupported. Independent of model_confidence.",
+ "gift_of_the_magi": [
+  {"id": "c02_1", "rating": "S", "expected": ["G4", "G5"], "note": "Poverty + pride + hair sale + chain for the watch: she sacrifices her pride to dignify his. Spans P1-P3."},
+  {"id": "c02_2", "rating": "P", "note": "Gift as recognition of who Jim is. Close to the narrator's explicit 'It was like him'; 'rather than mere expenditure' adds little."},
+  {"id": "c03_1", "rating": "P", "note": "Extends c02_1 with Della's fear of no longer being pretty. Supported by the prayer, but 'inseparable' overclaims."},
+  {"id": "c04_1", "rating": "S", "expected": ["reference D8"], "note": "The stare reread + the prayer answered by 'love unchanged': devotion separated from appearance. Spans P4-P5."},
+  {"id": "c05_1", "rating": "S", "expected": ["G1", "G2", "G3"], "note": "Mutual sacrifice, both gifts useless, declared wisest. 5 contributors across P3 and P6; extends c02_1. Labelled 'explicit' although only the 'wisest' judgement is explicit."}
+ ],
+ "plato_cave": [
+  {"id": "c02_1", "rating": "P", "note": "Liberation as painful, staged retraining. Largely a summary of P2-P3; 'alone makes' overclaims."},
+  {"id": "c03_1", "rating": "S", "expected": ["L3"], "note": "Return inverts the value of the ascent: on the cave's own terms, enlightenment defeats itself."},
+  {"id": "c03_2", "rating": "S", "note": "The sun as an effect of the Good: the visible world is doubly derivative (P3 + P4)."},
+  {"id": "c04_1", "rating": "P", "note": "Two kinds of dazzle, to be diagnosed rather than mocked. Mostly P5's explicit principle; adds P2's glare as an instance."},
+  {"id": "c04_2", "rating": "P", "note": "Unwillingness as happiness, not arrogance. 'Not arrogance' is a framing no unit supports; the rest is supported."},
+  {"id": "c05_1", "rating": "S", "expected": ["L2"], "note": "The painful turning in the cave (P1-P2) reread through education as turning an existing sight (P6)."},
+  {"id": "c06_1", "rating": "S", "expected": ["L3", "L5"], "note": "Fixation on shadows and contemplative withdrawal as two symmetric disqualifications, cured by compelled descent (P1, P5, P7)."},
+  {"id": "c06_2", "rating": "P", "note": "The same keenness serves evil or truth depending on direction. Nearly stated by P7's 'very same faculty'."},
+  {"id": "c07_1", "rating": "S", "expected": ["L5"], "note": "Reluctance becomes the credential of the best rulers (P5 + P8)."},
+  {"id": "c07_2", "rating": "S", "expected": ["L3"], "note": "The returner's ridiculed blindness (P4) reread as learnable night-vision that fits him to rule (P8)."},
+  {"id": "c08_1", "rating": "P", "note": "Reluctance becomes acceptance through the shared heavenly life. Mostly P9's explicit argument; 'willing acceptance' is softer than the text's 'stern necessity'."},
+  {"id": "c08_2", "rating": "T", "note": "All four contributors come from P9 and restate its explicit argument. Not cross-passage."}
+ ],
+ "totals": {"S": 9, "P": 7, "T": 1, "U": 0, "accepted": 17, "rejected_by_code": 0},
+ "expected_meanings": {
+  "G1": "found (c05_1)", "G2": "found (c05_1)", "G3": "found (c05_1)", "G4": "found (c02_1)", "G5": "found (c02_1)",
+  "stare explained by the ending": "missed: activation limit. The stare was not in the P6 context; it appeared only as a contributor label of the reactivated c03_1. Its P5 reading (c04_1) gives the surface cause.",
+  "L1": "missed: perception limit, no unit for 'like ourselves'",
+  "L2": "found (c05_1)", "L3": "found (c03_1, c06_1, c07_2)",
+  "L4": "missed: construction failure; shadow units and the courtroom unit were in context at P5, P7, P8 and P9 (P8's 'fight about shadows' was also never perceived)",
+  "L5": "found (c07_1, c06_1)"
+ }
+}

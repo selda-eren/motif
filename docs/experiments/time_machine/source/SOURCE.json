@@ -1,0 +1,23 @@
+{
+ "title": "The Time Machine",
+ "author": "H. G. Wells",
+ "url": "https://www.gutenberg.org/ebooks/35",
+ "downloaded_from": "https://www.gutenberg.org/cache/epub/35/pg35.txt",
+ "download_date": "2026-11-01",
+ "edition_note": "Project Gutenberg eBook #35, released 2004-10-02, most recently updated 2026-06-16 (per the file header)",
+ "original_file": "source/pg35.original.txt",
+ "original_sha256": "2892e919000e17c83e1dac51b30f4675db50536b644d7579fe8a89bb399a9bdc",
+ "original_bytes": 204384,
+ "processing_text": "data/texts/the_time_machine.txt",
+ "processing_sha256": "7152526f755ba43aefeab2ab5ef629a7f5b54718651bd651c3f57cf0ebdeca5b",
+ "removed": [
+  "Project Gutenberg header (lines 1-25)",
+  "Project Gutenberg footer (lines 3208-end)",
+  "title block and table of contents",
+  "17 chapter heading blocks (numeral and title), kept in chapters.json",
+  "CRLF line endings normalised to LF"
+ ],
+ "words": 32310,
+ "chapters": 17,
+ "passages": 86
+}

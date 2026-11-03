@@ -1,0 +1,592 @@
+{
+ "overview": "A dinner debate about time becomes a real voyage to a lush future where easy life has decayed humanity, ending in horror, loss, and an unbelieved return.",
+ "stages": [
+  {
+   "index": 0,
+   "title": "Theorizing Time and Vanishing Model",
+   "summary": "Guests debate time as a dimension and watch a tiny machine disappear without becoming convinced.",
+   "first_passage": 0,
+   "last_passage": 8,
+   "key_units": [
+    "u04_2",
+    "u06_4",
+    "u08_5"
+   ],
+   "leads_to_next": "Stubborn doubt sets up the shock when the storyteller returns battered from an actual journey.",
+   "bridge_relations": [
+    "r09_3",
+    "r09_4"
+   ],
+   "key_meanings": [
+    "c06_1",
+    "c07_2"
+   ]
+  },
+  {
+   "index": 1,
+   "title": "Battered Return and First Flight",
+   "summary": "The traveller reappears starving and injured, then recounts launching his full machine through rushing days.",
+   "first_passage": 9,
+   "last_passage": 15,
+   "key_units": [
+    "u10_1",
+    "u12_2",
+    "u14_4"
+   ],
+   "leads_to_next": "His violent arrival in a lush garden shifts the tale from travel itself to the strange people he meets.",
+   "bridge_relations": [
+    "r16_3",
+    "r17_1"
+   ],
+   "key_meanings": [
+    "c09_2",
+    "c14_1"
+   ]
+  },
+  {
+   "index": 2,
+   "title": "Garden People and False Paradise",
+   "summary": "Among gentle fruit eaters in crumbling splendour he theorizes security bred decline, then loses his machine to the sphinx.",
+   "first_passage": 16,
+   "last_passage": 35,
+   "key_units": [
+    "u19_2",
+    "u29_1",
+    "u30_4",
+    "u33_6"
+   ],
+   "leads_to_next": "Losing the machine forces him to notice wells, noises and night fears that his paradise theory cannot explain.",
+   "bridge_relations": [
+    "r36_1",
+    "r36_7"
+   ],
+   "key_meanings": [
+    "c27_1",
+    "c30_1"
+   ]
+  },
+  {
+   "index": 3,
+   "title": "Morlocks Fire and Vanishing Friend",
+   "summary": "He discovers underground predators eating the surface people, flees with a young companion, and loses her in a forest fire.",
+   "first_passage": 36,
+   "last_passage": 74,
+   "key_units": [
+    "u43_6",
+    "u50_6",
+    "u69_4",
+    "u70_4"
+   ],
+   "leads_to_next": "Left alone with his recovered machine, he is lured into a trap that hurls him far beyond the world he knew.",
+   "bridge_relations": [
+    "r75_1",
+    "r75_7"
+   ],
+   "key_meanings": [
+    "c45_1",
+    "c57_1"
+   ]
+  },
+  {
+   "index": 4,
+   "title": "Far Future and Unbelieved Return",
+   "summary": "Escaping to a dying earth under a red sun, he returns home to dismissal and vanishes again without proof.",
+   "first_passage": 75,
+   "last_passage": 85,
+   "key_units": [
+    "u76_5",
+    "u83_3",
+    "u85_1"
+   ],
+   "leads_to_next": "",
+   "bridge_relations": [],
+   "key_meanings": [
+    "c76_2",
+    "c85_1"
+   ]
+  }
+ ],
+ "warnings": [],
+ "provenance": "model",
+ "model": "muse-spark-1.3",
+ "generated_at": 1793552250.4671092,
+ "basis": {
+  "units": 463,
+  "relations": 668,
+  "revisions": 175,
+  "constructed_meanings": 91
+ },
+ "explanation": {
+  "stages": [
+   {
+    "index": 0,
+    "what_changes": "The reader learns time might be travelable but sees only a disputed vanishing and hears skepticism.",
+    "why_it_matters": "It sets a baseline of clever theory and disbelief that later lived travel must overcome.",
+    "quotes": [
+     {
+      "unit_id": "u04_2",
+      "label": "Claim of Experimental Verification",
+      "passage": 4,
+      "quote": "But I have experimental verification,” said the Time Traveller",
+      "start": 469,
+      "end": 531,
+      "how_it_supports": "Shows the claim is offered as tested proof, not just theory."
+     },
+     {
+      "unit_id": "u06_4",
+      "label": "Model Vanishes Into Future",
+      "passage": 6,
+      "quote": "and it was gone—vanished! Save for the lamp the table was bare",
+      "start": 1494,
+      "end": 1556,
+      "how_it_supports": "Shows the model seems to vanish, leaving proof ambiguous."
+     },
+     {
+      "unit_id": "u08_5",
+      "label": "Too Clever Distrust",
+      "passage": 8,
+      "quote": "too clever to be believed: you never felt that you saw all round him",
+      "start": 1558,
+      "end": 1626,
+      "how_it_supports": "Shows listeners already distrust the speaker as too clever."
+     }
+    ]
+   },
+   {
+    "index": 1,
+    "what_changes": "Abstract debate becomes bodily experience as the injured traveller reports rushing days and a displaced clock.",
+    "why_it_matters": "It turns speculation into suffered flight that demands a new account of invisibility and control.",
+    "quotes": [
+     {
+      "unit_id": "u10_1",
+      "label": "Battered traveller appearance",
+      "passage": 10,
+      "quote": "His coat was dusty and dirty, and smeared",
+      "start": 29,
+      "end": 70,
+      "how_it_supports": "Shows the theorist returns bodily damaged, implying real ordeal."
+     },
+     {
+      "unit_id": "u12_2",
+      "label": "Confirmation of time travel",
+      "passage": 12,
+      "quote": "Yes,” said the Time Traveller, with his mouth full, nodding his head",
+      "start": 623,
+      "end": 691,
+      "how_it_supports": "Shows blunt eating confirmation that travel was real."
+     },
+     {
+      "unit_id": "u14_4",
+      "label": "Clock Jump Confirms Travel",
+      "passage": 14,
+      "quote": "had stood at a minute or so past ten; now it was nearly half-past",
+      "start": 1239,
+      "end": 1304,
+      "how_it_supports": "Shows a measured clock jump as physical evidence of transit."
+     }
+    ]
+   },
+   {
+    "index": 2,
+    "what_changes": "The reader meets gentle fruit eaters in ruins and entertains the idea that safety bred easy decline.",
+    "why_it_matters": "It builds a false utopia of conquest and comfort that later horror will overturn.",
+    "quotes": [
+     {
+      "unit_id": "u19_2",
+      "label": "Frail Future People",
+      "passage": 19,
+      "quote": "He was a slight creature—perhaps four feet",
+      "start": 234,
+      "end": 276,
+      "how_it_supports": "Shows future people as small frail beauties inviting pity."
+     },
+     {
+      "unit_id": "u29_1",
+      "label": "Perfect Conquest of Nature",
+      "passage": 29,
+      "quote": "belief in a perfect conquest of Nature",
+      "start": 134,
+      "end": 172,
+      "how_it_supports": "Shows the comforting theory that security perfected nature and softened life."
+     },
+     {
+      "unit_id": "u30_4",
+      "label": "Time Machine Vanished",
+      "passage": 30,
+      "quote": "The Time Machine was gone!",
+      "start": 1413,
+      "end": 1439,
+      "how_it_supports": "Shows paradise turns anxious when the machine disappears."
+     }
+    ]
+   },
+   {
+    "index": 3,
+    "what_changes": "The garden idyll is exposed as livestock keeping, with underground predators, fire, and a lost companion.",
+    "why_it_matters": "It provides the central reversal where easy life means being eaten and security means fear.",
+    "quotes": [
+     {
+      "unit_id": "u43_6",
+      "label": "Humanity Split Species",
+      "passage": 43,
+      "quote": "had not remained one species, but had differentiated into two distinct",
+      "start": 1350,
+      "end": 1420,
+      "how_it_supports": "Shows humanity did not stay one but split into two kinds."
+     },
+     {
+      "unit_id": "u50_6",
+      "label": "Morlocks are meat-eaters",
+      "passage": 50,
+      "quote": "The Morlocks at any rate\nwere carnivorous!",
+      "start": 1851,
+      "end": 1893,
+      "how_it_supports": "Shows the underground kind eats meat, implying predation."
+     },
+     {
+      "unit_id": "u70_4",
+      "label": "Weena Disappears",
+      "passage": 70,
+      "quote": "With that I looked for Weena, but\nshe was gone",
+      "start": 1370,
+      "end": 1416,
+      "how_it_supports": "Shows companionship ends in sudden absence and loss."
+     }
+    ]
+   },
+   {
+    "index": 4,
+    "what_changes": "The voyage extends to lifeless futurity then home, where traces fail to convince and the traveller disappears.",
+    "why_it_matters": "It closes the loop from debate to disbelief, leaving the future blank and tenderness held in flowers alone.",
+    "quotes": [
+     {
+      "unit_id": "u76_5",
+      "label": "Motionless Red Sun",
+      "passage": 76,
+      "quote": "stopped, the sun, red and very large, halted motionless upon the",
+      "start": 2543,
+      "end": 2607,
+      "how_it_supports": "Shows travel pushed onward to a still red sun and dying world."
+     },
+     {
+      "unit_id": "u83_3",
+      "label": "Solid travel-stained machine",
+      "passage": 83,
+      "quote": "with\nbrown spots and smears upon the ivory, and bits of grass and moss upon\nthe lower parts, and one rail bent awry",
+      "start": 957,
+      "end": 1072,
+      "how_it_supports": "Shows the machine returns stained and bent, carrying physical traces."
+     },
+     {
+      "unit_id": "u85_1",
+      "label": "Traveller's Abrupt Vanishing",
+      "passage": 85,
+      "quote": "The Time Traveller was not there",
+      "start": 239,
+      "end": 271,
+      "how_it_supports": "Shows the teller vanishes again, leaving proof unaccepted."
+     }
+    ]
+   }
+  ],
+  "transitions": [
+   {
+    "from_index": 0,
+    "to_index": 1,
+    "kind": "development",
+    "certainty": "supported",
+    "what_changes": "Theoretical claim of steerable time travel becomes demonstrated transit with a worn machine and measurable time shift.",
+    "why": "The finished machine is operated and leaves wear and clock effects that extend the tiny model vanishing into lived passage.",
+    "evidence": [
+     {
+      "kind": "construction",
+      "type": "CONSTRUCTED",
+      "construction_id": "c14_1",
+      "confidence": 0.8,
+      "statement": "Abstract theorizing about time travel turns into demonstrated steerable transit, as the finished worn machine's lever-controlled hops produce measurable clock displacement.",
+      "rationale": "Steerable Space-Time Machine proposes indifferent travel in Time, while Worn Completed Machine shows the large machine transformed from nearly finished to finished and worn. First Start-Stop Hop enacts lever control and causes Clock Jump Confirms Travel, so concept, operation, material trace and measured effect together show asserted experimental verification become demonstrated steerable transit beyond the little-model test.",
+      "basis": "inferred",
+      "support": "4 units across 2 passages",
+      "reinforced_at": [],
+      "formed_at": 14,
+      "supports_kinds": [
+       "consequence",
+       "development",
+       "reinterpretation"
+      ],
+      "earlier": {
+       "unit_id": "u04_1",
+       "label": "Steerable Space-Time Machine",
+       "passage": 4,
+       "quote": "That shall travel indifferently in any direction of Space and Time, as",
+       "start": 0,
+       "end": 0
+      },
+      "later": {
+       "unit_id": "u14_4",
+       "label": "Clock Jump Confirms Travel",
+       "passage": 14,
+       "quote": "had stood at a minute or so past ten; now it was nearly half-past",
+       "start": 0,
+       "end": 0
+      },
+      "adjacent": true,
+      "ref_index": 4,
+      "how_it_supports": "Shows lever-controlled hops producing clock displacement extending theory into practice."
+     },
+     {
+      "kind": "construction",
+      "type": "CONSTRUCTED",
+      "construction_id": "c07_2",
+      "confidence": 0.8,
+      "statement": "The logical objection that future travel should remain visible is answered by redefining invisibility as high-speed dilution of presentation, made plausible by familiar high-speed analogies, thereby turning disappearance into evidence of rapid future transit.",
+      "rationale": "Future travel would persist contradicts Model Vanishes Into Future, Diluted presentation invisibility contradicts that objection, and Spinning spoke bullet analogy supports the diluted explanation, so jointly they turn the vanishing from a refutation into evidence of rapid future transit.",
+      "basis": "inferred",
+      "support": "5 units across 3 passages",
+      "reinforced_at": [
+       14
+      ],
+      "formed_at": 7,
+      "supports_kinds": [
+       "development",
+       "reinterpretation"
+      ],
+      "earlier": {
+       "unit_id": "u06_4",
+       "label": "Model Vanishes Into Future",
+       "passage": 6,
+       "quote": "and it was gone—vanished! Save for the lamp the table was bare",
+       "start": 0,
+       "end": 0
+      },
+      "later": {
+       "unit_id": "u14_5",
+       "label": "Unseen Housekeeper Crossing",
+       "passage": 14,
+       "quote": "Mrs. Watchett came in and walked, apparently without seeing me, towards",
+       "start": 0,
+       "end": 0
+      },
+      "adjacent": true,
+      "ref_index": 1,
+      "how_it_supports": "Shows vanishing explained as high-speed dilution turning absence into evidence of transit."
+     }
+    ],
+    "limitation": "",
+    "grounding_note": "",
+    "beyond_evidence": ""
+   },
+   {
+    "from_index": 1,
+    "to_index": 2,
+    "kind": "succession",
+    "certainty": "supported",
+    "what_changes": "Rushing transit ends in a stunned landing among vast architecture and strange people.",
+    "why": "The flight must stop somewhere, so the account moves next to arrival without redefining what travel meant.",
+    "evidence": [
+     {
+      "kind": "relation",
+      "relation_id": "r17_1",
+      "type": "CHANGES_STATE",
+      "confidence": 0.9,
+      "source_label": "Stunned Turf Landing",
+      "target_label": "Worn Completed Machine",
+      "rationale": "Stunned Turf Landing shows the machine overturned on soft turf, which changes the situation in Worn Completed Machine where the machine stands travel-worn with cracked ivory and bent brass.",
+      "earlier": {
+       "unit_id": "u14_1",
+       "label": "Worn Completed Machine",
+       "passage": 14,
+       "quote": "ivory bars is cracked, and a brass rail bent; but the rest of it’s",
+       "start": 202,
+       "end": 268
+      },
+      "later": {
+       "unit_id": "u17_1",
+       "label": "Stunned Turf Landing",
+       "passage": 17,
+       "quote": "sitting on soft turf in front of the overset machine",
+       "start": 140,
+       "end": 192
+      },
+      "adjacent": true,
+      "ref_index": 0,
+      "how_it_supports": "Shows overturned turf landing ending the headlong motion of flight."
+     },
+     {
+      "kind": "relation",
+      "relation_id": "r17_2",
+      "type": "CHANGES_STATE",
+      "confidence": 0.85,
+      "source_label": "Stunned Turf Landing",
+      "target_label": "Unpleasant Headlong Sensation",
+      "rationale": "Stunned Turf Landing ends in a stunned stop on turf, which changes the situation in Unpleasant Headlong Sensation where time travelling is helpless headlong motion like a switchback.",
+      "earlier": {
+       "unit_id": "u15_1",
+       "label": "Unpleasant Headlong Sensation",
+       "passage": 15,
+       "quote": "They are excessively unpleasant. There is a feeling exactly\nlike that one has upon a switchback—of a helpless headlong motion!",
+       "start": 73,
+       "end": 199
+      },
+      "later": {
+       "unit_id": "u17_1",
+       "label": "Stunned Turf Landing",
+       "passage": 17,
+       "quote": "sitting on soft turf in front of the overset machine",
+       "start": 140,
+       "end": 192
+      },
+      "adjacent": true,
+      "ref_index": 2,
+      "how_it_supports": "Shows stunned stop replacing unpleasant rushing sensation."
+     }
+    ],
+    "limitation": "The evidence shows arrival follows flight in narrative order but does not show a logical redefinition of travel.",
+    "grounding_note": "",
+    "beyond_evidence": ""
+   },
+   {
+    "from_index": 2,
+    "to_index": 3,
+    "kind": "reinterpretation",
+    "certainty": "supported",
+    "what_changes": "The comforting idea of gentle decline collapses as frail people become cattle and conquest becomes exploitation.",
+    "why": "Wells, night dread, and ruined machines force daylight observations to mean predation and division rather than peace.",
+    "evidence": [
+     {
+      "kind": "relation",
+      "relation_id": "r43_11",
+      "type": "REFRAMES",
+      "confidence": 0.9,
+      "source_label": "Humanity Split Species",
+      "target_label": "Delicate Future People",
+      "rationale": "Humanity Split Species claims humanity differentiated into two distinct animals, changing what Delicate Future People, with Dresden-china prettiness and childlike features, stands for from all humanity to only one branch.",
+      "earlier": {
+       "unit_id": "u20_1",
+       "label": "Delicate Future People",
+       "passage": 20,
+       "quote": "peculiarities in their Dresden china type of prettiness",
+       "start": 71,
+       "end": 126
+      },
+      "later": {
+       "unit_id": "u43_6",
+       "label": "Humanity Split Species",
+       "passage": 43,
+       "quote": "had not remained one species, but had differentiated into two distinct",
+       "start": 1350,
+       "end": 1420
+      },
+      "adjacent": true,
+      "ref_index": 1,
+      "how_it_supports": "Shows delicate beauties redefined as only one branch of split humanity."
+     },
+     {
+      "kind": "relation",
+      "relation_id": "r46_5",
+      "type": "REFRAMES",
+      "confidence": 0.85,
+      "source_label": "Aristocratic Triumph Over Fellow-Man",
+      "target_label": "Perfect Conquest of Nature",
+      "rationale": "Aristocratic Triumph Over Fellow-Man says triumph was a real aristocracy working the industrial system to its logical conclusion, which changes what Perfect Conquest of Nature means from moral conquest of nature to domination over fellow men.",
+      "earlier": {
+       "unit_id": "u29_1",
+       "label": "Perfect Conquest of Nature",
+       "passage": 29,
+       "quote": "belief in a perfect conquest of Nature",
+       "start": 134,
+       "end": 172
+      },
+      "later": {
+       "unit_id": "u46_4",
+       "label": "Aristocratic Triumph Over Fellow-Man",
+       "passage": 46,
+       "quote": "Instead, I saw a real aristocracy,\narmed with a perfected science and working to a logical conclusion the\nindustrial system of today",
+       "start": 1710,
+       "end": 1842
+      },
+      "adjacent": true,
+      "ref_index": 4,
+      "how_it_supports": "Shows perfect conquest redefined from mastery of nature to domination by an aristocracy."
+     }
+    ],
+    "limitation": "",
+    "grounding_note": "",
+    "beyond_evidence": ""
+   },
+   {
+    "from_index": 3,
+    "to_index": 4,
+    "kind": "reinterpretation",
+    "certainty": "tentative",
+    "what_changes": "Small survivals gain darker meaning as safety becomes bait and remaining resources become helplessness.",
+    "why": "Escape forces earlier details to be understood as trap and total loss rather than luck and reserve.",
+    "evidence": [
+     {
+      "kind": "relation",
+      "relation_id": "r75_5",
+      "type": "REFRAMES",
+      "confidence": 0.6,
+      "source_label": "Recognized Morlock Trap",
+      "target_label": "Night Without Morlock Attack",
+      "rationale": "The night without attack account says no Morlocks approached on the hill during the vigil, while the recognized trap belief that the Morlocks are baiting him makes that quiet look like deliberate holding back to lure him.",
+      "earlier": {
+       "unit_id": "u57_5",
+       "label": "Night Without Morlock Attack",
+       "passage": 57,
+       "quote": "Morlocks had approached us. Indeed, I had seen none upon the hill that",
+       "start": 1644,
+       "end": 1714
+      },
+      "later": {
+       "unit_id": "u75_4",
+       "label": "Recognized Morlock Trap",
+       "passage": 75,
+       "quote": "For once, at least, I grasped the mental operations of the Morlocks",
+       "start": 834,
+       "end": 901
+      },
+      "adjacent": true,
+      "ref_index": 8,
+      "how_it_supports": "Shows the quiet hill night re-read as deliberate holding back to lure."
+     },
+     {
+      "kind": "relation",
+      "relation_id": "r75_7",
+      "type": "REFINES",
+      "confidence": 0.85,
+      "source_label": "Useless Matches Crisis",
+      "target_label": "Loose Matches Discovery",
+      "rationale": "The loose matches account says some loose matches remained in the trouser pocket after the box was lost, while the useless matches account qualifies those matches as lighting only on the box, making the find effectively useless.",
+      "earlier": {
+       "unit_id": "u73_1",
+       "label": "Loose Matches Discovery",
+       "passage": 73,
+       "quote": "In my trouser pocket were still some loose matches",
+       "start": 91,
+       "end": 141
+      },
+      "later": {
+       "unit_id": "u75_6",
+       "label": "Useless Matches Crisis",
+       "passage": 75,
+       "quote": "The matches were of that abominable kind that light only on the\nbox",
+       "start": 1698,
+       "end": 1765
+      },
+      "adjacent": true,
+      "ref_index": 10,
+      "how_it_supports": "Shows spare matches re-read as useless without the lost box."
+     }
+    ],
+    "limitation": "The evidence shows re-reading of the quiet night and matches but does not show the leap to dying earth or final disbelief.",
+    "grounding_note": "",
+    "beyond_evidence": ""
+   }
+  ],
+  "warnings": [],
+  "provenance": "model",
+  "model": "muse-spark-1.3",
+  "generated_at": 1793552277.13913
+ }
+}

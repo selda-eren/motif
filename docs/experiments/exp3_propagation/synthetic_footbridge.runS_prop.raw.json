@@ -1,0 +1,1743 @@
+{
+ "passage_notes": [
+  {
+   "idx": 0,
+   "gist": "Introduces the footbridge as Harlow's sole historic crossing that sustains west-bank livelihoods, schooling, and town identity.",
+   "notes": {
+    "added": [
+     "u00_1",
+     "u00_2",
+     "u00_3",
+     "u00_4",
+     "u00_5",
+     "u00_6"
+    ],
+    "merged": [],
+    "relations": [],
+    "revisions": [],
+    "warnings": [],
+    "temp_ids": {
+     "n1": "u00_1",
+     "n2": "u00_2",
+     "n3": "u00_3",
+     "n4": "u00_4",
+     "n5": "u00_5",
+     "n6": "u00_6"
+    },
+    "rejected": [],
+    "activated": [],
+    "propagation": {
+     "changes": [],
+     "candidates": [],
+     "decisions": [],
+     "rejected": [],
+     "revisions": []
+    }
+   }
+  },
+  {
+   "idx": 1,
+   "gist": "Shows how the footbridge sustains everyday medical care, mail, and tradition while inspiring shared celebration across both banks.",
+   "notes": {
+    "added": [
+     "u01_1",
+     "u01_2",
+     "u01_3",
+     "u01_4",
+     "u01_5"
+    ],
+    "merged": [],
+    "relations": [
+     "r01_1",
+     "r01_2",
+     "r01_3",
+     "r01_4",
+     "r01_5"
+    ],
+    "revisions": [],
+    "warnings": [],
+    "temp_ids": {
+     "n1": "u01_1",
+     "n2": "u01_2",
+     "n3": "u01_3",
+     "n4": "u01_4",
+     "n5": "u01_5"
+    },
+    "rejected": [],
+    "activated": [
+     "u00_1",
+     "u00_2",
+     "u00_3",
+     "u00_4",
+     "u00_5",
+     "u00_6"
+    ],
+    "propagation": {
+     "changes": [],
+     "candidates": [],
+     "decisions": [],
+     "rejected": [],
+     "revisions": []
+    }
+   }
+  },
+  {
+   "idx": 2,
+   "gist": "Narrates the footbridge's destruction in the March 2024 flood, attributes the loss to decades of uninspected rot, and establishes years of separation until replacement.",
+   "notes": {
+    "added": [
+     "u02_1",
+     "u02_2",
+     "u02_3",
+     "u02_4",
+     "u02_5",
+     "u02_6"
+    ],
+    "merged": [],
+    "relations": [
+     "r02_1",
+     "r02_2",
+     "r02_3",
+     "r02_4",
+     "r02_5",
+     "r02_6",
+     "r02_7",
+     "r02_8",
+     "r02_9",
+     "r02_10"
+    ],
+    "revisions": [
+     "u00_1",
+     "u00_6",
+     "u01_3"
+    ],
+    "warnings": [],
+    "temp_ids": {
+     "n1": "u02_1",
+     "n2": "u02_2",
+     "n3": "u02_3",
+     "n4": "u02_4",
+     "n5": "u02_5",
+     "n6": "u02_6"
+    },
+    "rejected": [],
+    "activated": [
+     "u00_1",
+     "u00_2",
+     "u00_3",
+     "u00_4",
+     "u00_5",
+     "u00_6",
+     "u01_1",
+     "u01_2",
+     "u01_3",
+     "u01_4",
+     "u01_5"
+    ],
+    "propagation": {
+     "changes": [
+      {
+       "unit_id": "u00_1",
+       "cause_unit": "u02_1",
+       "how": "state revision",
+       "detail": "The single wooden footbridge no longer joins the banks; it was carried away in the March flood leaving only stone footings, with no local replacement for years."
+      },
+      {
+       "unit_id": "u00_6",
+       "cause_unit": "u02_3",
+       "how": "interpretive revision",
+       "detail": "The 2021 council claim of yearly inspections and sound condition is discredited; the bridge had in fact not been inspected at all since 1998."
+      },
+      {
+       "unit_id": "u01_3",
+       "cause_unit": "u02_6",
+       "how": "state revision",
+       "detail": "The planned 2025 procession from one bank to the other cannot proceed across the footbridge; there will be no local crossing for at least three years."
+      },
+      {
+       "unit_id": "u00_1",
+       "cause_unit": "u02_1",
+       "how": "CHANGES_STATE",
+       "detail": "Flood Destroys Footbridge says the flood carried the footbridge away shortly before midnight on the fourteenth, while Sole Wooden Footbridge says the two halves were joined by a single wooden footbridge."
+      },
+      {
+       "unit_id": "u01_3",
+       "cause_unit": "u02_1",
+       "how": "CHANGES_STATE",
+       "detail": "Flood Destroys Footbridge says the footbridge was carried away, while Centenary festival planning describes a 2025 festival with a procession from one bank to the other across that bridge."
+      },
+      {
+       "unit_id": "u00_6",
+       "cause_unit": "u02_3",
+       "how": "CONTRADICTS",
+       "detail": "Decades Without Inspection says the engineering report found no inspection at all since 1998, while Bridge Structurally Sound says a 2021 council survey reported yearly inspections and sound condition."
+      },
+      {
+       "unit_id": "u00_6",
+       "cause_unit": "u02_4",
+       "how": "CONTRADICTS",
+       "detail": "Unnoticed Beam Rot says rot in the main beams had gone unnoticed for many years, while Bridge Structurally Sound claimed the bridge was structurally sound."
+      }
+     ],
+     "candidates": [
+      {
+       "unit_id": "u01_1",
+       "via": [
+        {
+         "relation": "r01_1",
+         "changed": "u00_1"
+        }
+       ]
+      },
+      {
+       "unit_id": "u00_3",
+       "via": [
+        {
+         "relation": "r01_3",
+         "changed": "u01_3"
+        }
+       ]
+      },
+      {
+       "unit_id": "u01_5",
+       "via": [
+        {
+         "relation": "r01_5",
+         "changed": "u00_1"
+        }
+       ]
+      }
+     ],
+     "decisions": [
+      {
+       "unit_id": "u01_1",
+       "verdict": "state_update",
+       "rationale": "Because Sole Wooden Footbridge no longer joins the banks after Flood Destroys Footbridge, and Years-Long Crossing Gap leaves only the road bridge twenty kilometres north, the Doctor's bridge-accessible surgery can no longer serve both halves as before while its locational purpose is unchanged."
+      },
+      {
+       "unit_id": "u00_3",
+       "verdict": "unchanged",
+       "rationale": "Although Sole Wooden Footbridge was carried away in Flood Destroys Footbridge, the Seal Union Symbol still describes what the town seal shows since 1920 and its union meaning, which the physical loss does not erase."
+      },
+      {
+       "unit_id": "u01_5",
+       "verdict": "state_update",
+       "rationale": "Because Flood Destroys Footbridge removed Sole Wooden Footbridge and Years-Long Crossing Gap leaves only the distant road bridge, the Single post office reliance can no longer operate by carrying letters across while its single-office arrangement is unchanged."
+      }
+     ],
+     "rejected": [],
+     "revisions": [
+      "u01_1",
+      "u01_5"
+     ]
+    }
+   }
+  }
+ ],
+ "llm_calls_since_start": [
+  {
+   "key": "c1ce0f0433f827b474183d66e2d77a8849e45be18523e89b784585b377931a23",
+   "task": "perception",
+   "created_at": 1793124148.0437,
+   "request": {
+    "model": "muse-spark-1.3",
+    "messages": [
+     {
+      "role": "system",
+      "content": "You are the perception stage of MOTIF, a system that reads a text incrementally, passage by passage, the way a careful reader builds understanding.\n\nRead ONLY the passage given. Propose 3-6 elementary units that carry its meaning:\n- concept: an idea or notion the passage introduces or uses\n- claim: an assertion or argumentative step\n- event: something that happens\n- situation: a state of affairs or scene\n- entity: a person, group or thing that matters\n- image: a figure, metaphor or recurring motif\n\nRules:\n- `quote` MUST be copied character-for-character from the passage (5-40 words). Do not paraphrase inside `quote`, do not join non-adjacent text, do not add ellipses.\n- `content` states the unit in one plain sentence, as this passage presents it.\n- basis \"explicit\" = directly stated by the quote; \"inferred\" = your interpretation, anchored by the quote.\n- When the text is figurative, record the literal image as presented; do not import knowledge of how the work continues or what it is famous for.\n- Prefer units that later passages could build on, challenge or reinterpret."
+     },
+     {
+      "role": "user",
+      "content": "Text: \"The Harlow Footbridge (synthetic test text)\" by MOTIF test fixture (nonfiction).\nPassage 1 of 3:\n<<<\nHarlow lies on both banks of the river Lenn, and for most of its history the two halves of the town have been joined by a single wooden footbridge. The bridge was built in 1912 by the carpenters' guild of the west bank and the masons' guild of the east bank, working together for the first time after decades of rivalry. There is no other crossing for twenty kilometres in either direction.\n\nThe weekly market is held every Saturday in the square on the east bank. The vegetable growers of the west bank carry their produce over on handcarts at dawn, and for most of these households the Saturday stalls bring in more than half of their yearly income.\n\nSince 1920 the town seal has shown the footbridge beneath two clasped hands. The council's own guide to the seal explains that the image stands for the union of the two banks and for the reconciliation of the guilds that built it.\n\nThe railings were repainted dark green in 2019, after a public vote in which green narrowly defeated a proposal to restore the original white. A council survey published in 2021 reported that the footbridge had been inspected every year and was structurally sound.\n\nThe only school in Harlow stands on the east bank, near the church. About ninety children from the west bank walk to it each morning, and the school timetable begins at a quarter past eight so that they can cross after the market carts have passed. Teachers say that the walk is the part of the day the children talk about most.\n\nIn 2022 the west-bank growers formed a cooperative and built a shared cold store beside their fields. It keeps vegetables fresh through the week, so that everything picked between Sunday and Friday can still be sold at the Saturday stalls. The cooperative borrowed heavily to build it and expected to repay the loan within six years from market sales.\n>>>"
+     }
+    ],
+    "response_format": {
+     "type": "json_schema",
+     "json_schema": {
+      "name": "Perception",
+      "schema": {
+       "$defs": {
+        "PerceivedUnit": {
+         "properties": {
+          "kind": {
+           "enum": [
+            "concept",
+            "claim",
+            "event",
+            "situation",
+            "entity",
+            "image"
+           ],
+           "title": "Kind",
+           "type": "string"
+          },
+          "label": {
+           "description": "2-6 word name for the unit",
+           "title": "Label",
+           "type": "string"
+          },
+          "content": {
+           "description": "One sentence stating the unit as the passage presents it",
+           "title": "Content",
+           "type": "string"
+          },
+          "participants": {
+           "description": "Agents or entities involved; may be empty",
+           "items": {
+            "type": "string"
+           },
+           "title": "Participants",
+           "type": "array"
+          },
+          "quote": {
+           "description": "Exact, verbatim span copied from the passage (5-40 words) that grounds this unit",
+           "title": "Quote",
+           "type": "string"
+          },
+          "basis": {
+           "description": "explicit: directly stated in the quote; inferred: your interpretation anchored by the quote",
+           "enum": [
+            "explicit",
+            "inferred"
+           ],
+           "title": "Basis",
+           "type": "string"
+          },
+          "confidence": {
+           "description": "0.0-1.0",
+           "title": "Confidence",
+           "type": "number"
+          }
+         },
+         "required": [
+          "kind",
+          "label",
+          "content",
+          "participants",
+          "quote",
+          "basis",
+          "confidence"
+         ],
+         "title": "PerceivedUnit",
+         "type": "object"
+        }
+       },
+       "properties": {
+        "gist": {
+         "description": "One sentence: what this passage does in the argument or story",
+         "title": "Gist",
+         "type": "string"
+        },
+        "units": {
+         "items": {
+          "$ref": "#/$defs/PerceivedUnit"
+         },
+         "title": "Units",
+         "type": "array"
+        }
+       },
+       "required": [
+        "gist",
+        "units"
+       ],
+       "title": "PerceptionResult",
+       "type": "object"
+      }
+     }
+    },
+    "reasoning_effort": "medium",
+    "max_completion_tokens": 12000
+   },
+   "response": {
+    "gist": "Introduces the footbridge as Harlow's sole historic crossing that sustains west-bank livelihoods, schooling, and town identity.",
+    "units": [
+     {
+      "basis": "explicit",
+      "confidence": 1.0,
+      "content": "Harlow's two halves are joined by a single wooden footbridge with no other crossing for twenty kilometres.",
+      "kind": "entity",
+      "label": "Sole Wooden Footbridge",
+      "participants": [
+       "west bank",
+       "east bank"
+      ],
+      "quote": "the two halves of the town have been joined by a single wooden footbridge"
+     },
+     {
+      "basis": "explicit",
+      "confidence": 0.95,
+      "content": "Most west-bank grower households depend on Saturday stalls for more than half their yearly income.",
+      "kind": "situation",
+      "label": "Growers Market Dependence",
+      "participants": [
+       "vegetable growers of the west bank"
+      ],
+      "quote": "for most of these households the Saturday stalls bring in more than half of their yearly income"
+     },
+     {
+      "basis": "inferred",
+      "confidence": 0.9,
+      "content": "The town seal shows the footbridge beneath clasped hands as a symbol of the union of the banks and reconciliation of the building guilds.",
+      "kind": "image",
+      "label": "Seal Union Symbol",
+      "participants": [
+       "council",
+       "carpenters' guild",
+       "masons' guild"
+      ],
+      "quote": "Since 1920 the town seal has shown the footbridge beneath two clasped hands"
+     },
+     {
+      "basis": "explicit",
+      "confidence": 0.95,
+      "content": "About ninety west-bank children cross the bridge each morning to reach the east-bank school.",
+      "kind": "situation",
+      "label": "Schoolchildren Daily Crossing",
+      "participants": [
+       "west-bank children",
+       "school"
+      ],
+      "quote": "About ninety children from the west bank walk to it each morning"
+     },
+     {
+      "basis": "explicit",
+      "confidence": 0.95,
+      "content": "The west-bank cooperative borrowed heavily for a shared cold store to be repaid within six years from market sales.",
+      "kind": "situation",
+      "label": "Cooperative Cold Store Debt",
+      "participants": [
+       "west-bank growers cooperative"
+      ],
+      "quote": "The cooperative borrowed heavily to build it and expected to repay the loan within six years from market sales"
+     },
+     {
+      "basis": "explicit",
+      "confidence": 0.95,
+      "content": "A 2021 council survey reported the footbridge was inspected yearly and structurally sound.",
+      "kind": "claim",
+      "label": "Bridge Structurally Sound",
+      "participants": [
+       "council"
+      ],
+      "quote": "the footbridge had been inspected every year and was structurally sound"
+     }
+    ]
+   }
+  },
+  {
+   "key": "d9536dc882f8f788de808d9ed3663bf4307f4293295bd8f018c5de763b99e01b",
+   "task": "integration",
+   "created_at": 1793124156.584189,
+   "request": {
+    "model": "muse-spark-1.3",
+    "messages": [
+     {
+      "role": "system",
+      "content": "You are the integration stage of MOTIF. A reader has just finished a new passage. You see the NEW units perceived in it and EXISTING units from earlier passages that the new material brought back to mind.\n\nFor each new unit, decide:\n- action \"merge\": it restates an existing unit (same idea, same referent). Set merge_into to that id.\n- action \"add\": it is new information. Set merge_into to \"\".\n- relations: links between this new unit and an existing unit or another new unit. Each reads \"A <TYPE> B\"; set direction to say whether the new unit is A (\"new_to_target\") or B (\"target_to_new\"):\n  SUPPORTS: A gives evidence, an example or a reason for B\n  CONTRADICTS: A conflicts with, denies, opposes or undermines B as an account or claim. A later change of circumstances is not a contradiction: use CHANGES_STATE\n  REFINES: A makes B more precise, qualified or developed\n  CAUSES: A brings about B\n  CHANGES_STATE: A is a later event that changes the situation B describes (something is lost, sold, ended or transformed); B stays true of its own time\n  REFRAMES: A changes what B means or stands for (e.g. a literal image is revealed as a figure for something else)\n  RELATES_TO: a meaningful but weaker thematic link; use sparingly\n- revisions: only when this new passage changes an EXISTING unit. Say which kind:\n  \"state\": only the facts changed over time (something is now lost, sold, ended); give what is now the case.\n  \"interpretive\": what the earlier unit means or signifies has changed (for example, a literal image is now explained as standing for something else, or an earlier claim is qualified); give the new reading. Set coexists to true if the new reading adds to the current one instead of replacing it.\n\nWrite rationales and readings for a human reader: refer to units by their label in plain words, never by id (no \"u00_1\", \"n2\", \"NEW\" or \"TARGET\").\n\nBe selective: prefer zero to three relations per unit, and only relations you could defend by pointing at both texts. The rationale must say what each side says. Earlier passages are fixed evidence; your readings of them may change."
+     },
+     {
+      "role": "user",
+      "content": "New passage 1: Introduces the footbridge as Harlow's sole historic crossing that sustains west-bank livelihoods, schooling, and town identity.\n\nNEW units:\n[\n {\n  \"id\": \"n1\",\n  \"kind\": \"entity\",\n  \"label\": \"Sole Wooden Footbridge\",\n  \"content\": \"Harlow's two halves are joined by a single wooden footbridge with no other crossing for twenty kilometres.\",\n  \"passage\": 1,\n  \"quote\": \"the two halves of the town have been joined by a single wooden footbridge\"\n },\n {\n  \"id\": \"n2\",\n  \"kind\": \"situation\",\n  \"label\": \"Growers Market Dependence\",\n  \"content\": \"Most west-bank grower households depend on Saturday stalls for more than half their yearly income.\",\n  \"passage\": 1,\n  \"quote\": \"for most of these households the Saturday stalls bring in more than half of their yearly income\"\n },\n {\n  \"id\": \"n3\",\n  \"kind\": \"image\",\n  \"label\": \"Seal Union Symbol\",\n  \"content\": \"The town seal shows the footbridge beneath clasped hands as a symbol of the union of the banks and reconciliation of the building guilds.\",\n  \"passage\": 1,\n  \"quote\": \"Since 1920 the town seal has shown the footbridge beneath two clasped hands\"\n },\n {\n  \"id\": \"n4\",\n  \"kind\": \"situation\",\n  \"label\": \"Schoolchildren Daily Crossing\",\n  \"content\": \"About ninety west-bank children cross the bridge each morning to reach the east-bank school.\",\n  \"passage\": 1,\n  \"quote\": \"About ninety children from the west bank walk to it each morning\"\n },\n {\n  \"id\": \"n5\",\n  \"kind\": \"situation\",\n  \"label\": \"Cooperative Cold Store Debt\",\n  \"content\": \"The west-bank cooperative borrowed heavily for a shared cold store to be repaid within six years from market sales.\",\n  \"passage\": 1,\n  \"quote\": \"The cooperative borrowed heavily to build it and expected to repay the loan within six years from market sales\"\n },\n {\n  \"id\": \"n6\",\n  \"kind\": \"claim\",\n  \"label\": \"Bridge Structurally Sound\",\n  \"content\": \"A 2021 council survey reported the footbridge was inspected yearly and structurally sound.\",\n  \"passage\": 1,\n  \"quote\": \"the footbridge had been inspected every year and was structurally sound\"\n }\n]\n\nEXISTING units (activated from memory):\n[] (nothing yet)"
+     }
+    ],
+    "response_format": {
+     "type": "json_schema",
+     "json_schema": {
+      "name": "Integration",
+      "schema": {
+       "$defs": {
+        "IntegrationDecision": {
+         "properties": {
+          "new_unit": {
+           "description": "temporary id of the new unit, e.g. n1",
+           "title": "New Unit",
+           "type": "string"
+          },
+          "action": {
+           "description": "merge only if the new unit restates an existing unit; otherwise add",
+           "enum": [
+            "add",
+            "merge"
+           ],
+           "title": "Action",
+           "type": "string"
+          },
+          "merge_into": {
+           "description": "existing unit id when action is merge, else empty string",
+           "title": "Merge Into",
+           "type": "string"
+          },
+          "relations": {
+           "items": {
+            "$ref": "#/$defs/ProposedRelation"
+           },
+           "title": "Relations",
+           "type": "array"
+          },
+          "revisions": {
+           "items": {
+            "$ref": "#/$defs/ProposedRevision"
+           },
+           "title": "Revisions",
+           "type": "array"
+          }
+         },
+         "required": [
+          "new_unit",
+          "action",
+          "merge_into",
+          "relations",
+          "revisions"
+         ],
+         "title": "IntegrationDecision",
+         "type": "object"
+        },
+        "ProposedRelation": {
+         "properties": {
+          "target": {
+           "description": "id of an existing unit (e.g. u00_1) or another new unit (e.g. n2)",
+           "title": "Target",
+           "type": "string"
+          },
+          "type": {
+           "enum": [
+            "SUPPORTS",
+            "CONTRADICTS",
+            "REFINES",
+            "CAUSES",
+            "REFRAMES",
+            "RELATES_TO",
+            "CHANGES_STATE"
+           ],
+           "title": "Type",
+           "type": "string"
+          },
+          "direction": {
+           "description": "new_to_target: NEW unit <TYPE> target. target_to_new: target <TYPE> NEW unit (e.g. when an earlier unit CAUSES the new one)",
+           "enum": [
+            "new_to_target",
+            "target_to_new"
+           ],
+           "title": "Direction",
+           "type": "string"
+          },
+          "rationale": {
+           "description": "Why they relate, referring to what each text says",
+           "title": "Rationale",
+           "type": "string"
+          },
+          "confidence": {
+           "description": "0.0-1.0",
+           "title": "Confidence",
+           "type": "number"
+          }
+         },
+         "required": [
+          "target",
+          "type",
+          "direction",
+          "rationale",
+          "confidence"
+         ],
+         "title": "ProposedRelation",
+         "type": "object"
+        },
+        "ProposedRevision": {
+         "properties": {
+          "target": {
+           "description": "id of an existing unit whose significance changes",
+           "title": "Target",
+           "type": "string"
+          },
+          "kind": {
+           "default": "interpretive",
+           "description": "state: only the facts of the earlier unit changed over time (what is now the case); interpretive: what it means or signifies has changed",
+           "enum": [
+            "state",
+            "interpretive"
+           ],
+           "title": "Kind",
+           "type": "string"
+          },
+          "new_reading": {
+           "description": "state: what is now the case. interpretive: how the earlier unit should now be understood",
+           "title": "New Reading",
+           "type": "string"
+          },
+          "coexists": {
+           "default": false,
+           "description": "interpretive only: true if this reading adds to the current reading instead of replacing it (e.g. practical significance changes, symbolic remains)",
+           "title": "Coexists",
+           "type": "boolean"
+          },
+          "rationale": {
+           "title": "Rationale",
+           "type": "string"
+          }
+         },
+         "required": [
+          "target",
+          "kind",
+          "new_reading",
+          "coexists",
+          "rationale"
+         ],
+         "title": "ProposedRevision",
+         "type": "object"
+        }
+       },
+       "properties": {
+        "decisions": {
+         "items": {
+          "$ref": "#/$defs/IntegrationDecision"
+         },
+         "title": "Decisions",
+         "type": "array"
+        }
+       },
+       "required": [
+        "decisions"
+       ],
+       "title": "IntegrationResult",
+       "type": "object"
+      }
+     }
+    },
+    "reasoning_effort": "medium",
+    "max_completion_tokens": 12000
+   },
+   "response": {
+    "decisions": [
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n1",
+      "relations": [],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n2",
+      "relations": [],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n3",
+      "relations": [],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n4",
+      "relations": [],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n5",
+      "relations": [],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n6",
+      "relations": [],
+      "revisions": []
+     }
+    ]
+   }
+  },
+  {
+   "key": "d3acbd7f8551017b91ee1ee7342637635cca4100a0c7408c8e8e3d824d56802a",
+   "task": "perception",
+   "created_at": 1793124169.782567,
+   "request": {
+    "model": "muse-spark-1.3",
+    "messages": [
+     {
+      "role": "system",
+      "content": "You are the perception stage of MOTIF, a system that reads a text incrementally, passage by passage, the way a careful reader builds understanding.\n\nRead ONLY the passage given. Propose 3-6 elementary units that carry its meaning:\n- concept: an idea or notion the passage introduces or uses\n- claim: an assertion or argumentative step\n- event: something that happens\n- situation: a state of affairs or scene\n- entity: a person, group or thing that matters\n- image: a figure, metaphor or recurring motif\n\nRules:\n- `quote` MUST be copied character-for-character from the passage (5-40 words). Do not paraphrase inside `quote`, do not join non-adjacent text, do not add ellipses.\n- `content` states the unit in one plain sentence, as this passage presents it.\n- basis \"explicit\" = directly stated by the quote; \"inferred\" = your interpretation, anchored by the quote.\n- When the text is figurative, record the literal image as presented; do not import knowledge of how the work continues or what it is famous for.\n- Prefer units that later passages could build on, challenge or reinterpret."
+     },
+     {
+      "role": "user",
+      "content": "Text: \"The Harlow Footbridge (synthetic test text)\" by MOTIF test fixture (nonfiction).\nPrevious passage, in one sentence: Introduces the footbridge as Harlow's sole historic crossing that sustains west-bank livelihoods, schooling, and town identity.\n\nPassage 2 of 3:\n<<<\nThe town's only doctor keeps her surgery on the west bank, in the old customs house. Patients from the east bank cross to see her on weekday mornings, and on Thursdays she holds a clinic for the elderly, many of whom are pushed over the footbridge in wheelchairs by relatives or neighbours. She has said that she chose the customs house because it is a short walk from the bridge, so that both halves of the town could reach her easily.\n\nThe council has also begun planning a festival for the bridge's centenary of restoration, due in 2025, with lanterns hung along the green railings and a procession from one bank to the other. A local poet has written verses for the occasion, ending with the line \"two banks, one step\". The festival committee has already ordered three hundred paper lanterns and asked both guilds to lead the procession together, as their founders did when the bridge first opened.\n\nThe river itself has changed little. Trout are still caught below the weir, and the library on the east bank keeps a record of the largest fish landed each summer, a tradition that dates from the nineteenth century. The library also lends fishing rods to children during the school holidays, and its reading room holds the town's collection of old maps and parish registers.\n\nPost for the whole town is sorted at the post office on the east bank. Twice a day the postman carries the letters for the west bank across in a canvas bag, and the post office has never needed a second branch because, as the postmaster likes to say, the bridge is only four minutes long. Parcels too large for the bag are wheeled over on a trolley that the post office bought for the purpose in the 1960s and still uses.\n>>>"
+     }
+    ],
+    "response_format": {
+     "type": "json_schema",
+     "json_schema": {
+      "name": "Perception",
+      "schema": {
+       "$defs": {
+        "PerceivedUnit": {
+         "properties": {
+          "kind": {
+           "enum": [
+            "concept",
+            "claim",
+            "event",
+            "situation",
+            "entity",
+            "image"
+           ],
+           "title": "Kind",
+           "type": "string"
+          },
+          "label": {
+           "description": "2-6 word name for the unit",
+           "title": "Label",
+           "type": "string"
+          },
+          "content": {
+           "description": "One sentence stating the unit as the passage presents it",
+           "title": "Content",
+           "type": "string"
+          },
+          "participants": {
+           "description": "Agents or entities involved; may be empty",
+           "items": {
+            "type": "string"
+           },
+           "title": "Participants",
+           "type": "array"
+          },
+          "quote": {
+           "description": "Exact, verbatim span copied from the passage (5-40 words) that grounds this unit",
+           "title": "Quote",
+           "type": "string"
+          },
+          "basis": {
+           "description": "explicit: directly stated in the quote; inferred: your interpretation anchored by the quote",
+           "enum": [
+            "explicit",
+            "inferred"
+           ],
+           "title": "Basis",
+           "type": "string"
+          },
+          "confidence": {
+           "description": "0.0-1.0",
+           "title": "Confidence",
+           "type": "number"
+          }
+         },
+         "required": [
+          "kind",
+          "label",
+          "content",
+          "participants",
+          "quote",
+          "basis",
+          "confidence"
+         ],
+         "title": "PerceivedUnit",
+         "type": "object"
+        }
+       },
+       "properties": {
+        "gist": {
+         "description": "One sentence: what this passage does in the argument or story",
+         "title": "Gist",
+         "type": "string"
+        },
+        "units": {
+         "items": {
+          "$ref": "#/$defs/PerceivedUnit"
+         },
+         "title": "Units",
+         "type": "array"
+        }
+       },
+       "required": [
+        "gist",
+        "units"
+       ],
+       "title": "PerceptionResult",
+       "type": "object"
+      }
+     }
+    },
+    "reasoning_effort": "medium",
+    "max_completion_tokens": 12000
+   },
+   "response": {
+    "gist": "Shows how the footbridge sustains everyday medical care, mail, and tradition while inspiring shared celebration across both banks.",
+    "units": [
+     {
+      "basis": "explicit",
+      "confidence": 0.95,
+      "content": "The town's only doctor keeps her surgery on the west bank near the bridge so both halves can reach her.",
+      "kind": "situation",
+      "label": "Doctor's bridge-accessible surgery",
+      "participants": [
+       "doctor",
+       "patients"
+      ],
+      "quote": "The town's only doctor keeps her surgery on the west bank, in the old customs house."
+     },
+     {
+      "basis": "explicit",
+      "confidence": 0.95,
+      "content": "Elderly patients are pushed over the footbridge in wheelchairs to reach the Thursday clinic.",
+      "kind": "event",
+      "label": "Elderly wheelchair bridge crossings",
+      "participants": [
+       "elderly patients",
+       "relatives",
+       "neighbours"
+      ],
+      "quote": "many of whom are pushed over the footbridge in wheelchairs by relatives or neighbours."
+     },
+     {
+      "basis": "explicit",
+      "confidence": 0.95,
+      "content": "The council is planning a 2025 centenary festival with lanterns and a procession from one bank to the other.",
+      "kind": "event",
+      "label": "Centenary festival planning",
+      "participants": [
+       "council",
+       "festival committee",
+       "guilds"
+      ],
+      "quote": "The council has also begun planning a festival for the bridge's centenary of restoration, due in 2025"
+     },
+     {
+      "basis": "explicit",
+      "confidence": 0.98,
+      "content": "The poet's closing line figures the bridge as joining two banks in a single step.",
+      "kind": "image",
+      "label": "Two banks one step",
+      "participants": [
+       "local poet"
+      ],
+      "quote": "ending with the line \"two banks, one step\"."
+     },
+     {
+      "basis": "explicit",
+      "confidence": 0.93,
+      "content": "The single east-bank post office serves the west bank by carrying letters across the bridge twice daily.",
+      "kind": "situation",
+      "label": "Single post office reliance",
+      "participants": [
+       "postman",
+       "postmaster"
+      ],
+      "quote": "Twice a day the postman carries the letters for the west bank across in a canvas bag"
+     }
+    ]
+   }
+  },
+  {
+   "key": "bc8b3dfc4255a11fabeab7476b6f2ac0c8cc72a87e473969a50c8e188c912ca1",
+   "task": "integration",
+   "created_at": 1793124185.013216,
+   "request": {
+    "model": "muse-spark-1.3",
+    "messages": [
+     {
+      "role": "system",
+      "content": "You are the integration stage of MOTIF. A reader has just finished a new passage. You see the NEW units perceived in it and EXISTING units from earlier passages that the new material brought back to mind.\n\nFor each new unit, decide:\n- action \"merge\": it restates an existing unit (same idea, same referent). Set merge_into to that id.\n- action \"add\": it is new information. Set merge_into to \"\".\n- relations: links between this new unit and an existing unit or another new unit. Each reads \"A <TYPE> B\"; set direction to say whether the new unit is A (\"new_to_target\") or B (\"target_to_new\"):\n  SUPPORTS: A gives evidence, an example or a reason for B\n  CONTRADICTS: A conflicts with, denies, opposes or undermines B as an account or claim. A later change of circumstances is not a contradiction: use CHANGES_STATE\n  REFINES: A makes B more precise, qualified or developed\n  CAUSES: A brings about B\n  CHANGES_STATE: A is a later event that changes the situation B describes (something is lost, sold, ended or transformed); B stays true of its own time\n  REFRAMES: A changes what B means or stands for (e.g. a literal image is revealed as a figure for something else)\n  RELATES_TO: a meaningful but weaker thematic link; use sparingly\n- revisions: only when this new passage changes an EXISTING unit. Say which kind:\n  \"state\": only the facts changed over time (something is now lost, sold, ended); give what is now the case.\n  \"interpretive\": what the earlier unit means or signifies has changed (for example, a literal image is now explained as standing for something else, or an earlier claim is qualified); give the new reading. Set coexists to true if the new reading adds to the current one instead of replacing it.\n\nWrite rationales and readings for a human reader: refer to units by their label in plain words, never by id (no \"u00_1\", \"n2\", \"NEW\" or \"TARGET\").\n\nBe selective: prefer zero to three relations per unit, and only relations you could defend by pointing at both texts. The rationale must say what each side says. Earlier passages are fixed evidence; your readings of them may change."
+     },
+     {
+      "role": "user",
+      "content": "New passage 2: Shows how the footbridge sustains everyday medical care, mail, and tradition while inspiring shared celebration across both banks.\n\nNEW units:\n[\n {\n  \"id\": \"n1\",\n  \"kind\": \"situation\",\n  \"label\": \"Doctor's bridge-accessible surgery\",\n  \"content\": \"The town's only doctor keeps her surgery on the west bank near the bridge so both halves can reach her.\",\n  \"passage\": 2,\n  \"quote\": \"The town's only doctor keeps her surgery on the west bank, in the old customs house\"\n },\n {\n  \"id\": \"n2\",\n  \"kind\": \"event\",\n  \"label\": \"Elderly wheelchair bridge crossings\",\n  \"content\": \"Elderly patients are pushed over the footbridge in wheelchairs to reach the Thursday clinic.\",\n  \"passage\": 2,\n  \"quote\": \"many of whom are pushed over the footbridge in wheelchairs by relatives or neighbours\"\n },\n {\n  \"id\": \"n3\",\n  \"kind\": \"event\",\n  \"label\": \"Centenary festival planning\",\n  \"content\": \"The council is planning a 2025 centenary festival with lanterns and a procession from one bank to the other.\",\n  \"passage\": 2,\n  \"quote\": \"The council has also begun planning a festival for the bridge's centenary of restoration, due in 2025\"\n },\n {\n  \"id\": \"n4\",\n  \"kind\": \"image\",\n  \"label\": \"Two banks one step\",\n  \"content\": \"The poet's closing line figures the bridge as joining two banks in a single step.\",\n  \"passage\": 2,\n  \"quote\": \"ending with the line \\\"two banks, one step\\\"\"\n },\n {\n  \"id\": \"n5\",\n  \"kind\": \"situation\",\n  \"label\": \"Single post office reliance\",\n  \"content\": \"The single east-bank post office serves the west bank by carrying letters across the bridge twice daily.\",\n  \"passage\": 2,\n  \"quote\": \"Twice a day the postman carries the letters for the west bank across in a canvas bag\"\n }\n]\n\nEXISTING units (activated from memory):\n[\n {\n  \"id\": \"u00_1\",\n  \"kind\": \"entity\",\n  \"label\": \"Sole Wooden Footbridge\",\n  \"content\": \"Harlow's two halves are joined by a single wooden footbridge with no other crossing for twenty kilometres.\",\n  \"passage\": 1,\n  \"quote\": \"the two halves of the town have been joined by a single wooden footbridge\"\n },\n {\n  \"id\": \"u00_2\",\n  \"kind\": \"situation\",\n  \"label\": \"Growers Market Dependence\",\n  \"content\": \"Most west-bank grower households depend on Saturday stalls for more than half their yearly income.\",\n  \"passage\": 1,\n  \"quote\": \"for most of these households the Saturday stalls bring in more than half of their yearly income\"\n },\n {\n  \"id\": \"u00_3\",\n  \"kind\": \"image\",\n  \"label\": \"Seal Union Symbol\",\n  \"content\": \"The town seal shows the footbridge beneath clasped hands as a symbol of the union of the banks and reconciliation of the building guilds.\",\n  \"passage\": 1,\n  \"quote\": \"Since 1920 the town seal has shown the footbridge beneath two clasped hands\"\n },\n {\n  \"id\": \"u00_4\",\n  \"kind\": \"situation\",\n  \"label\": \"Schoolchildren Daily Crossing\",\n  \"content\": \"About ninety west-bank children cross the bridge each morning to reach the east-bank school.\",\n  \"passage\": 1,\n  \"quote\": \"About ninety children from the west bank walk to it each morning\"\n },\n {\n  \"id\": \"u00_5\",\n  \"kind\": \"situation\",\n  \"label\": \"Cooperative Cold Store Debt\",\n  \"content\": \"The west-bank cooperative borrowed heavily for a shared cold store to be repaid within six years from market sales.\",\n  \"passage\": 1,\n  \"quote\": \"The cooperative borrowed heavily to build it and expected to repay the loan within six years from market sales\"\n },\n {\n  \"id\": \"u00_6\",\n  \"kind\": \"claim\",\n  \"label\": \"Bridge Structurally Sound\",\n  \"content\": \"A 2021 council survey reported the footbridge was inspected yearly and structurally sound.\",\n  \"passage\": 1,\n  \"quote\": \"the footbridge had been inspected every year and was structurally sound\"\n }\n]"
+     }
+    ],
+    "response_format": {
+     "type": "json_schema",
+     "json_schema": {
+      "name": "Integration",
+      "schema": {
+       "$defs": {
+        "IntegrationDecision": {
+         "properties": {
+          "new_unit": {
+           "description": "temporary id of the new unit, e.g. n1",
+           "title": "New Unit",
+           "type": "string"
+          },
+          "action": {
+           "description": "merge only if the new unit restates an existing unit; otherwise add",
+           "enum": [
+            "add",
+            "merge"
+           ],
+           "title": "Action",
+           "type": "string"
+          },
+          "merge_into": {
+           "description": "existing unit id when action is merge, else empty string",
+           "title": "Merge Into",
+           "type": "string"
+          },
+          "relations": {
+           "items": {
+            "$ref": "#/$defs/ProposedRelation"
+           },
+           "title": "Relations",
+           "type": "array"
+          },
+          "revisions": {
+           "items": {
+            "$ref": "#/$defs/ProposedRevision"
+           },
+           "title": "Revisions",
+           "type": "array"
+          }
+         },
+         "required": [
+          "new_unit",
+          "action",
+          "merge_into",
+          "relations",
+          "revisions"
+         ],
+         "title": "IntegrationDecision",
+         "type": "object"
+        },
+        "ProposedRelation": {
+         "properties": {
+          "target": {
+           "description": "id of an existing unit (e.g. u00_1) or another new unit (e.g. n2)",
+           "title": "Target",
+           "type": "string"
+          },
+          "type": {
+           "enum": [
+            "SUPPORTS",
+            "CONTRADICTS",
+            "REFINES",
+            "CAUSES",
+            "REFRAMES",
+            "RELATES_TO",
+            "CHANGES_STATE"
+           ],
+           "title": "Type",
+           "type": "string"
+          },
+          "direction": {
+           "description": "new_to_target: NEW unit <TYPE> target. target_to_new: target <TYPE> NEW unit (e.g. when an earlier unit CAUSES the new one)",
+           "enum": [
+            "new_to_target",
+            "target_to_new"
+           ],
+           "title": "Direction",
+           "type": "string"
+          },
+          "rationale": {
+           "description": "Why they relate, referring to what each text says",
+           "title": "Rationale",
+           "type": "string"
+          },
+          "confidence": {
+           "description": "0.0-1.0",
+           "title": "Confidence",
+           "type": "number"
+          }
+         },
+         "required": [
+          "target",
+          "type",
+          "direction",
+          "rationale",
+          "confidence"
+         ],
+         "title": "ProposedRelation",
+         "type": "object"
+        },
+        "ProposedRevision": {
+         "properties": {
+          "target": {
+           "description": "id of an existing unit whose significance changes",
+           "title": "Target",
+           "type": "string"
+          },
+          "kind": {
+           "default": "interpretive",
+           "description": "state: only the facts of the earlier unit changed over time (what is now the case); interpretive: what it means or signifies has changed",
+           "enum": [
+            "state",
+            "interpretive"
+           ],
+           "title": "Kind",
+           "type": "string"
+          },
+          "new_reading": {
+           "description": "state: what is now the case. interpretive: how the earlier unit should now be understood",
+           "title": "New Reading",
+           "type": "string"
+          },
+          "coexists": {
+           "default": false,
+           "description": "interpretive only: true if this reading adds to the current reading instead of replacing it (e.g. practical significance changes, symbolic remains)",
+           "title": "Coexists",
+           "type": "boolean"
+          },
+          "rationale": {
+           "title": "Rationale",
+           "type": "string"
+          }
+         },
+         "required": [
+          "target",
+          "kind",
+          "new_reading",
+          "coexists",
+          "rationale"
+         ],
+         "title": "ProposedRevision",
+         "type": "object"
+        }
+       },
+       "properties": {
+        "decisions": {
+         "items": {
+          "$ref": "#/$defs/IntegrationDecision"
+         },
+         "title": "Decisions",
+         "type": "array"
+        }
+       },
+       "required": [
+        "decisions"
+       ],
+       "title": "IntegrationResult",
+       "type": "object"
+      }
+     }
+    },
+    "reasoning_effort": "medium",
+    "max_completion_tokens": 12000
+   },
+   "response": {
+    "decisions": [
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n1",
+      "relations": [
+       {
+        "confidence": 0.85,
+        "direction": "new_to_target",
+        "rationale": "Doctor's bridge-accessible surgery says the only doctor keeps her surgery on the west bank near the bridge so both halves can reach her, which gives a concrete medical example of what Sole Wooden Footbridge describes as joining the two halves with no other crossing nearby.",
+        "target": "u00_1",
+        "type": "SUPPORTS"
+       }
+      ],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n2",
+      "relations": [
+       {
+        "confidence": 0.9,
+        "direction": "new_to_target",
+        "rationale": "Elderly wheelchair bridge crossings says elderly patients are pushed over the footbridge to reach the Thursday clinic, which gives a lived example of how Doctor's bridge-accessible surgery serves both halves from its west-bank location.",
+        "target": "n1",
+        "type": "SUPPORTS"
+       }
+      ],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n3",
+      "relations": [
+       {
+        "confidence": 0.85,
+        "direction": "new_to_target",
+        "rationale": "Centenary festival planning says the council is planning a lantern procession from one bank to the other for the restoration centenary, which provides a celebratory instance of what Seal Union Symbol describes as the bridge standing for union of the banks.",
+        "target": "u00_3",
+        "type": "SUPPORTS"
+       }
+      ],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n4",
+      "relations": [
+       {
+        "confidence": 0.8,
+        "direction": "new_to_target",
+        "rationale": "Two banks one step says the poet figures the bridge as joining two banks in a single step, which develops the symbolic meaning described in Seal Union Symbol where the bridge appears beneath clasped hands as union and reconciliation.",
+        "target": "u00_3",
+        "type": "REFINES"
+       }
+      ],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n5",
+      "relations": [
+       {
+        "confidence": 0.85,
+        "direction": "new_to_target",
+        "rationale": "Single post office reliance says the east-bank post office serves the west bank by carrying letters across twice daily, which gives a postal example of what Sole Wooden Footbridge describes as the single link between the halves.",
+        "target": "u00_1",
+        "type": "SUPPORTS"
+       }
+      ],
+      "revisions": []
+     }
+    ]
+   }
+  },
+  {
+   "key": "3e40b711bd56637b4877704b3d694bcf60811f8231e3b9ae835e17060c8e9805",
+   "task": "perception",
+   "created_at": 1793124198.8303318,
+   "request": {
+    "model": "muse-spark-1.3",
+    "messages": [
+     {
+      "role": "system",
+      "content": "You are the perception stage of MOTIF, a system that reads a text incrementally, passage by passage, the way a careful reader builds understanding.\n\nRead ONLY the passage given. Propose 3-6 elementary units that carry its meaning:\n- concept: an idea or notion the passage introduces or uses\n- claim: an assertion or argumentative step\n- event: something that happens\n- situation: a state of affairs or scene\n- entity: a person, group or thing that matters\n- image: a figure, metaphor or recurring motif\n\nRules:\n- `quote` MUST be copied character-for-character from the passage (5-40 words). Do not paraphrase inside `quote`, do not join non-adjacent text, do not add ellipses.\n- `content` states the unit in one plain sentence, as this passage presents it.\n- basis \"explicit\" = directly stated by the quote; \"inferred\" = your interpretation, anchored by the quote.\n- When the text is figurative, record the literal image as presented; do not import knowledge of how the work continues or what it is famous for.\n- Prefer units that later passages could build on, challenge or reinterpret."
+     },
+     {
+      "role": "user",
+      "content": "Text: \"The Harlow Footbridge (synthetic test text)\" by MOTIF test fixture (nonfiction).\nPrevious passage, in one sentence: Shows how the footbridge sustains everyday medical care, mail, and tradition while inspiring shared celebration across both banks.\n\nPassage 3 of 3:\n<<<\nIn March 2024, after a week of heavy rain, the Lenn rose higher than at any time in living memory. Shortly before midnight on the fourteenth, the flood carried the footbridge away. By morning only the stone footings remained on either bank, and the timbers were later found scattered for several kilometres downstream.\n\nAn engineering firm was asked to report on what had happened. Its report found that the footbridge had not been inspected at all since 1998, and that rot in the main beams had gone unnoticed for many years. The firm concluded that a sound bridge would probably have survived the flood.\n\nThe council has said that a new crossing cannot be built in less than three years. Until then, the nearest way from one bank to the other is the road bridge twenty kilometres to the north.\n>>>"
+     }
+    ],
+    "response_format": {
+     "type": "json_schema",
+     "json_schema": {
+      "name": "Perception",
+      "schema": {
+       "$defs": {
+        "PerceivedUnit": {
+         "properties": {
+          "kind": {
+           "enum": [
+            "concept",
+            "claim",
+            "event",
+            "situation",
+            "entity",
+            "image"
+           ],
+           "title": "Kind",
+           "type": "string"
+          },
+          "label": {
+           "description": "2-6 word name for the unit",
+           "title": "Label",
+           "type": "string"
+          },
+          "content": {
+           "description": "One sentence stating the unit as the passage presents it",
+           "title": "Content",
+           "type": "string"
+          },
+          "participants": {
+           "description": "Agents or entities involved; may be empty",
+           "items": {
+            "type": "string"
+           },
+           "title": "Participants",
+           "type": "array"
+          },
+          "quote": {
+           "description": "Exact, verbatim span copied from the passage (5-40 words) that grounds this unit",
+           "title": "Quote",
+           "type": "string"
+          },
+          "basis": {
+           "description": "explicit: directly stated in the quote; inferred: your interpretation anchored by the quote",
+           "enum": [
+            "explicit",
+            "inferred"
+           ],
+           "title": "Basis",
+           "type": "string"
+          },
+          "confidence": {
+           "description": "0.0-1.0",
+           "title": "Confidence",
+           "type": "number"
+          }
+         },
+         "required": [
+          "kind",
+          "label",
+          "content",
+          "participants",
+          "quote",
+          "basis",
+          "confidence"
+         ],
+         "title": "PerceivedUnit",
+         "type": "object"
+        }
+       },
+       "properties": {
+        "gist": {
+         "description": "One sentence: what this passage does in the argument or story",
+         "title": "Gist",
+         "type": "string"
+        },
+        "units": {
+         "items": {
+          "$ref": "#/$defs/PerceivedUnit"
+         },
+         "title": "Units",
+         "type": "array"
+        }
+       },
+       "required": [
+        "gist",
+        "units"
+       ],
+       "title": "PerceptionResult",
+       "type": "object"
+      }
+     }
+    },
+    "reasoning_effort": "medium",
+    "max_completion_tokens": 12000
+   },
+   "response": {
+    "gist": "Narrates the footbridge's destruction in the March 2024 flood, attributes the loss to decades of uninspected rot, and establishes years of separation until replacement.",
+    "units": [
+     {
+      "basis": "explicit",
+      "confidence": 0.98,
+      "content": "Shortly before midnight on the fourteenth, the flood carries the footbridge away.",
+      "kind": "event",
+      "label": "Flood Destroys Footbridge",
+      "participants": [
+       "flood",
+       "footbridge"
+      ],
+      "quote": "Shortly before midnight on the fourteenth, the flood carried the footbridge away."
+     },
+     {
+      "basis": "explicit",
+      "confidence": 0.97,
+      "content": "By morning only the stone footings remain on either bank.",
+      "kind": "situation",
+      "label": "Bare Footings Remain",
+      "participants": [
+       "stone footings"
+      ],
+      "quote": "By morning only the stone footings remained on either bank"
+     },
+     {
+      "basis": "explicit",
+      "confidence": 0.96,
+      "content": "The engineering report finds the footbridge had not been inspected at all since 1998.",
+      "kind": "claim",
+      "label": "Decades Without Inspection",
+      "participants": [
+       "engineering firm",
+       "footbridge"
+      ],
+      "quote": "Its report found that the footbridge had not been inspected at all since 1998"
+     },
+     {
+      "basis": "explicit",
+      "confidence": 0.95,
+      "content": "Rot in the main beams had gone unnoticed for many years.",
+      "kind": "claim",
+      "label": "Unnoticed Beam Rot",
+      "participants": [
+       "main beams"
+      ],
+      "quote": "rot in the main beams had gone unnoticed for many years"
+     },
+     {
+      "basis": "explicit",
+      "confidence": 0.94,
+      "content": "The firm concludes a sound bridge would probably have survived the flood.",
+      "kind": "claim",
+      "label": "Sound Bridge Survival",
+      "participants": [
+       "engineering firm"
+      ],
+      "quote": "a sound bridge would probably have survived the flood"
+     },
+     {
+      "basis": "explicit",
+      "confidence": 0.96,
+      "content": "For at least three years the only crossing is the road bridge twenty kilometres north.",
+      "kind": "situation",
+      "label": "Years-Long Crossing Gap",
+      "participants": [
+       "council"
+      ],
+      "quote": "the nearest way from one bank to the other is the road bridge twenty kilometres to the north"
+     }
+    ]
+   }
+  },
+  {
+   "key": "5b87f3d8cfa14165d08b44792020ca0a88f93c24c7cebc9241723c32e8d8a3bc",
+   "task": "integration",
+   "created_at": 1793124229.005636,
+   "request": {
+    "model": "muse-spark-1.3",
+    "messages": [
+     {
+      "role": "system",
+      "content": "You are the integration stage of MOTIF. A reader has just finished a new passage. You see the NEW units perceived in it and EXISTING units from earlier passages that the new material brought back to mind.\n\nFor each new unit, decide:\n- action \"merge\": it restates an existing unit (same idea, same referent). Set merge_into to that id.\n- action \"add\": it is new information. Set merge_into to \"\".\n- relations: links between this new unit and an existing unit or another new unit. Each reads \"A <TYPE> B\"; set direction to say whether the new unit is A (\"new_to_target\") or B (\"target_to_new\"):\n  SUPPORTS: A gives evidence, an example or a reason for B\n  CONTRADICTS: A conflicts with, denies, opposes or undermines B as an account or claim. A later change of circumstances is not a contradiction: use CHANGES_STATE\n  REFINES: A makes B more precise, qualified or developed\n  CAUSES: A brings about B\n  CHANGES_STATE: A is a later event that changes the situation B describes (something is lost, sold, ended or transformed); B stays true of its own time\n  REFRAMES: A changes what B means or stands for (e.g. a literal image is revealed as a figure for something else)\n  RELATES_TO: a meaningful but weaker thematic link; use sparingly\n- revisions: only when this new passage changes an EXISTING unit. Say which kind:\n  \"state\": only the facts changed over time (something is now lost, sold, ended); give what is now the case.\n  \"interpretive\": what the earlier unit means or signifies has changed (for example, a literal image is now explained as standing for something else, or an earlier claim is qualified); give the new reading. Set coexists to true if the new reading adds to the current one instead of replacing it.\n\nWrite rationales and readings for a human reader: refer to units by their label in plain words, never by id (no \"u00_1\", \"n2\", \"NEW\" or \"TARGET\").\n\nBe selective: prefer zero to three relations per unit, and only relations you could defend by pointing at both texts. The rationale must say what each side says. Earlier passages are fixed evidence; your readings of them may change."
+     },
+     {
+      "role": "user",
+      "content": "New passage 3: Narrates the footbridge's destruction in the March 2024 flood, attributes the loss to decades of uninspected rot, and establishes years of separation until replacement.\n\nNEW units:\n[\n {\n  \"id\": \"n1\",\n  \"kind\": \"event\",\n  \"label\": \"Flood Destroys Footbridge\",\n  \"content\": \"Shortly before midnight on the fourteenth, the flood carries the footbridge away.\",\n  \"passage\": 3,\n  \"quote\": \"Shortly before midnight on the fourteenth, the flood carried the footbridge away\"\n },\n {\n  \"id\": \"n2\",\n  \"kind\": \"situation\",\n  \"label\": \"Bare Footings Remain\",\n  \"content\": \"By morning only the stone footings remain on either bank.\",\n  \"passage\": 3,\n  \"quote\": \"By morning only the stone footings remained on either bank\"\n },\n {\n  \"id\": \"n3\",\n  \"kind\": \"claim\",\n  \"label\": \"Decades Without Inspection\",\n  \"content\": \"The engineering report finds the footbridge had not been inspected at all since 1998.\",\n  \"passage\": 3,\n  \"quote\": \"Its report found that the footbridge had not been inspected at all since 1998\"\n },\n {\n  \"id\": \"n4\",\n  \"kind\": \"claim\",\n  \"label\": \"Unnoticed Beam Rot\",\n  \"content\": \"Rot in the main beams had gone unnoticed for many years.\",\n  \"passage\": 3,\n  \"quote\": \"rot in the main beams had gone unnoticed for many years\"\n },\n {\n  \"id\": \"n5\",\n  \"kind\": \"claim\",\n  \"label\": \"Sound Bridge Survival\",\n  \"content\": \"The firm concludes a sound bridge would probably have survived the flood.\",\n  \"passage\": 3,\n  \"quote\": \"a sound bridge would probably have survived the flood\"\n },\n {\n  \"id\": \"n6\",\n  \"kind\": \"situation\",\n  \"label\": \"Years-Long Crossing Gap\",\n  \"content\": \"For at least three years the only crossing is the road bridge twenty kilometres north.\",\n  \"passage\": 3,\n  \"quote\": \"the nearest way from one bank to the other is the road bridge twenty kilometres to the north\"\n }\n]\n\nEXISTING units (activated from memory):\n[\n {\n  \"id\": \"u00_1\",\n  \"kind\": \"entity\",\n  \"label\": \"Sole Wooden Footbridge\",\n  \"content\": \"Harlow's two halves are joined by a single wooden footbridge with no other crossing for twenty kilometres.\",\n  \"passage\": 1,\n  \"quote\": \"the two halves of the town have been joined by a single wooden footbridge\"\n },\n {\n  \"id\": \"u00_2\",\n  \"kind\": \"situation\",\n  \"label\": \"Growers Market Dependence\",\n  \"content\": \"Most west-bank grower households depend on Saturday stalls for more than half their yearly income.\",\n  \"passage\": 1,\n  \"quote\": \"for most of these households the Saturday stalls bring in more than half of their yearly income\"\n },\n {\n  \"id\": \"u00_3\",\n  \"kind\": \"image\",\n  \"label\": \"Seal Union Symbol\",\n  \"content\": \"The town seal shows the footbridge beneath clasped hands as a symbol of the union of the banks and reconciliation of the building guilds.\",\n  \"passage\": 1,\n  \"quote\": \"Since 1920 the town seal has shown the footbridge beneath two clasped hands\"\n },\n {\n  \"id\": \"u00_4\",\n  \"kind\": \"situation\",\n  \"label\": \"Schoolchildren Daily Crossing\",\n  \"content\": \"About ninety west-bank children cross the bridge each morning to reach the east-bank school.\",\n  \"passage\": 1,\n  \"quote\": \"About ninety children from the west bank walk to it each morning\"\n },\n {\n  \"id\": \"u00_5\",\n  \"kind\": \"situation\",\n  \"label\": \"Cooperative Cold Store Debt\",\n  \"content\": \"The west-bank cooperative borrowed heavily for a shared cold store to be repaid within six years from market sales.\",\n  \"passage\": 1,\n  \"quote\": \"The cooperative borrowed heavily to build it and expected to repay the loan within six years from market sales\"\n },\n {\n  \"id\": \"u00_6\",\n  \"kind\": \"claim\",\n  \"label\": \"Bridge Structurally Sound\",\n  \"content\": \"A 2021 council survey reported the footbridge was inspected yearly and structurally sound.\",\n  \"passage\": 1,\n  \"quote\": \"the footbridge had been inspected every year and was structurally sound\"\n },\n {\n  \"id\": \"u01_1\",\n  \"kind\": \"situation\",\n  \"label\": \"Doctor's bridge-accessible surgery\",\n  \"content\": \"The town's only doctor keeps her surgery on the west bank near the bridge so both halves can reach her.\",\n  \"passage\": 2,\n  \"quote\": \"The town's only doctor keeps her surgery on the west bank, in the old customs house\"\n },\n {\n  \"id\": \"u01_2\",\n  \"kind\": \"event\",\n  \"label\": \"Elderly wheelchair bridge crossings\",\n  \"content\": \"Elderly patients are pushed over the footbridge in wheelchairs to reach the Thursday clinic.\",\n  \"passage\": 2,\n  \"quote\": \"many of whom are pushed over the footbridge in wheelchairs by relatives or neighbours\"\n },\n {\n  \"id\": \"u01_3\",\n  \"kind\": \"event\",\n  \"label\": \"Centenary festival planning\",\n  \"content\": \"The council is planning a 2025 centenary festival with lanterns and a procession from one bank to the other.\",\n  \"passage\": 2,\n  \"quote\": \"The council has also begun planning a festival for the bridge's centenary of restoration, due in 2025\"\n },\n {\n  \"id\": \"u01_4\",\n  \"kind\": \"image\",\n  \"label\": \"Two banks one step\",\n  \"content\": \"The poet's closing line figures the bridge as joining two banks in a single step.\",\n  \"passage\": 2,\n  \"quote\": \"ending with the line \\\"two banks, one step\\\"\"\n },\n {\n  \"id\": \"u01_5\",\n  \"kind\": \"situation\",\n  \"label\": \"Single post office reliance\",\n  \"content\": \"The single east-bank post office serves the west bank by carrying letters across the bridge twice daily.\",\n  \"passage\": 2,\n  \"quote\": \"Twice a day the postman carries the letters for the west bank across in a canvas bag\"\n }\n]"
+     }
+    ],
+    "response_format": {
+     "type": "json_schema",
+     "json_schema": {
+      "name": "Integration",
+      "schema": {
+       "$defs": {
+        "IntegrationDecision": {
+         "properties": {
+          "new_unit": {
+           "description": "temporary id of the new unit, e.g. n1",
+           "title": "New Unit",
+           "type": "string"
+          },
+          "action": {
+           "description": "merge only if the new unit restates an existing unit; otherwise add",
+           "enum": [
+            "add",
+            "merge"
+           ],
+           "title": "Action",
+           "type": "string"
+          },
+          "merge_into": {
+           "description": "existing unit id when action is merge, else empty string",
+           "title": "Merge Into",
+           "type": "string"
+          },
+          "relations": {
+           "items": {
+            "$ref": "#/$defs/ProposedRelation"
+           },
+           "title": "Relations",
+           "type": "array"
+          },
+          "revisions": {
+           "items": {
+            "$ref": "#/$defs/ProposedRevision"
+           },
+           "title": "Revisions",
+           "type": "array"
+          }
+         },
+         "required": [
+          "new_unit",
+          "action",
+          "merge_into",
+          "relations",
+          "revisions"
+         ],
+         "title": "IntegrationDecision",
+         "type": "object"
+        },
+        "ProposedRelation": {
+         "properties": {
+          "target": {
+           "description": "id of an existing unit (e.g. u00_1) or another new unit (e.g. n2)",
+           "title": "Target",
+           "type": "string"
+          },
+          "type": {
+           "enum": [
+            "SUPPORTS",
+            "CONTRADICTS",
+            "REFINES",
+            "CAUSES",
+            "REFRAMES",
+            "RELATES_TO",
+            "CHANGES_STATE"
+           ],
+           "title": "Type",
+           "type": "string"
+          },
+          "direction": {
+           "description": "new_to_target: NEW unit <TYPE> target. target_to_new: target <TYPE> NEW unit (e.g. when an earlier unit CAUSES the new one)",
+           "enum": [
+            "new_to_target",
+            "target_to_new"
+           ],
+           "title": "Direction",
+           "type": "string"
+          },
+          "rationale": {
+           "description": "Why they relate, referring to what each text says",
+           "title": "Rationale",
+           "type": "string"
+          },
+          "confidence": {
+           "description": "0.0-1.0",
+           "title": "Confidence",
+           "type": "number"
+          }
+         },
+         "required": [
+          "target",
+          "type",
+          "direction",
+          "rationale",
+          "confidence"
+         ],
+         "title": "ProposedRelation",
+         "type": "object"
+        },
+        "ProposedRevision": {
+         "properties": {
+          "target": {
+           "description": "id of an existing unit whose significance changes",
+           "title": "Target",
+           "type": "string"
+          },
+          "kind": {
+           "default": "interpretive",
+           "description": "state: only the facts of the earlier unit changed over time (what is now the case); interpretive: what it means or signifies has changed",
+           "enum": [
+            "state",
+            "interpretive"
+           ],
+           "title": "Kind",
+           "type": "string"
+          },
+          "new_reading": {
+           "description": "state: what is now the case. interpretive: how the earlier unit should now be understood",
+           "title": "New Reading",
+           "type": "string"
+          },
+          "coexists": {
+           "default": false,
+           "description": "interpretive only: true if this reading adds to the current reading instead of replacing it (e.g. practical significance changes, symbolic remains)",
+           "title": "Coexists",
+           "type": "boolean"
+          },
+          "rationale": {
+           "title": "Rationale",
+           "type": "string"
+          }
+         },
+         "required": [
+          "target",
+          "kind",
+          "new_reading",
+          "coexists",
+          "rationale"
+         ],
+         "title": "ProposedRevision",
+         "type": "object"
+        }
+       },
+       "properties": {
+        "decisions": {
+         "items": {
+          "$ref": "#/$defs/IntegrationDecision"
+         },
+         "title": "Decisions",
+         "type": "array"
+        }
+       },
+       "required": [
+        "decisions"
+       ],
+       "title": "IntegrationResult",
+       "type": "object"
+      }
+     }
+    },
+    "reasoning_effort": "medium",
+    "max_completion_tokens": 12000
+   },
+   "response": {
+    "decisions": [
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n1",
+      "relations": [
+       {
+        "confidence": 1.0,
+        "direction": "new_to_target",
+        "rationale": "Flood Destroys Footbridge says the flood carried the footbridge away shortly before midnight on the fourteenth, while Sole Wooden Footbridge says the two halves were joined by a single wooden footbridge.",
+        "target": "u00_1",
+        "type": "CHANGES_STATE"
+       },
+       {
+        "confidence": 0.85,
+        "direction": "new_to_target",
+        "rationale": "Flood Destroys Footbridge says the footbridge was carried away, while Centenary festival planning describes a 2025 festival with a procession from one bank to the other across that bridge.",
+        "target": "u01_3",
+        "type": "CHANGES_STATE"
+       }
+      ],
+      "revisions": [
+       {
+        "coexists": false,
+        "kind": "state",
+        "new_reading": "The single wooden footbridge no longer joins the banks; it was carried away in the March flood leaving only stone footings, with no local replacement for years.",
+        "rationale": "Sole Wooden Footbridge described a standing crossing joining the halves, but Flood Destroys Footbridge and Bare Footings Remain show it is now gone.",
+        "target": "u00_1"
+       }
+      ]
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n2",
+      "relations": [
+       {
+        "confidence": 0.95,
+        "direction": "target_to_new",
+        "rationale": "Flood Destroys Footbridge says the flood carried the footbridge away, which brings about Bare Footings Remain saying only stone footings remained on either bank by morning.",
+        "target": "n1",
+        "type": "CAUSES"
+       }
+      ],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n3",
+      "relations": [
+       {
+        "confidence": 0.95,
+        "direction": "new_to_target",
+        "rationale": "Decades Without Inspection says the engineering report found no inspection at all since 1998, while Bridge Structurally Sound says a 2021 council survey reported yearly inspections and sound condition.",
+        "target": "u00_6",
+        "type": "CONTRADICTS"
+       }
+      ],
+      "revisions": [
+       {
+        "coexists": false,
+        "kind": "interpretive",
+        "new_reading": "The 2021 council claim of yearly inspections and sound condition is discredited; the bridge had in fact not been inspected at all since 1998.",
+        "rationale": "Decades Without Inspection shows the earlier survey account of yearly inspection cannot be trusted as true.",
+        "target": "u00_6"
+       }
+      ]
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n4",
+      "relations": [
+       {
+        "confidence": 0.9,
+        "direction": "new_to_target",
+        "rationale": "Unnoticed Beam Rot says rot in the main beams had gone unnoticed for many years, while Bridge Structurally Sound claimed the bridge was structurally sound.",
+        "target": "u00_6",
+        "type": "CONTRADICTS"
+       },
+       {
+        "confidence": 0.8,
+        "direction": "target_to_new",
+        "rationale": "Decades Without Inspection says no inspection since 1998, which explains why Unnoticed Beam Rot says rot in the main beams went unnoticed for many years.",
+        "target": "n3",
+        "type": "CAUSES"
+       }
+      ],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n5",
+      "relations": [
+       {
+        "confidence": 0.85,
+        "direction": "new_to_target",
+        "rationale": "Sound Bridge Survival says a sound bridge would probably have survived, which qualifies Flood Destroys Footbridge saying the flood carried the footbridge away by showing condition contributed, not flood alone.",
+        "target": "n1",
+        "type": "REFINES"
+       },
+       {
+        "confidence": 0.75,
+        "direction": "new_to_target",
+        "rationale": "Sound Bridge Survival says a sound bridge would probably have survived, which gives a reason supporting Unnoticed Beam Rot saying long-unnoticed rot weakened the main beams.",
+        "target": "n4",
+        "type": "SUPPORTS"
+       }
+      ],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n6",
+      "relations": [
+       {
+        "confidence": 0.9,
+        "direction": "target_to_new",
+        "rationale": "Flood Destroys Footbridge says the flood carried the footbridge away, which brings about Years-Long Crossing Gap saying the only crossing for at least three years is the road bridge twenty kilometres north.",
+        "target": "n1",
+        "type": "CAUSES"
+       },
+       {
+        "confidence": 0.9,
+        "direction": "new_to_target",
+        "rationale": "Years-Long Crossing Gap specifies the road bridge twenty kilometres to the north as the only crossing for at least three years, while Sole Wooden Footbridge said there was no other crossing for twenty kilometres.",
+        "target": "u00_1",
+        "type": "REFINES"
+       }
+      ],
+      "revisions": [
+       {
+        "coexists": false,
+        "kind": "state",
+        "new_reading": "The planned 2025 procession from one bank to the other cannot proceed across the footbridge; there will be no local crossing for at least three years.",
+        "rationale": "Centenary festival planning assumed a usable footbridge for a bank-to-bank procession in 2025, but Years-Long Crossing Gap establishes years of separation with only a distant road bridge.",
+        "target": "u01_3"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "key": "bea4607852bf5f7c8bd320e7a2d9f5c495a8ab9c8b5a314c6ddee8489a3ff83a",
+   "task": "propagation",
+   "created_at": 1793124237.846167,
+   "request": {
+    "model": "muse-spark-1.3",
+    "messages": [
+     {
+      "role": "system",
+      "content": "You are the reconsideration stage of MOTIF, which reads a text passage by passage. The passage just read changed one or more EARLIER units. You see each CHANGE and a few CANDIDATE units that MOTIF's memory links to a changed unit. For each candidate, decide whether its current reading still holds now that the change is known.\n\nverdict:\n- \"unchanged\": the candidate's reading still holds. This is the default. Being linked to a changed unit is not by itself a reason to revise.\n- \"state_update\": only the facts of the candidate's situation have changed over time (for example, something it depends on no longer exists or can no longer be used), while what it means is the same.\n- \"reinterpretation\": what the candidate signifies is now different: its role, motive, value or point is understood differently in light of the change.\n\nFor state_update and reinterpretation:\n- new_reading: the candidate's new state or new reading, in one sentence.\n- coexists: true if the new reading adds to the current reading instead of replacing it (for example, its practical value is lost but its symbolic value remains). Always false for state_update.\n- evidence: ids of listed units whose quotations support the new reading. Include at least one unit from a CHANGE (the changed unit or what caused the change).\n\nUse only what the listed units say; do not use knowledge of how the text continues or of other works. Units and their quotations are fixed evidence; only readings change. In new_reading and rationale, refer to units by label, never by id."
+     },
+     {
+      "role": "user",
+      "content": "Passage 3 just read: Narrates the footbridge's destruction in the March 2024 flood, attributes the loss to decades of uninspected rot, and establishes years of separation until replacement.\n\nCHANGES:\n[\n {\n  \"changed\": {\n   \"id\": \"u00_1\",\n   \"kind\": \"entity\",\n   \"label\": \"Sole Wooden Footbridge\",\n   \"content\": \"Harlow's two halves are joined by a single wooden footbridge with no other crossing for twenty kilometres.\",\n   \"passage\": 1,\n   \"quote\": \"the two halves of the town have been joined by a single wooden footbridge\",\n   \"current_state\": \"The single wooden footbridge no longer joins the banks; it was carried away in the March flood leaving only stone footings, with no local replacement for years.\"\n  },\n  \"how\": \"state revision\",\n  \"detail\": \"The single wooden footbridge no longer joins the banks; it was carried away in the March flood leaving only stone footings, with no local replacement for years.\",\n  \"caused_by\": {\n   \"id\": \"u02_1\",\n   \"kind\": \"event\",\n   \"label\": \"Flood Destroys Footbridge\",\n   \"content\": \"Shortly before midnight on the fourteenth, the flood carries the footbridge away.\",\n   \"passage\": 3,\n   \"quote\": \"Shortly before midnight on the fourteenth, the flood carried the footbridge away\"\n  }\n },\n {\n  \"changed\": {\n   \"id\": \"u00_6\",\n   \"kind\": \"claim\",\n   \"label\": \"Bridge Structurally Sound\",\n   \"content\": \"A 2021 council survey reported the footbridge was inspected yearly and structurally sound.\",\n   \"passage\": 1,\n   \"quote\": \"the footbridge had been inspected every year and was structurally sound\",\n   \"current_reading\": \"The 2021 council claim of yearly inspections and sound condition is discredited; the bridge had in fact not been inspected at all since 1998.\"\n  },\n  \"how\": \"interpretive revision\",\n  \"detail\": \"The 2021 council claim of yearly inspections and sound condition is discredited; the bridge had in fact not been inspected at all since 1998.\",\n  \"caused_by\": {\n   \"id\": \"u02_3\",\n   \"kind\": \"claim\",\n   \"label\": \"Decades Without Inspection\",\n   \"content\": \"The engineering report finds the footbridge had not been inspected at all since 1998.\",\n   \"passage\": 3,\n   \"quote\": \"Its report found that the footbridge had not been inspected at all since 1998\"\n  }\n },\n {\n  \"changed\": {\n   \"id\": \"u01_3\",\n   \"kind\": \"event\",\n   \"label\": \"Centenary festival planning\",\n   \"content\": \"The council is planning a 2025 centenary festival with lanterns and a procession from one bank to the other.\",\n   \"passage\": 2,\n   \"quote\": \"The council has also begun planning a festival for the bridge's centenary of restoration, due in 2025\",\n   \"current_state\": \"The planned 2025 procession from one bank to the other cannot proceed across the footbridge; there will be no local crossing for at least three years.\"\n  },\n  \"how\": \"state revision\",\n  \"detail\": \"The planned 2025 procession from one bank to the other cannot proceed across the footbridge; there will be no local crossing for at least three years.\",\n  \"caused_by\": {\n   \"id\": \"u02_6\",\n   \"kind\": \"situation\",\n   \"label\": \"Years-Long Crossing Gap\",\n   \"content\": \"For at least three years the only crossing is the road bridge twenty kilometres north.\",\n   \"passage\": 3,\n   \"quote\": \"the nearest way from one bank to the other is the road bridge twenty kilometres to the north\"\n  }\n },\n {\n  \"changed\": {\n   \"id\": \"u00_1\",\n   \"kind\": \"entity\",\n   \"label\": \"Sole Wooden Footbridge\",\n   \"content\": \"Harlow's two halves are joined by a single wooden footbridge with no other crossing for twenty kilometres.\",\n   \"passage\": 1,\n   \"quote\": \"the two halves of the town have been joined by a single wooden footbridge\",\n   \"current_state\": \"The single wooden footbridge no longer joins the banks; it was carried away in the March flood leaving only stone footings, with no local replacement for years.\"\n  },\n  \"how\": \"CHANGES_STATE\",\n  \"detail\": \"Flood Destroys Footbridge says the flood carried the footbridge away shortly before midnight on the fourteenth, while Sole Wooden Footbridge says the two halves were joined by a single wooden footbridge.\",\n  \"caused_by\": {\n   \"id\": \"u02_1\",\n   \"kind\": \"event\",\n   \"label\": \"Flood Destroys Footbridge\",\n   \"content\": \"Shortly before midnight on the fourteenth, the flood carries the footbridge away.\",\n   \"passage\": 3,\n   \"quote\": \"Shortly before midnight on the fourteenth, the flood carried the footbridge away\"\n  }\n },\n {\n  \"changed\": {\n   \"id\": \"u01_3\",\n   \"kind\": \"event\",\n   \"label\": \"Centenary festival planning\",\n   \"content\": \"The council is planning a 2025 centenary festival with lanterns and a procession from one bank to the other.\",\n   \"passage\": 2,\n   \"quote\": \"The council has also begun planning a festival for the bridge's centenary of restoration, due in 2025\",\n   \"current_state\": \"The planned 2025 procession from one bank to the other cannot proceed across the footbridge; there will be no local crossing for at least three years.\"\n  },\n  \"how\": \"CHANGES_STATE\",\n  \"detail\": \"Flood Destroys Footbridge says the footbridge was carried away, while Centenary festival planning describes a 2025 festival with a procession from one bank to the other across that bridge.\",\n  \"caused_by\": {\n   \"id\": \"u02_1\",\n   \"kind\": \"event\",\n   \"label\": \"Flood Destroys Footbridge\",\n   \"content\": \"Shortly before midnight on the fourteenth, the flood carries the footbridge away.\",\n   \"passage\": 3,\n   \"quote\": \"Shortly before midnight on the fourteenth, the flood carried the footbridge away\"\n  }\n },\n {\n  \"changed\": {\n   \"id\": \"u00_6\",\n   \"kind\": \"claim\",\n   \"label\": \"Bridge Structurally Sound\",\n   \"content\": \"A 2021 council survey reported the footbridge was inspected yearly and structurally sound.\",\n   \"passage\": 1,\n   \"quote\": \"the footbridge had been inspected every year and was structurally sound\",\n   \"current_reading\": \"The 2021 council claim of yearly inspections and sound condition is discredited; the bridge had in fact not been inspected at all since 1998.\"\n  },\n  \"how\": \"CONTRADICTS\",\n  \"detail\": \"Decades Without Inspection says the engineering report found no inspection at all since 1998, while Bridge Structurally Sound says a 2021 council survey reported yearly inspections and sound condition.\",\n  \"caused_by\": {\n   \"id\": \"u02_3\",\n   \"kind\": \"claim\",\n   \"label\": \"Decades Without Inspection\",\n   \"content\": \"The engineering report finds the footbridge had not been inspected at all since 1998.\",\n   \"passage\": 3,\n   \"quote\": \"Its report found that the footbridge had not been inspected at all since 1998\"\n  }\n },\n {\n  \"changed\": {\n   \"id\": \"u00_6\",\n   \"kind\": \"claim\",\n   \"label\": \"Bridge Structurally Sound\",\n   \"content\": \"A 2021 council survey reported the footbridge was inspected yearly and structurally sound.\",\n   \"passage\": 1,\n   \"quote\": \"the footbridge had been inspected every year and was structurally sound\",\n   \"current_reading\": \"The 2021 council claim of yearly inspections and sound condition is discredited; the bridge had in fact not been inspected at all since 1998.\"\n  },\n  \"how\": \"CONTRADICTS\",\n  \"detail\": \"Unnoticed Beam Rot says rot in the main beams had gone unnoticed for many years, while Bridge Structurally Sound claimed the bridge was structurally sound.\",\n  \"caused_by\": {\n   \"id\": \"u02_4\",\n   \"kind\": \"claim\",\n   \"label\": \"Unnoticed Beam Rot\",\n   \"content\": \"Rot in the main beams had gone unnoticed for many years.\",\n   \"passage\": 3,\n   \"quote\": \"rot in the main beams had gone unnoticed for many years\"\n  }\n }\n]\n\nCANDIDATES:\n[\n {\n  \"id\": \"u01_1\",\n  \"kind\": \"situation\",\n  \"label\": \"Doctor's bridge-accessible surgery\",\n  \"content\": \"The town's only doctor keeps her surgery on the west bank near the bridge so both halves can reach her.\",\n  \"passage\": 2,\n  \"quote\": \"The town's only doctor keeps her surgery on the west bank, in the old customs house\",\n  \"linked_to_change_by\": [\n   \"Doctor's bridge-accessible surgery SUPPORTS Sole Wooden Footbridge: Doctor's bridge-accessible surgery says the only doctor keeps her surgery on the west bank near the bridge so both halves can reach her, which gives a concrete medical example of what Sole Wooden Footbridge describes as joining the two halves with no other crossing nearby.\"\n  ]\n },\n {\n  \"id\": \"u00_3\",\n  \"kind\": \"image\",\n  \"label\": \"Seal Union Symbol\",\n  \"content\": \"The town seal shows the footbridge beneath clasped hands as a symbol of the union of the banks and reconciliation of the building guilds.\",\n  \"passage\": 1,\n  \"quote\": \"Since 1920 the town seal has shown the footbridge beneath two clasped hands\",\n  \"linked_to_change_by\": [\n   \"Centenary festival planning SUPPORTS Seal Union Symbol: Centenary festival planning says the council is planning a lantern procession from one bank to the other for the restoration centenary, which provides a celebratory instance of what Seal Union Symbol describes as the bridge standing for union of the banks.\"\n  ]\n },\n {\n  \"id\": \"u01_5\",\n  \"kind\": \"situation\",\n  \"label\": \"Single post office reliance\",\n  \"content\": \"The single east-bank post office serves the west bank by carrying letters across the bridge twice daily.\",\n  \"passage\": 2,\n  \"quote\": \"Twice a day the postman carries the letters for the west bank across in a canvas bag\",\n  \"linked_to_change_by\": [\n   \"Single post office reliance SUPPORTS Sole Wooden Footbridge: Single post office reliance says the east-bank post office serves the west bank by carrying letters across twice daily, which gives a postal example of what Sole Wooden Footbridge describes as the single link between the halves.\"\n  ]\n }\n]\n\nOther NEW units in passage 3 (may be cited as evidence):\n[\n {\n  \"id\": \"u02_1\",\n  \"kind\": \"event\",\n  \"label\": \"Flood Destroys Footbridge\",\n  \"content\": \"Shortly before midnight on the fourteenth, the flood carries the footbridge away.\",\n  \"passage\": 3,\n  \"quote\": \"Shortly before midnight on the fourteenth, the flood carried the footbridge away\"\n },\n {\n  \"id\": \"u02_2\",\n  \"kind\": \"situation\",\n  \"label\": \"Bare Footings Remain\",\n  \"content\": \"By morning only the stone footings remain on either bank.\",\n  \"passage\": 3,\n  \"quote\": \"By morning only the stone footings remained on either bank\"\n },\n {\n  \"id\": \"u02_3\",\n  \"kind\": \"claim\",\n  \"label\": \"Decades Without Inspection\",\n  \"content\": \"The engineering report finds the footbridge had not been inspected at all since 1998.\",\n  \"passage\": 3,\n  \"quote\": \"Its report found that the footbridge had not been inspected at all since 1998\"\n },\n {\n  \"id\": \"u02_4\",\n  \"kind\": \"claim\",\n  \"label\": \"Unnoticed Beam Rot\",\n  \"content\": \"Rot in the main beams had gone unnoticed for many years.\",\n  \"passage\": 3,\n  \"quote\": \"rot in the main beams had gone unnoticed for many years\"\n },\n {\n  \"id\": \"u02_5\",\n  \"kind\": \"claim\",\n  \"label\": \"Sound Bridge Survival\",\n  \"content\": \"The firm concludes a sound bridge would probably have survived the flood.\",\n  \"passage\": 3,\n  \"quote\": \"a sound bridge would probably have survived the flood\"\n },\n {\n  \"id\": \"u02_6\",\n  \"kind\": \"situation\",\n  \"label\": \"Years-Long Crossing Gap\",\n  \"content\": \"For at least three years the only crossing is the road bridge twenty kilometres north.\",\n  \"passage\": 3,\n  \"quote\": \"the nearest way from one bank to the other is the road bridge twenty kilometres to the north\"\n }\n]"
+     }
+    ],
+    "response_format": {
+     "type": "json_schema",
+     "json_schema": {
+      "name": "Propagation",
+      "schema": {
+       "$defs": {
+        "Reconsideration": {
+         "properties": {
+          "candidate": {
+           "description": "id of the candidate unit",
+           "title": "Candidate",
+           "type": "string"
+          },
+          "verdict": {
+           "enum": [
+            "unchanged",
+            "state_update",
+            "reinterpretation"
+           ],
+           "title": "Verdict",
+           "type": "string"
+          },
+          "new_reading": {
+           "description": "new state or new reading in one sentence; empty if unchanged",
+           "title": "New Reading",
+           "type": "string"
+          },
+          "coexists": {
+           "description": "reinterpretation only: true if it adds to the current reading instead of replacing it; false otherwise",
+           "title": "Coexists",
+           "type": "boolean"
+          },
+          "evidence": {
+           "description": "ids of listed units whose quotations support the new reading; empty if unchanged",
+           "items": {
+            "type": "string"
+           },
+           "title": "Evidence",
+           "type": "array"
+          },
+          "rationale": {
+           "title": "Rationale",
+           "type": "string"
+          }
+         },
+         "required": [
+          "candidate",
+          "verdict",
+          "new_reading",
+          "coexists",
+          "evidence",
+          "rationale"
+         ],
+         "title": "Reconsideration",
+         "type": "object"
+        }
+       },
+       "properties": {
+        "reconsiderations": {
+         "items": {
+          "$ref": "#/$defs/Reconsideration"
+         },
+         "title": "Reconsiderations",
+         "type": "array"
+        }
+       },
+       "required": [
+        "reconsiderations"
+       ],
+       "title": "PropagationResult",
+       "type": "object"
+      }
+     }
+    },
+    "reasoning_effort": "medium",
+    "max_completion_tokens": 12000
+   },
+   "response": {
+    "reconsiderations": [
+     {
+      "candidate": "u01_1",
+      "coexists": false,
+      "evidence": [
+       "u02_1",
+       "u02_6"
+      ],
+      "new_reading": "The west-bank surgery is no longer reachable from the east bank via the footbridge, leaving east-bank patients to use the distant road bridge for years.",
+      "rationale": "Because Sole Wooden Footbridge no longer joins the banks after Flood Destroys Footbridge, and Years-Long Crossing Gap leaves only the road bridge twenty kilometres north, the Doctor's bridge-accessible surgery can no longer serve both halves as before while its locational purpose is unchanged.",
+      "verdict": "state_update"
+     },
+     {
+      "candidate": "u00_3",
+      "coexists": false,
+      "evidence": [],
+      "new_reading": "",
+      "rationale": "Although Sole Wooden Footbridge was carried away in Flood Destroys Footbridge, the Seal Union Symbol still describes what the town seal shows since 1920 and its union meaning, which the physical loss does not erase.",
+      "verdict": "unchanged"
+     },
+     {
+      "candidate": "u01_5",
+      "coexists": false,
+      "evidence": [
+       "u02_1",
+       "u02_6"
+      ],
+      "new_reading": "The twice-daily carry of letters across the footbridge can no longer run, cutting the west bank off from the east-bank post office for years.",
+      "rationale": "Because Flood Destroys Footbridge removed Sole Wooden Footbridge and Years-Long Crossing Gap leaves only the distant road bridge, the Single post office reliance can no longer operate by carrying letters across while its single-office arrangement is unchanged.",
+      "verdict": "state_update"
+     }
+    ]
+   }
+  }
+ ]
+}

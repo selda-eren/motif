@@ -1,0 +1,485 @@
+{
+ "overview": "Prisoners who mistake shadows for reality are freed and climb toward the sun; the cave turns out to be our own world, education turns out to be a turning of the soul, and those who see most must go back down to govern.",
+ "stages": [
+  {
+   "index": 0,
+   "title": "Living among shadows",
+   "summary": "People chained in a cave take the shadows on the wall for the whole of reality, until one is forced to turn toward the light.",
+   "first_passage": 0,
+   "last_passage": 1,
+   "key_units": [
+    "u00_1",
+    "u00_3",
+    "u01_1"
+   ],
+   "leads_to_next": "Once one prisoner is turned around, the question becomes how anyone gets from shadows to what is real.",
+   "bridge_relations": [
+    "r02_1"
+   ]
+  },
+  {
+   "index": 1,
+   "title": "The slow climb to the sun",
+   "summary": "Seeing the real world takes time: first reflections, then things themselves, and at last the sun that makes everything visible.",
+   "first_passage": 2,
+   "last_passage": 2,
+   "key_units": [
+    "u02_1",
+    "u02_2",
+    "u02_3"
+   ],
+   "leads_to_next": "Socrates then explains what the climb stood for, so the sun and the cave take on new meanings.",
+   "bridge_relations": [
+    "r03_5",
+    "r03_6"
+   ]
+  },
+  {
+   "index": 2,
+   "title": "The image explained",
+   "summary": "The cave is our everyday world of appearances, the climb is the mind's ascent, and the sun stands for the highest good.",
+   "first_passage": 3,
+   "last_passage": 4,
+   "key_units": [
+    "u03_3",
+    "u03_4",
+    "u03_5",
+    "u04_2"
+   ],
+   "leads_to_next": "Those who have seen the good would rather stay above, which forces the question of what they owe to those still below.",
+   "bridge_relations": [
+    "r06_4"
+   ]
+  },
+  {
+   "index": 3,
+   "title": "Education as turning",
+   "summary": "Learning does not put sight into the mind; it turns a power the soul already has toward what is real.",
+   "first_passage": 5,
+   "last_passage": 6,
+   "key_units": [
+    "u05_3",
+    "u05_2",
+    "u06_1",
+    "u06_4"
+   ],
+   "leads_to_next": "Making philosophers go back down looks unfair to them, so the dialogue must show why it is just.",
+   "bridge_relations": [
+    "r07_1",
+    "r07_2"
+   ]
+  },
+  {
+   "index": 4,
+   "title": "The duty to return",
+   "summary": "Those who have seen the good must govern, and they rule best precisely because they do not want power.",
+   "first_passage": 7,
+   "last_passage": 8,
+   "key_units": [
+    "u07_2",
+    "u07_5",
+    "u07_6",
+    "u08_1"
+   ],
+   "leads_to_next": "",
+   "bridge_relations": []
+  }
+ ],
+ "warnings": [],
+ "provenance": "demo-fixture",
+ "model": null,
+ "generated_at": 1793039619.067671,
+ "basis": {
+  "units": 45,
+  "relations": 47,
+  "revisions": 8
+ },
+ "explanation": {
+  "stages": [
+   {
+    "index": 0,
+    "what_changes": "We meet people who cannot see past appearances and do not know it.",
+    "why_it_matters": "Everything later is measured against this starting point of mistaken belief.",
+    "quotes": [
+     {
+      "unit_id": "u00_1",
+      "label": "Prisoners chained in a den",
+      "passage": 0,
+      "quote": "here they have been from their childhood, and have their legs and necks chained so that they cannot move",
+      "start": 216,
+      "end": 320,
+      "how_it_supports": "The prisoners have been fixed in place since childhood, so they have never seen otherwise."
+     },
+     {
+      "unit_id": "u01_1",
+      "label": "Truth is shadows for them",
+      "passage": 1,
+      "quote": "To them, I said, the truth would be literally nothing but the shadows of the images",
+      "start": 0,
+      "end": 83,
+      "how_it_supports": "For them, shadows are not a part of reality; they are all of it."
+     }
+    ]
+   },
+   {
+    "index": 1,
+    "what_changes": "Seeing what is real turns out to be gradual and effortful, ending with the sun as the source of what we see.",
+    "why_it_matters": "It sets up the idea that understanding has levels, and that the highest level explains the rest.",
+    "quotes": [
+     {
+      "unit_id": "u02_2",
+      "label": "Ordered stages of seeing",
+      "passage": 2,
+      "quote": "first he will see the shadows best, next the reflections of men and other objects in the water, and then the objects themselves",
+      "start": 72,
+      "end": 199,
+      "how_it_supports": "The freed prisoner moves step by step from shadows to reflections to things themselves."
+     },
+     {
+      "unit_id": "u02_3",
+      "label": "The sun as cause of all",
+      "passage": 2,
+      "quote": "in a certain way the cause of all things which he and his fellows have been accustomed to behold",
+      "start": 746,
+      "end": 842,
+      "how_it_supports": "The sun is not just bright; it is the cause of everything he used to see."
+     }
+    ]
+   },
+   {
+    "index": 2,
+    "what_changes": "The story becomes an explanation: the cave is our ordinary world and the climb is the mind's.",
+    "why_it_matters": "From here on, every image in the story is also a claim about knowledge and society.",
+    "quotes": [
+     {
+      "unit_id": "u03_3",
+      "label": "The den is the visible world",
+      "passage": 3,
+      "quote": "the prison-house is the world of sight, the light of the fire is the sun",
+      "start": 1024,
+      "end": 1096,
+      "how_it_supports": "Socrates states outright what the prison and the fire stand for."
+     },
+     {
+      "unit_id": "u03_4",
+      "label": "The ascent is the soul's",
+      "passage": 3,
+      "quote": "interpret the journey upwards to be the ascent of the soul into the intellectual world",
+      "start": 1138,
+      "end": 1224,
+      "how_it_supports": "The physical climb is reinterpreted as the soul's ascent."
+     },
+     {
+      "unit_id": "u04_2",
+      "label": "Courts disputing shadows of justice",
+      "passage": 4,
+      "quote": "compelled to fight in courts of law, or in other places, about the images or the shadows of images of justice",
+      "start": 555,
+      "end": 664,
+      "how_it_supports": "Shadows reappear as disputed images of justice in courts."
+     }
+    ]
+   },
+   {
+    "index": 3,
+    "what_changes": "Education is redefined as turning the soul around, not filling it with knowledge.",
+    "why_it_matters": "This explains what the liberation in the story actually was, and why it is hard.",
+    "quotes": [
+     {
+      "unit_id": "u05_3",
+      "label": "Learning as turning the soul",
+      "passage": 5,
+      "quote": "the instrument of knowledge can only by the movement of the whole soul be turned from the world of becoming into that of being",
+      "start": 420,
+      "end": 546,
+      "how_it_supports": "Knowledge needs the whole soul to turn, as the prisoner had to turn his whole body."
+     },
+     {
+      "unit_id": "u05_2",
+      "label": "Capacity to learn is innate",
+      "passage": 5,
+      "quote": "the power and capacity of learning exists in the soul already",
+      "start": 259,
+      "end": 320,
+      "how_it_supports": "The capacity is already there; it only faces the wrong way."
+     }
+    ]
+   },
+   {
+    "index": 4,
+    "what_changes": "Those who have turned toward the good must come back and govern.",
+    "why_it_matters": "The journey ends where it began, in the cave, but with a new purpose.",
+    "quotes": [
+     {
+      "unit_id": "u07_6",
+      "label": "Reluctant rulers govern best",
+      "passage": 7,
+      "quote": "the State in which the rulers are most reluctant to govern is always the best and most quietly governed",
+      "start": 1983,
+      "end": 2086,
+      "how_it_supports": "Reluctance to rule becomes a qualification for ruling."
+     },
+     {
+      "unit_id": "u07_5",
+      "label": "Politics as fighting over shadows",
+      "passage": 7,
+      "quote": "in which men fight with one another about shadows only and are distracted in the struggle for power",
+      "start": 1819,
+      "end": 1918,
+      "how_it_supports": "Ordinary politics is described with the image of the shadows."
+     }
+    ]
+   }
+  ],
+  "transitions": [
+   {
+    "from_index": 0,
+    "to_index": 1,
+    "kind": "development",
+    "certainty": "supported",
+    "what_changes": "The painful turn toward the light becomes a slow process of getting used to it.",
+    "why": "Having shown that release hurts, the text explains how the freed prisoner learns to see.",
+    "evidence": [
+     {
+      "kind": "relation",
+      "relation_id": "r02_1",
+      "type": "REFINES",
+      "confidence": 0.75,
+      "source_label": "Gradual habituation",
+      "target_label": "Release and painful turning",
+      "rationale": "The painful turning toward the light (passage 2) becomes a process: one must 'grow accustomed'.",
+      "earlier": {
+       "unit_id": "u01_2",
+       "label": "Release and painful turning",
+       "passage": 1,
+       "quote": "compelled suddenly to stand up and turn his neck round and walk and look towards the light, he will suffer sharp pains",
+       "start": 263,
+       "end": 381
+      },
+      "later": {
+       "unit_id": "u02_1",
+       "label": "Gradual habituation",
+       "passage": 2,
+       "quote": "He will require to grow accustomed to the sight of the upper world",
+       "start": 0,
+       "end": 66
+      },
+      "adjacent": true,
+      "ref_index": 0,
+      "how_it_supports": "Growing accustomed to the light develops the earlier, painful turning."
+     }
+    ],
+    "limitation": "",
+    "grounding_note": ""
+   },
+   {
+    "from_index": 1,
+    "to_index": 2,
+    "kind": "reinterpretation",
+    "certainty": "supported",
+    "what_changes": "The sun and the climb stop being only parts of a story and become figures for knowledge and the good.",
+    "why": "Once the climb is complete, Socrates explains what it meant.",
+    "evidence": [
+     {
+      "kind": "relation",
+      "relation_id": "r03_5",
+      "type": "REFRAMES",
+      "confidence": 0.8,
+      "source_label": "The idea of the good",
+      "target_label": "The sun as cause of all",
+      "rationale": "The sun, 'cause of all things' in passage 3, stands for the good, 'universal author of all things beautiful and right'.",
+      "earlier": {
+       "unit_id": "u02_3",
+       "label": "The sun as cause of all",
+       "passage": 2,
+       "quote": "in a certain way the cause of all things which he and his fellows have been accustomed to behold",
+       "start": 746,
+       "end": 842
+      },
+      "later": {
+       "unit_id": "u03_5",
+       "label": "The idea of the good",
+       "passage": 3,
+       "quote": "in the world of knowledge the idea of good appears last of all, and is seen only with an effort",
+       "start": 1379,
+       "end": 1474
+      },
+      "adjacent": true,
+      "ref_index": 0,
+      "how_it_supports": "The idea of the good takes over the role the sun played as cause of all things."
+     },
+     {
+      "kind": "relation",
+      "relation_id": "r03_4",
+      "type": "REFRAMES",
+      "confidence": 0.85,
+      "source_label": "The ascent is the soul's",
+      "target_label": "Dragged up the ascent",
+      "rationale": "Being 'dragged up a steep and rugged ascent' (passage 2) is now the soul's ascent to the intellectual world.",
+      "earlier": {
+       "unit_id": "u01_4",
+       "label": "Dragged up the ascent",
+       "passage": 1,
+       "quote": "he is reluctantly dragged up a steep and rugged ascent",
+       "start": 1341,
+       "end": 1395
+      },
+      "later": {
+       "unit_id": "u03_4",
+       "label": "The ascent is the soul's",
+       "passage": 3,
+       "quote": "interpret the journey upwards to be the ascent of the soul into the intellectual world",
+       "start": 1138,
+       "end": 1224
+      },
+      "adjacent": false,
+      "ref_index": 4,
+      "how_it_supports": "The ascent is re-read as the soul's ascent."
+     }
+    ],
+    "limitation": "",
+    "grounding_note": ""
+   },
+   {
+    "from_index": 2,
+    "to_index": 3,
+    "kind": "reinterpretation",
+    "certainty": "supported",
+    "what_changes": "The prisoners' inability to turn becomes a picture of a soul that faces the wrong way.",
+    "why": "To say what education is, the text goes back to the first image and re-reads the chains and the turning.",
+    "evidence": [
+     {
+      "kind": "relation",
+      "relation_id": "r05_2",
+      "type": "REFRAMES",
+      "confidence": 0.85,
+      "source_label": "Learning as turning the soul",
+      "target_label": "Unable to turn round",
+      "rationale": "Passage 1: the prisoners are 'prevented by the chains from turning round their heads'. Now knowledge comes when the whole soul is 'turned' from becoming to being. Their trouble is direction, not missing sight.",
+      "earlier": {
+       "unit_id": "u00_6",
+       "label": "Unable to turn round",
+       "passage": 0,
+       "quote": "being prevented by the chains from turning round their heads",
+       "start": 352,
+       "end": 412
+      },
+      "later": {
+       "unit_id": "u05_3",
+       "label": "Learning as turning the soul",
+       "passage": 5,
+       "quote": "the instrument of knowledge can only by the movement of the whole soul be turned from the world of becoming into that of being",
+       "start": 420,
+       "end": 546
+      },
+      "adjacent": false,
+      "ref_index": 1,
+      "how_it_supports": "The soul being turned recasts the chains that stopped the prisoners from turning their heads."
+     },
+     {
+      "kind": "revision",
+      "type": "REVISION",
+      "unit_id": "u01_2",
+      "passage": 5,
+      "confidence": 0.8,
+      "new_reading": "The painful forced turning is the model of education: converting the whole soul toward being.",
+      "rationale": "Education is described as an art of 'conversion' that turns the soul around.",
+      "earlier": {
+       "unit_id": "u01_2",
+       "label": "Release and painful turning",
+       "passage": 1,
+       "quote": "compelled suddenly to stand up and turn his neck round and walk and look towards the light, he will suffer sharp pains",
+       "start": 263,
+       "end": 381
+      },
+      "later": {
+       "unit_id": "u05_3",
+       "label": "Learning as turning the soul",
+       "passage": 5,
+       "quote": "the instrument of knowledge can only by the movement of the whole soul be turned from the world of becoming into that of being",
+       "start": 420,
+       "end": 546
+      },
+      "adjacent": false,
+      "ref_index": 4,
+      "how_it_supports": "The forced turning toward the light becomes the model for education."
+     }
+    ],
+    "limitation": "",
+    "grounding_note": ""
+   },
+   {
+    "from_index": 3,
+    "to_index": 4,
+    "kind": "contradiction",
+    "certainty": "supported",
+    "what_changes": "The requirement to return meets an objection that it is unjust, and the answer reshapes it.",
+    "why": "Compelling philosophers to descend seems unfair to them, so the text must answer that objection.",
+    "evidence": [
+     {
+      "kind": "relation",
+      "relation_id": "r07_1",
+      "type": "CONTRADICTS",
+      "confidence": 0.75,
+      "source_label": "Objection: descent is unjust",
+      "target_label": "Philosophers must descend",
+      "rationale": "Glaucon challenges the requirement (passage 7) that philosophers 'must be made to descend'.",
+      "earlier": {
+       "unit_id": "u06_4",
+       "label": "Philosophers must descend",
+       "passage": 6,
+       "quote": "they must be made to descend again among the prisoners in the den, and partake of their labours and honours",
+       "start": 1528,
+       "end": 1635
+      },
+      "later": {
+       "unit_id": "u07_1",
+       "label": "Objection: descent is unjust",
+       "passage": 7,
+       "quote": "ought we to give them a worse life, when they might have a better?",
+       "start": 33,
+       "end": 99
+      },
+      "adjacent": true,
+      "ref_index": 0,
+      "how_it_supports": "Glaucon objects to making philosophers descend."
+     },
+     {
+      "kind": "relation",
+      "relation_id": "r07_2",
+      "type": "SUPPORTS",
+      "confidence": 0.8,
+      "source_label": "Happiness of the whole State",
+      "target_label": "Philosophers must descend",
+      "rationale": "Descent is justified because 'the happiness was to be in the whole State'.",
+      "earlier": {
+       "unit_id": "u06_4",
+       "label": "Philosophers must descend",
+       "passage": 6,
+       "quote": "they must be made to descend again among the prisoners in the den, and partake of their labours and honours",
+       "start": 1528,
+       "end": 1635
+      },
+      "later": {
+       "unit_id": "u07_2",
+       "label": "Happiness of the whole State",
+       "passage": 7,
+       "quote": "the happiness was to be in the whole State",
+       "start": 254,
+       "end": 296
+      },
+      "adjacent": true,
+      "ref_index": 1,
+      "how_it_supports": "The answer appeals to the happiness of the whole State."
+     }
+    ],
+    "limitation": "",
+    "grounding_note": ""
+   }
+  ],
+  "warnings": [],
+  "provenance": "demo-fixture",
+  "model": null,
+  "generated_at": 1793040641.2504199
+ }
+}

@@ -1,0 +1,19 @@
+.env
+data/*.db
+# Saved model results that the app and the cache-only replay read (exact copies, checksums in data/SAVED_RESULTS.sha256)
+!data/motif.m51.db
+backend/.venv/
+__pycache__/
+.pytest_cache/
+node_modules/
+frontend/dist/
+data/baseline/
+.DS_Store
+.Rhistory
+
+docs/experiments/time_machine/exports/*.db
+!docs/experiments/time_machine/exports/motif.the_time_machine.db
+
+# Video and audio files are not kept in Git
+*.mp4
+*.wav

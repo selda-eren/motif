@@ -1,0 +1,1561 @@
+{
+ "_provenance": "HAND-AUTHORED DEMO FIXTURE. Written by a person to exercise the pipeline offline. NOT model output.",
+ "book": "plato_cave",
+ "perception": {
+  "p0": {
+   "gist": "Socrates sets up an image: prisoners chained in a den since childhood, seeing only shadows cast by a fire.",
+   "units": [
+    {
+     "kind": "situation",
+     "label": "Prisoners chained in a den",
+     "content": "Human beings have lived since childhood in an underground den, chained so they cannot move.",
+     "participants": [
+      "prisoners"
+     ],
+     "quote": "here they have been from their childhood, and have their legs and necks chained so that they cannot move",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "image",
+     "label": "Fire behind the prisoners",
+     "content": "A fire burns above and behind the prisoners, with a raised way and a low wall between.",
+     "participants": [
+      "fire"
+     ],
+     "quote": "Above and behind them a fire is blazing at a distance",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "image",
+     "label": "Shadows on the wall",
+     "content": "The prisoners see only shadows, of themselves and of carried objects, cast by the fire on the wall.",
+     "participants": [
+      "prisoners"
+     ],
+     "quote": "they see only their own shadows, or the shadows of one another, which the fire throws on the opposite wall of the cave",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "claim",
+     "label": "The prisoners are like us",
+     "content": "Socrates says the strange prisoners are like ourselves.",
+     "participants": [
+      "Socrates",
+      "Glaucon"
+     ],
+     "quote": "Like ourselves, I replied",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "claim",
+     "label": "Naming shadows as realities",
+     "content": "If they talked, the prisoners would take their words to name what was actually before them.",
+     "participants": [
+      "prisoners"
+     ],
+     "quote": "would they not suppose that they were naming what was actually before them?",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "situation",
+     "label": "Unable to turn round",
+     "content": "The chains prevent the prisoners from turning their heads, so they face only one way.",
+     "participants": [
+      "prisoners"
+     ],
+     "quote": "being prevented by the chains from turning round their heads",
+     "basis": "explicit",
+     "confidence": 0.9
+    }
+   ]
+  },
+  "p1": {
+   "gist": "The prisoners take shadows for truth; a released prisoner is turned toward the light, suffers, and resists being told he saw an illusion.",
+   "units": [
+    {
+     "kind": "claim",
+     "label": "Truth is shadows for them",
+     "content": "For the prisoners, truth would be nothing but the shadows of the images.",
+     "participants": [
+      "prisoners"
+     ],
+     "quote": "To them, I said, the truth would be literally nothing but the shadows of the images.",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "event",
+     "label": "Release and painful turning",
+     "content": "A released prisoner is compelled to stand, turn his neck round and look toward the light, and suffers sharp pains.",
+     "participants": [
+      "released prisoner"
+     ],
+     "quote": "compelled suddenly to stand up and turn his neck round and walk and look towards the light, he will suffer sharp pains",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "claim",
+     "label": "Shadows still seem truer",
+     "content": "Shown the real objects, the released prisoner would think the shadows truer.",
+     "participants": [
+      "released prisoner",
+      "instructor"
+     ],
+     "quote": "Will he not fancy that the shadows which he formerly saw are truer than the objects which are now shown to him?",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "event",
+     "label": "Dragged up the ascent",
+     "content": "He is reluctantly dragged up a steep, rugged ascent into the sunlight.",
+     "participants": [
+      "released prisoner"
+     ],
+     "quote": "he is reluctantly dragged up a steep and rugged ascent",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "concept",
+     "label": "Degrees of reality",
+     "content": "What he saw before is called an illusion; turning toward more real existence gives clearer vision.",
+     "participants": [
+      "instructor",
+      "released prisoner"
+     ],
+     "quote": "what he saw before was an illusion, but that now, when he is approaching nearer to being and his eye is turned towards more real existence, he has a clearer vision",
+     "basis": "explicit",
+     "confidence": 0.85
+    }
+   ]
+  },
+  "p2": {
+   "gist": "Outside, the freed prisoner grows accustomed to the light in stages until he can see the sun, reasons about it as cause, and scorns the den's honours.",
+   "units": [
+    {
+     "kind": "concept",
+     "label": "Gradual habituation",
+     "content": "Seeing the upper world requires growing accustomed to it.",
+     "participants": [
+      "freed prisoner"
+     ],
+     "quote": "He will require to grow accustomed to the sight of the upper world.",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "claim",
+     "label": "Ordered stages of seeing",
+     "content": "He sees first shadows, then reflections in water, then the objects themselves, then the heavens.",
+     "participants": [
+      "freed prisoner"
+     ],
+     "quote": "first he will see the shadows best, next the reflections of men and other objects in the water, and then the objects themselves",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "claim",
+     "label": "The sun as cause of all",
+     "content": "He reasons that the sun governs the seasons and is in a way the cause of all he used to see.",
+     "participants": [
+      "sun",
+      "freed prisoner"
+     ],
+     "quote": "in a certain way the cause of all things which he and his fellows have been accustomed to behold",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "situation",
+     "label": "Honours for shadow-watching",
+     "content": "In the den, honours go to those quickest at observing and predicting the passing shadows.",
+     "participants": [
+      "prisoners"
+     ],
+     "quote": "conferring honours among themselves on those who were quickest to observe the passing shadows",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "claim",
+     "label": "Rejecting the den's life",
+     "content": "He would endure anything rather than think and live as the prisoners do.",
+     "participants": [
+      "freed prisoner"
+     ],
+     "quote": "and to endure anything, rather than think as they do and live after their manner",
+     "basis": "explicit",
+     "confidence": 0.9
+    }
+   ]
+  },
+  "p3": {
+   "gist": "Turning point: Socrates explains the allegory. The den is the visible world, the ascent is the soul's, and the idea of the good is seen last.",
+   "units": [
+    {
+     "kind": "event",
+     "label": "Return into darkness",
+     "content": "Coming back down, his eyes would be full of darkness.",
+     "participants": [
+      "returning prisoner"
+     ],
+     "quote": "would he not be certain to have his eyes full of darkness?",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "event",
+     "label": "The liberator would be killed",
+     "content": "Whoever tried to free others and lead them up would be put to death.",
+     "participants": [
+      "prisoners",
+      "liberator"
+     ],
+     "quote": "if any one tried to loose another and lead him up to the light, let them only catch the offender, and they would put him to death",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "claim",
+     "label": "The den is the visible world",
+     "content": "Socrates interprets the prison-house as the world of sight and the fire as the sun.",
+     "participants": [
+      "Socrates"
+     ],
+     "quote": "the prison-house is the world of sight, the light of the fire is the sun",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "claim",
+     "label": "The ascent is the soul's",
+     "content": "The journey upward is to be read as the soul's ascent into the intellectual world.",
+     "participants": [
+      "Socrates",
+      "soul"
+     ],
+     "quote": "interpret the journey upwards to be the ascent of the soul into the intellectual world",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "concept",
+     "label": "The idea of the good",
+     "content": "In the world of knowledge, the idea of the good appears last and only with effort.",
+     "participants": [
+      "Socrates"
+     ],
+     "quote": "in the world of knowledge the idea of good appears last of all, and is seen only with an effort",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "claim",
+     "label": "The good guides rational action",
+     "content": "Anyone who would act rationally, in public or private, must fix his eye on the good.",
+     "participants": [
+      "Socrates"
+     ],
+     "quote": "this is the power upon which he who would act rationally either in public or private life must have his eye fixed",
+     "basis": "explicit",
+     "confidence": 0.9
+    }
+   ]
+  },
+  "p4": {
+   "gist": "Those who have seen the good are reluctant to return, and look foolish disputing 'shadows of images of justice'; perplexity has two causes.",
+   "units": [
+    {
+     "kind": "claim",
+     "label": "Reluctance to descend",
+     "content": "Those who attain the vision are unwilling to descend to human affairs.",
+     "participants": [
+      "philosophers"
+     ],
+     "quote": "those who attain to this beatific vision are unwilling to descend to human affairs",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "situation",
+     "label": "Courts disputing shadows of justice",
+     "content": "The returned person must fight in courts about images or shadows of images of justice.",
+     "participants": [
+      "returned philosopher"
+     ],
+     "quote": "compelled to fight in courts of law, or in other places, about the images or the shadows of images of justice",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "claim",
+     "label": "Two kinds of bewilderment",
+     "content": "Bewilderment of the eyes comes either from leaving the light or from entering it.",
+     "participants": [],
+     "quote": "the bewilderments of the eyes are of two kinds, and arise from two causes, either from coming out of the light or from going into the light",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "concept",
+     "label": "The mind's eye",
+     "content": "The two bewilderments apply to the mind's eye as much as to the bodily eye.",
+     "participants": [],
+     "quote": "which is true of the mind's eye, quite as much as of the bodily eye",
+     "basis": "explicit",
+     "confidence": 0.9
+    }
+   ]
+  },
+  "p5": {
+   "gist": "Education does not put sight into blind eyes; it turns the whole soul, whose capacity to learn is already there, toward being.",
+   "units": [
+    {
+     "kind": "claim",
+     "label": "Education is not insertion",
+     "content": "Some teachers wrongly claim they can put knowledge into a soul like sight into blind eyes.",
+     "participants": [
+      "professors of education"
+     ],
+     "quote": "certain professors of education must be wrong when they say that they can put a knowledge into the soul which was not there before, like sight into blind eyes",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "claim",
+     "label": "Capacity to learn is innate",
+     "content": "The power and capacity of learning already exists in the soul.",
+     "participants": [
+      "soul"
+     ],
+     "quote": "the power and capacity of learning exists in the soul already",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "claim",
+     "label": "Learning as turning the soul",
+     "content": "Knowledge requires turning the whole soul from becoming toward being, as the eye turns only with the whole body.",
+     "participants": [
+      "soul"
+     ],
+     "quote": "the instrument of knowledge can only by the movement of the whole soul be turned from the world of becoming into that of being",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "concept",
+     "label": "The art of conversion",
+     "content": "There should be an art of turning the soul, not of implanting sight.",
+     "participants": [],
+     "quote": "some art which will effect conversion in the easiest and quickest manner",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "claim",
+     "label": "The clever rogue's keen sight",
+     "content": "A clever rogue sees keenly, but his sight serves evil.",
+     "participants": [
+      "clever rogue"
+     ],
+     "quote": "his keen eye-sight is forced into the service of evil, and he is mischievous in proportion to his cleverness",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "concept",
+     "label": "The good as highest being",
+     "content": "Learning ends in enduring the sight of the brightest and best of being, the good.",
+     "participants": [],
+     "quote": "the brightest and best of being, or in other words, of the good",
+     "basis": "explicit",
+     "confidence": 0.9
+    }
+   ]
+  },
+  "p6": {
+   "gist": "Appetites weigh the soul's vision downward. The founders must compel the best minds to ascend to the good and then make them descend again.",
+   "units": [
+    {
+     "kind": "image",
+     "label": "Leaden weights of pleasure",
+     "content": "Sensual pleasures attached from birth drag the soul down and turn its vision to things below.",
+     "participants": [
+      "soul"
+     ],
+     "quote": "which, like leaden weights, were attached to them at their birth, and which drag them down and turn the vision of their souls upon the things that are below",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "claim",
+     "label": "Two kinds unfit to rule",
+     "content": "Neither the uneducated nor those who never finish their education make able ministers of State.",
+     "participants": [],
+     "quote": "neither the uneducated and uninformed of the truth, nor yet those who never make an end of their education, will be able ministers of State",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "claim",
+     "label": "Founders compel the ascent",
+     "content": "The founders of the State must compel the best minds to attain knowledge of the good.",
+     "participants": [
+      "founders",
+      "best minds"
+     ],
+     "quote": "the business of us who are the founders of the State will be to compel the best minds to attain that knowledge",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "claim",
+     "label": "Philosophers must descend",
+     "content": "Having seen enough, they must be made to descend again among the prisoners and share their labours.",
+     "participants": [
+      "philosophers",
+      "prisoners"
+     ],
+     "quote": "they must be made to descend again among the prisoners in the den, and partake of their labours and honours",
+     "basis": "explicit",
+     "confidence": 0.9
+    }
+   ]
+  },
+  "p7": {
+   "gist": "Glaucon objects that descent is unjust. Socrates answers that the law aims at the whole State's happiness, so trained rulers must return, and reluctant rulers govern best.",
+   "units": [
+    {
+     "kind": "claim",
+     "label": "Objection: descent is unjust",
+     "content": "Glaucon asks whether it is unjust to give them a worse life when they could have a better one.",
+     "participants": [
+      "Glaucon"
+     ],
+     "quote": "ought we to give them a worse life, when they might have a better?",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "claim",
+     "label": "Happiness of the whole State",
+     "content": "The legislator aimed at the happiness of the whole State, not of one class.",
+     "participants": [
+      "legislator"
+     ],
+     "quote": "the happiness was to be in the whole State",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "claim",
+     "label": "Habit of seeing in the dark",
+     "content": "Each in turn must go down to the den and get the habit of seeing in the dark.",
+     "participants": [
+      "philosophers"
+     ],
+     "quote": "must go down to the general underground abode, and get the habit of seeing in the dark",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "claim",
+     "label": "Returning rulers know the images",
+     "content": "Having seen the good, they will recognise what the images are and what they represent.",
+     "participants": [
+      "philosophers"
+     ],
+     "quote": "you will know what the several images are, and what they represent, because you have seen the beautiful and just and good in their truth",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "situation",
+     "label": "Politics as fighting over shadows",
+     "content": "In other States, men fight about shadows and struggle for power as if it were a great good.",
+     "participants": [
+      "citizens of other States"
+     ],
+     "quote": "in which men fight with one another about shadows only and are distracted in the struggle for power",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "claim",
+     "label": "Reluctant rulers govern best",
+     "content": "The State whose rulers are most reluctant to govern is the best governed.",
+     "participants": [],
+     "quote": "the State in which the rulers are most reluctant to govern is always the best and most quietly governed",
+     "basis": "explicit",
+     "confidence": 0.9
+    }
+   ]
+  },
+  "p8": {
+   "gist": "The educated will accept office as a stern necessity, ruling for virtue and wisdom rather than gold. Only philosophy looks down on political ambition.",
+   "units": [
+    {
+     "kind": "claim",
+     "label": "Office as stern necessity",
+     "content": "Being just, every one of them will take office as a stern necessity.",
+     "participants": [
+      "future rulers"
+     ],
+     "quote": "every one of them will take office as a stern necessity",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "claim",
+     "label": "A better life than ruling",
+     "content": "Future rulers need a life better than ruling, or the State will not be well ordered.",
+     "participants": [
+      "founders",
+      "future rulers"
+     ],
+     "quote": "You must contrive for your future rulers another and a better life than that of a ruler",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "concept",
+     "label": "True wealth",
+     "content": "True riches are virtue and wisdom, not silver and gold.",
+     "participants": [],
+     "quote": "they rule who are truly rich, not in silver and gold, but in virtue and wisdom",
+     "basis": "explicit",
+     "confidence": 0.9
+    },
+    {
+     "kind": "claim",
+     "label": "Philosophy above ambition",
+     "content": "Only true philosophy looks down on the life of political ambition.",
+     "participants": [],
+     "quote": "the only life which looks down upon the life of political ambition is that of true philosophy",
+     "basis": "explicit",
+     "confidence": 0.9
+    }
+   ]
+  }
+ },
+ "integration": {
+  "p0": {
+   "decisions": [
+    {
+     "new_unit": "n1",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "n4",
+       "type": "RELATES_TO",
+       "direction": "target_to_new",
+       "rationale": "The scene of chained prisoners (n1) is immediately said to be 'like ourselves' (n4).",
+       "confidence": 0.6
+      }
+     ],
+     "revisions": []
+    },
+    {
+     "new_unit": "n2",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "n3",
+       "type": "CAUSES",
+       "direction": "new_to_target",
+       "rationale": "The fire 'blazing at a distance' is what 'throws' the shadows on the opposite wall.",
+       "confidence": 0.9
+      }
+     ],
+     "revisions": []
+    },
+    {
+     "new_unit": "n3",
+     "action": "add",
+     "merge_into": "",
+     "relations": [],
+     "revisions": []
+    },
+    {
+     "new_unit": "n4",
+     "action": "add",
+     "merge_into": "",
+     "relations": [],
+     "revisions": []
+    },
+    {
+     "new_unit": "n5",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "n3",
+       "type": "REFINES",
+       "direction": "new_to_target",
+       "rationale": "Seeing only shadows becomes a belief: their words would seem to name 'what was actually before them'.",
+       "confidence": 0.75
+      }
+     ],
+     "revisions": []
+    },
+    {
+     "new_unit": "n6",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "n3",
+       "type": "CAUSES",
+       "direction": "new_to_target",
+       "rationale": "Being 'prevented by the chains from turning round their heads' is why they 'see only' shadows.",
+       "confidence": 0.85
+      }
+     ],
+     "revisions": []
+    }
+   ]
+  },
+  "p1": {
+   "decisions": [
+    {
+     "new_unit": "n1",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "u00_3",
+       "type": "REFINES",
+       "direction": "new_to_target",
+       "rationale": "Passage 1 shows the prisoners seeing only shadows; now those shadows are, for them, the whole of 'the truth'.",
+       "confidence": 0.85
+      },
+      {
+       "target": "u00_5",
+       "type": "SUPPORTS",
+       "direction": "new_to_target",
+       "rationale": "Taking words to name 'what was actually before them' (passage 1) is what makes shadows count as truth.",
+       "confidence": 0.7
+      }
+     ],
+     "revisions": []
+    },
+    {
+     "new_unit": "n2",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "u00_6",
+       "type": "REFINES",
+       "direction": "new_to_target",
+       "rationale": "The turning the chains once 'prevented' now happens, but it is compelled and painful.",
+       "confidence": 0.7
+      }
+     ],
+     "revisions": []
+    },
+    {
+     "new_unit": "n3",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "n1",
+       "type": "SUPPORTS",
+       "direction": "new_to_target",
+       "rationale": "His preferring the shadows as 'truer' shows how firmly shadows had become truth.",
+       "confidence": 0.75
+      }
+     ],
+     "revisions": []
+    },
+    {
+     "new_unit": "n4",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "n2",
+       "type": "REFINES",
+       "direction": "new_to_target",
+       "rationale": "The forced turning continues as being 'dragged up a steep and rugged ascent'.",
+       "confidence": 0.7
+      }
+     ],
+     "revisions": []
+    },
+    {
+     "new_unit": "n5",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "n1",
+       "type": "CONTRADICTS",
+       "direction": "new_to_target",
+       "rationale": "The instructor calls what he saw 'an illusion', against the prisoners' belief that shadows are the truth.",
+       "confidence": 0.85
+      },
+      {
+       "target": "u00_3",
+       "type": "REFRAMES",
+       "direction": "new_to_target",
+       "rationale": "The shadows of passage 1 are no longer just what they see: they are 'an illusion', the lowest grade of what is.",
+       "confidence": 0.8
+      }
+     ],
+     "revisions": [
+      {
+       "target": "u00_3",
+       "new_reading": "The shadows are an illusion: the least real of several grades of being, mistaken for the truth.",
+       "rationale": "The instructor names what was seen before 'an illusion' and contrasts it with 'more real existence'."
+      }
+     ]
+    }
+   ]
+  },
+  "p2": {
+   "decisions": [
+    {
+     "new_unit": "n1",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "u01_2",
+       "type": "REFINES",
+       "direction": "new_to_target",
+       "rationale": "The painful turning toward the light (passage 2) becomes a process: one must 'grow accustomed'.",
+       "confidence": 0.75
+      }
+     ],
+     "revisions": []
+    },
+    {
+     "new_unit": "n2",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "u00_3",
+       "type": "RELATES_TO",
+       "direction": "new_to_target",
+       "rationale": "Shadows reappear as the first, easiest stage of seeing in the upper world.",
+       "confidence": 0.55
+      }
+     ],
+     "revisions": []
+    },
+    {
+     "new_unit": "n3",
+     "action": "add",
+     "merge_into": "",
+     "relations": [],
+     "revisions": []
+    },
+    {
+     "new_unit": "n4",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "u00_5",
+       "type": "REFINES",
+       "direction": "new_to_target",
+       "rationale": "Naming shadows (passage 1) turns out to be a social practice, with honours for predicting their sequence.",
+       "confidence": 0.75
+      }
+     ],
+     "revisions": []
+    },
+    {
+     "new_unit": "n5",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "n4",
+       "type": "CONTRADICTS",
+       "direction": "new_to_target",
+       "rationale": "The freed prisoner would rather endure anything than share the life the den honours.",
+       "confidence": 0.8
+      }
+     ],
+     "revisions": []
+    }
+   ]
+  },
+  "p3": {
+   "decisions": [
+    {
+     "new_unit": "n1",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "u01_2",
+       "type": "RELATES_TO",
+       "direction": "new_to_target",
+       "rationale": "Light blinded him going up (passage 2); darkness blinds him coming back down.",
+       "confidence": 0.55
+      }
+     ],
+     "revisions": []
+    },
+    {
+     "new_unit": "n2",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "u02_4",
+       "type": "REFINES",
+       "direction": "new_to_target",
+       "rationale": "The den does more than honour shadow-watchers: it would kill anyone who tried to free them.",
+       "confidence": 0.6
+      }
+     ],
+     "revisions": []
+    },
+    {
+     "new_unit": "n3",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "u00_4",
+       "type": "SUPPORTS",
+       "direction": "new_to_target",
+       "rationale": "Saying 'like ourselves' (passage 1) is explained: the den is the visible world we all live in.",
+       "confidence": 0.8
+      }
+     ],
+     "revisions": []
+    },
+    {
+     "new_unit": "n4",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "u01_4",
+       "type": "REFRAMES",
+       "direction": "new_to_target",
+       "rationale": "Being 'dragged up a steep and rugged ascent' (passage 2) is now the soul's ascent to the intellectual world.",
+       "confidence": 0.85
+      }
+     ],
+     "revisions": [
+      {
+       "target": "u01_4",
+       "new_reading": "The ascent is the soul's movement toward the intellectual world, not a physical climb.",
+       "rationale": "Socrates: 'the journey upwards' is 'the ascent of the soul into the intellectual world'."
+      }
+     ]
+    },
+    {
+     "new_unit": "n5",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "u02_3",
+       "type": "REFRAMES",
+       "direction": "new_to_target",
+       "rationale": "The sun, 'cause of all things' in passage 3, stands for the good, 'universal author of all things beautiful and right'.",
+       "confidence": 0.8
+      },
+      {
+       "target": "u02_2",
+       "type": "REFINES",
+       "direction": "new_to_target",
+       "rationale": "Seeing the sun last (passage 3) matches the good being seen 'last of all'.",
+       "confidence": 0.75
+      }
+     ],
+     "revisions": [
+      {
+       "target": "u02_3",
+       "new_reading": "The sun stands for the idea of the good, the cause of what is right and of truth.",
+       "rationale": "The good is called the 'parent of light and of the lord of light in this visible world'."
+      }
+     ]
+    },
+    {
+     "new_unit": "n6",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "n5",
+       "type": "REFINES",
+       "direction": "new_to_target",
+       "rationale": "The good is not only known last: it must also guide rational action.",
+       "confidence": 0.7
+      }
+     ],
+     "revisions": []
+    }
+   ]
+  },
+  "p4": {
+   "decisions": [
+    {
+     "new_unit": "n1",
+     "action": "add",
+     "merge_into": "",
+     "relations": [],
+     "revisions": []
+    },
+    {
+     "new_unit": "n2",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "u00_3",
+       "type": "REFRAMES",
+       "direction": "new_to_target",
+       "rationale": "Shadows (passage 1) now include 'shadows of images of justice' that people dispute in court.",
+       "confidence": 0.85
+      },
+      {
+       "target": "u03_1",
+       "type": "SUPPORTS",
+       "direction": "new_to_target",
+       "rationale": "The darkness on returning (passage 4) is why he misbehaves 'in a ridiculous manner' in court.",
+       "confidence": 0.65
+      }
+     ],
+     "revisions": [
+      {
+       "target": "u00_3",
+       "new_reading": "Shadows are second-hand appearances that people take for the real thing, including images of justice disputed in courts.",
+       "rationale": "Courts dispute 'the images or the shadows of images of justice' among people 'who have never yet seen absolute justice'."
+      }
+     ]
+    },
+    {
+     "new_unit": "n3",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "u03_1",
+       "type": "REFINES",
+       "direction": "new_to_target",
+       "rationale": "Eyes 'full of darkness' on return (passage 4) are one of two kinds of bewilderment.",
+       "confidence": 0.7
+      },
+      {
+       "target": "u01_2",
+       "type": "REFINES",
+       "direction": "new_to_target",
+       "rationale": "The pain of looking toward the light (passage 2) is the other kind: 'going into the light'.",
+       "confidence": 0.7
+      }
+     ],
+     "revisions": []
+    },
+    {
+     "new_unit": "n4",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "n3",
+       "type": "REFINES",
+       "direction": "new_to_target",
+       "rationale": "Extends the two bewilderments from the bodily eye to 'the mind's eye'.",
+       "confidence": 0.8
+      }
+     ],
+     "revisions": []
+    }
+   ]
+  },
+  "p5": {
+   "decisions": [
+    {
+     "new_unit": "n1",
+     "action": "add",
+     "merge_into": "",
+     "relations": [],
+     "revisions": []
+    },
+    {
+     "new_unit": "n2",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "n1",
+       "type": "CONTRADICTS",
+       "direction": "new_to_target",
+       "rationale": "If the capacity 'exists in the soul already', education cannot put in knowledge 'which was not there before'.",
+       "confidence": 0.85
+      }
+     ],
+     "revisions": []
+    },
+    {
+     "new_unit": "n3",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "u00_6",
+       "type": "REFRAMES",
+       "direction": "new_to_target",
+       "rationale": "Passage 1: the prisoners are 'prevented by the chains from turning round their heads'. Now knowledge comes when the whole soul is 'turned' from becoming to being. Their trouble is direction, not missing sight.",
+       "confidence": 0.85
+      },
+      {
+       "target": "u01_2",
+       "type": "REFRAMES",
+       "direction": "new_to_target",
+       "rationale": "Being compelled to 'turn his neck round' toward the light (passage 2) is now a figure for education: turning the whole soul.",
+       "confidence": 0.8
+      },
+      {
+       "target": "u02_1",
+       "type": "REFINES",
+       "direction": "new_to_target",
+       "rationale": "'Learn by degrees to endure the sight of being' restates the gradual habituation of passage 3.",
+       "confidence": 0.6
+      }
+     ],
+     "revisions": [
+      {
+       "target": "u00_6",
+       "new_reading": "Not turning shows a soul whose power of sight is intact but faces the wrong way. Education is the turning the chains prevented.",
+       "rationale": "Learning is the soul being 'turned from the world of becoming into that of being'. The faculty of sight 'exists already'."
+      },
+      {
+       "target": "u01_2",
+       "new_reading": "The painful forced turning is the model of education: converting the whole soul toward being.",
+       "rationale": "Education is described as an art of 'conversion' that turns the soul around."
+      }
+     ]
+    },
+    {
+     "new_unit": "n4",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "n3",
+       "type": "REFINES",
+       "direction": "new_to_target",
+       "rationale": "If learning is turning, education should be an 'art' of conversion, not of implanting.",
+       "confidence": 0.8
+      }
+     ],
+     "revisions": []
+    },
+    {
+     "new_unit": "n5",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "n2",
+       "type": "SUPPORTS",
+       "direction": "new_to_target",
+       "rationale": "Even the rogue has keen sight, so the faculty is present. What matters is where it is turned.",
+       "confidence": 0.75
+      }
+     ],
+     "revisions": []
+    },
+    {
+     "new_unit": "n6",
+     "action": "merge",
+     "merge_into": "u03_5",
+     "relations": [],
+     "revisions": []
+    }
+   ]
+  },
+  "p6": {
+   "decisions": [
+    {
+     "new_unit": "n1",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "u05_3",
+       "type": "REFINES",
+       "direction": "new_to_target",
+       "rationale": "Passage 6 says the soul must be turned. Here is what turns it the wrong way: pleasures that 'turn the vision of their souls upon the things that are below'.",
+       "confidence": 0.75
+      },
+      {
+       "target": "u00_1",
+       "type": "REFRAMES",
+       "direction": "new_to_target",
+       "rationale": "The prisoners' chains (passage 1) get an inner counterpart: weights 'attached to them at their birth'.",
+       "confidence": 0.7
+      }
+     ],
+     "revisions": [
+      {
+       "target": "u00_1",
+       "new_reading": "The den is the world of sight, and its chains have an inner counterpart: appetites attached from birth that pull the soul's gaze downward.",
+       "rationale": "Pleasures 'like leaden weights' 'drag them down and turn the vision of their souls' downward."
+      }
+     ]
+    },
+    {
+     "new_unit": "n2",
+     "action": "add",
+     "merge_into": "",
+     "relations": [],
+     "revisions": []
+    },
+    {
+     "new_unit": "n3",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "u01_4",
+       "type": "REFINES",
+       "direction": "new_to_target",
+       "rationale": "Being 'dragged up' the ascent (passage 2) becomes the founders' policy: to 'compel the best minds'.",
+       "confidence": 0.75
+      }
+     ],
+     "revisions": []
+    },
+    {
+     "new_unit": "n4",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "u04_1",
+       "type": "CONTRADICTS",
+       "direction": "new_to_target",
+       "rationale": "Those who see the good are 'unwilling to descend' (passage 5), yet they 'must be made to descend again'.",
+       "confidence": 0.8
+      },
+      {
+       "target": "n2",
+       "type": "RELATES_TO",
+       "direction": "target_to_new",
+       "rationale": "Being unfit to rule if education never ends is a reason the educated must descend.",
+       "confidence": 0.55
+      }
+     ],
+     "revisions": []
+    }
+   ]
+  },
+  "p7": {
+   "decisions": [
+    {
+     "new_unit": "n1",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "u06_4",
+       "type": "CONTRADICTS",
+       "direction": "new_to_target",
+       "rationale": "Glaucon challenges the requirement (passage 7) that philosophers 'must be made to descend'.",
+       "confidence": 0.75
+      }
+     ],
+     "revisions": []
+    },
+    {
+     "new_unit": "n2",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "u06_4",
+       "type": "SUPPORTS",
+       "direction": "new_to_target",
+       "rationale": "Descent is justified because 'the happiness was to be in the whole State'.",
+       "confidence": 0.8
+      },
+      {
+       "target": "n1",
+       "type": "CONTRADICTS",
+       "direction": "new_to_target",
+       "rationale": "Glaucon's objection assumes the goal is the happiness of the philosopher class, which this rejects.",
+       "confidence": 0.75
+      }
+     ],
+     "revisions": []
+    },
+    {
+     "new_unit": "n3",
+     "action": "add",
+     "merge_into": "",
+     "relations": [],
+     "revisions": []
+    },
+    {
+     "new_unit": "n4",
+     "action": "add",
+     "merge_into": "",
+     "relations": [],
+     "revisions": []
+    },
+    {
+     "new_unit": "n5",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "u00_3",
+       "type": "REFRAMES",
+       "direction": "new_to_target",
+       "rationale": "Shadows (passage 1) are now what political rivals 'fight with one another about' in 'the struggle for power'.",
+       "confidence": 0.85
+      },
+      {
+       "target": "u04_2",
+       "type": "REFINES",
+       "direction": "new_to_target",
+       "rationale": "Courtroom disputes over 'shadows of images of justice' (passage 5) widen into politics as a whole.",
+       "confidence": 0.75
+      }
+     ],
+     "revisions": [
+      {
+       "target": "u00_3",
+       "new_reading": "Shadows are the book's figure for appearances taken as real goods worth fighting for: in perception, in courts and in the struggle for power.",
+       "rationale": "Other States are ones 'in which men fight with one another about shadows only'."
+      }
+     ]
+    },
+    {
+     "new_unit": "n6",
+     "action": "add",
+     "merge_into": "",
+     "relations": [],
+     "revisions": []
+    }
+   ]
+  },
+  "p8": {
+   "decisions": [
+    {
+     "new_unit": "n1",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "u07_6",
+       "type": "SUPPORTS",
+       "direction": "new_to_target",
+       "rationale": "Taking office only 'as a stern necessity' is the reluctance that, in passage 8, makes the best rulers.",
+       "confidence": 0.75
+      },
+      {
+       "target": "u07_1",
+       "type": "CONTRADICTS",
+       "direction": "new_to_target",
+       "rationale": "Glaucon now agrees the commands 'are just', which answers his own objection from passage 8.",
+       "confidence": 0.7
+      }
+     ],
+     "revisions": []
+    },
+    {
+     "new_unit": "n2",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "u07_6",
+       "type": "SUPPORTS",
+       "direction": "new_to_target",
+       "rationale": "Rulers stay reluctant only if they have a life better than ruling.",
+       "confidence": 0.7
+      }
+     ],
+     "revisions": []
+    },
+    {
+     "new_unit": "n3",
+     "action": "add",
+     "merge_into": "",
+     "relations": [],
+     "revisions": []
+    },
+    {
+     "new_unit": "n4",
+     "action": "add",
+     "merge_into": "",
+     "relations": [
+      {
+       "target": "u02_5",
+       "type": "REFINES",
+       "direction": "new_to_target",
+       "rationale": "The freed prisoner's scorn for the den's life (passage 3) is named: philosophy 'looks down upon' political ambition.",
+       "confidence": 0.7
+      }
+     ],
+     "revisions": []
+    }
+   ]
+  }
+ },
+ "journey": {
+  "plato_cave": {
+   "overview": "Prisoners who mistake shadows for reality are freed and climb toward the sun; the cave turns out to be our own world, education turns out to be a turning of the soul, and those who see most must go back down to govern.",
+   "stages": [
+    {
+     "title": "Living among shadows",
+     "summary": "People chained in a cave take the shadows on the wall for the whole of reality, until one is forced to turn toward the light.",
+     "first_passage": 1,
+     "last_passage": 2,
+     "key_units": [
+      "u00_1",
+      "u00_3",
+      "u01_1"
+     ],
+     "leads_to_next": "Once one prisoner is turned around, the question becomes how anyone gets from shadows to what is real.",
+     "bridge_relations": [
+      "r02_1"
+     ]
+    },
+    {
+     "title": "The slow climb to the sun",
+     "summary": "Seeing the real world takes time: first reflections, then things themselves, and at last the sun that makes everything visible.",
+     "first_passage": 3,
+     "last_passage": 3,
+     "key_units": [
+      "u02_1",
+      "u02_2",
+      "u02_3"
+     ],
+     "leads_to_next": "Socrates then explains what the climb stood for, so the sun and the cave take on new meanings.",
+     "bridge_relations": [
+      "r03_5",
+      "r03_6"
+     ]
+    },
+    {
+     "title": "The image explained",
+     "summary": "The cave is our everyday world of appearances, the climb is the mind's ascent, and the sun stands for the highest good.",
+     "first_passage": 4,
+     "last_passage": 5,
+     "key_units": [
+      "u03_3",
+      "u03_4",
+      "u03_5",
+      "u04_2"
+     ],
+     "leads_to_next": "Those who have seen the good would rather stay above, which forces the question of what they owe to those still below.",
+     "bridge_relations": [
+      "r06_4"
+     ]
+    },
+    {
+     "title": "Education as turning",
+     "summary": "Learning does not put sight into the mind; it turns a power the soul already has toward what is real.",
+     "first_passage": 6,
+     "last_passage": 7,
+     "key_units": [
+      "u05_3",
+      "u05_2",
+      "u06_1",
+      "u06_4"
+     ],
+     "leads_to_next": "Making philosophers go back down looks unfair to them, so the dialogue must show why it is just.",
+     "bridge_relations": [
+      "r07_1",
+      "r07_2"
+     ]
+    },
+    {
+     "title": "The duty to return",
+     "summary": "Those who have seen the good must govern, and they rule best precisely because they do not want power.",
+     "first_passage": 8,
+     "last_passage": 9,
+     "key_units": [
+      "u07_2",
+      "u07_5",
+      "u07_6",
+      "u08_1"
+     ],
+     "leads_to_next": "",
+     "bridge_relations": []
+    }
+   ]
+  }
+ },
+ "explain": {
+  "plato_cave": {
+   "stages": [
+    {
+     "stage": 1,
+     "what_changes": "We meet people who cannot see past appearances and do not know it.",
+     "why_it_matters": "Everything later is measured against this starting point of mistaken belief.",
+     "quotes": [
+      {
+       "ref": "Q1",
+       "how_it_supports": "The prisoners have been fixed in place since childhood, so they have never seen otherwise."
+      },
+      {
+       "ref": "Q3",
+       "how_it_supports": "For them, shadows are not a part of reality; they are all of it."
+      }
+     ]
+    },
+    {
+     "stage": 2,
+     "what_changes": "Seeing what is real turns out to be gradual and effortful, ending with the sun as the source of what we see.",
+     "why_it_matters": "It sets up the idea that understanding has levels, and that the highest level explains the rest.",
+     "quotes": [
+      {
+       "ref": "Q2",
+       "how_it_supports": "The freed prisoner moves step by step from shadows to reflections to things themselves."
+      },
+      {
+       "ref": "Q3",
+       "how_it_supports": "The sun is not just bright; it is the cause of everything he used to see."
+      }
+     ]
+    },
+    {
+     "stage": 3,
+     "what_changes": "The story becomes an explanation: the cave is our ordinary world and the climb is the mind's.",
+     "why_it_matters": "From here on, every image in the story is also a claim about knowledge and society.",
+     "quotes": [
+      {
+       "ref": "Q1",
+       "how_it_supports": "Socrates states outright what the prison and the fire stand for."
+      },
+      {
+       "ref": "Q2",
+       "how_it_supports": "The physical climb is reinterpreted as the soul's ascent."
+      },
+      {
+       "ref": "Q4",
+       "how_it_supports": "Shadows reappear as disputed images of justice in courts."
+      }
+     ]
+    },
+    {
+     "stage": 4,
+     "what_changes": "Education is redefined as turning the soul around, not filling it with knowledge.",
+     "why_it_matters": "This explains what the liberation in the story actually was, and why it is hard.",
+     "quotes": [
+      {
+       "ref": "Q1",
+       "how_it_supports": "Knowledge needs the whole soul to turn, as the prisoner had to turn his whole body."
+      },
+      {
+       "ref": "Q2",
+       "how_it_supports": "The capacity is already there; it only faces the wrong way."
+      }
+     ]
+    },
+    {
+     "stage": 5,
+     "what_changes": "Those who have turned toward the good must come back and govern.",
+     "why_it_matters": "The journey ends where it began, in the cave, but with a new purpose.",
+     "quotes": [
+      {
+       "ref": "Q3",
+       "how_it_supports": "Reluctance to rule becomes a qualification for ruling."
+      },
+      {
+       "ref": "Q2",
+       "how_it_supports": "Ordinary politics is described with the image of the shadows."
+      }
+     ]
+    }
+   ],
+   "transitions": [
+    {
+     "from_stage": 1,
+     "kind": "development",
+     "certainty": "supported",
+     "what_changes": "The painful turn toward the light becomes a slow process of getting used to it.",
+     "why": "Having shown that release hurts, the text explains how the freed prisoner learns to see.",
+     "evidence": [
+      {
+       "ref": "E1",
+       "how_it_supports": "Growing accustomed to the light develops the earlier, painful turning."
+      }
+     ],
+     "limitation": ""
+    },
+    {
+     "from_stage": 2,
+     "kind": "reinterpretation",
+     "certainty": "supported",
+     "what_changes": "The sun and the climb stop being only parts of a story and become figures for knowledge and the good.",
+     "why": "Once the climb is complete, Socrates explains what it meant.",
+     "evidence": [
+      {
+       "ref": "E1",
+       "how_it_supports": "The idea of the good takes over the role the sun played as cause of all things."
+      },
+      {
+       "ref": "E5",
+       "how_it_supports": "The ascent is re-read as the soul's ascent."
+      }
+     ],
+     "limitation": ""
+    },
+    {
+     "from_stage": 3,
+     "kind": "reinterpretation",
+     "certainty": "supported",
+     "what_changes": "The prisoners' inability to turn becomes a picture of a soul that faces the wrong way.",
+     "why": "To say what education is, the text goes back to the first image and re-reads the chains and the turning.",
+     "evidence": [
+      {
+       "ref": "E2",
+       "how_it_supports": "The soul being turned recasts the chains that stopped the prisoners from turning their heads."
+      },
+      {
+       "ref": "E5",
+       "how_it_supports": "The forced turning toward the light becomes the model for education."
+      }
+     ],
+     "limitation": ""
+    },
+    {
+     "from_stage": 4,
+     "kind": "contradiction",
+     "certainty": "supported",
+     "what_changes": "The requirement to return meets an objection that it is unjust, and the answer reshapes it.",
+     "why": "Compelling philosophers to descend seems unfair to them, so the text must answer that objection.",
+     "evidence": [
+      {
+       "ref": "E1",
+       "how_it_supports": "Glaucon objects to making philosophers descend."
+      },
+      {
+       "ref": "E2",
+       "how_it_supports": "The answer appeals to the happiness of the whole State."
+      }
+     ],
+     "limitation": ""
+    }
+   ]
+  }
+ }
+}

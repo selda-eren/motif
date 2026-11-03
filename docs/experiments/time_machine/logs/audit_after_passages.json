@@ -1,0 +1,14 @@
+{
+ "ok_calls": 309,
+ "duplicate_paid_task_keys": {},
+ "cache_keys_paid_more_than_once": {},
+ "passages_processed": 86,
+ "passages_checkpointed": 86,
+ "checkpoint_missing_for_processed": [],
+ "non_ok_calls": {
+  "network_error": 1
+ },
+ "cache_hits": 2,
+ "spend_usd": 6.1853,
+ "uncertain_exposure_usd": 0.0532
+}

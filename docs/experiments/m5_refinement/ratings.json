@@ -1,0 +1,54 @@
+{
+ "_note": "Single rater (an AI assistant), against contributors' stored quotations and the pre-registered expectations. S supported and meaningful, P plausible but weak, T trivial or redundant, U unsupported. 'basis_should_be' records my view where the stored basis seems wrong. Independent of model confidence.",
+ "gift_of_the_magi": {
+  "m5A": [
+   {"id": "c02_1", "rating": "S", "expected": ["G4", "G5"], "note": "Reinforced at P4 by the model with two new units (the anxious wait clutching the chain; 'Hair Sold for Christmas'). Both are relevant, distinct evidence. Strength went from 5 units/3 passages to 7 units/4 passages."},
+   {"id": "c03_1", "rating": "P", "note": "Sacrifice leaves her fearing she is less pretty. Mostly restates the explicit prayer."},
+   {"id": "c04_1", "rating": "S", "expected": ["reference D8"], "note": "Stare reread and fear answered; devotion separated from appearance."},
+   {"id": "c05_1", "rating": "S", "expected": ["G1", "G2", "G3"], "note": "Each sacrificed a proud possession to adorn the other; both gifts useless; reframed as wisest. 6 units, 3 passages. 'Inferred' is the right basis (M4 called it explicit)."}
+  ],
+  "m5B": [
+   {"id": "c02_1", "rating": "S", "expected": ["G4"], "note": "Her pride sacrificed to adorn his."},
+   {"id": "c02_2", "rating": "T", "note": "'Unable to afford... funds it by selling her hair': the factual sequence restated. Shares 3 of its 4 contributors with c02_1 (word overlap 0.06), so the overlap rule did not link them."},
+   {"id": "c03_1", "rating": "P", "note": "As in A."},
+   {"id": "c04_1", "rating": "S", "expected": ["reference D8"], "note": "As in A."},
+   {"id": "c05_1", "rating": "P", "expected": ["G3 (partial)"], "note": "Useless gifts called wisest, but built from only 3 units, without the two sales. The full mutual-sacrifice meaning was proposed at P6 but labelled state_consequence by the model, so code rejected it: a valid meaning suppressed."}
+  ]
+ },
+ "plato_cave": {
+  "m5A": [
+   {"id": "c03_1", "rating": "T", "note": "Single passage (P4): restates the returner's blindness, ridicule and threat."},
+   {"id": "c03_2", "rating": "S", "basis_should_be": "explicit", "note": "The sun is only an image of the Good (P3 + P4). P4 states this decoding."},
+   {"id": "c04_1", "rating": "P", "basis_should_be": "explicit", "note": "The two dazzles, to be diagnosed rather than laughed at. The P5 principle, with P2 and P4 instances."},
+   {"id": "c04_2", "rating": "S", "note": "The philosopher's blinking reread as an excusable, even happy, effect of coming from the light, not proof that the ascent ruined his sight (P4 -> P5)."},
+   {"id": "c05_1", "rating": "S", "expected": ["L2"], "note": "Chains and the dragged ascent reread as misdirection of an innate power (P1-P2 -> P6)."},
+   {"id": "c06_1", "rating": "S", "expected": ["L3", "L5"], "basis_should_be": "explicit", "note": "Neither extreme governs well; compelled descent."},
+   {"id": "c06_2", "rating": "P", "note": "The same keen faculty, turned either way. Nearly stated in P7."},
+   {"id": "c07_1", "rating": "S", "expected": ["L5"], "basis_should_be": "explicit", "note": "Unwillingness qualifies them as the best rulers (P5 -> P8)."},
+   {"id": "c07_2", "rating": "P", "basis_should_be": "explicit", "note": "Compulsion is owed service: restates P8's argument."},
+   {"id": "c08_1", "rating": "P", "note": "Shared heavenly life reconciles longing with turn-taking. Mostly P9's argument."},
+   {"id": "c08_2", "rating": "T", "basis_should_be": "explicit", "note": "Single passage (P9); restates its conclusion."}
+  ],
+  "m5B": [
+   {"id": "c03_1", "rating": "T", "note": "Single passage (P4)."},
+   {"id": "c03_2", "rating": "S", "basis_should_be": "explicit", "note": "Decoding unifies chains, fire, ascent and sun as the soul's passage to the Good."},
+   {"id": "c04_1", "rating": "S", "basis_should_be": "explicit (principle) + inferred (application)", "note": "Diagnose by direction; P2's retreat is pitiable ascent, the philosopher's return happy descent. Combines what A kept as two meanings. A legitimate combination proposed by the model, not by consolidation."},
+   {"id": "c05_1", "rating": "S", "expected": ["L2"], "note": "As in A."},
+   {"id": "c06_1", "rating": "S", "expected": ["L3"], "basis_should_be": "explicit", "note": "As in A."},
+   {"id": "c06_2", "rating": "P", "note": "As in A."},
+   {"id": "c07_1", "rating": "S", "expected": ["L5"], "basis_should_be": "explicit", "note": "Compulsion just + reluctance makes the best rulers (combines A's c07_1 and c07_2)."},
+   {"id": "c08_1", "rating": "P", "note": "'Willingly ... as a stern necessity' is slightly self-contradictory."},
+   {"id": "c08_2", "rating": "T", "basis_should_be": "explicit", "note": "Single passage (P9)."}
+  ]
+ },
+ "totals": {
+  "M4": {"meanings": 17, "S": 9, "P": 7, "T": 1, "U": 0},
+  "m5A": {"meanings": 15, "S": 8, "P": 5, "T": 2, "U": 0},
+  "m5B": {"meanings": 14, "S": 7, "P": 4, "T": 3, "U": 0}
+ },
+ "lost_from_M4": [
+  {"meaning": "Plato M4 c07_2: the returner's ridiculed blindness becomes learnable night-vision (P4 -> P8), rated S", "status": "absent in both replicates"},
+  {"meaning": "Plato M4 c02_1: liberation as staged retraining (P3), rated P", "status": "P3 no longer triggers (offline check predicted this)"},
+  {"meaning": "Magi mutual sacrifice with both sales", "status": "kept in A; in B rejected as 'state consequence' (the model's own label)"}
+ ]
+}

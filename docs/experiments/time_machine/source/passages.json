@@ -1,0 +1,1358 @@
+[
+ {
+  "index": 0,
+  "start": 0,
+  "end": 1775,
+  "words": 309,
+  "chapters": [
+   {
+    "chapter": 1,
+    "numeral": "I",
+    "title": "Introduction",
+    "chars": 1775
+   }
+  ],
+  "sha256": "8e4f87a9785d3d1cfa13a980f54e39ed0fdb8930c0c8d6514ebab2efe5d432a6"
+ },
+ {
+  "index": 1,
+  "start": 1777,
+  "end": 4009,
+  "words": 374,
+  "chapters": [
+   {
+    "chapter": 1,
+    "numeral": "I",
+    "title": "Introduction",
+    "chars": 2232
+   }
+  ],
+  "sha256": "dd41059c5b704e293bd73e25d91f7208033c8679b254c2c0002fc74566df7e1c"
+ },
+ {
+  "index": 2,
+  "start": 4011,
+  "end": 5915,
+  "words": 334,
+  "chapters": [
+   {
+    "chapter": 1,
+    "numeral": "I",
+    "title": "Introduction",
+    "chars": 1904
+   }
+  ],
+  "sha256": "1d266f76b37235bc077e794a5a5e1cdc8ff7e3323c2944de418cfe3f6c195ce0"
+ },
+ {
+  "index": 3,
+  "start": 5917,
+  "end": 7637,
+  "words": 309,
+  "chapters": [
+   {
+    "chapter": 1,
+    "numeral": "I",
+    "title": "Introduction",
+    "chars": 1720
+   }
+  ],
+  "sha256": "5dad8a216338edff9b2d4146f5c1c49c6695af22988dbb2c7da129577ec16699"
+ },
+ {
+  "index": 4,
+  "start": 7639,
+  "end": 9572,
+  "words": 315,
+  "chapters": [
+   {
+    "chapter": 1,
+    "numeral": "I",
+    "title": "Introduction",
+    "chars": 1933
+   }
+  ],
+  "sha256": "4ffa1947fe726bc522e5195a1371ba0e3d5bc9f567699319ea103e5c89c5d097"
+ },
+ {
+  "index": 5,
+  "start": 9574,
+  "end": 11711,
+  "words": 375,
+  "chapters": [
+   {
+    "chapter": 1,
+    "numeral": "I",
+    "title": "Introduction",
+    "chars": 229
+   },
+   {
+    "chapter": 2,
+    "numeral": "II",
+    "title": "The Machine",
+    "chars": 1906
+   }
+  ],
+  "sha256": "371727dc3ca84c52630dcaa668d273fa584af5bf1afa5be12640c4a5e8a8eed7"
+ },
+ {
+  "index": 6,
+  "start": 11713,
+  "end": 13631,
+  "words": 347,
+  "chapters": [
+   {
+    "chapter": 2,
+    "numeral": "II",
+    "title": "The Machine",
+    "chars": 1918
+   }
+  ],
+  "sha256": "6e57e04b147bdbecf6ca6fe6213650e445ba742d39685b84bdac95d1c41a22b0"
+ },
+ {
+  "index": 7,
+  "start": 13633,
+  "end": 15895,
+  "words": 395,
+  "chapters": [
+   {
+    "chapter": 2,
+    "numeral": "II",
+    "title": "The Machine",
+    "chars": 2262
+   }
+  ],
+  "sha256": "333864fdb9d0d132f89925833bd65c4266814b3c0858a8379f1eac2430982381"
+ },
+ {
+  "index": 8,
+  "start": 15897,
+  "end": 18908,
+  "words": 537,
+  "chapters": [
+   {
+    "chapter": 2,
+    "numeral": "II",
+    "title": "The Machine",
+    "chars": 1422
+   },
+   {
+    "chapter": 3,
+    "numeral": "III",
+    "title": "The Time Traveller Returns",
+    "chars": 1587
+   }
+  ],
+  "sha256": "a1bfc50ff97d994f38a72abbe2574f1a2924caf4417bca929eecbd985e850dfa"
+ },
+ {
+  "index": 9,
+  "start": 18910,
+  "end": 20697,
+  "words": 310,
+  "chapters": [
+   {
+    "chapter": 3,
+    "numeral": "III",
+    "title": "The Time Traveller Returns",
+    "chars": 1787
+   }
+  ],
+  "sha256": "8492cbb5fe67f81296aca595d4718ce6bc1a1a2be56146258a7630f0c99b9aa8"
+ },
+ {
+  "index": 10,
+  "start": 20699,
+  "end": 22458,
+  "words": 332,
+  "chapters": [
+   {
+    "chapter": 3,
+    "numeral": "III",
+    "title": "The Time Traveller Returns",
+    "chars": 1759
+   }
+  ],
+  "sha256": "5cab65824902268ad83ee90a8e3d0dab5e0b5a21cf94635061fe84cda8ef02c7"
+ },
+ {
+  "index": 11,
+  "start": 22460,
+  "end": 24780,
+  "words": 396,
+  "chapters": [
+   {
+    "chapter": 3,
+    "numeral": "III",
+    "title": "The Time Traveller Returns",
+    "chars": 2320
+   }
+  ],
+  "sha256": "8612e92397e59fa7dc0e99d42f7d5674e501d84ba031a14af4892837ee7aa822"
+ },
+ {
+  "index": 12,
+  "start": 24782,
+  "end": 26662,
+  "words": 337,
+  "chapters": [
+   {
+    "chapter": 3,
+    "numeral": "III",
+    "title": "The Time Traveller Returns",
+    "chars": 1880
+   }
+  ],
+  "sha256": "e4b64bf8726573506bb641e755803f6b04af9c73402277c79962278245ed3988"
+ },
+ {
+  "index": 13,
+  "start": 26664,
+  "end": 28392,
+  "words": 328,
+  "chapters": [
+   {
+    "chapter": 3,
+    "numeral": "III",
+    "title": "The Time Traveller Returns",
+    "chars": 1728
+   }
+  ],
+  "sha256": "d7bf0b4acc5b568baf6ceea87777a5c220d34fb4c36a85ae3a8207b09a0bad94"
+ },
+ {
+  "index": 14,
+  "start": 28394,
+  "end": 30439,
+  "words": 387,
+  "chapters": [
+   {
+    "chapter": 4,
+    "numeral": "IV",
+    "title": "Time Travelling",
+    "chars": 2045
+   }
+  ],
+  "sha256": "3fdc4552a81c9823920ac8991a9baed762a1dd058e2a248c810105c78ff754e2"
+ },
+ {
+  "index": 15,
+  "start": 30441,
+  "end": 32671,
+  "words": 397,
+  "chapters": [
+   {
+    "chapter": 4,
+    "numeral": "IV",
+    "title": "Time Travelling",
+    "chars": 2230
+   }
+  ],
+  "sha256": "5faf5f4179fae30a085d0445295de208771d3c8be8dac15588cf88dcd1f848fb"
+ },
+ {
+  "index": 16,
+  "start": 32673,
+  "end": 35197,
+  "words": 433,
+  "chapters": [
+   {
+    "chapter": 4,
+    "numeral": "IV",
+    "title": "Time Travelling",
+    "chars": 2524
+   }
+  ],
+  "sha256": "5f07094bcfcbcb1757f7d9385619f0ef80e497f7fde0b50fab2d2c0c90c17707"
+ },
+ {
+  "index": 17,
+  "start": 35199,
+  "end": 37164,
+  "words": 363,
+  "chapters": [
+   {
+    "chapter": 4,
+    "numeral": "IV",
+    "title": "Time Travelling",
+    "chars": 1965
+   }
+  ],
+  "sha256": "fbcc767519f384afbca0c4e7d353585ee177a44cdc6a259626715cae682f8d9c"
+ },
+ {
+  "index": 18,
+  "start": 37166,
+  "end": 39187,
+  "words": 356,
+  "chapters": [
+   {
+    "chapter": 4,
+    "numeral": "IV",
+    "title": "Time Travelling",
+    "chars": 2021
+   }
+  ],
+  "sha256": "5ab902f3fc40a36c99d652b4bce1204dcdae85ae88c0e1b47afc720ecf696b39"
+ },
+ {
+  "index": 19,
+  "start": 39189,
+  "end": 41510,
+  "words": 427,
+  "chapters": [
+   {
+    "chapter": 4,
+    "numeral": "IV",
+    "title": "Time Travelling",
+    "chars": 843
+   },
+   {
+    "chapter": 5,
+    "numeral": "V",
+    "title": "In the Golden Age",
+    "chars": 1476
+   }
+  ],
+  "sha256": "1b744806d67d921e44ebe6299df67144f2b1f765a7b171ca5c10b6b9193d5696"
+ },
+ {
+  "index": 20,
+  "start": 41512,
+  "end": 43273,
+  "words": 318,
+  "chapters": [
+   {
+    "chapter": 5,
+    "numeral": "V",
+    "title": "In the Golden Age",
+    "chars": 1761
+   }
+  ],
+  "sha256": "e0bc62ac52bfc20d1fc9524593a067c5cf53031df50c969569729d8b38428d64"
+ },
+ {
+  "index": 21,
+  "start": 43275,
+  "end": 45541,
+  "words": 388,
+  "chapters": [
+   {
+    "chapter": 5,
+    "numeral": "V",
+    "title": "In the Golden Age",
+    "chars": 2266
+   }
+  ],
+  "sha256": "cf5916d3be4107dafcd369ccef34beacf6c45248cdd6353f4bbdfe950590acff"
+ },
+ {
+  "index": 22,
+  "start": 45543,
+  "end": 47350,
+  "words": 319,
+  "chapters": [
+   {
+    "chapter": 5,
+    "numeral": "V",
+    "title": "In the Golden Age",
+    "chars": 1807
+   }
+  ],
+  "sha256": "6ade17aa7a9314ab6ffbd09fd07989f577b8caa6cb23ba2e1e4854c15a63e8e4"
+ },
+ {
+  "index": 23,
+  "start": 47352,
+  "end": 49335,
+  "words": 351,
+  "chapters": [
+   {
+    "chapter": 5,
+    "numeral": "V",
+    "title": "In the Golden Age",
+    "chars": 1983
+   }
+  ],
+  "sha256": "114a09071d35dbc0d9a3b248671f703468626d8340cf343f93b24ab97c421b60"
+ },
+ {
+  "index": 24,
+  "start": 49337,
+  "end": 51583,
+  "words": 403,
+  "chapters": [
+   {
+    "chapter": 6,
+    "numeral": "VI",
+    "title": "The Sunset of Mankind",
+    "chars": 2246
+   }
+  ],
+  "sha256": "9f7db1d8191c3863ef196f1e4225d2263a34a162d8fec30e7f848e797b2671c3"
+ },
+ {
+  "index": 25,
+  "start": 51585,
+  "end": 53667,
+  "words": 359,
+  "chapters": [
+   {
+    "chapter": 6,
+    "numeral": "VI",
+    "title": "The Sunset of Mankind",
+    "chars": 2082
+   }
+  ],
+  "sha256": "96fb3f8e6180a05a06a78f22ee529826090ce3306085f34b7211e5d8c641fab4"
+ },
+ {
+  "index": 26,
+  "start": 53669,
+  "end": 55394,
+  "words": 321,
+  "chapters": [
+   {
+    "chapter": 6,
+    "numeral": "VI",
+    "title": "The Sunset of Mankind",
+    "chars": 1725
+   }
+  ],
+  "sha256": "b6dfd106b77e7c2e8d77273420eab17c39f6832688fbe41973c0912568eb6253"
+ },
+ {
+  "index": 27,
+  "start": 55396,
+  "end": 57310,
+  "words": 332,
+  "chapters": [
+   {
+    "chapter": 6,
+    "numeral": "VI",
+    "title": "The Sunset of Mankind",
+    "chars": 1914
+   }
+  ],
+  "sha256": "829bbbfd1dc4d5420f01facc44faecc36543eb66112c45a4eea252606c70ca49"
+ },
+ {
+  "index": 28,
+  "start": 57312,
+  "end": 59354,
+  "words": 331,
+  "chapters": [
+   {
+    "chapter": 6,
+    "numeral": "VI",
+    "title": "The Sunset of Mankind",
+    "chars": 2042
+   }
+  ],
+  "sha256": "b3aab61bb338ed2fa1a1a77f594abfff64fdeccee169af2ee7d136fa305307a5"
+ },
+ {
+  "index": 29,
+  "start": 59356,
+  "end": 61432,
+  "words": 364,
+  "chapters": [
+   {
+    "chapter": 6,
+    "numeral": "VI",
+    "title": "The Sunset of Mankind",
+    "chars": 2076
+   }
+  ],
+  "sha256": "b777d8aab2018c852a91d890e70b37dbd3a2407cc418a3a4944ad7a7b67aa34a"
+ },
+ {
+  "index": 30,
+  "start": 61434,
+  "end": 64067,
+  "words": 485,
+  "chapters": [
+   {
+    "chapter": 6,
+    "numeral": "VI",
+    "title": "The Sunset of Mankind",
+    "chars": 453
+   },
+   {
+    "chapter": 7,
+    "numeral": "VII",
+    "title": "A Sudden Shock",
+    "chars": 2178
+   }
+  ],
+  "sha256": "a2425d8e4a38cb939237664b0fd28d43e883db80a18f7a0212d32604c5e9d0c0"
+ },
+ {
+  "index": 31,
+  "start": 64069,
+  "end": 65849,
+  "words": 327,
+  "chapters": [
+   {
+    "chapter": 7,
+    "numeral": "VII",
+    "title": "A Sudden Shock",
+    "chars": 1780
+   }
+  ],
+  "sha256": "eae493711e3d362d25dea5c8dfc2f8ab942a53e065ca1512225049437cb3243e"
+ },
+ {
+  "index": 32,
+  "start": 65851,
+  "end": 67746,
+  "words": 347,
+  "chapters": [
+   {
+    "chapter": 7,
+    "numeral": "VII",
+    "title": "A Sudden Shock",
+    "chars": 1895
+   }
+  ],
+  "sha256": "6bd5f3a0df36f1a634c3d3a51348a8beac748671dc7112cf87ed0d7f6fcea357"
+ },
+ {
+  "index": 33,
+  "start": 67748,
+  "end": 70418,
+  "words": 490,
+  "chapters": [
+   {
+    "chapter": 7,
+    "numeral": "VII",
+    "title": "A Sudden Shock",
+    "chars": 2670
+   }
+  ],
+  "sha256": "0036836d0ee2a3ee6d67be4ff76c10e325c684b8fe53d5d955f586c3c9ce3733"
+ },
+ {
+  "index": 34,
+  "start": 70420,
+  "end": 72239,
+  "words": 345,
+  "chapters": [
+   {
+    "chapter": 7,
+    "numeral": "VII",
+    "title": "A Sudden Shock",
+    "chars": 1819
+   }
+  ],
+  "sha256": "f6675414839a1384ba3e2e67f19e4f214161be05fc780d3082c11a4a05267c89"
+ },
+ {
+  "index": 35,
+  "start": 72241,
+  "end": 74362,
+  "words": 400,
+  "chapters": [
+   {
+    "chapter": 7,
+    "numeral": "VII",
+    "title": "A Sudden Shock",
+    "chars": 2121
+   }
+  ],
+  "sha256": "da518d406e105fe48bef1e5d1ca6018f94de775cfe6d90fa256267f6f74ef01f"
+ },
+ {
+  "index": 36,
+  "start": 74364,
+  "end": 76172,
+  "words": 324,
+  "chapters": [
+   {
+    "chapter": 8,
+    "numeral": "VIII",
+    "title": "Explanation",
+    "chars": 1808
+   }
+  ],
+  "sha256": "94135b189562aad78e23f364fff54c7bc559beb61ad2ffa4fae2ee98db2d38c7"
+ },
+ {
+  "index": 37,
+  "start": 76174,
+  "end": 77983,
+  "words": 321,
+  "chapters": [
+   {
+    "chapter": 8,
+    "numeral": "VIII",
+    "title": "Explanation",
+    "chars": 1809
+   }
+  ],
+  "sha256": "597491bc21431a1532d68a7410962f11ce3292c5aa24df2a578b30746115f4b9"
+ },
+ {
+  "index": 38,
+  "start": 77985,
+  "end": 80360,
+  "words": 423,
+  "chapters": [
+   {
+    "chapter": 8,
+    "numeral": "VIII",
+    "title": "Explanation",
+    "chars": 2375
+   }
+  ],
+  "sha256": "4c256a772b03b69bf173ff4e7695c1e807689b867f78037a8abbc1cdfba012ff"
+ },
+ {
+  "index": 39,
+  "start": 80362,
+  "end": 82427,
+  "words": 387,
+  "chapters": [
+   {
+    "chapter": 8,
+    "numeral": "VIII",
+    "title": "Explanation",
+    "chars": 2065
+   }
+  ],
+  "sha256": "4a2f7e5057a993812f7811ce69f4bb1cb61af9d9adeeeb5f799cf2733c16d0f2"
+ },
+ {
+  "index": 40,
+  "start": 82429,
+  "end": 84277,
+  "words": 343,
+  "chapters": [
+   {
+    "chapter": 8,
+    "numeral": "VIII",
+    "title": "Explanation",
+    "chars": 1848
+   }
+  ],
+  "sha256": "953a889ed44693c8c2002cfa1e63f48d4b792444e7dbcb7998dc0ea9fcf526a1"
+ },
+ {
+  "index": 41,
+  "start": 84279,
+  "end": 86013,
+  "words": 314,
+  "chapters": [
+   {
+    "chapter": 8,
+    "numeral": "VIII",
+    "title": "Explanation",
+    "chars": 1734
+   }
+  ],
+  "sha256": "9a1567c89f277350740dbcbe7ae5e18742ddde2d6b74749c91a3a85d0c0d8a28"
+ },
+ {
+  "index": 42,
+  "start": 86015,
+  "end": 88135,
+  "words": 384,
+  "chapters": [
+   {
+    "chapter": 8,
+    "numeral": "VIII",
+    "title": "Explanation",
+    "chars": 2120
+   }
+  ],
+  "sha256": "3d4afddd560952c7c7195b4de40179c012a4ffdace57affa29549a6c6c74f691"
+ },
+ {
+  "index": 43,
+  "start": 88137,
+  "end": 89770,
+  "words": 312,
+  "chapters": [
+   {
+    "chapter": 8,
+    "numeral": "VIII",
+    "title": "Explanation",
+    "chars": 1633
+   }
+  ],
+  "sha256": "a8109827dbc8fc4eb9bd26194b9dee7e2330d30a48677bac8d9064bf1c072422"
+ },
+ {
+  "index": 44,
+  "start": 89772,
+  "end": 91458,
+  "words": 308,
+  "chapters": [
+   {
+    "chapter": 8,
+    "numeral": "VIII",
+    "title": "Explanation",
+    "chars": 1686
+   }
+  ],
+  "sha256": "3194d96f6081543c5e098840ea73575b163f07cdcd483347025644b12a10ba31"
+ },
+ {
+  "index": 45,
+  "start": 91460,
+  "end": 94016,
+  "words": 425,
+  "chapters": [
+   {
+    "chapter": 8,
+    "numeral": "VIII",
+    "title": "Explanation",
+    "chars": 2556
+   }
+  ],
+  "sha256": "1f9049758035c7909006be7ddb9d51ac89385f606e0da2ee265b2cb807df1c7b"
+ },
+ {
+  "index": 46,
+  "start": 94018,
+  "end": 96832,
+  "words": 480,
+  "chapters": [
+   {
+    "chapter": 8,
+    "numeral": "VIII",
+    "title": "Explanation",
+    "chars": 2814
+   }
+  ],
+  "sha256": "2186c7e0a19cbf67de249c90b5242825d207fd848806fa207a133b22ab2d30d0"
+ },
+ {
+  "index": 47,
+  "start": 96834,
+  "end": 99361,
+  "words": 456,
+  "chapters": [
+   {
+    "chapter": 8,
+    "numeral": "VIII",
+    "title": "Explanation",
+    "chars": 880
+   },
+   {
+    "chapter": 9,
+    "numeral": "IX",
+    "title": "The Morlocks",
+    "chars": 1645
+   }
+  ],
+  "sha256": "824392ee6ac6a111ddc90c35f52761e8c1d302852af4a6f531d512ec9d1beb16"
+ },
+ {
+  "index": 48,
+  "start": 99363,
+  "end": 101425,
+  "words": 374,
+  "chapters": [
+   {
+    "chapter": 9,
+    "numeral": "IX",
+    "title": "The Morlocks",
+    "chars": 2062
+   }
+  ],
+  "sha256": "385fbe4dd940d90c9aec1f5d4144364dec6444e91f175ad99e0ae1cb7e329675"
+ },
+ {
+  "index": 49,
+  "start": 101427,
+  "end": 103084,
+  "words": 309,
+  "chapters": [
+   {
+    "chapter": 9,
+    "numeral": "IX",
+    "title": "The Morlocks",
+    "chars": 1657
+   }
+  ],
+  "sha256": "35c715ea15e73fe101dfd259f41d23991bf0f8a595b56aeb69824c6aff15ddca"
+ },
+ {
+  "index": 50,
+  "start": 103086,
+  "end": 105356,
+  "words": 423,
+  "chapters": [
+   {
+    "chapter": 9,
+    "numeral": "IX",
+    "title": "The Morlocks",
+    "chars": 2270
+   }
+  ],
+  "sha256": "e63ccbc656044b03350379d6b6cca499794ff5ff74a3d0573c13e965378c99d9"
+ },
+ {
+  "index": 51,
+  "start": 105358,
+  "end": 107780,
+  "words": 439,
+  "chapters": [
+   {
+    "chapter": 9,
+    "numeral": "IX",
+    "title": "The Morlocks",
+    "chars": 2422
+   }
+  ],
+  "sha256": "30ec09da8e924d980e6b5a271a1db292c5a9fc45801c2a9d3665170de477fb8b"
+ },
+ {
+  "index": 52,
+  "start": 107782,
+  "end": 109494,
+  "words": 313,
+  "chapters": [
+   {
+    "chapter": 9,
+    "numeral": "IX",
+    "title": "The Morlocks",
+    "chars": 1712
+   }
+  ],
+  "sha256": "285a2100ee9b8bf9fe1dfbaa5f74145512f8d868dfcba0ac78f7599ee8244088"
+ },
+ {
+  "index": 53,
+  "start": 109496,
+  "end": 112447,
+  "words": 530,
+  "chapters": [
+   {
+    "chapter": 10,
+    "numeral": "X",
+    "title": "When Night Came",
+    "chars": 2951
+   }
+  ],
+  "sha256": "25950ba1e9266c82fb3c1f0b77970aabdf58350e4805786ac580292121eedeeb"
+ },
+ {
+  "index": 54,
+  "start": 112449,
+  "end": 114544,
+  "words": 382,
+  "chapters": [
+   {
+    "chapter": 10,
+    "numeral": "X",
+    "title": "When Night Came",
+    "chars": 2095
+   }
+  ],
+  "sha256": "387d63eaa9687981e329104c229bf5d5d4e899ad41b787ab7e406c50faff7394"
+ },
+ {
+  "index": 55,
+  "start": 114546,
+  "end": 116660,
+  "words": 390,
+  "chapters": [
+   {
+    "chapter": 10,
+    "numeral": "X",
+    "title": "When Night Came",
+    "chars": 2114
+   }
+  ],
+  "sha256": "6ae664f2dec4995a28a72c7519132bf42df00cf5ca21c8c94df4b0429d7731d0"
+ },
+ {
+  "index": 56,
+  "start": 116662,
+  "end": 118439,
+  "words": 336,
+  "chapters": [
+   {
+    "chapter": 10,
+    "numeral": "X",
+    "title": "When Night Came",
+    "chars": 1777
+   }
+  ],
+  "sha256": "9da98b92aa244ea448c718d88ecb5c01fe98cc1bd25bb24c2755414256c3cd5c"
+ },
+ {
+  "index": 57,
+  "start": 118441,
+  "end": 120417,
+  "words": 358,
+  "chapters": [
+   {
+    "chapter": 10,
+    "numeral": "X",
+    "title": "When Night Came",
+    "chars": 1976
+   }
+  ],
+  "sha256": "8d7ea9078df0ee62d593a5f9843adfbfaa20ba666c1109a569b30d1db2acec1e"
+ },
+ {
+  "index": 58,
+  "start": 120419,
+  "end": 122316,
+  "words": 344,
+  "chapters": [
+   {
+    "chapter": 10,
+    "numeral": "X",
+    "title": "When Night Came",
+    "chars": 1897
+   }
+  ],
+  "sha256": "b2f61fa9f9fda938a1e390805b41bf822503cbc025fd296ec25069bbfccac18c"
+ },
+ {
+  "index": 59,
+  "start": 122318,
+  "end": 124227,
+  "words": 353,
+  "chapters": [
+   {
+    "chapter": 10,
+    "numeral": "X",
+    "title": "When Night Came",
+    "chars": 917
+   },
+   {
+    "chapter": 11,
+    "numeral": "XI",
+    "title": "The Palace of Green Porcelain",
+    "chars": 990
+   }
+  ],
+  "sha256": "498edd9bc2189047c946685699da89381f5ab3f1a702d17d0309adfd6851bfb7"
+ },
+ {
+  "index": 60,
+  "start": 124229,
+  "end": 126212,
+  "words": 350,
+  "chapters": [
+   {
+    "chapter": 11,
+    "numeral": "XI",
+    "title": "The Palace of Green Porcelain",
+    "chars": 1983
+   }
+  ],
+  "sha256": "51d029cf7749c7e729c934c589785bfaa15c69a4de20fcaa6772189a82e69a71"
+ },
+ {
+  "index": 61,
+  "start": 126214,
+  "end": 128669,
+  "words": 439,
+  "chapters": [
+   {
+    "chapter": 11,
+    "numeral": "XI",
+    "title": "The Palace of Green Porcelain",
+    "chars": 2455
+   }
+  ],
+  "sha256": "54f5e34fa0939c9471cb07472b2fe1ce8cf6cffaf794b30d9fce03c161888d62"
+ },
+ {
+  "index": 62,
+  "start": 128671,
+  "end": 131085,
+  "words": 453,
+  "chapters": [
+   {
+    "chapter": 11,
+    "numeral": "XI",
+    "title": "The Palace of Green Porcelain",
+    "chars": 2414
+   }
+  ],
+  "sha256": "36b118b93b2709be9cb59a152734926d25db5a06b7005b74892cb9db251c6e01"
+ },
+ {
+  "index": 63,
+  "start": 131087,
+  "end": 132918,
+  "words": 335,
+  "chapters": [
+   {
+    "chapter": 11,
+    "numeral": "XI",
+    "title": "The Palace of Green Porcelain",
+    "chars": 1831
+   }
+  ],
+  "sha256": "fed80a2d9b4bef10dd775cd60e9d3e9c15b40d10a8ee65d415a046d5dd1ab505"
+ },
+ {
+  "index": 64,
+  "start": 132920,
+  "end": 134971,
+  "words": 368,
+  "chapters": [
+   {
+    "chapter": 11,
+    "numeral": "XI",
+    "title": "The Palace of Green Porcelain",
+    "chars": 2051
+   }
+  ],
+  "sha256": "dd15320375d443bfcd215b663b7d6775146b9c0cd611326348981ceb5eca5d8b"
+ },
+ {
+  "index": 65,
+  "start": 134973,
+  "end": 136892,
+  "words": 346,
+  "chapters": [
+   {
+    "chapter": 11,
+    "numeral": "XI",
+    "title": "The Palace of Green Porcelain",
+    "chars": 1919
+   }
+  ],
+  "sha256": "0512ed0a0bb3e68781e2823d341d8e1d32a0e968ed6864be0a4bfa95f2595f69"
+ },
+ {
+  "index": 66,
+  "start": 136894,
+  "end": 138774,
+  "words": 349,
+  "chapters": [
+   {
+    "chapter": 12,
+    "numeral": "XII",
+    "title": "In the Darkness",
+    "chars": 1880
+   }
+  ],
+  "sha256": "1d18a922b220ba17cbcf98b131622ddde3bb51d4e338f4e490f7940e16f32017"
+ },
+ {
+  "index": 67,
+  "start": 138776,
+  "end": 140907,
+  "words": 405,
+  "chapters": [
+   {
+    "chapter": 12,
+    "numeral": "XII",
+    "title": "In the Darkness",
+    "chars": 2131
+   }
+  ],
+  "sha256": "e3562aeb175a9c3af74658195ac8d289efd41fc7019082434fca23dbb677b7ba"
+ },
+ {
+  "index": 68,
+  "start": 140909,
+  "end": 142587,
+  "words": 323,
+  "chapters": [
+   {
+    "chapter": 12,
+    "numeral": "XII",
+    "title": "In the Darkness",
+    "chars": 1678
+   }
+  ],
+  "sha256": "e683f249a52f0f425b7e2e70da2369020beedc5d5239adbecca59c960b1a17a4"
+ },
+ {
+  "index": 69,
+  "start": 142589,
+  "end": 144840,
+  "words": 443,
+  "chapters": [
+   {
+    "chapter": 12,
+    "numeral": "XII",
+    "title": "In the Darkness",
+    "chars": 2251
+   }
+  ],
+  "sha256": "7b63fd934f21c4221fcdb30f9393507943d57a070e6d0aac2488c617d340c132"
+ },
+ {
+  "index": 70,
+  "start": 144842,
+  "end": 146737,
+  "words": 354,
+  "chapters": [
+   {
+    "chapter": 12,
+    "numeral": "XII",
+    "title": "In the Darkness",
+    "chars": 1895
+   }
+  ],
+  "sha256": "65ae695d56894f690e0e5047f62eacda80062b18a3ac4f4bbc3592cd0e0ebb57"
+ },
+ {
+  "index": 71,
+  "start": 146739,
+  "end": 148692,
+  "words": 359,
+  "chapters": [
+   {
+    "chapter": 12,
+    "numeral": "XII",
+    "title": "In the Darkness",
+    "chars": 1953
+   }
+  ],
+  "sha256": "553178c0da6d11c2a777d2a7cbd4ac8a6092e0d88eb8a5ae88e43b413499e9d1"
+ },
+ {
+  "index": 72,
+  "start": 148694,
+  "end": 150659,
+  "words": 370,
+  "chapters": [
+   {
+    "chapter": 12,
+    "numeral": "XII",
+    "title": "In the Darkness",
+    "chars": 1965
+   }
+  ],
+  "sha256": "dfdd360d4ece792928f364848155dd9a226af216023429d698257b15c230e615"
+ },
+ {
+  "index": 73,
+  "start": 150661,
+  "end": 152368,
+  "words": 305,
+  "chapters": [
+   {
+    "chapter": 12,
+    "numeral": "XII",
+    "title": "In the Darkness",
+    "chars": 187
+   },
+   {
+    "chapter": 13,
+    "numeral": "XIII",
+    "title": "The Trap of the White Sphinx",
+    "chars": 1518
+   }
+  ],
+  "sha256": "3e6d3e5869e24ea6935f9c373a0156fd3ee35f2e2fc5389be811c9da0e04dd4d"
+ },
+ {
+  "index": 74,
+  "start": 152370,
+  "end": 154157,
+  "words": 309,
+  "chapters": [
+   {
+    "chapter": 13,
+    "numeral": "XIII",
+    "title": "The Trap of the White Sphinx",
+    "chars": 1787
+   }
+  ],
+  "sha256": "9ec9501faa86766b6f23c6e1a04f79f10504a785a4adcc24526dce28848e7911"
+ },
+ {
+  "index": 75,
+  "start": 154159,
+  "end": 155925,
+  "words": 326,
+  "chapters": [
+   {
+    "chapter": 13,
+    "numeral": "XIII",
+    "title": "The Trap of the White Sphinx",
+    "chars": 1766
+   }
+  ],
+  "sha256": "02d535cd43e708fc31732b0ced6259e1f4d6e428fbc45e3f4862926d170b54ca"
+ },
+ {
+  "index": 76,
+  "start": 155927,
+  "end": 159258,
+  "words": 613,
+  "chapters": [
+   {
+    "chapter": 13,
+    "numeral": "XIII",
+    "title": "The Trap of the White Sphinx",
+    "chars": 843
+   },
+   {
+    "chapter": 14,
+    "numeral": "XIV",
+    "title": "The Further Vision",
+    "chars": 2486
+   }
+  ],
+  "sha256": "528a6a897218dc404f852aea5bde4c09c67a41e1f50737edf6c71c9039f38aaa"
+ },
+ {
+  "index": 77,
+  "start": 159260,
+  "end": 161620,
+  "words": 428,
+  "chapters": [
+   {
+    "chapter": 14,
+    "numeral": "XIV",
+    "title": "The Further Vision",
+    "chars": 2360
+   }
+  ],
+  "sha256": "a47e9fc4dc58bb618f6bf0d1183a373cc3a010d4e605fdde8e5211a366e7fd8b"
+ },
+ {
+  "index": 78,
+  "start": 161622,
+  "end": 164210,
+  "words": 471,
+  "chapters": [
+   {
+    "chapter": 14,
+    "numeral": "XIV",
+    "title": "The Further Vision",
+    "chars": 2588
+   }
+  ],
+  "sha256": "21651f4a838afe1cb37f532560a69c33dd95087d96fe4706c3585ab43202341c"
+ },
+ {
+  "index": 79,
+  "start": 164212,
+  "end": 166311,
+  "words": 390,
+  "chapters": [
+   {
+    "chapter": 14,
+    "numeral": "XIV",
+    "title": "The Further Vision",
+    "chars": 2099
+   }
+  ],
+  "sha256": "c21deed072b2ad57c208b40c6c5b2af095713a05098b531bfe33b2bf5750b69f"
+ },
+ {
+  "index": 80,
+  "start": 166313,
+  "end": 168547,
+  "words": 408,
+  "chapters": [
+   {
+    "chapter": 14,
+    "numeral": "XIV",
+    "title": "The Further Vision",
+    "chars": 843
+   },
+   {
+    "chapter": 15,
+    "numeral": "XV",
+    "title": "The Time Traveller’s Return",
+    "chars": 1389
+   }
+  ],
+  "sha256": "ece361f7a44101ee14eec477eb5621c54f05374961439e76d19a81e8dee511c1"
+ },
+ {
+  "index": 81,
+  "start": 168549,
+  "end": 170409,
+  "words": 349,
+  "chapters": [
+   {
+    "chapter": 15,
+    "numeral": "XV",
+    "title": "The Time Traveller’s Return",
+    "chars": 1240
+   },
+   {
+    "chapter": 16,
+    "numeral": "XVI",
+    "title": "After the Story",
+    "chars": 618
+   }
+  ],
+  "sha256": "1a2bcf8a308fad153e15afacbb2dd1d2e250e15438081dc45f6e04ddbe1e383a"
+ },
+ {
+  "index": 82,
+  "start": 170411,
+  "end": 172143,
+  "words": 310,
+  "chapters": [
+   {
+    "chapter": 16,
+    "numeral": "XVI",
+    "title": "After the Story",
+    "chars": 1732
+   }
+  ],
+  "sha256": "c987e52f65f6f5e6f8369fdd8d00a38d40f73544f1bd37e1f8e32b91926b4023"
+ },
+ {
+  "index": 83,
+  "start": 172145,
+  "end": 173784,
+  "words": 317,
+  "chapters": [
+   {
+    "chapter": 16,
+    "numeral": "XVI",
+    "title": "After the Story",
+    "chars": 1639
+   }
+  ],
+  "sha256": "bc215cc9e25de8772d3c174557192b42254697156c692c56025f05210a58902e"
+ },
+ {
+  "index": 84,
+  "start": 173786,
+  "end": 175753,
+  "words": 374,
+  "chapters": [
+   {
+    "chapter": 16,
+    "numeral": "XVI",
+    "title": "After the Story",
+    "chars": 1967
+   }
+  ],
+  "sha256": "dd7868e00a57713fdd97bca441a8d19f192aa827edd9f9dc9b67fb1d4adfd567"
+ },
+ {
+  "index": 85,
+  "start": 175755,
+  "end": 178757,
+  "words": 547,
+  "chapters": [
+   {
+    "chapter": 16,
+    "numeral": "XVI",
+    "title": "After the Story",
+    "chars": 1472
+   },
+   {
+    "chapter": 17,
+    "numeral": "Epilogue",
+    "title": "Epilogue",
+    "chars": 1528
+   }
+  ],
+  "sha256": "a1e93155dffa0359e5e100727696386f729a92d5b6e653b73a9feb7ca200ea84"
+ }
+]

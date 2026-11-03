@@ -1,0 +1,2059 @@
+{
+ "passage_notes": [
+  {
+   "idx": 0,
+   "gist": "This passage establishes Della's poverty on Christmas Eve and her loving desperation to buy a worthy present for Jim.",
+   "notes": {
+    "added": [
+     "u00_1",
+     "u00_2",
+     "u00_3",
+     "u00_4",
+     "u00_5"
+    ],
+    "merged": [],
+    "relations": [
+     "r00_1",
+     "r00_2",
+     "r00_3"
+    ],
+    "revisions": [],
+    "warnings": [],
+    "temp_ids": {
+     "n1": "u00_1",
+     "n2": "u00_2",
+     "n3": "u00_3",
+     "n4": "u00_4",
+     "n5": "u00_5"
+    },
+    "rejected": [],
+    "activated": []
+   }
+  },
+  {
+   "idx": 1,
+   "gist": "This passage introduces the couple's two prized possessions and shows Della revealing her magnificent hair before rushing out to the street with a sudden resolve.",
+   "notes": {
+    "added": [
+     "u01_1",
+     "u01_2",
+     "u01_3",
+     "u01_4",
+     "u01_5",
+     "u01_6"
+    ],
+    "merged": [],
+    "relations": [
+     "r01_1",
+     "r01_2",
+     "r01_3",
+     "r01_4",
+     "r01_5",
+     "r01_6",
+     "r01_7",
+     "r01_8"
+    ],
+    "revisions": [],
+    "warnings": [],
+    "temp_ids": {
+     "n1": "u01_1",
+     "n2": "u01_2",
+     "n3": "u01_3",
+     "n4": "u01_4",
+     "n5": "u01_5",
+     "n6": "u01_6"
+    },
+    "rejected": [],
+    "activated": [
+     "u00_1",
+     "u00_2",
+     "u00_3",
+     "u00_4",
+     "u00_5"
+    ]
+   }
+  },
+  {
+   "idx": 2,
+   "gist": "Della sells her long hair for twenty dollars to buy a platinum fob chain for Jim's watch, then hurries home to curl her shorn hair.",
+   "notes": {
+    "added": [
+     "u02_1",
+     "u02_2",
+     "u02_3",
+     "u02_4",
+     "u02_5"
+    ],
+    "merged": [],
+    "relations": [
+     "r02_1",
+     "r02_2",
+     "r02_3",
+     "r02_4",
+     "r02_5",
+     "r02_6",
+     "r02_7",
+     "r02_8",
+     "r02_9",
+     "r02_10"
+    ],
+    "revisions": [
+     "u01_4",
+     "u01_2",
+     "u00_1"
+    ],
+    "warnings": [],
+    "temp_ids": {
+     "n1": "u02_1",
+     "n2": "u02_2",
+     "n3": "u02_3",
+     "n4": "u02_4",
+     "n5": "u02_5"
+    },
+    "rejected": [],
+    "activated": [
+     "u00_1",
+     "u00_2",
+     "u00_3",
+     "u00_4",
+     "u00_5",
+     "u01_1",
+     "u01_2",
+     "u01_3",
+     "u01_4",
+     "u01_5",
+     "u01_6"
+    ]
+   }
+  },
+  {
+   "idx": 3,
+   "gist": "Della anxiously awaits Jim with his gift, and when he arrives and stares unreadably at her shorn hair, she explains she sold it to buy his Christmas present.",
+   "notes": {
+    "added": [
+     "u03_1",
+     "u03_2",
+     "u03_3",
+     "u03_4",
+     "u03_5"
+    ],
+    "merged": [],
+    "relations": [
+     "r03_1",
+     "r03_2",
+     "r03_3",
+     "r03_4",
+     "r03_5",
+     "r03_6",
+     "r03_7",
+     "r03_8",
+     "r03_9"
+    ],
+    "revisions": [],
+    "warnings": [],
+    "temp_ids": {
+     "n1": "u03_1",
+     "n2": "u03_2",
+     "n3": "u03_3",
+     "n4": "u03_4",
+     "n5": "u03_5"
+    },
+    "rejected": [],
+    "activated": [
+     "u00_1",
+     "u00_3",
+     "u00_4",
+     "u00_5",
+     "u01_2",
+     "u01_4",
+     "u01_5",
+     "u01_6",
+     "u02_1",
+     "u02_2",
+     "u02_3",
+     "u02_4",
+     "u02_5"
+    ]
+   }
+  },
+  {
+   "idx": 4,
+   "gist": "Jim struggles to absorb Della's sacrifice, reassures her his love is unchanged, and gives her a package whose opening swings her from ecstatic joy to tears.",
+   "notes": {
+    "added": [
+     "u04_1",
+     "u04_2",
+     "u04_3",
+     "u04_4",
+     "u04_5"
+    ],
+    "merged": [
+     {
+      "new": "Della sold her hair",
+      "into": "u03_5"
+     }
+    ],
+    "relations": [
+     "r04_1",
+     "r04_2",
+     "r04_3",
+     "r04_4"
+    ],
+    "revisions": [
+     "u03_4",
+     "u03_3"
+    ],
+    "warnings": [],
+    "temp_ids": {
+     "n1": "u03_5",
+     "n2": "u04_1",
+     "n3": "u04_2",
+     "n4": "u04_3",
+     "n5": "u04_4",
+     "n6": "u04_5"
+    },
+    "rejected": [],
+    "activated": [
+     "u00_1",
+     "u00_3",
+     "u00_4",
+     "u00_5",
+     "u01_2",
+     "u01_4",
+     "u01_5",
+     "u01_6",
+     "u02_1",
+     "u02_3",
+     "u02_4",
+     "u02_5",
+     "u03_1",
+     "u03_2",
+     "u03_3",
+     "u03_4",
+     "u03_5"
+    ]
+   }
+  },
+  {
+   "idx": 5,
+   "gist": "The passage reveals Jim sold his watch to buy Della's now-unusable combs and closes by declaring their foolish mutual sacrifice the wisest giving of all.",
+   "notes": {
+    "added": [
+     "u05_1",
+     "u05_2",
+     "u05_3",
+     "u05_4",
+     "u05_5"
+    ],
+    "merged": [],
+    "relations": [
+     "r05_1",
+     "r05_2",
+     "r05_3",
+     "r05_4",
+     "r05_5",
+     "r05_6",
+     "r05_7",
+     "r05_8",
+     "r05_9",
+     "r05_10",
+     "r05_11",
+     "r05_12"
+    ],
+    "revisions": [
+     "u01_3",
+     "u01_2",
+     "u02_3"
+    ],
+    "warnings": [],
+    "temp_ids": {
+     "n1": "u05_1",
+     "n2": "u05_2",
+     "n3": "u05_3",
+     "n4": "u05_4",
+     "n5": "u05_5"
+    },
+    "rejected": [],
+    "activated": [
+     "u00_1",
+     "u00_4",
+     "u00_5",
+     "u01_2",
+     "u01_3",
+     "u01_4",
+     "u01_5",
+     "u02_1",
+     "u02_3",
+     "u02_5",
+     "u03_1",
+     "u03_2",
+     "u03_3",
+     "u03_4",
+     "u03_5",
+     "u04_1",
+     "u04_3",
+     "u04_4"
+    ]
+   }
+  }
+ ],
+ "llm_calls_since_start": [
+  {
+   "key": "9181484e77f8f11d7a654aa5e2acfc03214594dd406f9544d53436353710aef0",
+   "task": "integration",
+   "created_at": 1793123907.879309,
+   "request": {
+    "model": "muse-spark-1.3",
+    "messages": [
+     {
+      "role": "system",
+      "content": "You are the integration stage of MOTIF. A reader has just finished a new passage. You see the NEW units perceived in it and EXISTING units from earlier passages that the new material brought back to mind.\n\nFor each new unit, decide:\n- action \"merge\": it restates an existing unit (same idea, same referent). Set merge_into to that id.\n- action \"add\": it is new information. Set merge_into to \"\".\n- relations: links between this new unit and an existing unit or another new unit. Each reads \"A <TYPE> B\"; set direction to say whether the new unit is A (\"new_to_target\") or B (\"target_to_new\"):\n  SUPPORTS: A gives evidence, an example or a reason for B\n  CONTRADICTS: A conflicts with, denies, opposes or undermines B as an account or claim. A later change of circumstances is not a contradiction: use CHANGES_STATE\n  REFINES: A makes B more precise, qualified or developed\n  CAUSES: A brings about B\n  CHANGES_STATE: A is a later event that changes the situation B describes (something is lost, sold, ended or transformed); B stays true of its own time\n  REFRAMES: A changes what B means or stands for (e.g. a literal image is revealed as a figure for something else)\n  RELATES_TO: a meaningful but weaker thematic link; use sparingly\n- revisions: only when this new passage changes an EXISTING unit. Say which kind:\n  \"state\": only the facts changed over time (something is now lost, sold, ended); give what is now the case.\n  \"interpretive\": what the earlier unit means or signifies has changed (for example, a literal image is now explained as standing for something else, or an earlier claim is qualified); give the new reading. Set coexists to true if the new reading adds to the current one instead of replacing it.\n\nWrite rationales and readings for a human reader: refer to units by their label in plain words, never by id (no \"u00_1\", \"n2\", \"NEW\" or \"TARGET\").\n\nBe selective: prefer zero to three relations per unit, and only relations you could defend by pointing at both texts. The rationale must say what each side says. Earlier passages are fixed evidence; your readings of them may change."
+     },
+     {
+      "role": "user",
+      "content": "New passage 1: This passage establishes Della's poverty on Christmas Eve and her loving desperation to buy a worthy present for Jim.\n\nNEW units:\n[\n {\n  \"id\": \"n1\",\n  \"kind\": \"situation\",\n  \"label\": \"Della's meager savings\",\n  \"content\": \"Della has only $1.87 saved for Jim's Christmas present despite months of scrimping.\",\n  \"passage\": 1,\n  \"quote\": \"One dollar and eighty-seven cents. That was all\"\n },\n {\n  \"id\": \"n2\",\n  \"kind\": \"event\",\n  \"label\": \"Della weeps on couch\",\n  \"content\": \"Overwhelmed, Della flops onto the shabby couch and howls.\",\n  \"passage\": 1,\n  \"quote\": \"There was clearly nothing to do but flop down on the shabby little couch and howl\"\n },\n {\n  \"id\": \"n3\",\n  \"kind\": \"situation\",\n  \"label\": \"Impoverished shrunken household\",\n  \"content\": \"The Youngs live in a shabby flat after their income shrank from $30 to $20 per week.\",\n  \"passage\": 1,\n  \"quote\": \"when its possessor was being paid $30 per week. Now, when the income was shrunk to $20\"\n },\n {\n  \"id\": \"n4\",\n  \"kind\": \"entity\",\n  \"label\": \"Jim beloved husband\",\n  \"content\": \"Jim is Della's affectionately hugged husband at home.\",\n  \"passage\": 1,\n  \"quote\": \"he was called \\u201cJim\\u201d and greatly hugged by Mrs. James Dillingham Young, already introduced to you as Della\"\n },\n {\n  \"id\": \"n5\",\n  \"kind\": \"concept\",\n  \"label\": \"Desire for worthy gift\",\n  \"content\": \"Della longs to buy Jim something fine and rare worthy of him.\",\n  \"passage\": 1,\n  \"quote\": \"Something fine and rare and sterling\\u2014something just a little bit near to being worthy of the honor of being owned by Jim\"\n }\n]\n\nEXISTING units (activated from memory):\n[] (nothing yet)"
+     }
+    ],
+    "response_format": {
+     "type": "json_schema",
+     "json_schema": {
+      "name": "Integration",
+      "schema": {
+       "$defs": {
+        "IntegrationDecision": {
+         "properties": {
+          "new_unit": {
+           "description": "temporary id of the new unit, e.g. n1",
+           "title": "New Unit",
+           "type": "string"
+          },
+          "action": {
+           "description": "merge only if the new unit restates an existing unit; otherwise add",
+           "enum": [
+            "add",
+            "merge"
+           ],
+           "title": "Action",
+           "type": "string"
+          },
+          "merge_into": {
+           "description": "existing unit id when action is merge, else empty string",
+           "title": "Merge Into",
+           "type": "string"
+          },
+          "relations": {
+           "items": {
+            "$ref": "#/$defs/ProposedRelation"
+           },
+           "title": "Relations",
+           "type": "array"
+          },
+          "revisions": {
+           "items": {
+            "$ref": "#/$defs/ProposedRevision"
+           },
+           "title": "Revisions",
+           "type": "array"
+          }
+         },
+         "required": [
+          "new_unit",
+          "action",
+          "merge_into",
+          "relations",
+          "revisions"
+         ],
+         "title": "IntegrationDecision",
+         "type": "object"
+        },
+        "ProposedRelation": {
+         "properties": {
+          "target": {
+           "description": "id of an existing unit (e.g. u00_1) or another new unit (e.g. n2)",
+           "title": "Target",
+           "type": "string"
+          },
+          "type": {
+           "enum": [
+            "SUPPORTS",
+            "CONTRADICTS",
+            "REFINES",
+            "CAUSES",
+            "REFRAMES",
+            "RELATES_TO",
+            "CHANGES_STATE"
+           ],
+           "title": "Type",
+           "type": "string"
+          },
+          "direction": {
+           "description": "new_to_target: NEW unit <TYPE> target. target_to_new: target <TYPE> NEW unit (e.g. when an earlier unit CAUSES the new one)",
+           "enum": [
+            "new_to_target",
+            "target_to_new"
+           ],
+           "title": "Direction",
+           "type": "string"
+          },
+          "rationale": {
+           "description": "Why they relate, referring to what each text says",
+           "title": "Rationale",
+           "type": "string"
+          },
+          "confidence": {
+           "description": "0.0-1.0",
+           "title": "Confidence",
+           "type": "number"
+          }
+         },
+         "required": [
+          "target",
+          "type",
+          "direction",
+          "rationale",
+          "confidence"
+         ],
+         "title": "ProposedRelation",
+         "type": "object"
+        },
+        "ProposedRevision": {
+         "properties": {
+          "target": {
+           "description": "id of an existing unit whose significance changes",
+           "title": "Target",
+           "type": "string"
+          },
+          "kind": {
+           "default": "interpretive",
+           "description": "state: only the facts of the earlier unit changed over time (what is now the case); interpretive: what it means or signifies has changed",
+           "enum": [
+            "state",
+            "interpretive"
+           ],
+           "title": "Kind",
+           "type": "string"
+          },
+          "new_reading": {
+           "description": "state: what is now the case. interpretive: how the earlier unit should now be understood",
+           "title": "New Reading",
+           "type": "string"
+          },
+          "coexists": {
+           "default": false,
+           "description": "interpretive only: true if this reading adds to the current reading instead of replacing it (e.g. practical significance changes, symbolic remains)",
+           "title": "Coexists",
+           "type": "boolean"
+          },
+          "rationale": {
+           "title": "Rationale",
+           "type": "string"
+          }
+         },
+         "required": [
+          "target",
+          "kind",
+          "new_reading",
+          "coexists",
+          "rationale"
+         ],
+         "title": "ProposedRevision",
+         "type": "object"
+        }
+       },
+       "properties": {
+        "decisions": {
+         "items": {
+          "$ref": "#/$defs/IntegrationDecision"
+         },
+         "title": "Decisions",
+         "type": "array"
+        }
+       },
+       "required": [
+        "decisions"
+       ],
+       "title": "IntegrationResult",
+       "type": "object"
+      }
+     }
+    },
+    "reasoning_effort": "medium",
+    "max_completion_tokens": 12000
+   },
+   "response": {
+    "decisions": [
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n1",
+      "relations": [
+       {
+        "confidence": 0.9,
+        "direction": "target_to_new",
+        "rationale": "The impoverished shrunken household describes income shrinking from $30 to $20 per week, which explains why Della's meager savings reports only $1.87 after months of scrimping.",
+        "target": "n3",
+        "type": "CAUSES"
+       }
+      ],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n2",
+      "relations": [
+       {
+        "confidence": 0.85,
+        "direction": "target_to_new",
+        "rationale": "Della's meager savings reports having only $1.87 left, which leaves her overwhelmed, and Della weeps on couch describes flopping onto the shabby couch to howl.",
+        "target": "n1",
+        "type": "CAUSES"
+       }
+      ],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n3",
+      "relations": [],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n4",
+      "relations": [],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n5",
+      "relations": [
+       {
+        "confidence": 0.85,
+        "direction": "target_to_new",
+        "rationale": "Jim beloved husband presents Jim as Della's affectionately hugged husband, which gives the loving reason behind Desire for worthy gift longing for something fine and rare worthy of him.",
+        "target": "n4",
+        "type": "SUPPORTS"
+       }
+      ],
+      "revisions": []
+     }
+    ]
+   }
+  },
+  {
+   "key": "667d7dc8733147ff80a40dfd22138972969e915a12a48b5d0df54b7203a21bc1",
+   "task": "integration",
+   "created_at": 1793123926.420161,
+   "request": {
+    "model": "muse-spark-1.3",
+    "messages": [
+     {
+      "role": "system",
+      "content": "You are the integration stage of MOTIF. A reader has just finished a new passage. You see the NEW units perceived in it and EXISTING units from earlier passages that the new material brought back to mind.\n\nFor each new unit, decide:\n- action \"merge\": it restates an existing unit (same idea, same referent). Set merge_into to that id.\n- action \"add\": it is new information. Set merge_into to \"\".\n- relations: links between this new unit and an existing unit or another new unit. Each reads \"A <TYPE> B\"; set direction to say whether the new unit is A (\"new_to_target\") or B (\"target_to_new\"):\n  SUPPORTS: A gives evidence, an example or a reason for B\n  CONTRADICTS: A conflicts with, denies, opposes or undermines B as an account or claim. A later change of circumstances is not a contradiction: use CHANGES_STATE\n  REFINES: A makes B more precise, qualified or developed\n  CAUSES: A brings about B\n  CHANGES_STATE: A is a later event that changes the situation B describes (something is lost, sold, ended or transformed); B stays true of its own time\n  REFRAMES: A changes what B means or stands for (e.g. a literal image is revealed as a figure for something else)\n  RELATES_TO: a meaningful but weaker thematic link; use sparingly\n- revisions: only when this new passage changes an EXISTING unit. Say which kind:\n  \"state\": only the facts changed over time (something is now lost, sold, ended); give what is now the case.\n  \"interpretive\": what the earlier unit means or signifies has changed (for example, a literal image is now explained as standing for something else, or an earlier claim is qualified); give the new reading. Set coexists to true if the new reading adds to the current one instead of replacing it.\n\nWrite rationales and readings for a human reader: refer to units by their label in plain words, never by id (no \"u00_1\", \"n2\", \"NEW\" or \"TARGET\").\n\nBe selective: prefer zero to three relations per unit, and only relations you could defend by pointing at both texts. The rationale must say what each side says. Earlier passages are fixed evidence; your readings of them may change."
+     },
+     {
+      "role": "user",
+      "content": "New passage 2: This passage introduces the couple's two prized possessions and shows Della revealing her magnificent hair before rushing out to the street with a sudden resolve.\n\nNEW units:\n[\n {\n  \"id\": \"n1\",\n  \"kind\": \"situation\",\n  \"label\": \"Fragmented Pier Glass Mirror\",\n  \"content\": \"The room's pier glass shows only thin longitudinal strips of reflection.\",\n  \"passage\": 2,\n  \"quote\": \"A very thin and very agile person may, by observing his reflection in a rapid sequence of longitudinal strips\"\n },\n {\n  \"id\": \"n2\",\n  \"kind\": \"concept\",\n  \"label\": \"Couple's Two Proud Possessions\",\n  \"content\": \"Jim's ancestral gold watch and Della's hair are the Youngs' two sources of mighty pride.\",\n  \"passage\": 2,\n  \"quote\": \"Now, there were two possessions of the James Dillingham Youngs in which they both took a mighty pride\"\n },\n {\n  \"id\": \"n3\",\n  \"kind\": \"entity\",\n  \"label\": \"Jim's Inherited Gold Watch\",\n  \"content\": \"Jim owns a gold watch passed down from his grandfather and father.\",\n  \"passage\": 2,\n  \"quote\": \"One was Jim\\u2019s gold watch that had been his father\\u2019s and his grandfather\\u2019s\"\n },\n {\n  \"id\": \"n4\",\n  \"kind\": \"image\",\n  \"label\": \"Cascade Of Brown Hair\",\n  \"content\": \"Della's beautiful hair falls rippling and shining like brown waters below her knee.\",\n  \"passage\": 2,\n  \"quote\": \"So now Della\\u2019s beautiful hair fell about her rippling and shining like a cascade of brown waters\"\n },\n {\n  \"id\": \"n5\",\n  \"kind\": \"event\",\n  \"label\": \"Tearful Moment Of Hesitation\",\n  \"content\": \"Della falters for a minute with tears falling on the worn carpet before acting.\",\n  \"passage\": 2,\n  \"quote\": \"Once she faltered for a minute and stood still while a tear or two splashed on the worn red carpet\"\n },\n {\n  \"id\": \"n6\",\n  \"kind\": \"event\",\n  \"label\": \"Della Rushes To Street\",\n  \"content\": \"Della hurries out the door and down the stairs to the street.\",\n  \"passage\": 2,\n  \"quote\": \"she fluttered out the door and down the stairs to the street\"\n }\n]\n\nEXISTING units (activated from memory):\n[\n {\n  \"id\": \"u00_1\",\n  \"kind\": \"situation\",\n  \"label\": \"Della's meager savings\",\n  \"content\": \"Della has only $1.87 saved for Jim's Christmas present despite months of scrimping.\",\n  \"passage\": 1,\n  \"quote\": \"One dollar and eighty-seven cents. That was all\"\n },\n {\n  \"id\": \"u00_2\",\n  \"kind\": \"event\",\n  \"label\": \"Della weeps on couch\",\n  \"content\": \"Overwhelmed, Della flops onto the shabby couch and howls.\",\n  \"passage\": 1,\n  \"quote\": \"There was clearly nothing to do but flop down on the shabby little couch and howl\"\n },\n {\n  \"id\": \"u00_3\",\n  \"kind\": \"situation\",\n  \"label\": \"Impoverished shrunken household\",\n  \"content\": \"The Youngs live in a shabby flat after their income shrank from $30 to $20 per week.\",\n  \"passage\": 1,\n  \"quote\": \"when its possessor was being paid $30 per week. Now, when the income was shrunk to $20\"\n },\n {\n  \"id\": \"u00_4\",\n  \"kind\": \"entity\",\n  \"label\": \"Jim beloved husband\",\n  \"content\": \"Jim is Della's affectionately hugged husband at home.\",\n  \"passage\": 1,\n  \"quote\": \"he was called \\u201cJim\\u201d and greatly hugged by Mrs. James Dillingham Young, already introduced to you as Della\"\n },\n {\n  \"id\": \"u00_5\",\n  \"kind\": \"concept\",\n  \"label\": \"Desire for worthy gift\",\n  \"content\": \"Della longs to buy Jim something fine and rare worthy of him.\",\n  \"passage\": 1,\n  \"quote\": \"Something fine and rare and sterling\\u2014something just a little bit near to being worthy of the honor of being owned by Jim\"\n }\n]"
+     }
+    ],
+    "response_format": {
+     "type": "json_schema",
+     "json_schema": {
+      "name": "Integration",
+      "schema": {
+       "$defs": {
+        "IntegrationDecision": {
+         "properties": {
+          "new_unit": {
+           "description": "temporary id of the new unit, e.g. n1",
+           "title": "New Unit",
+           "type": "string"
+          },
+          "action": {
+           "description": "merge only if the new unit restates an existing unit; otherwise add",
+           "enum": [
+            "add",
+            "merge"
+           ],
+           "title": "Action",
+           "type": "string"
+          },
+          "merge_into": {
+           "description": "existing unit id when action is merge, else empty string",
+           "title": "Merge Into",
+           "type": "string"
+          },
+          "relations": {
+           "items": {
+            "$ref": "#/$defs/ProposedRelation"
+           },
+           "title": "Relations",
+           "type": "array"
+          },
+          "revisions": {
+           "items": {
+            "$ref": "#/$defs/ProposedRevision"
+           },
+           "title": "Revisions",
+           "type": "array"
+          }
+         },
+         "required": [
+          "new_unit",
+          "action",
+          "merge_into",
+          "relations",
+          "revisions"
+         ],
+         "title": "IntegrationDecision",
+         "type": "object"
+        },
+        "ProposedRelation": {
+         "properties": {
+          "target": {
+           "description": "id of an existing unit (e.g. u00_1) or another new unit (e.g. n2)",
+           "title": "Target",
+           "type": "string"
+          },
+          "type": {
+           "enum": [
+            "SUPPORTS",
+            "CONTRADICTS",
+            "REFINES",
+            "CAUSES",
+            "REFRAMES",
+            "RELATES_TO",
+            "CHANGES_STATE"
+           ],
+           "title": "Type",
+           "type": "string"
+          },
+          "direction": {
+           "description": "new_to_target: NEW unit <TYPE> target. target_to_new: target <TYPE> NEW unit (e.g. when an earlier unit CAUSES the new one)",
+           "enum": [
+            "new_to_target",
+            "target_to_new"
+           ],
+           "title": "Direction",
+           "type": "string"
+          },
+          "rationale": {
+           "description": "Why they relate, referring to what each text says",
+           "title": "Rationale",
+           "type": "string"
+          },
+          "confidence": {
+           "description": "0.0-1.0",
+           "title": "Confidence",
+           "type": "number"
+          }
+         },
+         "required": [
+          "target",
+          "type",
+          "direction",
+          "rationale",
+          "confidence"
+         ],
+         "title": "ProposedRelation",
+         "type": "object"
+        },
+        "ProposedRevision": {
+         "properties": {
+          "target": {
+           "description": "id of an existing unit whose significance changes",
+           "title": "Target",
+           "type": "string"
+          },
+          "kind": {
+           "default": "interpretive",
+           "description": "state: only the facts of the earlier unit changed over time (what is now the case); interpretive: what it means or signifies has changed",
+           "enum": [
+            "state",
+            "interpretive"
+           ],
+           "title": "Kind",
+           "type": "string"
+          },
+          "new_reading": {
+           "description": "state: what is now the case. interpretive: how the earlier unit should now be understood",
+           "title": "New Reading",
+           "type": "string"
+          },
+          "coexists": {
+           "default": false,
+           "description": "interpretive only: true if this reading adds to the current reading instead of replacing it (e.g. practical significance changes, symbolic remains)",
+           "title": "Coexists",
+           "type": "boolean"
+          },
+          "rationale": {
+           "title": "Rationale",
+           "type": "string"
+          }
+         },
+         "required": [
+          "target",
+          "kind",
+          "new_reading",
+          "coexists",
+          "rationale"
+         ],
+         "title": "ProposedRevision",
+         "type": "object"
+        }
+       },
+       "properties": {
+        "decisions": {
+         "items": {
+          "$ref": "#/$defs/IntegrationDecision"
+         },
+         "title": "Decisions",
+         "type": "array"
+        }
+       },
+       "required": [
+        "decisions"
+       ],
+       "title": "IntegrationResult",
+       "type": "object"
+      }
+     }
+    },
+    "reasoning_effort": "medium",
+    "max_completion_tokens": 12000
+   },
+   "response": {
+    "decisions": [
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n1",
+      "relations": [
+       {
+        "confidence": 0.8,
+        "direction": "new_to_target",
+        "rationale": "Fragmented Pier Glass Mirror describes a mirror that only shows thin strips, giving a concrete example of shabbiness that fits Impoverished shrunken household's picture of a shabby flat after income shrank.",
+        "target": "u00_3",
+        "type": "SUPPORTS"
+       }
+      ],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n2",
+      "relations": [
+       {
+        "confidence": 0.85,
+        "direction": "new_to_target",
+        "rationale": "Couple's Two Proud Possessions names two treasures the couple take pride in, which qualifies Impoverished shrunken household's picture of poverty by showing what they still value despite low income.",
+        "target": "u00_3",
+        "type": "REFINES"
+       }
+      ],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n3",
+      "relations": [
+       {
+        "confidence": 0.95,
+        "direction": "new_to_target",
+        "rationale": "Jim's Inherited Gold Watch names the gold watch handed down from father and grandfather, giving one concrete example that backs Couple's Two Proud Possessions claim of two prized things.",
+        "target": "n2",
+        "type": "SUPPORTS"
+       },
+       {
+        "confidence": 0.85,
+        "direction": "new_to_target",
+        "rationale": "Jim's Inherited Gold Watch adds the heirloom watch to Jim beloved husband's portrait of Della's hugged husband, making his background more specific.",
+        "target": "u00_4",
+        "type": "REFINES"
+       }
+      ],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n4",
+      "relations": [
+       {
+        "confidence": 0.95,
+        "direction": "new_to_target",
+        "rationale": "Cascade Of Brown Hair portrays Della's long shining hair falling below her knee, providing the second concrete example that backs Couple's Two Proud Possessions claim of two prized things.",
+        "target": "n2",
+        "type": "SUPPORTS"
+       }
+      ],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n5",
+      "relations": [
+       {
+        "confidence": 0.7,
+        "direction": "new_to_target",
+        "rationale": "Tearful Moment Of Hesitation shows tears splashing on the carpet, echoing Della weeps on couch where she howls on the couch, as another tearful pause under strain.",
+        "target": "u00_2",
+        "type": "RELATES_TO"
+       }
+      ],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n6",
+      "relations": [
+       {
+        "confidence": 0.8,
+        "direction": "target_to_new",
+        "rationale": "Della's meager savings leaves only $1.87 after months of scrimping, which pushes Della Rushes To Street hurrying out the door as she seeks another way to get a present.",
+        "target": "u00_1",
+        "type": "CAUSES"
+       },
+       {
+        "confidence": 0.85,
+        "direction": "target_to_new",
+        "rationale": "Desire for worthy gift longs for something fine and rare worthy of Jim, which drives Della Rushes To Street hurrying to the street to act on that longing.",
+        "target": "u00_5",
+        "type": "CAUSES"
+       }
+      ],
+      "revisions": []
+     }
+    ]
+   }
+  },
+  {
+   "key": "c1be6fb62274d400009ea722ce74fe42e90defdd873fe90cbdb707ae327c960f",
+   "task": "integration",
+   "created_at": 1793123946.865623,
+   "request": {
+    "model": "muse-spark-1.3",
+    "messages": [
+     {
+      "role": "system",
+      "content": "You are the integration stage of MOTIF. A reader has just finished a new passage. You see the NEW units perceived in it and EXISTING units from earlier passages that the new material brought back to mind.\n\nFor each new unit, decide:\n- action \"merge\": it restates an existing unit (same idea, same referent). Set merge_into to that id.\n- action \"add\": it is new information. Set merge_into to \"\".\n- relations: links between this new unit and an existing unit or another new unit. Each reads \"A <TYPE> B\"; set direction to say whether the new unit is A (\"new_to_target\") or B (\"target_to_new\"):\n  SUPPORTS: A gives evidence, an example or a reason for B\n  CONTRADICTS: A conflicts with, denies, opposes or undermines B as an account or claim. A later change of circumstances is not a contradiction: use CHANGES_STATE\n  REFINES: A makes B more precise, qualified or developed\n  CAUSES: A brings about B\n  CHANGES_STATE: A is a later event that changes the situation B describes (something is lost, sold, ended or transformed); B stays true of its own time\n  REFRAMES: A changes what B means or stands for (e.g. a literal image is revealed as a figure for something else)\n  RELATES_TO: a meaningful but weaker thematic link; use sparingly\n- revisions: only when this new passage changes an EXISTING unit. Say which kind:\n  \"state\": only the facts changed over time (something is now lost, sold, ended); give what is now the case.\n  \"interpretive\": what the earlier unit means or signifies has changed (for example, a literal image is now explained as standing for something else, or an earlier claim is qualified); give the new reading. Set coexists to true if the new reading adds to the current one instead of replacing it.\n\nWrite rationales and readings for a human reader: refer to units by their label in plain words, never by id (no \"u00_1\", \"n2\", \"NEW\" or \"TARGET\").\n\nBe selective: prefer zero to three relations per unit, and only relations you could defend by pointing at both texts. The rationale must say what each side says. Earlier passages are fixed evidence; your readings of them may change."
+     },
+     {
+      "role": "user",
+      "content": "New passage 3: Della sells her long hair for twenty dollars to buy a platinum fob chain for Jim's watch, then hurries home to curl her shorn hair.\n\nNEW units:\n[\n {\n  \"id\": \"n1\",\n  \"kind\": \"event\",\n  \"label\": \"Della sells her hair\",\n  \"content\": \"Della sells her long brown hair to Madame Sofronie for twenty dollars.\",\n  \"passage\": 3,\n  \"quote\": \"Twenty dollars,\\u201d said Madame, lifting the mass with a practised hand\"\n },\n {\n  \"id\": \"n2\",\n  \"kind\": \"entity\",\n  \"label\": \"Chilly Madame Sofronie\",\n  \"content\": \"Madame Sofronie is large, overly white, and chilly, hardly matching her name.\",\n  \"passage\": 3,\n  \"quote\": \"Madame, large, too white, chilly, hardly looked the \\u201cSofronie\"\n },\n {\n  \"id\": \"n3\",\n  \"kind\": \"event\",\n  \"label\": \"Buys platinum fob chain\",\n  \"content\": \"Della buys a platinum fob chain for twenty-one dollars and hurries home with 87 cents.\",\n  \"passage\": 3,\n  \"quote\": \"Twenty-one dollars they took from her for it, and she hurried home with the 87 cents\"\n },\n {\n  \"id\": \"n4\",\n  \"kind\": \"claim\",\n  \"label\": \"Chain mirrors Jim's character\",\n  \"content\": \"The quiet, valuable chain suits Jim because quietness and value describe them both.\",\n  \"passage\": 3,\n  \"quote\": \"It was like him. Quietness and value\\u2014the description applied to both\"\n },\n {\n  \"id\": \"n5\",\n  \"kind\": \"event\",\n  \"label\": \"Repairing shorn hair at home\",\n  \"content\": \"Back home Della uses curling irons and gas to repair the ravages to her hair.\",\n  \"passage\": 3,\n  \"quote\": \"She got out her curling irons and lighted the gas and went to work repairing the ravages made by generosity added to love\"\n }\n]\n\nEXISTING units (activated from memory):\n[\n {\n  \"id\": \"u00_1\",\n  \"kind\": \"situation\",\n  \"label\": \"Della's meager savings\",\n  \"content\": \"Della has only $1.87 saved for Jim's Christmas present despite months of scrimping.\",\n  \"passage\": 1,\n  \"quote\": \"One dollar and eighty-seven cents. That was all\"\n },\n {\n  \"id\": \"u00_2\",\n  \"kind\": \"event\",\n  \"label\": \"Della weeps on couch\",\n  \"content\": \"Overwhelmed, Della flops onto the shabby couch and howls.\",\n  \"passage\": 1,\n  \"quote\": \"There was clearly nothing to do but flop down on the shabby little couch and howl\"\n },\n {\n  \"id\": \"u00_3\",\n  \"kind\": \"situation\",\n  \"label\": \"Impoverished shrunken household\",\n  \"content\": \"The Youngs live in a shabby flat after their income shrank from $30 to $20 per week.\",\n  \"passage\": 1,\n  \"quote\": \"when its possessor was being paid $30 per week. Now, when the income was shrunk to $20\"\n },\n {\n  \"id\": \"u00_4\",\n  \"kind\": \"entity\",\n  \"label\": \"Jim beloved husband\",\n  \"content\": \"Jim is Della's affectionately hugged husband at home.\",\n  \"passage\": 1,\n  \"quote\": \"he was called \\u201cJim\\u201d and greatly hugged by Mrs. James Dillingham Young, already introduced to you as Della\"\n },\n {\n  \"id\": \"u00_5\",\n  \"kind\": \"concept\",\n  \"label\": \"Desire for worthy gift\",\n  \"content\": \"Della longs to buy Jim something fine and rare worthy of him.\",\n  \"passage\": 1,\n  \"quote\": \"Something fine and rare and sterling\\u2014something just a little bit near to being worthy of the honor of being owned by Jim\"\n },\n {\n  \"id\": \"u01_1\",\n  \"kind\": \"situation\",\n  \"label\": \"Fragmented Pier Glass Mirror\",\n  \"content\": \"The room's pier glass shows only thin longitudinal strips of reflection.\",\n  \"passage\": 2,\n  \"quote\": \"A very thin and very agile person may, by observing his reflection in a rapid sequence of longitudinal strips\"\n },\n {\n  \"id\": \"u01_2\",\n  \"kind\": \"concept\",\n  \"label\": \"Couple's Two Proud Possessions\",\n  \"content\": \"Jim's ancestral gold watch and Della's hair are the Youngs' two sources of mighty pride.\",\n  \"passage\": 2,\n  \"quote\": \"Now, there were two possessions of the James Dillingham Youngs in which they both took a mighty pride\"\n },\n {\n  \"id\": \"u01_3\",\n  \"kind\": \"entity\",\n  \"label\": \"Jim's Inherited Gold Watch\",\n  \"content\": \"Jim owns a gold watch passed down from his grandfather and father.\",\n  \"passage\": 2,\n  \"quote\": \"One was Jim\\u2019s gold watch that had been his father\\u2019s and his grandfather\\u2019s\"\n },\n {\n  \"id\": \"u01_4\",\n  \"kind\": \"image\",\n  \"label\": \"Cascade Of Brown Hair\",\n  \"content\": \"Della's beautiful hair falls rippling and shining like brown waters below her knee.\",\n  \"passage\": 2,\n  \"quote\": \"So now Della\\u2019s beautiful hair fell about her rippling and shining like a cascade of brown waters\"\n },\n {\n  \"id\": \"u01_5\",\n  \"kind\": \"event\",\n  \"label\": \"Tearful Moment Of Hesitation\",\n  \"content\": \"Della falters for a minute with tears falling on the worn carpet before acting.\",\n  \"passage\": 2,\n  \"quote\": \"Once she faltered for a minute and stood still while a tear or two splashed on the worn red carpet\"\n },\n {\n  \"id\": \"u01_6\",\n  \"kind\": \"event\",\n  \"label\": \"Della Rushes To Street\",\n  \"content\": \"Della hurries out the door and down the stairs to the street.\",\n  \"passage\": 2,\n  \"quote\": \"she fluttered out the door and down the stairs to the street\"\n }\n]"
+     }
+    ],
+    "response_format": {
+     "type": "json_schema",
+     "json_schema": {
+      "name": "Integration",
+      "schema": {
+       "$defs": {
+        "IntegrationDecision": {
+         "properties": {
+          "new_unit": {
+           "description": "temporary id of the new unit, e.g. n1",
+           "title": "New Unit",
+           "type": "string"
+          },
+          "action": {
+           "description": "merge only if the new unit restates an existing unit; otherwise add",
+           "enum": [
+            "add",
+            "merge"
+           ],
+           "title": "Action",
+           "type": "string"
+          },
+          "merge_into": {
+           "description": "existing unit id when action is merge, else empty string",
+           "title": "Merge Into",
+           "type": "string"
+          },
+          "relations": {
+           "items": {
+            "$ref": "#/$defs/ProposedRelation"
+           },
+           "title": "Relations",
+           "type": "array"
+          },
+          "revisions": {
+           "items": {
+            "$ref": "#/$defs/ProposedRevision"
+           },
+           "title": "Revisions",
+           "type": "array"
+          }
+         },
+         "required": [
+          "new_unit",
+          "action",
+          "merge_into",
+          "relations",
+          "revisions"
+         ],
+         "title": "IntegrationDecision",
+         "type": "object"
+        },
+        "ProposedRelation": {
+         "properties": {
+          "target": {
+           "description": "id of an existing unit (e.g. u00_1) or another new unit (e.g. n2)",
+           "title": "Target",
+           "type": "string"
+          },
+          "type": {
+           "enum": [
+            "SUPPORTS",
+            "CONTRADICTS",
+            "REFINES",
+            "CAUSES",
+            "REFRAMES",
+            "RELATES_TO",
+            "CHANGES_STATE"
+           ],
+           "title": "Type",
+           "type": "string"
+          },
+          "direction": {
+           "description": "new_to_target: NEW unit <TYPE> target. target_to_new: target <TYPE> NEW unit (e.g. when an earlier unit CAUSES the new one)",
+           "enum": [
+            "new_to_target",
+            "target_to_new"
+           ],
+           "title": "Direction",
+           "type": "string"
+          },
+          "rationale": {
+           "description": "Why they relate, referring to what each text says",
+           "title": "Rationale",
+           "type": "string"
+          },
+          "confidence": {
+           "description": "0.0-1.0",
+           "title": "Confidence",
+           "type": "number"
+          }
+         },
+         "required": [
+          "target",
+          "type",
+          "direction",
+          "rationale",
+          "confidence"
+         ],
+         "title": "ProposedRelation",
+         "type": "object"
+        },
+        "ProposedRevision": {
+         "properties": {
+          "target": {
+           "description": "id of an existing unit whose significance changes",
+           "title": "Target",
+           "type": "string"
+          },
+          "kind": {
+           "default": "interpretive",
+           "description": "state: only the facts of the earlier unit changed over time (what is now the case); interpretive: what it means or signifies has changed",
+           "enum": [
+            "state",
+            "interpretive"
+           ],
+           "title": "Kind",
+           "type": "string"
+          },
+          "new_reading": {
+           "description": "state: what is now the case. interpretive: how the earlier unit should now be understood",
+           "title": "New Reading",
+           "type": "string"
+          },
+          "coexists": {
+           "default": false,
+           "description": "interpretive only: true if this reading adds to the current reading instead of replacing it (e.g. practical significance changes, symbolic remains)",
+           "title": "Coexists",
+           "type": "boolean"
+          },
+          "rationale": {
+           "title": "Rationale",
+           "type": "string"
+          }
+         },
+         "required": [
+          "target",
+          "kind",
+          "new_reading",
+          "coexists",
+          "rationale"
+         ],
+         "title": "ProposedRevision",
+         "type": "object"
+        }
+       },
+       "properties": {
+        "decisions": {
+         "items": {
+          "$ref": "#/$defs/IntegrationDecision"
+         },
+         "title": "Decisions",
+         "type": "array"
+        }
+       },
+       "required": [
+        "decisions"
+       ],
+       "title": "IntegrationResult",
+       "type": "object"
+      }
+     }
+    },
+    "reasoning_effort": "medium",
+    "max_completion_tokens": 12000
+   },
+   "response": {
+    "decisions": [
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n1",
+      "relations": [
+       {
+        "confidence": 0.95,
+        "direction": "new_to_target",
+        "rationale": "Della sells her hair says the long brown hair is cut and sold for twenty dollars, while the cascade of brown hair describes that same hair falling rippling and shining below the knee.",
+        "target": "u01_4",
+        "type": "CHANGES_STATE"
+       },
+       {
+        "confidence": 0.9,
+        "direction": "new_to_target",
+        "rationale": "Della sells her hair provides twenty dollars, while buying a platinum fob chain describes spending twenty-one dollars for the chain.",
+        "target": "n3",
+        "type": "CAUSES"
+       }
+      ],
+      "revisions": [
+       {
+        "coexists": false,
+        "kind": "state",
+        "new_reading": "Della's long cascading hair is gone; it has been cut off and sold, leaving only short shorn hair.",
+        "rationale": "The sale removes the hair described as rippling below the knee.",
+        "target": "u01_4"
+       },
+       {
+        "coexists": false,
+        "kind": "state",
+        "new_reading": "Only Jim's gold watch remains intact; Della's hair has been sacrificed and no longer exists as a proud possession.",
+        "rationale": "The sale eliminates one of the two possessions described as sources of mighty pride.",
+        "target": "u01_2"
+       }
+      ]
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n2",
+      "relations": [
+       {
+        "confidence": 0.85,
+        "direction": "new_to_target",
+        "rationale": "Chilly Madame Sofronie describes the large, too-white, chilly buyer, while Della sells her hair describes the sale of the hair to that buyer.",
+        "target": "n1",
+        "type": "RELATES_TO"
+       }
+      ],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n3",
+      "relations": [
+       {
+        "confidence": 0.9,
+        "direction": "new_to_target",
+        "rationale": "Buying a platinum fob chain says Della spends twenty-one dollars and hurries home with eighty-seven cents, while Della's meager savings says she had only one dollar eighty-seven cents after scrimping.",
+        "target": "u00_1",
+        "type": "CHANGES_STATE"
+       },
+       {
+        "confidence": 0.9,
+        "direction": "new_to_target",
+        "rationale": "Buying a platinum fob chain describes a chain bought for Jim's watch, while Jim's inherited gold watch describes the heirloom gold watch passed down from grandfather and father.",
+        "target": "u01_3",
+        "type": "SUPPORTS"
+       },
+       {
+        "confidence": 0.85,
+        "direction": "new_to_target",
+        "rationale": "Buying a platinum fob chain describes obtaining a fine platinum chain, while the desire for worthy gift describes longing for something fine and rare worthy of Jim.",
+        "target": "u00_5",
+        "type": "SUPPORTS"
+       }
+      ],
+      "revisions": [
+       {
+        "coexists": false,
+        "kind": "state",
+        "new_reading": "Della no longer has only one dollar eighty-seven cents; with twenty dollars from her hair she bought the chain and now has eighty-seven cents left.",
+        "rationale": "The purchase spends both the scrimped savings and the hair money, replacing the earlier amount.",
+        "target": "u00_1"
+       }
+      ]
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n4",
+      "relations": [
+       {
+        "confidence": 0.9,
+        "direction": "new_to_target",
+        "rationale": "Chain mirrors Jim's character explains the bought chain as quiet and valuable, while buying a platinum fob chain describes the purchase of that platinum chain.",
+        "target": "n3",
+        "type": "REFINES"
+       },
+       {
+        "confidence": 0.75,
+        "direction": "new_to_target",
+        "rationale": "Chain mirrors Jim's character characterizes Jim through quietness and value, while Jim beloved husband identifies Jim as Della's affectionately hugged husband.",
+        "target": "u00_4",
+        "type": "REFINES"
+       }
+      ],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n5",
+      "relations": [
+       {
+        "confidence": 0.9,
+        "direction": "target_to_new",
+        "rationale": "Della sells her hair describes cutting off the long hair for money, while repairing shorn hair at home describes working with curling irons to repair the ravages to that shorn hair.",
+        "target": "n1",
+        "type": "CAUSES"
+       },
+       {
+        "confidence": 0.7,
+        "direction": "new_to_target",
+        "rationale": "Repairing shorn hair at home says Della is back home using curling irons and gas, while Della rushes to street says she hurried out the door and down to the street.",
+        "target": "u01_6",
+        "type": "CHANGES_STATE"
+       }
+      ],
+      "revisions": []
+     }
+    ]
+   }
+  },
+  {
+   "key": "35f8c97b627f51349b9828fb50c2101ecc319c8533dab33df20f95fcf18f6491",
+   "task": "integration",
+   "created_at": 1793123962.9320672,
+   "request": {
+    "model": "muse-spark-1.3",
+    "messages": [
+     {
+      "role": "system",
+      "content": "You are the integration stage of MOTIF. A reader has just finished a new passage. You see the NEW units perceived in it and EXISTING units from earlier passages that the new material brought back to mind.\n\nFor each new unit, decide:\n- action \"merge\": it restates an existing unit (same idea, same referent). Set merge_into to that id.\n- action \"add\": it is new information. Set merge_into to \"\".\n- relations: links between this new unit and an existing unit or another new unit. Each reads \"A <TYPE> B\"; set direction to say whether the new unit is A (\"new_to_target\") or B (\"target_to_new\"):\n  SUPPORTS: A gives evidence, an example or a reason for B\n  CONTRADICTS: A conflicts with, denies, opposes or undermines B as an account or claim. A later change of circumstances is not a contradiction: use CHANGES_STATE\n  REFINES: A makes B more precise, qualified or developed\n  CAUSES: A brings about B\n  CHANGES_STATE: A is a later event that changes the situation B describes (something is lost, sold, ended or transformed); B stays true of its own time\n  REFRAMES: A changes what B means or stands for (e.g. a literal image is revealed as a figure for something else)\n  RELATES_TO: a meaningful but weaker thematic link; use sparingly\n- revisions: only when this new passage changes an EXISTING unit. Say which kind:\n  \"state\": only the facts changed over time (something is now lost, sold, ended); give what is now the case.\n  \"interpretive\": what the earlier unit means or signifies has changed (for example, a literal image is now explained as standing for something else, or an earlier claim is qualified); give the new reading. Set coexists to true if the new reading adds to the current one instead of replacing it.\n\nWrite rationales and readings for a human reader: refer to units by their label in plain words, never by id (no \"u00_1\", \"n2\", \"NEW\" or \"TARGET\").\n\nBe selective: prefer zero to three relations per unit, and only relations you could defend by pointing at both texts. The rationale must say what each side says. Earlier passages are fixed evidence; your readings of them may change."
+     },
+     {
+      "role": "user",
+      "content": "New passage 4: Della anxiously awaits Jim with his gift, and when he arrives and stares unreadably at her shorn hair, she explains she sold it to buy his Christmas present.\n\nNEW units:\n[\n {\n  \"id\": \"n1\",\n  \"kind\": \"image\",\n  \"label\": \"Boyish Short Curls\",\n  \"content\": \"Della's tiny close curls make her look wonderfully like a truant schoolboy.\",\n  \"passage\": 4,\n  \"quote\": \"her head was covered with tiny, close-lying curls that made her look wonderfully like a truant schoolboy\"\n },\n {\n  \"id\": \"n2\",\n  \"kind\": \"event\",\n  \"label\": \"Prayer for Prettiness\",\n  \"content\": \"Della whispers a prayer that Jim will still think she is pretty.\",\n  \"passage\": 4,\n  \"quote\": \"Please God, make him think I am still pretty\"\n },\n {\n  \"id\": \"n3\",\n  \"kind\": \"situation\",\n  \"label\": \"Anxious Wait by Door\",\n  \"content\": \"Della sits by the door clutching the fob chain while waiting for Jim.\",\n  \"passage\": 4,\n  \"quote\": \"Della doubled the fob chain in her hand and sat on the corner of the table near the door that he always entered\"\n },\n {\n  \"id\": \"n4\",\n  \"kind\": \"event\",\n  \"label\": \"Jim\\u2019s Fixed Stare\",\n  \"content\": \"Jim stares fixedly at Della with a peculiar expression she cannot read.\",\n  \"passage\": 4,\n  \"quote\": \"He simply stared at her fixedly with that peculiar expression on his face\"\n },\n {\n  \"id\": \"n5\",\n  \"kind\": \"claim\",\n  \"label\": \"Hair Sold for Christmas\",\n  \"content\": \"Della tells Jim she sold her hair because she could not face Christmas without giving him a present.\",\n  \"passage\": 4,\n  \"quote\": \"I had my hair cut off and sold because I couldn\\u2019t have lived through Christmas without giving you a present\"\n }\n]\n\nEXISTING units (activated from memory):\n[\n {\n  \"id\": \"u00_1\",\n  \"kind\": \"situation\",\n  \"label\": \"Della's meager savings\",\n  \"content\": \"Della has only $1.87 saved for Jim's Christmas present despite months of scrimping.\",\n  \"passage\": 1,\n  \"quote\": \"One dollar and eighty-seven cents. That was all\",\n  \"current_state\": \"Della no longer has only one dollar eighty-seven cents; with twenty dollars from her hair she bought the chain and now has eighty-seven cents left.\"\n },\n {\n  \"id\": \"u00_3\",\n  \"kind\": \"situation\",\n  \"label\": \"Impoverished shrunken household\",\n  \"content\": \"The Youngs live in a shabby flat after their income shrank from $30 to $20 per week.\",\n  \"passage\": 1,\n  \"quote\": \"when its possessor was being paid $30 per week. Now, when the income was shrunk to $20\"\n },\n {\n  \"id\": \"u00_4\",\n  \"kind\": \"entity\",\n  \"label\": \"Jim beloved husband\",\n  \"content\": \"Jim is Della's affectionately hugged husband at home.\",\n  \"passage\": 1,\n  \"quote\": \"he was called \\u201cJim\\u201d and greatly hugged by Mrs. James Dillingham Young, already introduced to you as Della\"\n },\n {\n  \"id\": \"u00_5\",\n  \"kind\": \"concept\",\n  \"label\": \"Desire for worthy gift\",\n  \"content\": \"Della longs to buy Jim something fine and rare worthy of him.\",\n  \"passage\": 1,\n  \"quote\": \"Something fine and rare and sterling\\u2014something just a little bit near to being worthy of the honor of being owned by Jim\"\n },\n {\n  \"id\": \"u01_2\",\n  \"kind\": \"concept\",\n  \"label\": \"Couple's Two Proud Possessions\",\n  \"content\": \"Jim's ancestral gold watch and Della's hair are the Youngs' two sources of mighty pride.\",\n  \"passage\": 2,\n  \"quote\": \"Now, there were two possessions of the James Dillingham Youngs in which they both took a mighty pride\",\n  \"current_state\": \"Only Jim's gold watch remains intact; Della's hair has been sacrificed and no longer exists as a proud possession.\"\n },\n {\n  \"id\": \"u01_4\",\n  \"kind\": \"image\",\n  \"label\": \"Cascade Of Brown Hair\",\n  \"content\": \"Della's beautiful hair falls rippling and shining like brown waters below her knee.\",\n  \"passage\": 2,\n  \"quote\": \"So now Della\\u2019s beautiful hair fell about her rippling and shining like a cascade of brown waters\",\n  \"current_state\": \"Della's long cascading hair is gone; it has been cut off and sold, leaving only short shorn hair.\"\n },\n {\n  \"id\": \"u01_5\",\n  \"kind\": \"event\",\n  \"label\": \"Tearful Moment Of Hesitation\",\n  \"content\": \"Della falters for a minute with tears falling on the worn carpet before acting.\",\n  \"passage\": 2,\n  \"quote\": \"Once she faltered for a minute and stood still while a tear or two splashed on the worn red carpet\"\n },\n {\n  \"id\": \"u01_6\",\n  \"kind\": \"event\",\n  \"label\": \"Della Rushes To Street\",\n  \"content\": \"Della hurries out the door and down the stairs to the street.\",\n  \"passage\": 2,\n  \"quote\": \"she fluttered out the door and down the stairs to the street\"\n },\n {\n  \"id\": \"u02_1\",\n  \"kind\": \"event\",\n  \"label\": \"Della sells her hair\",\n  \"content\": \"Della sells her long brown hair to Madame Sofronie for twenty dollars.\",\n  \"passage\": 3,\n  \"quote\": \"Twenty dollars,\\u201d said Madame, lifting the mass with a practised hand\"\n },\n {\n  \"id\": \"u02_2\",\n  \"kind\": \"entity\",\n  \"label\": \"Chilly Madame Sofronie\",\n  \"content\": \"Madame Sofronie is large, overly white, and chilly, hardly matching her name.\",\n  \"passage\": 3,\n  \"quote\": \"Madame, large, too white, chilly, hardly looked the \\u201cSofronie\"\n },\n {\n  \"id\": \"u02_3\",\n  \"kind\": \"event\",\n  \"label\": \"Buys platinum fob chain\",\n  \"content\": \"Della buys a platinum fob chain for twenty-one dollars and hurries home with 87 cents.\",\n  \"passage\": 3,\n  \"quote\": \"Twenty-one dollars they took from her for it, and she hurried home with the 87 cents\"\n },\n {\n  \"id\": \"u02_4\",\n  \"kind\": \"claim\",\n  \"label\": \"Chain mirrors Jim's character\",\n  \"content\": \"The quiet, valuable chain suits Jim because quietness and value describe them both.\",\n  \"passage\": 3,\n  \"quote\": \"It was like him. Quietness and value\\u2014the description applied to both\"\n },\n {\n  \"id\": \"u02_5\",\n  \"kind\": \"event\",\n  \"label\": \"Repairing shorn hair at home\",\n  \"content\": \"Back home Della uses curling irons and gas to repair the ravages to her hair.\",\n  \"passage\": 3,\n  \"quote\": \"She got out her curling irons and lighted the gas and went to work repairing the ravages made by generosity added to love\"\n }\n]"
+     }
+    ],
+    "response_format": {
+     "type": "json_schema",
+     "json_schema": {
+      "name": "Integration",
+      "schema": {
+       "$defs": {
+        "IntegrationDecision": {
+         "properties": {
+          "new_unit": {
+           "description": "temporary id of the new unit, e.g. n1",
+           "title": "New Unit",
+           "type": "string"
+          },
+          "action": {
+           "description": "merge only if the new unit restates an existing unit; otherwise add",
+           "enum": [
+            "add",
+            "merge"
+           ],
+           "title": "Action",
+           "type": "string"
+          },
+          "merge_into": {
+           "description": "existing unit id when action is merge, else empty string",
+           "title": "Merge Into",
+           "type": "string"
+          },
+          "relations": {
+           "items": {
+            "$ref": "#/$defs/ProposedRelation"
+           },
+           "title": "Relations",
+           "type": "array"
+          },
+          "revisions": {
+           "items": {
+            "$ref": "#/$defs/ProposedRevision"
+           },
+           "title": "Revisions",
+           "type": "array"
+          }
+         },
+         "required": [
+          "new_unit",
+          "action",
+          "merge_into",
+          "relations",
+          "revisions"
+         ],
+         "title": "IntegrationDecision",
+         "type": "object"
+        },
+        "ProposedRelation": {
+         "properties": {
+          "target": {
+           "description": "id of an existing unit (e.g. u00_1) or another new unit (e.g. n2)",
+           "title": "Target",
+           "type": "string"
+          },
+          "type": {
+           "enum": [
+            "SUPPORTS",
+            "CONTRADICTS",
+            "REFINES",
+            "CAUSES",
+            "REFRAMES",
+            "RELATES_TO",
+            "CHANGES_STATE"
+           ],
+           "title": "Type",
+           "type": "string"
+          },
+          "direction": {
+           "description": "new_to_target: NEW unit <TYPE> target. target_to_new: target <TYPE> NEW unit (e.g. when an earlier unit CAUSES the new one)",
+           "enum": [
+            "new_to_target",
+            "target_to_new"
+           ],
+           "title": "Direction",
+           "type": "string"
+          },
+          "rationale": {
+           "description": "Why they relate, referring to what each text says",
+           "title": "Rationale",
+           "type": "string"
+          },
+          "confidence": {
+           "description": "0.0-1.0",
+           "title": "Confidence",
+           "type": "number"
+          }
+         },
+         "required": [
+          "target",
+          "type",
+          "direction",
+          "rationale",
+          "confidence"
+         ],
+         "title": "ProposedRelation",
+         "type": "object"
+        },
+        "ProposedRevision": {
+         "properties": {
+          "target": {
+           "description": "id of an existing unit whose significance changes",
+           "title": "Target",
+           "type": "string"
+          },
+          "kind": {
+           "default": "interpretive",
+           "description": "state: only the facts of the earlier unit changed over time (what is now the case); interpretive: what it means or signifies has changed",
+           "enum": [
+            "state",
+            "interpretive"
+           ],
+           "title": "Kind",
+           "type": "string"
+          },
+          "new_reading": {
+           "description": "state: what is now the case. interpretive: how the earlier unit should now be understood",
+           "title": "New Reading",
+           "type": "string"
+          },
+          "coexists": {
+           "default": false,
+           "description": "interpretive only: true if this reading adds to the current reading instead of replacing it (e.g. practical significance changes, symbolic remains)",
+           "title": "Coexists",
+           "type": "boolean"
+          },
+          "rationale": {
+           "title": "Rationale",
+           "type": "string"
+          }
+         },
+         "required": [
+          "target",
+          "kind",
+          "new_reading",
+          "coexists",
+          "rationale"
+         ],
+         "title": "ProposedRevision",
+         "type": "object"
+        }
+       },
+       "properties": {
+        "decisions": {
+         "items": {
+          "$ref": "#/$defs/IntegrationDecision"
+         },
+         "title": "Decisions",
+         "type": "array"
+        }
+       },
+       "required": [
+        "decisions"
+       ],
+       "title": "IntegrationResult",
+       "type": "object"
+      }
+     }
+    },
+    "reasoning_effort": "medium",
+    "max_completion_tokens": 12000
+   },
+   "response": {
+    "decisions": [
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n1",
+      "relations": [
+       {
+        "confidence": 0.95,
+        "direction": "new_to_target",
+        "rationale": "The boyish short curls describe what Della's hair looks like now after cutting, while the cascade of brown hair described her long hair falling below her knee.",
+        "target": "u01_4",
+        "type": "CHANGES_STATE"
+       },
+       {
+        "confidence": 0.85,
+        "direction": "target_to_new",
+        "rationale": "Repairing shorn hair at home describes Della using curling irons to fix her shorn hair, which brought about the tiny close curls that make her look like a schoolboy.",
+        "target": "u02_5",
+        "type": "CAUSES"
+       }
+      ],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n2",
+      "relations": [
+       {
+        "confidence": 0.8,
+        "direction": "target_to_new",
+        "rationale": "The boyish short curls describe Della's altered schoolboy-like appearance, which prompts the anxious prayer that Jim will still think she is pretty.",
+        "target": "n1",
+        "type": "CAUSES"
+       }
+      ],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n3",
+      "relations": [
+       {
+        "confidence": 0.9,
+        "direction": "target_to_new",
+        "rationale": "Buying the platinum fob chain describes Della acquiring the chain, which makes it possible for the anxious wait to involve clutching that same chain by the door.",
+        "target": "u02_3",
+        "type": "CAUSES"
+       },
+       {
+        "confidence": 0.75,
+        "direction": "new_to_target",
+        "rationale": "The anxious wait holding the chain shows Della ready to give Jim her gift, giving concrete evidence of her longing to buy something worthy of him.",
+        "target": "u00_5",
+        "type": "SUPPORTS"
+       }
+      ],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n4",
+      "relations": [
+       {
+        "confidence": 0.85,
+        "direction": "target_to_new",
+        "rationale": "The boyish short curls describe Della's strikingly altered hair, which brings about Jim's fixed stare with an expression she cannot read.",
+        "target": "n1",
+        "type": "CAUSES"
+       },
+       {
+        "confidence": 0.7,
+        "direction": "new_to_target",
+        "rationale": "Jim's fixed stare adds an unreadable shocked reaction to the picture of Jim as Della's affectionately hugged husband.",
+        "target": "u00_4",
+        "type": "REFINES"
+       }
+      ],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n5",
+      "relations": [
+       {
+        "confidence": 0.9,
+        "direction": "new_to_target",
+        "rationale": "Hair sold for Christmas repeats Della's own explanation that she cut off and sold her hair, providing her spoken confirmation of the earlier sale to Madame Sofronie.",
+        "target": "u02_1",
+        "type": "SUPPORTS"
+       },
+       {
+        "confidence": 0.85,
+        "direction": "new_to_target",
+        "rationale": "Hair sold for Christmas explains she could not face Christmas without giving a present, which gives the motive behind her longing to buy something worthy of Jim.",
+        "target": "u00_5",
+        "type": "SUPPORTS"
+       }
+      ],
+      "revisions": []
+     }
+    ]
+   }
+  },
+  {
+   "key": "c709ebc5ef63bd88ca21613747dda2bbb7597795a98a28dabc827f9f3fb99e0c",
+   "task": "integration",
+   "created_at": 1793123993.010939,
+   "request": {
+    "model": "muse-spark-1.3",
+    "messages": [
+     {
+      "role": "system",
+      "content": "You are the integration stage of MOTIF. A reader has just finished a new passage. You see the NEW units perceived in it and EXISTING units from earlier passages that the new material brought back to mind.\n\nFor each new unit, decide:\n- action \"merge\": it restates an existing unit (same idea, same referent). Set merge_into to that id.\n- action \"add\": it is new information. Set merge_into to \"\".\n- relations: links between this new unit and an existing unit or another new unit. Each reads \"A <TYPE> B\"; set direction to say whether the new unit is A (\"new_to_target\") or B (\"target_to_new\"):\n  SUPPORTS: A gives evidence, an example or a reason for B\n  CONTRADICTS: A conflicts with, denies, opposes or undermines B as an account or claim. A later change of circumstances is not a contradiction: use CHANGES_STATE\n  REFINES: A makes B more precise, qualified or developed\n  CAUSES: A brings about B\n  CHANGES_STATE: A is a later event that changes the situation B describes (something is lost, sold, ended or transformed); B stays true of its own time\n  REFRAMES: A changes what B means or stands for (e.g. a literal image is revealed as a figure for something else)\n  RELATES_TO: a meaningful but weaker thematic link; use sparingly\n- revisions: only when this new passage changes an EXISTING unit. Say which kind:\n  \"state\": only the facts changed over time (something is now lost, sold, ended); give what is now the case.\n  \"interpretive\": what the earlier unit means or signifies has changed (for example, a literal image is now explained as standing for something else, or an earlier claim is qualified); give the new reading. Set coexists to true if the new reading adds to the current one instead of replacing it.\n\nWrite rationales and readings for a human reader: refer to units by their label in plain words, never by id (no \"u00_1\", \"n2\", \"NEW\" or \"TARGET\").\n\nBe selective: prefer zero to three relations per unit, and only relations you could defend by pointing at both texts. The rationale must say what each side says. Earlier passages are fixed evidence; your readings of them may change."
+     },
+     {
+      "role": "user",
+      "content": "New passage 5: Jim struggles to absorb Della's sacrifice, reassures her his love is unchanged, and gives her a package whose opening swings her from ecstatic joy to tears.\n\nNEW units:\n[\n {\n  \"id\": \"n1\",\n  \"kind\": \"event\",\n  \"label\": \"Della sold her hair\",\n  \"content\": \"Della tells Jim she cut off and sold her hair for him.\",\n  \"passage\": 5,\n  \"quote\": \"Cut it off and sold it,\\u201d said Della\"\n },\n {\n  \"id\": \"n2\",\n  \"kind\": \"situation\",\n  \"label\": \"Jim stunned confusion\",\n  \"content\": \"Jim laboriously struggles to grasp the patent fact that Della's hair is gone.\",\n  \"passage\": 5,\n  \"quote\": \"You\\u2019ve cut off your hair?\\u201d asked Jim, laboriously, as if he had not arrived at that patent fact yet even after the hardest mental labor\"\n },\n {\n  \"id\": \"n3\",\n  \"kind\": \"claim\",\n  \"label\": \"Love unchanged by haircut\",\n  \"content\": \"Jim claims no haircut or shave could make him like Della any less.\",\n  \"passage\": 5,\n  \"quote\": \"I don\\u2019t think there\\u2019s anything in the way of a haircut or a shave or a shampoo that could make me like my girl any less\"\n },\n {\n  \"id\": \"n4\",\n  \"kind\": \"concept\",\n  \"label\": \"Magi valuable gifts\",\n  \"content\": \"The narrator contrasts eight dollars a week with a million a year through the magi's valuable gifts.\",\n  \"passage\": 5,\n  \"quote\": \"The magi brought valuable gifts, but that was not among them\"\n },\n {\n  \"id\": \"n5\",\n  \"kind\": \"event\",\n  \"label\": \"Jim presents gift package\",\n  \"content\": \"Jim pulls a package from his overcoat pocket and throws it on the table for Della to unwrap.\",\n  \"passage\": 5,\n  \"quote\": \"Jim drew a package from his overcoat pocket and threw it upon the table\"\n },\n {\n  \"id\": \"n6\",\n  \"kind\": \"event\",\n  \"label\": \"Joy turns to tears\",\n  \"content\": \"Della opens the package with ecstatic joy that quickly changes to hysterical tears and wails.\",\n  \"passage\": 5,\n  \"quote\": \"And then an ecstatic scream of joy; and then, alas! a quick feminine change to hysterical tears and wails\"\n }\n]\n\nEXISTING units (activated from memory):\n[\n {\n  \"id\": \"u00_1\",\n  \"kind\": \"situation\",\n  \"label\": \"Della's meager savings\",\n  \"content\": \"Della has only $1.87 saved for Jim's Christmas present despite months of scrimping.\",\n  \"passage\": 1,\n  \"quote\": \"One dollar and eighty-seven cents. That was all\",\n  \"current_state\": \"Della no longer has only one dollar eighty-seven cents; with twenty dollars from her hair she bought the chain and now has eighty-seven cents left.\"\n },\n {\n  \"id\": \"u00_3\",\n  \"kind\": \"situation\",\n  \"label\": \"Impoverished shrunken household\",\n  \"content\": \"The Youngs live in a shabby flat after their income shrank from $30 to $20 per week.\",\n  \"passage\": 1,\n  \"quote\": \"when its possessor was being paid $30 per week. Now, when the income was shrunk to $20\"\n },\n {\n  \"id\": \"u00_4\",\n  \"kind\": \"entity\",\n  \"label\": \"Jim beloved husband\",\n  \"content\": \"Jim is Della's affectionately hugged husband at home.\",\n  \"passage\": 1,\n  \"quote\": \"he was called \\u201cJim\\u201d and greatly hugged by Mrs. James Dillingham Young, already introduced to you as Della\"\n },\n {\n  \"id\": \"u00_5\",\n  \"kind\": \"concept\",\n  \"label\": \"Desire for worthy gift\",\n  \"content\": \"Della longs to buy Jim something fine and rare worthy of him.\",\n  \"passage\": 1,\n  \"quote\": \"Something fine and rare and sterling\\u2014something just a little bit near to being worthy of the honor of being owned by Jim\"\n },\n {\n  \"id\": \"u01_2\",\n  \"kind\": \"concept\",\n  \"label\": \"Couple's Two Proud Possessions\",\n  \"content\": \"Jim's ancestral gold watch and Della's hair are the Youngs' two sources of mighty pride.\",\n  \"passage\": 2,\n  \"quote\": \"Now, there were two possessions of the James Dillingham Youngs in which they both took a mighty pride\",\n  \"current_state\": \"Only Jim's gold watch remains intact; Della's hair has been sacrificed and no longer exists as a proud possession.\"\n },\n {\n  \"id\": \"u01_4\",\n  \"kind\": \"image\",\n  \"label\": \"Cascade Of Brown Hair\",\n  \"content\": \"Della's beautiful hair falls rippling and shining like brown waters below her knee.\",\n  \"passage\": 2,\n  \"quote\": \"So now Della\\u2019s beautiful hair fell about her rippling and shining like a cascade of brown waters\",\n  \"current_state\": \"Della's long cascading hair is gone; it has been cut off and sold, leaving only short shorn hair.\"\n },\n {\n  \"id\": \"u01_5\",\n  \"kind\": \"event\",\n  \"label\": \"Tearful Moment Of Hesitation\",\n  \"content\": \"Della falters for a minute with tears falling on the worn carpet before acting.\",\n  \"passage\": 2,\n  \"quote\": \"Once she faltered for a minute and stood still while a tear or two splashed on the worn red carpet\"\n },\n {\n  \"id\": \"u01_6\",\n  \"kind\": \"event\",\n  \"label\": \"Della Rushes To Street\",\n  \"content\": \"Della hurries out the door and down the stairs to the street.\",\n  \"passage\": 2,\n  \"quote\": \"she fluttered out the door and down the stairs to the street\"\n },\n {\n  \"id\": \"u02_1\",\n  \"kind\": \"event\",\n  \"label\": \"Della sells her hair\",\n  \"content\": \"Della sells her long brown hair to Madame Sofronie for twenty dollars.\",\n  \"passage\": 3,\n  \"quote\": \"Twenty dollars,\\u201d said Madame, lifting the mass with a practised hand\"\n },\n {\n  \"id\": \"u02_3\",\n  \"kind\": \"event\",\n  \"label\": \"Buys platinum fob chain\",\n  \"content\": \"Della buys a platinum fob chain for twenty-one dollars and hurries home with 87 cents.\",\n  \"passage\": 3,\n  \"quote\": \"Twenty-one dollars they took from her for it, and she hurried home with the 87 cents\"\n },\n {\n  \"id\": \"u02_4\",\n  \"kind\": \"claim\",\n  \"label\": \"Chain mirrors Jim's character\",\n  \"content\": \"The quiet, valuable chain suits Jim because quietness and value describe them both.\",\n  \"passage\": 3,\n  \"quote\": \"It was like him. Quietness and value\\u2014the description applied to both\"\n },\n {\n  \"id\": \"u02_5\",\n  \"kind\": \"event\",\n  \"label\": \"Repairing shorn hair at home\",\n  \"content\": \"Back home Della uses curling irons and gas to repair the ravages to her hair.\",\n  \"passage\": 3,\n  \"quote\": \"She got out her curling irons and lighted the gas and went to work repairing the ravages made by generosity added to love\"\n },\n {\n  \"id\": \"u03_1\",\n  \"kind\": \"image\",\n  \"label\": \"Boyish Short Curls\",\n  \"content\": \"Della's tiny close curls make her look wonderfully like a truant schoolboy.\",\n  \"passage\": 4,\n  \"quote\": \"her head was covered with tiny, close-lying curls that made her look wonderfully like a truant schoolboy\"\n },\n {\n  \"id\": \"u03_2\",\n  \"kind\": \"event\",\n  \"label\": \"Prayer for Prettiness\",\n  \"content\": \"Della whispers a prayer that Jim will still think she is pretty.\",\n  \"passage\": 4,\n  \"quote\": \"Please God, make him think I am still pretty\"\n },\n {\n  \"id\": \"u03_3\",\n  \"kind\": \"situation\",\n  \"label\": \"Anxious Wait by Door\",\n  \"content\": \"Della sits by the door clutching the fob chain while waiting for Jim.\",\n  \"passage\": 4,\n  \"quote\": \"Della doubled the fob chain in her hand and sat on the corner of the table near the door that he always entered\"\n },\n {\n  \"id\": \"u03_4\",\n  \"kind\": \"event\",\n  \"label\": \"Jim\\u2019s Fixed Stare\",\n  \"content\": \"Jim stares fixedly at Della with a peculiar expression she cannot read.\",\n  \"passage\": 4,\n  \"quote\": \"He simply stared at her fixedly with that peculiar expression on his face\"\n },\n {\n  \"id\": \"u03_5\",\n  \"kind\": \"claim\",\n  \"label\": \"Hair Sold for Christmas\",\n  \"content\": \"Della tells Jim she sold her hair because she could not face Christmas without giving him a present.\",\n  \"passage\": 4,\n  \"quote\": \"I had my hair cut off and sold because I couldn\\u2019t have lived through Christmas without giving you a present\"\n }\n]"
+     }
+    ],
+    "response_format": {
+     "type": "json_schema",
+     "json_schema": {
+      "name": "Integration",
+      "schema": {
+       "$defs": {
+        "IntegrationDecision": {
+         "properties": {
+          "new_unit": {
+           "description": "temporary id of the new unit, e.g. n1",
+           "title": "New Unit",
+           "type": "string"
+          },
+          "action": {
+           "description": "merge only if the new unit restates an existing unit; otherwise add",
+           "enum": [
+            "add",
+            "merge"
+           ],
+           "title": "Action",
+           "type": "string"
+          },
+          "merge_into": {
+           "description": "existing unit id when action is merge, else empty string",
+           "title": "Merge Into",
+           "type": "string"
+          },
+          "relations": {
+           "items": {
+            "$ref": "#/$defs/ProposedRelation"
+           },
+           "title": "Relations",
+           "type": "array"
+          },
+          "revisions": {
+           "items": {
+            "$ref": "#/$defs/ProposedRevision"
+           },
+           "title": "Revisions",
+           "type": "array"
+          }
+         },
+         "required": [
+          "new_unit",
+          "action",
+          "merge_into",
+          "relations",
+          "revisions"
+         ],
+         "title": "IntegrationDecision",
+         "type": "object"
+        },
+        "ProposedRelation": {
+         "properties": {
+          "target": {
+           "description": "id of an existing unit (e.g. u00_1) or another new unit (e.g. n2)",
+           "title": "Target",
+           "type": "string"
+          },
+          "type": {
+           "enum": [
+            "SUPPORTS",
+            "CONTRADICTS",
+            "REFINES",
+            "CAUSES",
+            "REFRAMES",
+            "RELATES_TO",
+            "CHANGES_STATE"
+           ],
+           "title": "Type",
+           "type": "string"
+          },
+          "direction": {
+           "description": "new_to_target: NEW unit <TYPE> target. target_to_new: target <TYPE> NEW unit (e.g. when an earlier unit CAUSES the new one)",
+           "enum": [
+            "new_to_target",
+            "target_to_new"
+           ],
+           "title": "Direction",
+           "type": "string"
+          },
+          "rationale": {
+           "description": "Why they relate, referring to what each text says",
+           "title": "Rationale",
+           "type": "string"
+          },
+          "confidence": {
+           "description": "0.0-1.0",
+           "title": "Confidence",
+           "type": "number"
+          }
+         },
+         "required": [
+          "target",
+          "type",
+          "direction",
+          "rationale",
+          "confidence"
+         ],
+         "title": "ProposedRelation",
+         "type": "object"
+        },
+        "ProposedRevision": {
+         "properties": {
+          "target": {
+           "description": "id of an existing unit whose significance changes",
+           "title": "Target",
+           "type": "string"
+          },
+          "kind": {
+           "default": "interpretive",
+           "description": "state: only the facts of the earlier unit changed over time (what is now the case); interpretive: what it means or signifies has changed",
+           "enum": [
+            "state",
+            "interpretive"
+           ],
+           "title": "Kind",
+           "type": "string"
+          },
+          "new_reading": {
+           "description": "state: what is now the case. interpretive: how the earlier unit should now be understood",
+           "title": "New Reading",
+           "type": "string"
+          },
+          "coexists": {
+           "default": false,
+           "description": "interpretive only: true if this reading adds to the current reading instead of replacing it (e.g. practical significance changes, symbolic remains)",
+           "title": "Coexists",
+           "type": "boolean"
+          },
+          "rationale": {
+           "title": "Rationale",
+           "type": "string"
+          }
+         },
+         "required": [
+          "target",
+          "kind",
+          "new_reading",
+          "coexists",
+          "rationale"
+         ],
+         "title": "ProposedRevision",
+         "type": "object"
+        }
+       },
+       "properties": {
+        "decisions": {
+         "items": {
+          "$ref": "#/$defs/IntegrationDecision"
+         },
+         "title": "Decisions",
+         "type": "array"
+        }
+       },
+       "required": [
+        "decisions"
+       ],
+       "title": "IntegrationResult",
+       "type": "object"
+      }
+     }
+    },
+    "reasoning_effort": "medium",
+    "max_completion_tokens": 12000
+   },
+   "response": {
+    "decisions": [
+     {
+      "action": "merge",
+      "merge_into": "u03_5",
+      "new_unit": "n1",
+      "relations": [],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n2",
+      "relations": [
+       {
+        "confidence": 0.85,
+        "direction": "new_to_target",
+        "rationale": "The stunned confusion passage says Jim laboriously struggles to grasp the patent fact that Della's hair is gone, while the fixed stare passage says he simply stared fixedly with a peculiar unreadable expression; confusion specifies what that stare was.",
+        "target": "u03_4",
+        "type": "REFINES"
+       }
+      ],
+      "revisions": [
+       {
+        "coexists": false,
+        "kind": "interpretive",
+        "new_reading": "The fixed unreadable stare was stunned incomprehension as Jim struggled to absorb that Della's hair was gone, not coldness or displeasure.",
+        "rationale": "The new passage explicitly describes hard mental labor to arrive at the fact of the haircut, explaining the earlier unreadable fixed stare.",
+        "target": "u03_4"
+       }
+      ]
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n3",
+      "relations": [
+       {
+        "confidence": 0.8,
+        "direction": "new_to_target",
+        "rationale": "The love-unchanged claim says no haircut or shave could make Jim like his girl any less, while the prayer passage says Della whispered a prayer for Jim to still think her pretty; the reassurance directly answers that fear.",
+        "target": "u03_2",
+        "type": "SUPPORTS"
+       }
+      ],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n4",
+      "relations": [],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n5",
+      "relations": [
+       {
+        "confidence": 0.85,
+        "direction": "new_to_target",
+        "rationale": "The gift-package presentation says Jim drew a package from his overcoat and threw it on the table, while the anxious wait passage says Della sat by the door clutching the fob chain waiting for Jim; his arrival with a gift ends that waiting.",
+        "target": "u03_3",
+        "type": "CHANGES_STATE"
+       }
+      ],
+      "revisions": [
+       {
+        "coexists": false,
+        "kind": "state",
+        "new_reading": "Della is no longer waiting by the door; Jim has arrived and put his package on the table.",
+        "rationale": "The presentation of the package upon arrival ends the period of anxious waiting by the door.",
+        "target": "u03_3"
+       }
+      ]
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n6",
+      "relations": [
+       {
+        "confidence": 0.9,
+        "direction": "target_to_new",
+        "rationale": "The gift-package presentation says Jim threw a package on the table for Della to unwrap, while the joy-turns-to-tears passage says opening it brings an ecstatic scream then hysterical tears and wails; the unwrapping brings about the emotional swing.",
+        "target": "n5",
+        "type": "CAUSES"
+       }
+      ],
+      "revisions": []
+     }
+    ]
+   }
+  },
+  {
+   "key": "8a533ca628a402154ea38e945d46a7f0ab33cd727bad68b55c266640280783fb",
+   "task": "integration",
+   "created_at": 1793124023.316258,
+   "request": {
+    "model": "muse-spark-1.3",
+    "messages": [
+     {
+      "role": "system",
+      "content": "You are the integration stage of MOTIF. A reader has just finished a new passage. You see the NEW units perceived in it and EXISTING units from earlier passages that the new material brought back to mind.\n\nFor each new unit, decide:\n- action \"merge\": it restates an existing unit (same idea, same referent). Set merge_into to that id.\n- action \"add\": it is new information. Set merge_into to \"\".\n- relations: links between this new unit and an existing unit or another new unit. Each reads \"A <TYPE> B\"; set direction to say whether the new unit is A (\"new_to_target\") or B (\"target_to_new\"):\n  SUPPORTS: A gives evidence, an example or a reason for B\n  CONTRADICTS: A conflicts with, denies, opposes or undermines B as an account or claim. A later change of circumstances is not a contradiction: use CHANGES_STATE\n  REFINES: A makes B more precise, qualified or developed\n  CAUSES: A brings about B\n  CHANGES_STATE: A is a later event that changes the situation B describes (something is lost, sold, ended or transformed); B stays true of its own time\n  REFRAMES: A changes what B means or stands for (e.g. a literal image is revealed as a figure for something else)\n  RELATES_TO: a meaningful but weaker thematic link; use sparingly\n- revisions: only when this new passage changes an EXISTING unit. Say which kind:\n  \"state\": only the facts changed over time (something is now lost, sold, ended); give what is now the case.\n  \"interpretive\": what the earlier unit means or signifies has changed (for example, a literal image is now explained as standing for something else, or an earlier claim is qualified); give the new reading. Set coexists to true if the new reading adds to the current one instead of replacing it.\n\nWrite rationales and readings for a human reader: refer to units by their label in plain words, never by id (no \"u00_1\", \"n2\", \"NEW\" or \"TARGET\").\n\nBe selective: prefer zero to three relations per unit, and only relations you could defend by pointing at both texts. The rationale must say what each side says. Earlier passages are fixed evidence; your readings of them may change."
+     },
+     {
+      "role": "user",
+      "content": "New passage 6: The passage reveals Jim sold his watch to buy Della's now-unusable combs and closes by declaring their foolish mutual sacrifice the wisest giving of all.\n\nNEW units:\n[\n {\n  \"id\": \"n1\",\n  \"kind\": \"entity\",\n  \"label\": \"Coveted Tortoise Combs\",\n  \"content\": \"The combs are Della's long-worshipped, expensive tortoise-shell hair ornaments.\",\n  \"passage\": 6,\n  \"quote\": \"the set of combs, side and back, that Della had worshipped long in a Broadway window\"\n },\n {\n  \"id\": \"n2\",\n  \"kind\": \"situation\",\n  \"label\": \"Useless Coveted Adornments\",\n  \"content\": \"Della now owns the combs but no longer has the hair to wear them.\",\n  \"passage\": 6,\n  \"quote\": \"And now, they were hers, but the tresses that should have adorned the coveted adornments were gone\"\n },\n {\n  \"id\": \"n3\",\n  \"kind\": \"event\",\n  \"label\": \"Della's Chain Presentation\",\n  \"content\": \"Della eagerly offers Jim the watch chain and asks for his watch to try it on.\",\n  \"passage\": 6,\n  \"quote\": \"Give me your watch. I want to see how it looks on it\"\n },\n {\n  \"id\": \"n4\",\n  \"kind\": \"event\",\n  \"label\": \"Jim's Watch Sale\",\n  \"content\": \"Jim sold his watch to get the money to buy Della's combs.\",\n  \"passage\": 6,\n  \"quote\": \"I sold the watch to get the money to buy your combs\"\n },\n {\n  \"id\": \"n5\",\n  \"kind\": \"claim\",\n  \"label\": \"Wisest Foolish Givers\",\n  \"content\": \"The narrator declares Jim and Della the wisest of all who give gifts.\",\n  \"passage\": 6,\n  \"quote\": \"of all who give gifts these two were the wisest\"\n }\n]\n\nEXISTING units (activated from memory):\n[\n {\n  \"id\": \"u00_1\",\n  \"kind\": \"situation\",\n  \"label\": \"Della's meager savings\",\n  \"content\": \"Della has only $1.87 saved for Jim's Christmas present despite months of scrimping.\",\n  \"passage\": 1,\n  \"quote\": \"One dollar and eighty-seven cents. That was all\",\n  \"current_state\": \"Della no longer has only one dollar eighty-seven cents; with twenty dollars from her hair she bought the chain and now has eighty-seven cents left.\"\n },\n {\n  \"id\": \"u00_4\",\n  \"kind\": \"entity\",\n  \"label\": \"Jim beloved husband\",\n  \"content\": \"Jim is Della's affectionately hugged husband at home.\",\n  \"passage\": 1,\n  \"quote\": \"he was called \\u201cJim\\u201d and greatly hugged by Mrs. James Dillingham Young, already introduced to you as Della\"\n },\n {\n  \"id\": \"u00_5\",\n  \"kind\": \"concept\",\n  \"label\": \"Desire for worthy gift\",\n  \"content\": \"Della longs to buy Jim something fine and rare worthy of him.\",\n  \"passage\": 1,\n  \"quote\": \"Something fine and rare and sterling\\u2014something just a little bit near to being worthy of the honor of being owned by Jim\"\n },\n {\n  \"id\": \"u01_2\",\n  \"kind\": \"concept\",\n  \"label\": \"Couple's Two Proud Possessions\",\n  \"content\": \"Jim's ancestral gold watch and Della's hair are the Youngs' two sources of mighty pride.\",\n  \"passage\": 2,\n  \"quote\": \"Now, there were two possessions of the James Dillingham Youngs in which they both took a mighty pride\",\n  \"current_state\": \"Only Jim's gold watch remains intact; Della's hair has been sacrificed and no longer exists as a proud possession.\"\n },\n {\n  \"id\": \"u01_3\",\n  \"kind\": \"entity\",\n  \"label\": \"Jim's Inherited Gold Watch\",\n  \"content\": \"Jim owns a gold watch passed down from his grandfather and father.\",\n  \"passage\": 2,\n  \"quote\": \"One was Jim\\u2019s gold watch that had been his father\\u2019s and his grandfather\\u2019s\"\n },\n {\n  \"id\": \"u01_4\",\n  \"kind\": \"image\",\n  \"label\": \"Cascade Of Brown Hair\",\n  \"content\": \"Della's beautiful hair falls rippling and shining like brown waters below her knee.\",\n  \"passage\": 2,\n  \"quote\": \"So now Della\\u2019s beautiful hair fell about her rippling and shining like a cascade of brown waters\",\n  \"current_state\": \"Della's long cascading hair is gone; it has been cut off and sold, leaving only short shorn hair.\"\n },\n {\n  \"id\": \"u01_5\",\n  \"kind\": \"event\",\n  \"label\": \"Tearful Moment Of Hesitation\",\n  \"content\": \"Della falters for a minute with tears falling on the worn carpet before acting.\",\n  \"passage\": 2,\n  \"quote\": \"Once she faltered for a minute and stood still while a tear or two splashed on the worn red carpet\"\n },\n {\n  \"id\": \"u02_1\",\n  \"kind\": \"event\",\n  \"label\": \"Della sells her hair\",\n  \"content\": \"Della sells her long brown hair to Madame Sofronie for twenty dollars.\",\n  \"passage\": 3,\n  \"quote\": \"Twenty dollars,\\u201d said Madame, lifting the mass with a practised hand\"\n },\n {\n  \"id\": \"u02_3\",\n  \"kind\": \"event\",\n  \"label\": \"Buys platinum fob chain\",\n  \"content\": \"Della buys a platinum fob chain for twenty-one dollars and hurries home with 87 cents.\",\n  \"passage\": 3,\n  \"quote\": \"Twenty-one dollars they took from her for it, and she hurried home with the 87 cents\"\n },\n {\n  \"id\": \"u02_5\",\n  \"kind\": \"event\",\n  \"label\": \"Repairing shorn hair at home\",\n  \"content\": \"Back home Della uses curling irons and gas to repair the ravages to her hair.\",\n  \"passage\": 3,\n  \"quote\": \"She got out her curling irons and lighted the gas and went to work repairing the ravages made by generosity added to love\"\n },\n {\n  \"id\": \"u03_1\",\n  \"kind\": \"image\",\n  \"label\": \"Boyish Short Curls\",\n  \"content\": \"Della's tiny close curls make her look wonderfully like a truant schoolboy.\",\n  \"passage\": 4,\n  \"quote\": \"her head was covered with tiny, close-lying curls that made her look wonderfully like a truant schoolboy\"\n },\n {\n  \"id\": \"u03_2\",\n  \"kind\": \"event\",\n  \"label\": \"Prayer for Prettiness\",\n  \"content\": \"Della whispers a prayer that Jim will still think she is pretty.\",\n  \"passage\": 4,\n  \"quote\": \"Please God, make him think I am still pretty\"\n },\n {\n  \"id\": \"u03_3\",\n  \"kind\": \"situation\",\n  \"label\": \"Anxious Wait by Door\",\n  \"content\": \"Della sits by the door clutching the fob chain while waiting for Jim.\",\n  \"passage\": 4,\n  \"quote\": \"Della doubled the fob chain in her hand and sat on the corner of the table near the door that he always entered\",\n  \"current_state\": \"Della is no longer waiting by the door; Jim has arrived and put his package on the table.\"\n },\n {\n  \"id\": \"u03_4\",\n  \"kind\": \"event\",\n  \"label\": \"Jim\\u2019s Fixed Stare\",\n  \"content\": \"Jim stares fixedly at Della with a peculiar expression she cannot read.\",\n  \"passage\": 4,\n  \"quote\": \"He simply stared at her fixedly with that peculiar expression on his face\",\n  \"current_reading\": \"The fixed unreadable stare was stunned incomprehension as Jim struggled to absorb that Della's hair was gone, not coldness or displeasure.\"\n },\n {\n  \"id\": \"u03_5\",\n  \"kind\": \"claim\",\n  \"label\": \"Hair Sold for Christmas\",\n  \"content\": \"Della tells Jim she sold her hair because she could not face Christmas without giving him a present.\",\n  \"passage\": 4,\n  \"quote\": \"I had my hair cut off and sold because I couldn\\u2019t have lived through Christmas without giving you a present\"\n },\n {\n  \"id\": \"u04_1\",\n  \"kind\": \"situation\",\n  \"label\": \"Jim stunned confusion\",\n  \"content\": \"Jim laboriously struggles to grasp the patent fact that Della's hair is gone.\",\n  \"passage\": 5,\n  \"quote\": \"You\\u2019ve cut off your hair?\\u201d asked Jim, laboriously, as if he had not arrived at that patent fact yet even after the hardest mental labor\"\n },\n {\n  \"id\": \"u04_3\",\n  \"kind\": \"concept\",\n  \"label\": \"Magi valuable gifts\",\n  \"content\": \"The narrator contrasts eight dollars a week with a million a year through the magi's valuable gifts.\",\n  \"passage\": 5,\n  \"quote\": \"The magi brought valuable gifts, but that was not among them\"\n },\n {\n  \"id\": \"u04_4\",\n  \"kind\": \"event\",\n  \"label\": \"Jim presents gift package\",\n  \"content\": \"Jim pulls a package from his overcoat pocket and throws it on the table for Della to unwrap.\",\n  \"passage\": 5,\n  \"quote\": \"Jim drew a package from his overcoat pocket and threw it upon the table\"\n }\n]"
+     }
+    ],
+    "response_format": {
+     "type": "json_schema",
+     "json_schema": {
+      "name": "Integration",
+      "schema": {
+       "$defs": {
+        "IntegrationDecision": {
+         "properties": {
+          "new_unit": {
+           "description": "temporary id of the new unit, e.g. n1",
+           "title": "New Unit",
+           "type": "string"
+          },
+          "action": {
+           "description": "merge only if the new unit restates an existing unit; otherwise add",
+           "enum": [
+            "add",
+            "merge"
+           ],
+           "title": "Action",
+           "type": "string"
+          },
+          "merge_into": {
+           "description": "existing unit id when action is merge, else empty string",
+           "title": "Merge Into",
+           "type": "string"
+          },
+          "relations": {
+           "items": {
+            "$ref": "#/$defs/ProposedRelation"
+           },
+           "title": "Relations",
+           "type": "array"
+          },
+          "revisions": {
+           "items": {
+            "$ref": "#/$defs/ProposedRevision"
+           },
+           "title": "Revisions",
+           "type": "array"
+          }
+         },
+         "required": [
+          "new_unit",
+          "action",
+          "merge_into",
+          "relations",
+          "revisions"
+         ],
+         "title": "IntegrationDecision",
+         "type": "object"
+        },
+        "ProposedRelation": {
+         "properties": {
+          "target": {
+           "description": "id of an existing unit (e.g. u00_1) or another new unit (e.g. n2)",
+           "title": "Target",
+           "type": "string"
+          },
+          "type": {
+           "enum": [
+            "SUPPORTS",
+            "CONTRADICTS",
+            "REFINES",
+            "CAUSES",
+            "REFRAMES",
+            "RELATES_TO",
+            "CHANGES_STATE"
+           ],
+           "title": "Type",
+           "type": "string"
+          },
+          "direction": {
+           "description": "new_to_target: NEW unit <TYPE> target. target_to_new: target <TYPE> NEW unit (e.g. when an earlier unit CAUSES the new one)",
+           "enum": [
+            "new_to_target",
+            "target_to_new"
+           ],
+           "title": "Direction",
+           "type": "string"
+          },
+          "rationale": {
+           "description": "Why they relate, referring to what each text says",
+           "title": "Rationale",
+           "type": "string"
+          },
+          "confidence": {
+           "description": "0.0-1.0",
+           "title": "Confidence",
+           "type": "number"
+          }
+         },
+         "required": [
+          "target",
+          "type",
+          "direction",
+          "rationale",
+          "confidence"
+         ],
+         "title": "ProposedRelation",
+         "type": "object"
+        },
+        "ProposedRevision": {
+         "properties": {
+          "target": {
+           "description": "id of an existing unit whose significance changes",
+           "title": "Target",
+           "type": "string"
+          },
+          "kind": {
+           "default": "interpretive",
+           "description": "state: only the facts of the earlier unit changed over time (what is now the case); interpretive: what it means or signifies has changed",
+           "enum": [
+            "state",
+            "interpretive"
+           ],
+           "title": "Kind",
+           "type": "string"
+          },
+          "new_reading": {
+           "description": "state: what is now the case. interpretive: how the earlier unit should now be understood",
+           "title": "New Reading",
+           "type": "string"
+          },
+          "coexists": {
+           "default": false,
+           "description": "interpretive only: true if this reading adds to the current reading instead of replacing it (e.g. practical significance changes, symbolic remains)",
+           "title": "Coexists",
+           "type": "boolean"
+          },
+          "rationale": {
+           "title": "Rationale",
+           "type": "string"
+          }
+         },
+         "required": [
+          "target",
+          "kind",
+          "new_reading",
+          "coexists",
+          "rationale"
+         ],
+         "title": "ProposedRevision",
+         "type": "object"
+        }
+       },
+       "properties": {
+        "decisions": {
+         "items": {
+          "$ref": "#/$defs/IntegrationDecision"
+         },
+         "title": "Decisions",
+         "type": "array"
+        }
+       },
+       "required": [
+        "decisions"
+       ],
+       "title": "IntegrationResult",
+       "type": "object"
+      }
+     }
+    },
+    "reasoning_effort": "medium",
+    "max_completion_tokens": 12000
+   },
+   "response": {
+    "decisions": [
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n1",
+      "relations": [
+       {
+        "confidence": 0.95,
+        "direction": "new_to_target",
+        "rationale": "The new combs description specifies what was inside the thrown package: the gift package account says Jim threw a package on the table, the coveted combs text identifies it as the long-worshipped tortoise-shell set.",
+        "target": "u04_4",
+        "type": "REFINES"
+       },
+       {
+        "confidence": 0.9,
+        "direction": "target_to_new",
+        "rationale": "The watch sale provided the money for the combs: the watch sale account says Jim sold his watch to buy the combs, the coveted combs text describes those expensive ornaments.",
+        "target": "n4",
+        "type": "CAUSES"
+       }
+      ],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n2",
+      "relations": [
+       {
+        "confidence": 0.95,
+        "direction": "target_to_new",
+        "rationale": "Della's earlier hair sale left her without hair: the hair sale account says she sold her long hair for twenty dollars, the useless adornments situation says she now owns the combs but the tresses to wear them are gone.",
+        "target": "u02_1",
+        "type": "CAUSES"
+       },
+       {
+        "confidence": 0.85,
+        "direction": "new_to_target",
+        "rationale": "Both useless gifts mirror each other: the useless adornments situation describes a gift made unusable by sacrifice, the watch sale account describes Jim's parallel sacrifice to buy those combs.",
+        "target": "n4",
+        "type": "RELATES_TO"
+       }
+      ],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n3",
+      "relations": [
+       {
+        "confidence": 0.9,
+        "direction": "new_to_target",
+        "rationale": "The eager chain offer develops the earlier chain purchase: the chain purchase account says Della bought a platinum fob chain, the new presentation shows her offering it and asking for Jim's watch to try it.",
+        "target": "u02_3",
+        "type": "REFINES"
+       },
+       {
+        "confidence": 0.9,
+        "direction": "new_to_target",
+        "rationale": "Asking for the watch prompts the revelation: the chain presentation says give me your watch to see how it looks, the watch sale account is Jim's answer that he sold the watch to buy the combs.",
+        "target": "n4",
+        "type": "CAUSES"
+       }
+      ],
+      "revisions": []
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n4",
+      "relations": [
+       {
+        "confidence": 1.0,
+        "direction": "new_to_target",
+        "rationale": "Selling removes the heirloom from Jim: the inherited watch account says Jim owns a gold watch from father and grandfather, the new sale says he sold the watch to buy the combs.",
+        "target": "u01_3",
+        "type": "CHANGES_STATE"
+       },
+       {
+        "confidence": 0.9,
+        "direction": "new_to_target",
+        "rationale": "Both partners sold their proudest possession for a gift: the hair sale account says Della sold her hair for twenty dollars, the new sale says Jim sold his watch to buy the combs.",
+        "target": "u02_1",
+        "type": "RELATES_TO"
+       },
+       {
+        "confidence": 0.95,
+        "direction": "new_to_target",
+        "rationale": "The sale produced the now-useless gift: the sale account says Jim sold his watch to get money for the combs, the useless adornments situation says Della now owns those combs without hair to wear them.",
+        "target": "n2",
+        "type": "CAUSES"
+       }
+      ],
+      "revisions": [
+       {
+        "coexists": false,
+        "kind": "state",
+        "new_reading": "Jim no longer owns the inherited gold watch; it has been sold to buy Della's combs.",
+        "rationale": "The sale account directly ends the prior ownership described in the inherited watch.",
+        "target": "u01_3"
+       },
+       {
+        "coexists": false,
+        "kind": "state",
+        "new_reading": "Neither proud possession remains intact; Della's hair is already gone and Jim's watch has now also been sold.",
+        "rationale": "The couple's two possessions were pride in watch and hair, but the sale account removes the last remaining watch.",
+        "target": "u01_2"
+       },
+       {
+        "coexists": true,
+        "kind": "interpretive",
+        "new_reading": "The platinum fob chain is now also an unusable gift, kept without a watch to hold, mirroring the combs without hair, while still signifying love.",
+        "rationale": "The chain purchase was a usable worthy gift, but the sale account reveals there is no watch for it, changing its practical significance without erasing its loving intent.",
+        "target": "u02_3"
+       }
+      ]
+     },
+     {
+      "action": "add",
+      "merge_into": "",
+      "new_unit": "n5",
+      "relations": [
+       {
+        "confidence": 0.9,
+        "direction": "new_to_target",
+        "rationale": "The wisest declaration completes the magi comparison: the magi account contrasts eight dollars a week with valuable gifts, the new claim declares the two foolish givers the wisest of all givers.",
+        "target": "u04_3",
+        "type": "REFINES"
+       },
+       {
+        "confidence": 0.85,
+        "direction": "target_to_new",
+        "rationale": "Jim's sacrifice evidences wise giving: the watch sale account says he sold his watch for combs, the new claim holds such foolish sacrifice to be wisest giving.",
+        "target": "n4",
+        "type": "SUPPORTS"
+       },
+       {
+        "confidence": 0.85,
+        "direction": "target_to_new",
+        "rationale": "Della's useless combs evidence foolish wisdom: the useless adornments situation says she owns combs without hair, the new claim celebrates such mutual sacrifice as wisest.",
+        "target": "n2",
+        "type": "SUPPORTS"
+       }
+      ],
+      "revisions": []
+     }
+    ]
+   }
+  }
+ ]
+}

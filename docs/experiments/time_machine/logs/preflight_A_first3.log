@@ -1,0 +1,15 @@
+the_time_machine: 86 passages; target 3; run 20261101-164308; budget $50.00; spent $0.0000; uncertain exposure $0.0000
+  perception/p0: ok  in=1000 (cached 0) out=4161 (reasoning 3729)  $0.0189  13.4s
+  integration/p0: ok  in=1516 (cached 0) out=1839 (reasoning 1483)  $0.0097  7.9s
+  passage 1/86: +5 units, 0 merged, 3 relations, 0 revisions, 0 ungrounded rejected; propagation: 0 reconsidered, 0 revised; construction: 0 triggers, 0 meanings, 0 rejected
+passage 1/86 checkpointed: 5 units, 3 relations, 0 constructed; passage cost $0.0286; total $0.0286
+  perception/p1: ok  in=1108 (cached 0) out=3805 (reasoning 3298)  $0.0176  13.5s
+  integration/p1: ok  in=1902 (cached 0) out=3265 (reasoning 2375)  $0.0163  11.7s
+  passage 2/86: +5 units, 0 merged, 8 relations, 0 revisions, 0 ungrounded rejected; propagation: 0 reconsidered, 0 revised; construction: 0 triggers, 0 meanings, 0 rejected
+passage 2/86 checkpointed: 10 units, 11 relations, 0 constructed; passage cost $0.0338; total $0.0625
+  perception/p2: ok  in=1057 (cached 0) out=3397 (reasoning 2896)  $0.0158  10.1s
+  integration/p2: ok  in=2246 (cached 0) out=3685 (reasoning 3032)  $0.0185  14.4s
+  propagation/p2: ok  in=1690 (cached 0) out=751 (reasoning 662)  $0.0053  3.8s
+  passage 3/86: +5 units, 0 merged, 5 relations, 1 revisions, 0 ungrounded rejected; propagation: 1 reconsidered, 0 revised; construction: 0 triggers, 0 meanings, 0 rejected
+passage 3/86 checkpointed: 15 units, 16 relations, 0 constructed; passage cost $0.0395; total $0.1020
+EXIT 0

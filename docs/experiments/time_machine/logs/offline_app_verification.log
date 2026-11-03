@@ -1,0 +1,24 @@
+PASS health: {'ok': True, 'mode': 'model', 'model': 'muse-spark-1.3'}
+PASS book list contains the Time Machine
+PASS GET snapshot (The Weave data) equals the exported api_snapshot.json
+PASS GET journey equals the exported api_journey.json
+PASS Journey transition explanations are present
+PASS connections equal the export
+PASS all 668 relation detail endpoints equal the export (mismatches: 0)
+PASS every one of the 92 constructed meanings carries verbatim evidence quotations (missing: [])
+PASS every contributor refers to a stored unit
+PASS every one of the 463 units has stored evidence
+PASS a missing book is reported (404), not generated
+PASS Journey shows 5 stages
+PASS book title shown
+PASS model credit shown
+PASS Journey draws 10 constructed-meaning landmarks (of 91 established)
+PASS a stage opens with quotations
+PASS a transition opens with quotations from both ends
+PASS a constructed meaning lists contributors with passage-referenced quotations
+PASS The Weave draws all 463 units
+PASS The Weave draws 668 relation loops
+PASS selecting a unit shows its evidence in the inspector
+PASS the browser contacted nothing but the local app (and fonts): []
+PASS no page errors []
+FAILURES: 0

@@ -1,0 +1,189 @@
+[
+ {
+  "number": 1,
+  "numeral": "I",
+  "title": "Introduction",
+  "heading_line": 60,
+  "body_first_line": 62,
+  "body_last_line": 281,
+  "start": 0,
+  "end": 9803,
+  "words": 1680
+ },
+ {
+  "number": 2,
+  "numeral": "II",
+  "title": "The Machine",
+  "heading_line": 282,
+  "body_first_line": 284,
+  "body_last_line": 435,
+  "start": 9805,
+  "end": 17319,
+  "words": 1335
+ },
+ {
+  "number": 3,
+  "numeral": "III",
+  "title": "The Time Traveller Returns",
+  "heading_line": 436,
+  "body_first_line": 438,
+  "body_last_line": 634,
+  "start": 17321,
+  "end": 28392,
+  "words": 1983
+ },
+ {
+  "number": 4,
+  "numeral": "IV",
+  "title": "Time Travelling",
+  "heading_line": 635,
+  "body_first_line": 637,
+  "body_last_line": 830,
+  "start": 28394,
+  "end": 40032,
+  "words": 2086
+ },
+ {
+  "number": 5,
+  "numeral": "V",
+  "title": "In the Golden Age",
+  "heading_line": 831,
+  "body_first_line": 833,
+  "body_last_line": 991,
+  "start": 40034,
+  "end": 49335,
+  "words": 1653
+ },
+ {
+  "number": 6,
+  "numeral": "VI",
+  "title": "The Sunset of Mankind",
+  "heading_line": 992,
+  "body_first_line": 994,
+  "body_last_line": 1207,
+  "start": 49337,
+  "end": 61887,
+  "words": 2183
+ },
+ {
+  "number": 7,
+  "numeral": "VII",
+  "title": "A Sudden Shock",
+  "heading_line": 1208,
+  "body_first_line": 1210,
+  "body_last_line": 1416,
+  "start": 61889,
+  "end": 74362,
+  "words": 2321
+ },
+ {
+  "number": 8,
+  "numeral": "VIII",
+  "title": "Explanation",
+  "heading_line": 1417,
+  "body_first_line": 1419,
+  "body_last_line": 1800,
+  "start": 74364,
+  "end": 97714,
+  "words": 4181
+ },
+ {
+  "number": 9,
+  "numeral": "IX",
+  "title": "The Morlocks",
+  "heading_line": 1801,
+  "body_first_line": 1803,
+  "body_last_line": 1997,
+  "start": 97716,
+  "end": 109494,
+  "words": 2154
+ },
+ {
+  "number": 10,
+  "numeral": "X",
+  "title": "When Night Came",
+  "heading_line": 1998,
+  "body_first_line": 2000,
+  "body_last_line": 2224,
+  "start": 109496,
+  "end": 123235,
+  "words": 2519
+ },
+ {
+  "number": 11,
+  "numeral": "XI",
+  "title": "The Palace of Green Porcelain",
+  "heading_line": 2225,
+  "body_first_line": 2227,
+  "body_last_line": 2448,
+  "start": 123237,
+  "end": 136892,
+  "words": 2465
+ },
+ {
+  "number": 12,
+  "numeral": "XII",
+  "title": "In the Darkness",
+  "heading_line": 2449,
+  "body_first_line": 2451,
+  "body_last_line": 2681,
+  "start": 136894,
+  "end": 150848,
+  "words": 2638
+ },
+ {
+  "number": 13,
+  "numeral": "XIII",
+  "title": "The Trap of the White Sphinx",
+  "heading_line": 2682,
+  "body_first_line": 2684,
+  "body_last_line": 2795,
+  "start": 150850,
+  "end": 156770,
+  "words": 1066
+ },
+ {
+  "number": 14,
+  "numeral": "XIV",
+  "title": "The Further Vision",
+  "heading_line": 2796,
+  "body_first_line": 2798,
+  "body_last_line": 2970,
+  "start": 156772,
+  "end": 167156,
+  "words": 1900
+ },
+ {
+  "number": 15,
+  "numeral": "XV",
+  "title": "The Time Traveller’s Return",
+  "heading_line": 2971,
+  "body_first_line": 2973,
+  "body_last_line": 3023,
+  "start": 167158,
+  "end": 169789,
+  "words": 480
+ },
+ {
+  "number": 16,
+  "numeral": "XVI",
+  "title": "After the Story",
+  "heading_line": 3024,
+  "body_first_line": 3026,
+  "body_last_line": 3177,
+  "start": 169791,
+  "end": 177227,
+  "words": 1389
+ },
+ {
+  "number": 17,
+  "numeral": "Epilogue",
+  "title": "Epilogue",
+  "heading_line": 3178,
+  "body_first_line": 3179,
+  "body_last_line": 3207,
+  "start": 177229,
+  "end": 178757,
+  "words": 277
+ }
+]

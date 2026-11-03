@@ -1,0 +1,3 @@
+the_time_machine: 86 passages; target 4; run 20261101-164528; budget $50.00; spent $0.1511; uncertain exposure $0.0000
+  passage 4/86: +5 units, 0 merged, 6 relations, 0 revisions, 0 ungrounded rejected; propagation: 0 reconsidered, 0 revised; construction: 0 triggers, 0 meanings, 0 rejected
+passage 4/86 checkpointed: 20 units, 22 relations, 0 constructed; passage cost $0.0491; total $0.1511
