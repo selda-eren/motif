@@ -19,29 +19,7 @@ replay every model run without a Meta API key and without making any API calls.*
 
 ## Architecture: Process Once, Explore Many Times
 
-```mermaid
-%%{init: {"flowchart": {"rankSpacing": 50, "padding": 34}, "themeVariables": {"fontSize": "17px"}}}%%
-flowchart TD
-    A("Book text<br/>Provided by developer or publisher")
-    B("MORe + Meta Muse Spark 1.3<br/>Incremental processing and meaning construction")
-    C("Persistent book representation<br/>Relationships · Revisions · Evidence")
-    D("MOTIF Reader<br/>Journey of Ideas · The Weave")
-
-    A --> B
-    B --> C
-    C --> D
-
-    classDef source fill:#f4f4f4,stroke:#d4d4d4,color:#3a3a3a,font-weight:bold
-    classDef process fill:#e8e4f2,stroke:#9686b2,color:#292436,font-weight:bold
-    classDef storage fill:#f5ebda,stroke:#b39a70,color:#292436,font-weight:bold
-    classDef reader fill:#dcece4,stroke:#6c9881,color:#23352a,font-weight:bold
-
-    class A source
-    class B process
-    class C storage
-    class D reader
-    linkStyle default stroke:#8a8a8a,stroke-width:1px
-```
+<p align="center"><img src="docs/images/architecture.svg" width="640" alt="Book text, provided by a developer or publisher, is processed by MORe with Meta Muse Spark 1.3 into a persistent book representation (relationships, revisions, evidence), which the MOTIF Reader presents as the Journey of Ideas and The Weave."></p>
 
 MOTIF is designed around **processing books ahead of time, on the server side**, not around readers uploading books.
 

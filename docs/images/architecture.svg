@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="440" viewBox="0 0 640 440" role="img" aria-labelledby="title desc">
+  <title id="title">MOTIF architecture: process once, explore many times</title>
+  <desc id="desc">Book text, provided by a developer or publisher, is processed by MORe with Meta Muse Spark 1.3 into a persistent book representation of relationships, revisions and evidence, which the MOTIF Reader presents as the Journey of Ideas and The Weave.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="12" markerHeight="12" orient="auto">
+      <path d="M 2 2 L 10 6 L 2 10" fill="none" stroke="#8a8a8a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 600; text-anchor: middle; }
+    .arrow { stroke: #8a8a8a; stroke-width: 1.5; fill: none; }
+  </style>
+
+  <rect x="40" y="10" width="560" height="80" rx="18" fill="#f4f4f4" stroke="#d4d4d4" stroke-width="1.5"/>
+  <text x="320" y="44" fill="#3a3a3a">Book text</text>
+  <text x="320" y="70" fill="#3a3a3a">Provided by developer or publisher</text>
+
+  <line class="arrow" x1="320" y1="92" x2="320" y2="124" marker-end="url(#arrow)"/>
+
+  <rect x="40" y="126" width="560" height="80" rx="18" fill="#e8e4f2" stroke="#9686b2" stroke-width="1.5"/>
+  <text x="320" y="160" fill="#292436">MORe + Meta Muse Spark 1.3</text>
+  <text x="320" y="186" fill="#292436">Incremental processing and meaning construction</text>
+
+  <line class="arrow" x1="320" y1="208" x2="320" y2="240" marker-end="url(#arrow)"/>
+
+  <rect x="40" y="242" width="560" height="80" rx="18" fill="#f5ebda" stroke="#b39a70" stroke-width="1.5"/>
+  <text x="320" y="276" fill="#292436">Persistent book representation</text>
+  <text x="320" y="302" fill="#292436">Relationships · Revisions · Evidence</text>
+
+  <line class="arrow" x1="320" y1="324" x2="320" y2="356" marker-end="url(#arrow)"/>
+
+  <rect x="40" y="358" width="560" height="80" rx="18" fill="#dcece4" stroke="#6c9881" stroke-width="1.5"/>
+  <text x="320" y="392" fill="#23352a">MOTIF Reader</text>
+  <text x="320" y="418" fill="#23352a">Journey of Ideas · The Weave</text>
+</svg>
